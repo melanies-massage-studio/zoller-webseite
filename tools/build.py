@@ -33,7 +33,8 @@ def _asset_version():
     import hashlib
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/stage3d.js", "assets/js/productstage.js",
-                "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js"):
+                "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js",
+                "assets/js/globe.js", "assets/js/globe-land.js"):
         if not os.path.exists(os.path.join(ROOT, rel)):
             continue
         with open(os.path.join(ROOT, rel), "rb") as fh:
@@ -725,11 +726,133 @@ def r_form(ctx, b):
     return section(ctx, b, f'{head}<div class="form form--{esc(kind)}" data-reveal>{body}{note}</div>')
 
 
+COUNTRY_DE = {
+    "Argentina": "Argentinien", "Australia": "Australien", "Austria": "Österreich", "Belgium": "Belgien", "Bolivia": "Bolivien",
+    "Bosnia and Herzegovina": "Bosnien und Herzegowina", "Brazil": "Brasilien", "Bulgaria": "Bulgarien", "Canada": "Kanada",
+    "Chile": "Chile", "China": "China", "Colombia": "Kolumbien", "Croatia": "Kroatien", "Czech Republic": "Tschechien",
+    "Denmark": "Dänemark", "Egypt": "Ägypten", "Finland": "Finnland", "France": "Frankreich", "Germany": "Deutschland",
+    "Greece": "Griechenland", "Hungary": "Ungarn", "India": "Indien", "Indonesia": "Indonesien", "Iran": "Iran",
+    "Ireland": "Irland", "Italy": "Italien", "Japan": "Japan", "Lithuania": "Litauen", "Malaysia": "Malaysia",
+    "Mexico": "Mexiko", "Netherlands": "Niederlande", "North Macedonia": "Nordmazedonien", "Norway": "Norwegen",
+    "Pakistan": "Pakistan", "Philippines": "Philippinen", "Poland": "Polen", "Portugal": "Portugal", "Romania": "Rumänien",
+    "Serbia": "Serbien", "Slovakia": "Slowakei", "Slovenia": "Slowenien", "South Africa": "Südafrika",
+    "South Korea": "Südkorea", "Spain": "Spanien", "Sweden": "Schweden", "Switzerland": "Schweiz", "Taiwan": "Taiwan",
+    "Thailand": "Thailand", "Ukraine": "Ukraine", "United Kingdom": "Vereinigtes Königreich", "United States": "USA",
+    "Venezuela": "Venezuela", "Vietnam": "Vietnam",
+}
+REGION_DE = {"Africa": "Afrika", "Asia": "Asien", "Europe": "Europa", "North America": "Nordamerika",
+             "South America": "Südamerika", "Australia and New Zealand": "Australien & Neuseeland"}
+STANDORTE_PATH = "/unternehmen/kontakt/standorte"
+
+
+def loc_kind(name):
+    """hq = Stammhaus Pleidelsheim, nl = ZOLLER-Niederlassung, vt = Vertretung (Handelspartner)."""
+    if name.startswith("E. ZOLLER"):
+        return "hq"
+    return "nl" if "zoller" in name.lower() else "vt"
+
+
+def loc_contact(l):
+    web = [w for w in l.get("web", []) if not ("goo.gl/maps" in w or "maps.app.goo.gl" in w or ("google." in w and "maps" in w))]
+    maps = [w for w in l.get("web", []) if w not in web]
+    return web, maps
+
+
+def globe_sites():
+    """Fasst die Länder-Einträge zu physischen Standorten zusammen (eine Firma betreut oft mehrere Länder)."""
+    groups = {}
+    for i, l in enumerate(LOCATIONS):
+        if not (l.get("lat") and l.get("lng")):
+            continue
+        base = re.sub(r"\s*\(.*?\)\s*:?$", "", l["name"]).strip().rstrip(":")
+        key = (base, tuple(l.get("lines", [])))
+        groups.setdefault(key, []).append(i)
+    merged = {}
+    for (base, _), idx in groups.items():
+        l = LOCATIONS[idx[0]]
+        key = (round(float(l["lat"]), 2), round(float(l["lng"]), 2))
+        merged.setdefault(key, []).extend(idx)
+    sites = []
+    for n, idx in enumerate(merged.values()):
+        items = [LOCATIONS[i] for i in idx]
+        main_ = max(items, key=lambda x: ("(" not in x["name"], len(x.get("lines", []))))
+        multi = len({x["name"] for x in items}) > 1
+        name = re.sub(r"\s*\(.*?\)\s*:?$", "", main_["name"]).strip().rstrip(":") if multi else main_["name"]
+        served = []
+        for x in items:
+            c = COUNTRY_DE.get(x["country"], x["country"])
+            note = re.search(r"\((.*?)\)", x["name"])
+            if multi and note and note.group(1).lower() not in c.lower() and note.group(1) != "Österreich":
+                c = f"{c} ({note.group(1)})"
+            if c not in served:
+                served.append(c)
+        web, maps = loc_contact(main_)
+        site = {"id": f"s{n + 1}", "k": loc_kind(main_["name"]), "n": name,
+                "r": REGION_DE.get(main_["region"], main_["region"]),
+                "lat": round(float(main_["lat"]), 4), "lng": round(float(main_["lng"]), 4),
+                "a": main_.get("lines", []), "c": served, "tel": main_.get("phone", []), "fax": main_.get("fax", []),
+                "mail": main_.get("email", []), "web": web[:1], "map": maps[:1]}
+        sites.append(site)
+        for i in idx:
+            LOCATIONS[i]["_site"] = site["id"]
+    order = {"hq": 0, "nl": 1, "vt": 2}
+    return sorted(sites, key=lambda s: (order[s["k"]], s["r"], s["n"]))
+
+
+def standortwelt(ctx, page):
+    """Standorte-Seite: interaktiver 3D-Globus mit allen Niederlassungen und Vertretungen (assets/js/globe.js)."""
+    sites = globe_sites()
+    if not sites:
+        return ""
+    ctx.has_globe = True
+    nl = sum(s["k"] == "nl" for s in sites)
+    vt = sum(s["k"] == "vt" for s in sites)
+    m = re.search(r"In (\d+) Ländern", json.dumps(page.get("blocks", []), ensure_ascii=False))
+    countries = m.group(1) if m else str(len({c for l in LOCATIONS for c in [l["country"]]}))
+    data = json.dumps(sites, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    regions = ["Europa", "Asien", "Nordamerika", "Südamerika", "Afrika", "Australien & Neuseeland"]
+    chips = "".join(f'<button type="button" data-globe-region="{esc(r, quote=True)}">{esc(r.replace("Australien & Neuseeland", "Ozeanien"))}</button>' for r in regions)
+    return f'''<section class="globe" data-globe aria-label="ZOLLER weltweit – 3D-Standortglobus">
+  <canvas class="globe__canvas" aria-hidden="true"></canvas>
+  <div class="globe__shade" aria-hidden="true"></div>
+  <div class="globe__loading" aria-hidden="true"><i></i><span>Globus wird geladen</span></div>
+  <div class="wrap globe__ui">
+    <div class="globe__intro">
+      <span class="eyebrow">Standorte weltweit</span>
+      <h1>ZOLLER ist dort,<br>wo Sie fertigen.</h1>
+      <p>Drehen Sie den Globus und klicken Sie auf einen Punkt – für Adresse, Ansprechpartner und Route jeder Niederlassung und Vertretung.</p>
+      <dl class="globe__stats">
+        <div><dt>{countries}</dt><dd>Länder</dd></div>
+        <div><dt>{nl + 1}</dt><dd>ZOLLER Standorte</dd></div>
+        <div><dt>{vt}</dt><dd>Vertretungen</dd></div>
+      </dl>
+    </div>
+    <div class="globe__controls">
+      <div class="globe__legend" role="group" aria-label="Standorttyp filtern">
+        <button type="button" class="is-on" data-globe-kind="hq"><i class="dot dot--hq"></i>Stammhaus</button>
+        <button type="button" class="is-on" data-globe-kind="nl"><i class="dot dot--nl"></i>Niederlassungen</button>
+        <button type="button" class="is-on" data-globe-kind="vt"><i class="dot dot--vt"></i>Vertretungen</button>
+      </div>
+      <div class="globe__regions" role="group" aria-label="Region anfliegen">{chips}</div>
+      <label class="globe__search"><span class="sr-only">Standort suchen</span><input type="search" placeholder="Land, Stadt oder Firma" data-globe-search autocomplete="off"><ul data-globe-results hidden></ul></label>
+    </div>
+  </div>
+  <aside class="globe__panel" data-globe-panel aria-live="polite" hidden></aside>
+  <div class="globe__tip" data-globe-tip hidden></div>
+  <div class="globe__zoom"><button type="button" data-globe-zoom="in" aria-label="Hineinzoomen">+</button><button type="button" data-globe-zoom="out" aria-label="Herauszoomen">−</button></div>
+  <p class="globe__hint" aria-hidden="true"><span>Ziehen zum Drehen · Punkt anklicken für Details</span></p>
+  <a class="globe__down" href="#alle-standorte" aria-label="Zur Standortliste"><span>Alle Standorte als Liste</span><i aria-hidden="true"></i></a>
+  <script type="application/json" data-globe-data>{data}</script>
+</section>'''
+
+
 def r_locations(ctx, b):
     if not LOCATIONS:
         return section(ctx, b, f'<p><a class="btn" href="{ORIGIN}/unternehmen/kontakt/standorte">Standortsuche öffnen</a></p>')
-    regions = sorted({l["region"] for l in LOCATIONS if l.get("region")})
-    countries = sorted({l["country"] for l in LOCATIONS})
+    de_r = lambda l: REGION_DE.get(l.get("region", ""), l.get("region", ""))
+    de_c = lambda l: COUNTRY_DE.get(l["country"], l["country"])
+    regions = sorted({de_r(l) for l in LOCATIONS if l.get("region")})
+    countries = sorted({de_c(l) for l in LOCATIONS})
     ropts = "".join(f'<option>{esc(r)}</option>' for r in regions)
     copts = "".join(f'<option>{esc(c)}</option>' for c in countries)
     cards = []
@@ -745,14 +868,17 @@ def r_locations(ctx, b):
                 else:
                     contact.append(f"{lab} {esc(v)}".strip())
         links = []
+        if l.get("_site"):
+            links.append(f'<button type="button" class="location__globe" data-globe-focus="{l["_site"]}">Auf dem Globus zeigen</button>')
         for w in l.get("web", []):
             label = "Route planen" if ("goo.gl/maps" in w or "google." in w and "maps" in w) else re.sub(r"^https?://(www\.)?", "", w).rstrip("/")
             links.append(f'<a class="link-arrow" href="{esc(w, quote=True)}" target="_blank" rel="noopener">{esc(label)}</a>')
-        txt = " ".join([l["name"], l["country"], " ".join(l.get("lines", []))]).lower()
-        cards.append(f'<article class="location" data-region="{esc(l.get("region", ""), quote=True)}" data-country="{esc(l["country"], quote=True)}" data-text="{esc(txt, quote=True)}">'
-                     f'<div class="location__region">{esc(l["region"])} · {esc(l["country"])}</div><h3>{esc(l["name"])}</h3>'
+        kind = {"hq": "Stammhaus", "nl": "Niederlassung", "vt": "Vertretung"}[loc_kind(l["name"])]
+        txt = " ".join([l["name"], l["country"], de_c(l), " ".join(l.get("lines", []))]).lower()
+        cards.append(f'<article class="location location--{loc_kind(l["name"])}" data-region="{esc(de_r(l), quote=True)}" data-country="{esc(de_c(l), quote=True)}" data-text="{esc(txt, quote=True)}">'
+                     f'<div class="location__region">{esc(de_r(l))} · {esc(de_c(l))} · <b>{kind}</b></div><h3>{esc(l["name"])}</h3>'
                      f'<p>{lines}</p><p class="location__contact">{"<br>".join(contact)}</p><p class="location__links">{" ".join(links)}</p></article>')
-    return section(ctx, b, f'<div class="locations" data-locations><div class="locations__filter">'
+    return section(ctx, b, f'<div class="locations" id="alle-standorte" data-locations><div class="locations__filter">'
                            f'<select data-loc-region aria-label="Region"><option value="">Alle Regionen</option>{ropts}</select>'
                            f'<select data-loc-country aria-label="Land"><option value="">Alle Länder</option>{copts}</select>'
                            f'<input type="search" data-loc-search placeholder="Ort oder Firma suchen" aria-label="Standort suchen"></div>'
@@ -1346,6 +1472,7 @@ def render_page(page):
     ctx.has_stage = False
     ctx.has_worldflight = False
     ctx.has_agenda = False
+    ctx.has_globe = False
     is_home = page["path"] == HOME
     if is_home:
         body = render_home(ctx, page)
@@ -1373,6 +1500,10 @@ def render_page(page):
                 blocks[at + 1] = nxt
         cat_id = page["path"].split("/")[-1] if page["path"].count("/") == 2 and page["path"].startswith("/produkte/") else None
         parts = []
+        if page["path"] == STANDORTE_PATH and LOCATIONS:
+            parts.append(standortwelt(ctx, page))
+            if ctx.has_globe:  # der Globus trägt die H1, der bisherige Seitentitel wird zur H2
+                blocks = json.loads(json.dumps(blocks).replace("<h1", "<h2").replace("</h1>", "</h2>"))
         for b in blocks:
             if page["path"] == "/produkte" and b["type"] == "productlist":
                 parts.append(showroom_teaser(ctx))
@@ -1420,6 +1551,8 @@ def render_page(page):
         modules.append("worldflight.js")
     if ctx.has_stage:
         modules.append("productstage.js")
+    if ctx.has_globe:
+        modules.append("globe.js")
     if modules:
         scripts += f'''
 <script type="importmap">{{"imports":{{"three":"{ctx.root}assets/vendor/three.module.min.js"}}}}</script>'''
