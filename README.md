@@ -32,7 +32,7 @@ Danach http://localhost:8765 öffnen.
 ## Seite neu erzeugen
 
 ```bash
-python3 tools/build.py          # erzeugt docs/ aus content/
+python3 tools/build.py          # erzeugt docs/ aus content/ (SITE_BASE=/ bei eigener Domain)
 python3 tools/check_links.py    # prüft alle internen Links und Bilder
 ```
 

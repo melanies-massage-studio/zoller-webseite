@@ -1222,7 +1222,9 @@ def main():
             {"type": "textmedia", "header": "<h1>Seite nicht gefunden</h1>", "body": "<p>Die gewünschte Seite existiert nicht (mehr). Nutzen Sie die Suche oder starten Sie auf der Startseite.</p><p><a class=\"btn\" href=\"/startseite\">Zur Startseite</a></p>", "images": [], "videos": [], "pos": "text"}]}
         PAGES["/404"] = fake
         doc = render_page(fake)
-        # 404 liegt im Root: absolute Pfade relativ zur Domain-Wurzel
+        # 404.html wird für beliebig tiefe URLs ausgeliefert: feste Basis setzen
+        base = os.environ.get("SITE_BASE", "/zoller-webseite/")
+        doc = doc.replace("<head>", f'<head>\n<base href="{base}">', 1)
         fh.write(doc)
         del PAGES["/404"]
     with open(os.path.join(OUT, "assets", "search-index.json"), "w", encoding="utf-8") as fh:
