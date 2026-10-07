@@ -1451,3 +1451,5 @@ img.is-broken { display: none; }
   .globe__panel.is-in { animation: none; }
   .globe__loading i { animation: none; }
 }
+/* Abstand zwischen Globus und dem folgenden Seiteninhalt */
+.globe + .section, .globe + .section.pt-0 { padding-top: clamp(5rem, 3rem + 7vw, 10rem) !important; }
