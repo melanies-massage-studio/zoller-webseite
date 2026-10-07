@@ -1,0 +1,283 @@
+{
+ "path": "/unternehmen/reports-stories/detail/80-jahre-zoller-blick-nach-vorne",
+ "url": "/unternehmen/reports-stories/detail/80-jahre-zoller-blick-nach-vorne",
+ "title": "80 Jahre ZOLLER – Blick nach vorne",
+ "description": "Im Rahmen der EMO 2025 sprach Christoph Zoller mit Ing. Robert Fraunberger, Chefredakteur vom Fachmagazin x-technik Fertigungstechnik.",
+ "og_image": "/fileadmin/_processed_/d/d/csm_interview_emo_x-technik_teaserimg_9a3e470377.webp",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories /",
+   "href": "/unternehmen/reports-stories"
+  },
+  {
+   "label": "80 Jahre ZOLLER – Blick nach vorne",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories /",
+   "href": "/unternehmen/reports-stories"
+  },
+  {
+   "label": "80 Jahre ZOLLER – Blick nach vorne",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories/detail/80-jahre-zoller-blick-nach-vorne",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories/details/80-jahre-zoller-blick-nach-vorne",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias/detalle/80-anos-de-zoller-mirando-hacia-el-futuro",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits/detail/les-80-ans-de-zoller-regard-vers-lavenir",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias/detalhe/80-anos-da-zoller-olhando-para-o-futuro",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie/dettaglio/80-anni-di-zoller-uno-sguardo-al-futuro",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser/detaljer?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=127&cHash=51ee985be825461af856da4ea009a7f9",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories/detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=127&cHash=51ee985be825461af856da4ea009a7f9",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories/detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=127&cHash=51ee985be825461af856da4ea009a7f9",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=127&cHash=51ee985be825461af856da4ea009a7f9",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/%E8%A9%B3%E7%B4%B0?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=127&cHash=51ee985be825461af856da4ea009a7f9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=127&cHash=51ee985be825461af856da4ea009a7f9",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories/detail/80-years-of-zoller-looking-ahead",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias/detalle/80-anos-de-zoller-mirando-hacia-el-futuro",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias/detalhe/80-anos-da-zoller-olhando-para-o-futuro",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "article",
+   "date": "2025-12-10",
+   "date_label": "10.12.2025",
+   "tags": [
+    "Pressemitteilung",
+    "Event"
+   ],
+   "title": "80 Jahre ZOLLER – Blick nach vorne",
+   "lead": "<p>Im Rahmen der EMO 2025 sprach Christoph Zoller mit Ing. Robert Fraunberger, Chefredakteur vom Fachmagazin x-technik Fertigungstechnik. Christoph Zoller reflektierte über prägende Meilensteine der 80-jährigen Unternehmensgeschichte und gab einen Ausblick auf die Zukunft der digital vernetzten Fertigung. Im Fokus standen der hohe Anspruch an Präzision und Qualität sowie die zentrale Rolle des Toolrooms als Herzstück einer effizienten Produktionsumgebung.</p>",
+   "images": [],
+   "blocks": [
+    {
+     "type": "textmedia",
+     "header": "",
+     "body": "",
+     "images": [],
+     "videos": [
+      {
+       "kind": "iframe",
+       "src": "https://www.youtube-nocookie.com/embed/9TeUj8fK9OE?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+       "title": "Interview 80 Jahre ZOLLER (von X-Technik auf der EMO 2025)"
+      }
+     ],
+     "pos": "above",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "textmedia",
+     "id": "c4153",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "quote",
+     "text": "<p> Unser Ziel ist es, dass unsere Kunden weltweit produktiver, effizienter und erfolgreicher fertigen können. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_christoph_zoller_6d0be2a615.webp",
+      "alt": "",
+      "w": 85,
+      "h": 85
+     },
+     "author": [
+      "Christoph Zoller",
+      "Geschäftsführer, Zoller GmbH & Co. KG"
+     ],
+     "ftype": "zoller_quote",
+     "id": "c4154",
+     "bg": "",
+     "space": {}
+    },
+    {
+     "type": "products",
+     "header": "<h2> EMO Highlights 2025 </h2>",
+     "items": [
+      {
+       "href": "/produkte/automation/werkzeugvorbereitung/corameasure-lg",
+       "title": "»coraMeasure LG«",
+       "text": "<p>Wirtschaftliches Werkzeughandling für ZOLLER »venturion«</p>",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       }
+      },
+      {
+       "href": "/produkte/automation/werkzeugvorbereitung/micbox",
+       "title": "»micBox«",
+       "text": "<p>Übernimmt das Drehen, Wenden und Tauschen von Wendeschneidplatten</p>",
+       "img": {
+        "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       }
+      }
+     ],
+     "ftype": "menu_pages",
+     "id": "c4155",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    }
+   ],
+   "related": [],
+   "ftype": "news_newsdetail",
+   "id": "c3212",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ]
+}

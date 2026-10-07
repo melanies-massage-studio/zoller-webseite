@@ -1,0 +1,373 @@
+{
+ "path": "/produkte/automation/werkzeugvorbereitung/corameasure-lg",
+ "url": "/produkte/automation/werkzeugvorbereitung/corameasure-lg",
+ "title": "»coraMeasure LG«",
+ "description": "»coraMeasure LG« - Wirtschaftliches Werkzeughandling für ZOLLER »venturion« - Die automatisierte Werkzeugvermessung",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Automation /",
+   "href": "/produkte/automation"
+  },
+  {
+   "label": "Werkzeugvorbereitung /",
+   "href": "/produkte/automation/werkzeugvorbereitung"
+  },
+  {
+   "label": "»coraMeasure LG«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Automation /",
+   "href": "/produkte/automation"
+  },
+  {
+   "label": "Werkzeugvorbereitung /",
+   "href": "/produkte/automation/werkzeugvorbereitung"
+  },
+  {
+   "label": "»coraMeasure LG«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeugvorbereitung/corameasure-lg",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-preparation/corameasure-lg",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/preparacion-de-herramientas/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/preparation-des-outils/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/preparacao-de-ferramentas/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/preparazione-degli-utensili/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/foerberedelse-av-verktyg/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeugvorbereitung/corameasure-lg",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-preparation/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/preparation-des-outils/corameasure-lg",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-preparation/corameasure-lg",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/preparacion-de-herramientas/corameasure-lg",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/preparacao-de-ferramentas/corameasure-lg",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»coraMeasure LG«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/automation/werkzeugvorbereitung/corameasure-lg/software-integration",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/automation/werkzeugvorbereitung/corameasure-lg/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/automation/werkzeugvorbereitung/corameasure-lg/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/automation/werkzeugvorbereitung/corameasure-lg/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2599",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»coraMeasure LG«",
+   "text": "<p> Die automatisierte Werkzeugvermessung</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/c/7/csm_corameasureLG_header_597e8a0039.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c2601",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/1/csm_coraMeasure_LG_Detailansicht_Raumportal_5cd7c09a5b.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Agiler Raumportalroboter",
+     "caption": "<figcaption> <h3>Agiler Raumportalroboter</h3> <p>Raumportalroboter – garantiert das zuverlässige Handling Ihrer Werkzeuge.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/4/csm_coraMeasure_LG_Detailansicht_Hubwagen_bestueckt_bd246c34d7.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Manueller Palettenwagen",
+     "caption": "<figcaption> <h3>Manueller Palettenwagen</h3> <p>Palettenwagen – liefert die »smartPallet«-Werkzeugpalette für den automatisierten Messvorgang an. Der Palettenwagen wird dabei von einer Bedienerin oder einem Bediener manuell gesteuert.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_coraMeasure_LG_Detailansicht_Palletenablage_55bbd9a155.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Mobiles »smartPallet«-System",
+     "caption": "<figcaption> <h3>Mobiles »smartPallet«-System</h3> <p>»smartPallet«-System – für die Werkzeugbereitstellung von Automatisierungs­anlagen. Durch die innovative Palettentechnologie können Werkzeuge zuverlässig aufgenommen und anschließend manuell oder automatisiert an die verschiedenen Anlagen transportiert werden. </p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/a/csm_coraMeasure_LG_Detailansicht_venturion_offene-Tuere_b14e2f56fd.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Präzises Einstell- und Messgerät",
+     "caption": "<figcaption> <h3>Präzises Einstell- und Messgerät</h3> <p>Einstell- und Messgerät »venturion« – für die vollautomatisierte Vermessung der Werkzeuge.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/4/csm_coraMeasure_LG_Schutzzaun_19aad8e1c7.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Geprüfte Schutzumhausung",
+     "caption": "<figcaption> <h3>Geprüfte Schutzumhausung</h3> <p>Schutzumhausung – ermöglicht mittels 360°-Rundumschutz die Sicherung Ihrer Anlage nach aktuellsten Normen und Richtlinien. Die Schutzumhausung ist Teil des Sicherheits­konzepts der Automationsanlage, welche nach internationalem Standard IEC/EN 61010-1 und cNRTLus zertifiziert ist.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/8/5/csm_coraMeasure_LG_Detailansicht_Software_cockpit_alleine_0fd6dc4db5.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Serverbasierte Steuerungssoftware",
+     "caption": "<figcaption> <h3>Serverbasierte Steuerungssoftware</h3> <p>Steuerungssoftware – zur Bedienung der Automatisierungsanlage. Die Steuerungssoftware kann auf unterschiedlichen Anzeigegeräten (Monitor, Tablet oder Smartphone) angezeigt werden. </p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2618",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> »coraMeasure LG﻿﻿﻿﻿«-Bedien­oberfläche </h2>",
+   "body": "<p>Jede der Automations­zellen wird über die intelligente »﻿﻿﻿﻿coraMeasure LG﻿﻿﻿﻿«-Bedienoberfläche gesteuert (Start, Stopp, Pause). Zudem bietet diese komfortable Bedienoberfläche einen anschaulichen Überblick über Status, Fortschritt und Fehlermanagement. Des Weiteren zeigen Analysetools beispielsweise die Anzahl der Werkzeuge pro Tag oder die Anzahl der Ausschusswerkzeuge auf. Die Bedienoberfläche ist zudem mit einer vorbeugenden Wartung ausgestattet: So wird jede Bewegung und jeder Hub getrackt und gezählt, sodass notwendige Wartungsmaßnahmen automatisch eingeleitet werden können, bevor die einzelnen Bauteile kaputt gehen oder unliebsame Ausfallszeiten entstehen würden.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/c/csm_software_coraMeasure_38d4da6b00.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 563
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2616",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automation: Ihre Vorteile",
+     "href": "/solutions/automation",
+     "caption": "<figcaption> <h3>Automation: Ihre Vorteile</h3> <p>Erfahren Sie, wie Sie mit ZOLLER Werkzeugvorbereitung, -bereitstellung, -logistik und -inspektion automatisieren. Realisieren Sie bedarfsgerecht Ihre hocheffiziente Smart Factory. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

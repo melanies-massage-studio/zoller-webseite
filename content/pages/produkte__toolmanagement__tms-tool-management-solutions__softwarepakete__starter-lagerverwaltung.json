@@ -1,0 +1,372 @@
+{
+ "path": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/starter-lagerverwaltung",
+ "url": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/starter-lagerverwaltung",
+ "title": "STARTER Lagerverwaltung",
+ "description": "STARTER Lagerverwaltung",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "STARTER Lagerverwaltung",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "STARTER Lagerverwaltung",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/starter-lagerverwaltung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tms-tool-management-solutions/software-packages/starter-inventory-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/starter-gestion-de-almacen",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/starter-gestion-du-stockgestion-des-stocks",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/starter-gestao-de-armazenamentogestao-de-armazem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/tms-tool-management-solutions/pacchetti-software/starter-gestione-magazzino",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/tms-verktygshanteringsloesningar/programvarupaket/starter-lagerhantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/starter-lagerverwaltung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tms-tool-management-solutions/software-packages/starter-warehouse-management",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/starter-gestion-des-stocks",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/tms-%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8/starter-%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/tms-%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%80/starter-%EC%9E%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tms-tool-management-solutions/software-packages/starter-warehouse-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/starter-gestion-de-almacen",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/starter-gestao-de-armazenamentogestao-de-armazem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "STARTER Lagerverwaltung",
+     "href": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/starter-lagerverwaltung",
+     "current": false
+    },
+    {
+     "label": "BRONZE CAD/CAM-Modul",
+     "href": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/bronze-cad-cam-modul",
+     "current": false
+    },
+    {
+     "label": "SILVER Betriebsorganisation",
+     "href": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/silver-betriebsorganisation",
+     "current": false
+    },
+    {
+     "label": "GOLD Shopfloormanagement",
+     "href": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/gold-shopfloormanagement",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4398",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> STARTER: Der Einstieg ins digitale Werkzeug­lager </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4396",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Das STARTER-Paket der bewährten TMS Tool Management Solutions bietet Ihnen die wichtigsten Funktionen, um schnell die Vorteile der digitalen Werkzeugverwaltung zu nutzen. Dank des modularen Aufbaus der TMS Tool Management Solutions können Sie jederzeit über die Pakete Bronze, Silver und Gold Ihr Toolmanagement erweitern. </p><ul><li>Zugriff auf alle Werkzeugdaten</li><li>Lagerort von Werkzeugen und Komponenten abrufen</li><li>verwalten von Einrichteblättern </li></ul><p>Starten Sie jetzt zu mehr Effizienz im Werkzeuglager.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4395",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4397",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h3> Softwaremodule STARTER-Paket </h3>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/f/csm_lagerplaetze_2a89227d89.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Lagerortverwaltung Komplettwerkzeuge, Werkzeugkomponenten und Zubehör immer im Blick",
+     "img": null,
+     "text": "<h4>Lagerortverwaltung</h4> <p>Mit dem Modul Lagerortverwaltung haben Sie Ihre Komplettwerkzeuge, Ihre Werkzeugkomponenten und Ihr Zubehör immer im Blick. Die Lagerortverwaltung enthält einen virtuellen 3D-Bausatz, mit dem Sie Ihr Lager schnell und einfach dreidimensional abbilden und die Artikel einem virtuellen Lagerplatz zuordnen können. Jeder angelegte Artikel kann bestandsmäßig verwaltet werden, damit Sie einen schnellen Überblick über den Lagerort, den Umlauf und den aktuellen Bestand erhalten. Externe Lager- und Liftsysteme können selbstverständlich über Schnittstellen angesprochen werden.</p> <p><strong>Features:</strong></p><ul><li>Schneller Lagerüberblick</li><li>Zeitersparnis durch Wegfall der Suche und kürzere Wege</li><li>24h Werkzeugverfügbarkeit</li><li>Reduktion der Werkzeugkosten</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/5/csm_einzelkomponenten_156d7d1aa0.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Einzelkomponenten­verwaltung Modul zur Anlage Ihrer Einzelkomponenten",
+     "img": null,
+     "text": "<h4>Einzelkomponenten­verwaltung</h4> <p>Das Softwaremodul zur detaillierten Anlage von Einzelkomponenten schaffe eine zukunftssichere IoT-Basis für das Toolmanagement.</p> <p><strong>Anlage Detaildaten:</strong></p><ul><li>DIN 4000/4003/ISO 13399 Parametrisierung</li><li>Technologiedaten (Schnittwerte)</li><li>Grafische Komponentendarstellung</li><li>2D- und 3D-Generierung gemäß DIN 4000 und ISO 13399</li><li>Import von 2D-Formaten DXF/DWG/BMP/TIF/JPG/GIF/PNG</li><li>Import von 3D-Formaten STEP/STL</li><li>Detaildaten (z. B. Schneidstoff)</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/c/csm_Verwaltung_von_Einrichteblaettern_5c9fce0b99.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Verwaltung von Einrichteblättern Einrichteblätter einfach verwalten und weiterleiten",
+     "img": null,
+     "text": "<h4>Verwaltung von Einrichteblättern</h4> <p>Einrichteblätter geben dem Nutzer eine Liste von Informationen und Betriebsmitteln, die für einen Auftrag benötigt werden. Diese können direkt ans Lager, an die CAD/CAM-Station oder an die Maschine weitergeleitet und verwendet werden.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c4394",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a> Paketvergleich</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4393",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

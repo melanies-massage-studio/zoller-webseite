@@ -1,0 +1,365 @@
+{
+ "path": "/produkte/automation/werkzeugvorbereitung/robobox",
+ "url": "/produkte/automation/werkzeugvorbereitung/robobox",
+ "title": "»roboBox«",
+ "description": "»roboBox« - Bis zu sechs Module für Routinen wie montieren, reinigen, messen, schrumpfen und mehr - Die modulare Automation für den Toolroom",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Automation /",
+   "href": "/produkte/automation"
+  },
+  {
+   "label": "Werkzeugvorbereitung /",
+   "href": "/produkte/automation/werkzeugvorbereitung"
+  },
+  {
+   "label": "»roboBox«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Automation /",
+   "href": "/produkte/automation"
+  },
+  {
+   "label": "Werkzeugvorbereitung /",
+   "href": "/produkte/automation/werkzeugvorbereitung"
+  },
+  {
+   "label": "»roboBox«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeugvorbereitung/robobox",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-preparation/robobox",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/preparacion-de-herramientas/robobox",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/preparation-des-outils/robobox",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/preparacao-de-ferramentas/robobox",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/preparazione-degli-utensili/robobox",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/foerberedelse-av-verktyg/robobox",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeugvorbereitung/robobox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-preparation/robobox",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/preparation-des-outils/robobox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/robobox",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/robobox",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-preparation/robobox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/preparacion-de-herramientas/robobox",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/preparacao-de-ferramentas/robobox",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»roboBox«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/automation/werkzeugvorbereitung/robobox/software-integration",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/automation/werkzeugvorbereitung/robobox/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/automation/werkzeugvorbereitung/robobox/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/automation/werkzeugvorbereitung/robobox/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2541",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»roboBox«",
+   "text": "<p>Zukunftsorientierte Werkzeugeinstellung</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/5/b/csm_roboBox_header_3979293010.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c2542",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/0/csm_roboBox_info_Ein-Ausgabemodul_7e6416b756.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Hochmodernes Ein-/Ausgabemodul",
+     "caption": "<figcaption> <h3>Hochmodernes Ein-/Ausgabemodul</h3> <p>Ein-/Ausgabemodul für das »smartPallet«-System – dient der sicheren Aufnahme Ihrer Werkzeugpaletten. Die Werkzeugpaletten können entweder mit dem manuellen Palettenwagen oder dem fahrerlosen Transportsystem »coraExpress« angeliefert werden.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/7/csm_roboBox_info_Roboterbasismodul_3a24db0e88.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Intelligentes Roboterbasismodul",
+     "caption": "<figcaption> <h3>Intelligentes Roboterbasismodul</h3> <p>Roboterbasismodul – bei dem der FANUC 6-Achs- Knickarmroboter die Werkzeuge greift und zuverlässig zwischen den verschiedenen Modulen transportiert.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_roboBox_info_Montagemodule_c2aef185f8.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Innovative Montagemodule",
+     "caption": "<figcaption> <h3>Innovative Montagemodule</h3> <p>Montagemodule – zur Bearbeitung der Werkzeuge. Mit den variablen Montagemodulen können Werkzeuge innerhalb der »roboBox« z. B. ein- und ausgeschrumpft, abgekühllt, gemessen, vertikal ein- und ausgespannt sowie ein- und ausgepresst werden.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/1/csm_roboBox_info_Messmodul_0876459bc5.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Hochpräzises Messmodul",
+     "caption": "<figcaption> <h3>Hochpräzises Messmodul</h3> <p>Messmodul – in welches das Werkzeug für die Vermessung eingesetzt wird. Der Messvorgang selbst startet automatisch. </p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_roboBox_info_Steuerungssoftware_43a2601b27.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Serverbasierte Steuerungssoftware",
+     "caption": "<figcaption> <h3>Serverbasierte Steuerungssoftware</h3> <p>Steuerungssoftware – zur Bedienung der Automatisierungsanlage. Die Steuerungssoftware kann auf unterschiedlichen Anzeigegeräten (Monitor, Tablet oder Smartphone) angezeigt werden. </p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2546",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> webTMS </h3> <h2> »roboBox«-Bedienoberfläche </h2>",
+   "body": "<p>Die grafische Bedienoberfläche der » roboBox« bietet eine klare Übersicht über alle verfügbaren Einzelmodule, einschließlich Funktionen wie Messen, Schrumpfen und Kühlen. Darüber hinaus werden Statusanzeigen für jedes Modul eingeblendet, die den aktuellen Zustand und den Fortschritt der laufenden Prozesse des Roboters anzeigen. Diese Statusanzeigen ermöglichen es Benutzern, den Betrieb des Roboters effektiv zu überwachen und potenzielle Probleme rechtzeitig zu erkennen.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/2/csm_software_robobox_bedienoberflaeche_en_76b1d2149a.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 563
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2544",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automation: Ihre Vorteile",
+     "href": "/solutions/automation",
+     "caption": "<figcaption> <h3>Automation: Ihre Vorteile</h3> <p>Erfahren Sie, wie Sie mit ZOLLER Werkzeugvorbereitung, -bereitstellung, -logistik und -inspektion automatisieren. Realisieren Sie bedarfsgerecht Ihre hocheffiziente Smart Factory. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

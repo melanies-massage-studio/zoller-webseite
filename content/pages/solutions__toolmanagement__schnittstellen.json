@@ -1,0 +1,516 @@
+{
+ "path": "/solutions/toolmanagement/schnittstellen",
+ "url": "/solutions/toolmanagement/schnittstellen",
+ "title": "Schnittstellen",
+ "description": "Schnittstellen",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/solutions/toolmanagement"
+  },
+  {
+   "label": "Schnittstellen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/solutions/toolmanagement"
+  },
+  {
+   "label": "Schnittstellen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement/schnittstellen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Toolmanagement",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/solutions/toolmanagement",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "TMS Software",
+     "href": "/solutions/toolmanagement/tms-software",
+     "current": false
+    },
+    {
+     "label": "TMS Hardware",
+     "href": "/solutions/toolmanagement/tms-hardware",
+     "current": false
+    },
+    {
+     "label": "Schnittstellen",
+     "href": "/solutions/toolmanagement/schnittstellen",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/solutions/toolmanagement/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/solutions/toolmanagement/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c240264",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Werkzeugdaten im Flow halten </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c240216",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"large-text\">Vernetze Fertigung bedeutet, dass Werkzeugdaten einfach, schnell und fehlerfrei entlang der Prozesskette übertragen werden. Mit vielen Schnittstellen stellt ZOLLER sicher, dass die Daten nicht nur innerhalb des ZOLLER-Systems fließen, sondern auch ins System hinein und wieder heraus. </p> <p class=\"large-text\">Die Softwarelösungen TMS Tool Management Solutions ist bereit für den Datenaustausch mit Werkzeugkatalogen sowie CAD/CAM-Software. Zusätzlich bietet unsere Messgerätesoftware »pilot« DNC-Schnittstellen für den Datentransfer zu Bearbeitungszentren. Zusätzlich bestehen Optionen für die Ankopplung an Toolmanagementlösungen von Drittherstellern und an Fertigungsleitsysteme. </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c240192",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c240240",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> CAM-Schnittstellen </h3> <h2> Schnelle und zukunftssichere Datenanlage </h2>",
+      "body": "<p>Pflegen Sie die Werkzeugdaten nur einmal in der zentralen Werkzeugdatenbank und greifen Sie direkt aus Ihrem Programmiersystem auf diese Daten zu. Erstellen Sie direkt im CAM-System Einrichteblätter für den nachfolgenden Fertigungsprozess.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c240144",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/5/e/csm_ZOLLER-CAM-System_autodesk_powermill_c2fdcfa1b7.webp",
+        "alt": "Die PowerMill-Schnittstelle verbindet ZOLLER TMS direkt mit der CAM-Programmierung. Werkzeugdaten und 3D-Geometrien werden zentral verwaltet und automatisch in PowerMill bereitgestellt.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.autodesk.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/5/1/csm_ZOLLER-CAM-System_topsolid_58be78cf00.webp",
+        "alt": "Die Anbindung an TopSolid verbindet Werkzeugdatenbank und CAM-Programmierung. Anwender greifen jederzeit auf freigegebene Werkzeuge und aktuelle Technologiedaten aus ZOLLER TMS zu.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.topsolid.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/5/8/csm_ZOLLER-CAM-System_peps_e69ab640c5.webp",
+        "alt": "Die PEPS-Integration verbindet ZOLLER TMS mit der CAM-Programmierung für unterschiedlichste Bearbeitungsverfahren. Werkzeugdaten werden zentral verwaltet und automatisch bereitgestellt.",
+        "w": 376,
+        "h": 167,
+        "href": "https://apic.de/"
+       },
+       {
+        "src": "/fileadmin/_processed_/8/b/csm_ZOLLER-CAM-System_siemens_ee72b3958f.webp",
+        "alt": "Die ZOLLER TMS-Schnittstelle zu Siemens NX stellt Werkzeugdaten, 3D-Geometrien und Technologiewerte zentral bereit. So arbeiten Konstruktion, CAM-Programmierung und Fertigung stets mit identischen Werkzeugdaten.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.siemens.com/de-de/products/cad-cam-software/"
+       },
+       {
+        "src": "/fileadmin/_processed_/4/d/csm_ZOLLER-CAM-System_virtual_gibbs_648f71fb1d.webp",
+        "alt": "Die Anbindung an Virtual Gibbs ermöglicht den direkten Zugriff auf zentrale Werkzeugdaten aus ZOLLER TMS. Werkzeugaufbauten und Technologiedaten werden einheitlich in den Programmierprozess integriert.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.gibbscam.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/0/f/csm_ZOLLER-CAM-System_camworks_e762945d8a.webp",
+        "alt": "Mit der CAMWorks-Integration stehen aktuelle Werkzeugdaten direkt in der CAM-Umgebung zur Verfügung. ZOLLER TMS sorgt für eine zentrale Datenbasis und reduziert manuelle Pflege.",
+        "w": 376,
+        "h": 167,
+        "href": "https://camworks.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/d/a/csm_ZOLLER-CAM-System_hexagon_0b224a447b.webp",
+        "alt": "ZOLLER TMS integriert Werkzeugdaten mit den CAM-Systemen EDGECAM, WORKNC und ALPHACAM. Einheitliche Werkzeuginformationen unterstützen Programmierung, Simulation und Fertigung über alle Systeme hinweg.",
+        "w": 376,
+        "h": 167,
+        "href": "https://hexagon.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/7/0/csm_ZOLLER-CAM-System_solidcam_90a00592f2.webp",
+        "alt": "Die direkte Schnittstelle zwischen ZOLLER TMS und SolidCAM überträgt Werkzeugdaten, 3D-Geometrien und Technologiewerte automatisch. Fräs-, Dreh- und Drehfräsprozesse profitieren von konsistenten Werkzeuginformationen.",
+        "w": 376,
+        "h": 167,
+        "href": "https://solidcam.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/9/8/csm_ZOLLER-CAM-System_cgtech_vericut_c95699a054.webp",
+        "alt": "",
+        "w": 376,
+        "h": 167,
+        "href": "https://vericut.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/7/a/csm_ZOLLER-CAM-System_autodesk_featurecam_b0f04a2941.webp",
+        "alt": "ZOLLER TMS stellt FeatureCAM konsistente Werkzeugdaten und Werkzeugmodelle zur Verfügung. Dadurch werden Programmierung und Werkzeugverwaltung effizient miteinander verknüpft.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.autodesk.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/1/7/csm_ZOLLER-CAM-System_cimatron_ad4747e7b9.webp",
+        "alt": "ZOLLER TMS verbindet Werkzeugverwaltung und CAM-Programmierung in Cimatron. Werkzeugdaten werden zentral gepflegt und stehen für eine sichere NC-Programmierung bereit.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.cimatron.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/3/5/csm_ZOLLER-CAM-System_esprit_2aeeb378ff.webp",
+        "alt": "Durch die Integration mit ESPRIT stellt ZOLLER TMS zentrale Werkzeugdaten für Fräs-, Dreh- und Mehrkanalbearbeitung bereit. Einheitliche Werkzeugdaten erhöhen die Prozesssicherheit in der NC-Programmierung.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.espritcam.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/f/2/csm_ZOLLER-CAM-System_hypermill_b46e28c353.webp",
+        "alt": "ZOLLER TMS synchronisiert Werkzeugdaten mit hyperMILL und stellt identische Werkzeugmodelle für Programmierung, Simulation und Fertigung bereit.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.openmind-tech.com"
+       },
+       {
+        "src": "/fileadmin/_processed_/b/3/csm_ZOLLER-CAM-System_tebis_c502d5fafb.webp",
+        "alt": "ZOLLER TMS liefert Tebis vollständige Werkzeugdaten einschließlich 3D-Geometrien und Werkzeugaufbauten. Dadurch werden Programmierung, Simulation und Fertigung optimal aufeinander abgestimmt.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.tebis.com"
+       },
+       {
+        "src": "/fileadmin/_processed_/b/6/csm_ZOLLER-CAM-System_ptccreo_a21f494310.webp",
+        "alt": "ZOLLER TMS verbindet Werkzeugdaten mit der CAD/CAM-Umgebung von PTC Creo. Einheitliche Werkzeugmodelle unterstützen eine effiziente Planung und Programmierung.",
+        "w": 376,
+        "h": 167,
+        "href": "https://ptc-solutions.de"
+       },
+       {
+        "src": "/fileadmin/_processed_/4/e/csm_ZOLLER-CAM-System_ncgcam_7289d6d989.webp",
+        "alt": "Mit der NCG CAM-Schnittstelle stellt ZOLLER TMS konsistente Werkzeugdaten und Werkzeuggeometrien für die Programmierung bereit. Dadurch werden Fehler reduziert und Prozesse standardisiert.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.ncgcam.com"
+       },
+       {
+        "src": "/fileadmin/_processed_/b/9/csm_ZOLLER-CAM-System_bscatia_e77d082089.webp",
+        "alt": "",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.3ds.com/products/catia"
+       },
+       {
+        "src": "/fileadmin/_processed_/4/3/csm_ZOLLER-CAM-System_opus_4c21c05760.webp",
+        "alt": "Durch die Integration mit OPUS CAM stehen Werkzeugdaten aus ZOLLER TMS direkt für die NC-Programmierung zur Verfügung. Zentrale Datenhaltung reduziert Pflegeaufwand und erhöht die Datenqualität.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.opus-cam.de"
+       },
+       {
+        "src": "/fileadmin/_processed_/4/1/csm_ZOLLER-CAM-System_mastercam_57acba4b57.webp",
+        "alt": "Mit der Mastercam-Integration stellt ZOLLER TMS zentrale Werkzeugdaten für die NC-Programmierung bereit. Werkzeuggeometrien und Technologiedaten werden automatisch übernommen und aktuell gehalten.",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.mastercam.com/"
+       },
+       {
+        "src": "/fileadmin/_processed_/c/4/csm_ZOLLER-CAM-System_eureka_0edf08affb.webp",
+        "alt": "",
+        "w": 376,
+        "h": 167,
+        "href": "https://www.eureka-sim.com/"
+       }
+      ],
+      "videos": [],
+      "pos": "below",
+      "cols": 5,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c240288",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c240168",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "raw",
+   "html": "<p>Datenimport</p> <h2>Werkzeugverwaltung leicht gemacht</h2> <p>Alle Werkzeugdaten führender Werkzeughersteller und Kataloge in der Cloud sind </p> <p>mit den ZOLLER TMS Tool Management Solutions nur einen Mausklick entfernt! </p> <p>Bauen Sie Ihre eigene Datenbank auf.</p> <img alt=\"\" height=\"60\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/f/csm_Bild_10_5b04ea4a68.webp\" width=\"234\"/> <img alt=\"\" height=\"100\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/9/csm_Bild_11_f168ce9542.webp\" width=\"201\"/> <img alt=\"\" height=\"126\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/0/csm_Bild_12_d933aba930.webp\" width=\"235\"/> <img alt=\"\" height=\"77\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_Bild_13_7bbdca66b6.webp\" width=\"252\"/> <img alt=\"\" height=\"60\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/c/csm_Bild_14_5dd4dc83c8.webp\" width=\"237\"/> <img alt=\"\" height=\"64\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/e/csm_Bild_15_38182efd3f.webp\" width=\"200\"/>",
+   "ftype": "zoller_logo-grid",
+   "id": "c240096",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Media: ZOLLER im Detail",
+     "href": "/unternehmen/medien",
+     "caption": "<figcaption> <h3>Media: ZOLLER im Detail</h3> <p>Hier finden Sie Medienmitteilungen, Produktankündigungen, Messeauftritte, Presseberichte aus Fachmagazinen, das News-Archiv und unsere Ansprechpartner für die Medien. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

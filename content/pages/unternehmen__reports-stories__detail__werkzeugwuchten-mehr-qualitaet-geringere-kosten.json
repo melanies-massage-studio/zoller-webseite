@@ -1,0 +1,457 @@
+{
+ "path": "/unternehmen/reports-stories/detail/werkzeugwuchten-mehr-qualitaet-geringere-kosten",
+ "url": "/unternehmen/reports-stories/detail/werkzeugwuchten-mehr-qualitaet-geringere-kosten",
+ "title": "Werkzeugwuchten: mehr Qualität, geringere Kosten",
+ "description": "Mit dem Thema Werkzeuge wuchten befassen sich auffallend wenige Fertigungen. Dabei ist Wuchten der Startpunkt für präzises Fertigen. »toolBalancer« von ZOLLER ist die perfekte Lösung und liefert Messergebnisse < 0,4 gmm.",
+ "og_image": "/fileadmin/_processed_/c/9/csm_report_wuchten_teaserimg_9a8e65fd00.webp",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories /",
+   "href": "/unternehmen/reports-stories"
+  },
+  {
+   "label": "Werkzeugwuchten: mehr Qualität, geringere Kosten",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories /",
+   "href": "/unternehmen/reports-stories"
+  },
+  {
+   "label": "Werkzeugwuchten: mehr Qualität, geringere Kosten",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories/detail/werkzeugwuchten-mehr-qualitaet-geringere-kosten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias/detalle?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits/detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias/detalhe?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie/dettaglio?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser/detaljer?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories/detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories/detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/%E8%A9%B3%E7%B4%B0?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories/detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias/detalle?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias/detalhe?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3998&cHash=3ef030467d0730837e1f78ae20c0122d",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "article",
+   "date": "2026-09-30",
+   "date_label": "30.09.2026",
+   "tags": [
+    "Pressemitteilung",
+    "Wuchttechnik"
+   ],
+   "title": "",
+   "lead": "",
+   "images": [],
+   "blocks": [
+    {
+     "type": "textmedia",
+     "header": "<h1> Werkzeugwuchten: mehr Qualität, geringere Kosten </h1>",
+     "body": "<p><strong>Mit dem Thema Werkzeuge wuchten befassen sich auffallend wenige Fertigungen. Dabei ist Wuchten der Startpunkt für präzises Fertigen. »toolBalancer« von ZOLLER ist die perfekte Lösung und liefert Messergebnisse &lt; 0,4 gmm. </strong></p> <p>Wer schon einmal Karussell gefahren ist, kennt den Effekt: Je schneller die Fahrt, desto stärker zieht es einen nach außen. Die Fliehkraft packt zu und zieht den Körper vom Zentrum weg. Was für uns ein kurzer Nervenkitzel auf dem Rummelplatz ist, gehört für rotierende Werkzeuge zum Alltag – allerdings mit einer problematischen Begleiterscheinung: Unwucht. Liegt der Massenschwerpunkt eines Werkzeugs nicht exakt auf der Drehachse, geraten die Fliehkräfte aus dem Gleichgewicht. Das Werkzeug wird aus der Mitte gezerrt, und die Fertigungsqualität verlässt den Optimalbereich.</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c240337",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "",
+     "body": "",
+     "images": [
+      {
+       "src": "/fileadmin/_processed_/5/4/csm_report_wuchten_contentimg_01_1c60f5dd96.webp",
+       "alt": "",
+       "w": 1420,
+       "h": 790
+      }
+     ],
+     "videos": [],
+     "pos": "above",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "textmedia",
+     "id": "c240346",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "quote",
+     "text": "<p> Wuchten ist für mich der Startpunkt der Fertigungsqualität. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/8/csm_nelu_bilba_4496b43679.webp",
+      "alt": "",
+      "w": 85,
+      "h": 85
+     },
+     "author": [
+      "Nelu Bilba",
+      "Fertigungsexperte, ZOLLER Inc."
+     ],
+     "ftype": "zoller_quote",
+     "id": "c240347",
+     "bg": "",
+     "space": {}
+    },
+    {
+     "type": "textmedia",
+     "header": "",
+     "body": "<p>Nelu Bilba, Fertigungsexperte bei ZOLLER Inc., der US-Niederlassung von ZOLLER, bringt es auf den Punkt: „Jedes Werkzeug sollte gewuchtet werden. Die positiven Effekte sind beeindruckend.“ Gleichzeitig räumt er mit einem weit verbreiteten Irrtum auf: „Die Drehzahl ist nicht das entscheidende Kriterium fürs Wuchten. Sobald Massen rotieren, zeigen sich Unwuchten. Das ist völlig normal und gilt bei 500 wie bei 15.000 Umdrehungen pro Minute.“</p> <p>Bevor Nelu Bilba zu ZOLLER kam, lernte er viele Fertigungen von innen kennen. Sein Fazit: „Die Auswirkungen ungewuchteter Werkzeuge werden massiv unterschätzt. Dabei sind die Folgen klar erkennbar: Unwucht erzeugt Vibration, und Vibration führt dazu, dass Kräfte ungleich wirken – auf die Schneide, das Werkstück, den Plattensitz, die Spindel. Die gesamte Präzisionskette gerät unter Stress.“</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c240338",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "<h2> Mehr Vibration im Werkzeug – mehr Risiko in der Fertigung </h2>",
+     "body": "<p>Die Hauptursache für Unwuchten liegt im typischen mehrteiligen Aufbau eines Komplettwerkzeugs. Einzelkomponenten wie Werkzeughalter und Spannmittel sind im Regelfall vorgewuchtet oder sogar feingewuchtet. Gemeinsam bilden sie ein gut ausbalanciertes Teilsystem. Werden jedoch Wendeschneidplatten montiert, ergibt sich eine völlig neue Situation. </p> <p>Schon geringe Gewichtsunterschiede der Schneideinsätze verursachen eine Unwucht im Gesamtsystem und machen es empfindlich für Vibrationen. Das Problempotenzial steigt zusätzlich, wenn die Wuchtgüte von Halter und Aufnahme nur durchschnittlich ist. </p> <p>Sobald sich die Maschinenspindel in Bewegung setzt und Tempo aufnimmt, beginnt das Werkzeug zu schwingen. Je höher die Drehzahl, desto stärker wirkt die Unwucht: doppelte Drehzahl bedeutet vierfache Fliehkraft. Während die Drehgeschwindigkeit allmählich steigt, nehmen die Belastungen für alle Komponenten sprunghaft zu.</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c240340",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "",
+     "body": "",
+     "images": [
+      {
+       "src": "/fileadmin/_processed_/2/e/csm_report_wuchten_contentimg_03_47596f6f92.webp",
+       "alt": "",
+       "w": 1420,
+       "h": 790
+      }
+     ],
+     "videos": [],
+     "pos": "above",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "textmedia",
+     "id": "c240348",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "<h2> »toolBalancer«: Unwuchten erkennen und ausgleichen </h2>",
+     "body": "<p>Werkzeuge exakt zu wuchten, ist für die Bearbeitungsqualität ebenso bedeutsam wie Einstellen und Messen. Daher hat sich ZOLLER intensiv mit der Frage befasst, wie sich Unwuchten schnell, einfach und hochpräzise erfassen und korrigieren lassen. Die Antwort: »toolBalancer« – ein Wuchtgerät mit modernster Messtechnik, technologisch führend und überragend präzise. „Ich kenne kein Wuchtgerät, das nur annähernd so ergonomisch aufgebaut und so einfach zu bedienen ist“, erklärt Nelu Bilba. </p> <p>Die ZOLLER-Entwickler gingen beim »toolBalancer« neue Wege, um erstklassige Messergebnisse zu gewinnen. Das Gerät arbeitet mit speziellen Wuchtadaptern, die gezielt einen Mittenversatz erzeugen. Damit wird eine definierte Zusatzunwucht eingebracht, um die tatsächliche Unwucht im Werkzeug präzise zu messen. Durch dieses clevere Prinzip entsteht ein starkes Sensorsignal, das eine hochgenaue Auswertung ermöglicht – mit finalen Messergebnissen unter 0,4 gmm.</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c240339",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "<h2> Spindelschäden, Maschinen­ausfälle, Kosten­explosionen </h2>",
+     "body": "<p>„Die negativen Effekte von Unwuchten auf Werkzeuge und Maschinen können beträchtlich sein. Da reden wir noch gar nicht von der Werkstückqualität. Allein für Prozesssicherheit und Maschinenverfügbarkeit ist Wuchten grundlegend wichtig“, betont Nelu Bilba. In seiner langjährigen Praxis erlebte er mehrfach, wie Unwuchten Maschinen umfassend schädigten: „Ich kenne Fälle, in denen die Spindel einer neuen Maschine nach sechs Monaten ausgefallen ist. Bei einer anderen Maschine musste die Spindel in 15 Jahren vier- oder fünfmal überholt werden – für insgesamt mehrere hunderttausend US-Dollar. Die Ursache war immer die gleiche: Werkzeuge, die nie gewuchtet wurden.“ Die Folge: lange Stillstandzeiten, hohe Reparaturkosten, erhebliche Produktions­ausfälle.</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c240341",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "",
+     "body": "",
+     "images": [
+      {
+       "src": "/fileadmin/_processed_/1/a/csm_report_wuchten_contentimg_02_b209b1b410.webp",
+       "alt": "",
+       "w": 1420,
+       "h": 790
+      }
+     ],
+     "videos": [],
+     "pos": "above",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "textmedia",
+     "id": "c240349",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "<h2> Qualität steigern, Kosten senken </h2>",
+     "body": "<p>Regelmäßiges Wuchten senkt nicht nur Risiken, sondern auch Kosten. „Einer unserer Kunden aus der Luftfahrtindustrie hat so die Standzeit seiner Werkzeuge verdoppelt“, berichtet der ZOLLER-Experte. Zudem reduziert sich der Ausschuss, weil Wuchten schwingungsbedingte Qualitätsmängel am Werkstück vermeiden kann. Besonders beim Oberflächenfinish zahlt sich das aus: Wer hier konstant auf höchstem Niveau fertigen will, kommt ums Wuchten von Schleifscheiben, Reibahlen oder Werkzeugen fürs Schlichten nicht herum. „Ich gehe sogar noch einen Schritt weiter“, ergänzt Nelu Bilba, „Wuchten ist eine Grundvoraussetzung, um interne Standards in der Fertigung weiterzuentwickeln, unabhängig davon, ob gefräst, gebohrt, geschruppt, geschlichtet oder geschliffen wird.“</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c240342",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "<h2> Bestens vorbereitet auf extreme Anforderungen </h2>",
+     "body": "<p>Auch bei Hochleistungsverfahren wie dem High Speed Cutting (HSC) führt am Wuchten kein Weg vorbei. Um die geforderten Wuchtgüten von G=2,5 oder besser zuverlässig einzuhalten, ist ein Check am »toolBalancer« unverzichtbar. Der kleine Zwischenschritt lohnt sich. Er sichert, dass Fertigungen das volle Potenzial von Prozess, Werkzeug und CNC-Maschine ausschöpfen können.</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c240343",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "<h2> Wuchtgüte: häufig das schwächste Glied der Prozesskette </h2>",
+     "body": "<p>„Wer seine Prozesse konsequent auf Qualität ausrichtet, vom Werkzeugeinkauf über Einstellen und Messen bis zur Investition in eine erstklassige CNC-Maschine, sollte nicht beim Wuchten sparen. Sonst bleibt die Wuchtgüte das schwächste Glied in der Kette. Sie kann Qualität, Kosten und Prozesssicherheit erheblich mindern. Wuchten ist für mich der Startpunkt für Fertigungsqualität“, resümiert Nelu Bilba. </p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c240344",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "products",
+     "header": "",
+     "items": [
+      {
+       "href": "/produkte/wuchttechnik/toolbalancer",
+       "title": "»toolBalancer«",
+       "text": "<p>Das Auswuchtsystem mit modernster Technologie und ergonomischem Design</p>",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       }
+      }
+     ],
+     "ftype": "menu_pages",
+     "id": "c240345",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    }
+   ],
+   "related": [],
+   "ftype": "news_newsdetail",
+   "id": "c3212",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ]
+}

@@ -1,0 +1,542 @@
+{
+ "path": "/produkte/schrumpftechnik/redomatic",
+ "url": "/produkte/schrumpftechnik/redomatic",
+ "title": "»redomatic«",
+ "description": "»redomatic« - »redomatic« - Universelles Einstell- und Messgerät mit integriertem Werkzeugschrumpfsystem - Schrumpfen und Messen",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»redomatic«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»redomatic«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/redomatic",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/redomatic",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/redomatic",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/redomatic",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/redomatic",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/redomatic",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/redomatic",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/redomatic",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/redomatic",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/redomatic",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/redomatic",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/redomatic",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»redomatic«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/schrumpftechnik/redomatic/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/schrumpftechnik/redomatic/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/schrumpftechnik/redomatic/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/schrumpftechnik/redomatic/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/schrumpftechnik/redomatic/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1479",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»redomatic«",
+   "text": "<p>Universelles Einstell- und Messgerät mit <br/>integriertem Werkzeugschrumpfsystem</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/0/csm_header_redomatic_a78a94a4e3.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1478",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »actbyLight« </h3> <h2> Am Ende zählt nur eins – heraus­ragende Qualität </h2>",
+   "body": "<p>Mit einem »redomatic 400« oder »redomatic 600« von ZOLLER werden Sie mit Ihren mehr­spindligen Maschinen und in Ihrer automatisierten Serien­fertigung effektiver produzieren. Denn mit »redomatic« können Sie sicher sein, dass die Werkzeug­längen stets korrekt eingestellt sind. Dabei ist der von ZOLLER entwickelte Schrumpf­ablauf mit dem Einstell­adapter »masterPiece« sowohl schnell als auch einfach.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 Expertengespräch</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_zoller_redomatic_positionierung_9118bc970f.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1480",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Einzigartiges Bedienkonzept ",
+    "Höchste Präzision ",
+    "Zertifizierte Sicherheit"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1481",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Schrumpftechnik </h3> <h2> Weniger Energie, maximaler Gewinn </h2>",
+   "body": "<p>Mit »redomatic« von ZOLLER sparen Sie Zeit, senken Ihre Stromkosten und schonen Ihre Schrumpffutter dank dem perfekten Zusammenspiel aus Elektronik, Software und Mechanik und einem durchdachten, sicheren Schrumpfprozess.</p> <p><a class=\"btn\" href=\"#c3769\">30%-ige Energieeinsparung</a> </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/0/csm_zoller_redomatic_energieeinsparung_c7657a464d.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1482",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/0/6/csm_energieeinsparung-de_a28e5b00ba.webp",
+    "alt": "",
+    "w": 996,
+    "h": 559
+   },
+   "title": "30%-ige Energieeinsparung",
+   "text": "<p>Mit der ZOLLER-Induktionstechnologie erhitzen Sie Ihre Schrumpffutter optimal. Das bedeutet für Sie: gleichmäßig über den gesamten Spannbereich und nur so lang wie nötig. Damit erhalten Sie kürzere Heiz- und Kühlzeiten, kürzere Zykluszeiten, schonen die Futter und erhöhen deren Lebensdauer.</p> <p>Ein besonderer Vorteil von »redomatic«, mit dem ZOLLER seinen Beitrag für einen nachhaltigen Einsatz in der Fertigung leistet, ist die bis zu 30%-ige Energieeinsparung gegenüber dem Vorgängermodell. Darauf sind wir besonders stolz. Die Wärme und Energie kommt genau dort an, wo Sie sie benötigen, um Ihre Werkzeuge sicher aus- und einzuschrumpfen.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3769",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Schrumpftechnik </h3> <h2> Smartes Design für maximale Effizienz </h2>",
+   "body": "<p>Ein intelligentes, durchdachtes Highlight des »powerShrink« ist die ZOLLER-Induktionsspule. Zwei parallel geschaltete Wicklungen innerhalb der Spule können je nach Spanndurchmesser und -länge getrennt aktiviert und unterschiedlich angesteuert werden. Dies ermöglicht eine optimale Energieeinbringung in den Spannbereich, beschleunigt den Heiz- und Kühlvorgang und schont Ihre Werkzeugaufnahmen.</p> <p><a class=\"btn\" href=\"#c3770\">Induktionsspule mit Abschirmsystem »varOct«</a> <a class=\"btn\" href=\"#c3771\">Stand-Alone-Lösung »powerShrink«</a></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/1TT4LwLEbHw?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Re-inventing the induction coil"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1483",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/6/9/csm_varoct__1__2af8f2890a.webp",
+    "alt": "",
+    "w": 960,
+    "h": 1200
+   },
+   "title": "Wenn Kunst ins Schwarze trifft",
+   "text": "<p class=\"large-text\">Inspiriert von moderner Architektur und der optischen Kinematik ist der Abteilung Forschung und Entwicklung von ZOLLER ein Meisterwerk gelungen. Die ZOLLER-Induktionsspule mit Abschirmsystem »varOct« sorgt für höchste Effizienz und Ergonomie im Schrumpfprozess.</p> <h2>8 Ferrit-Elemente</h2> <p class=\"large-text\">Genial gedacht. Perfekt konstruiert. Die acht variablen Elemente der »varOct« Spulenabschirmung gleiten geschlossen aneinander vorbei – ein Designerlebnis. Die ZOLLER-Einzigartigkeit für unschlagbares Design und Effizienz.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3770",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/c/a/csm_zoller_powershrink_v2_9191a84cdf.webp",
+    "alt": "",
+    "w": 960,
+    "h": 960
+   },
+   "title": "Stand-Alone Lösung der Spitzenklasse",
+   "text": "<p>Werkzeuge in Rekordzeit ein- und ausschrumpfen und dabei Energie sparen und Futter schonen: All diese Vorteile erhalten Sie mit dem induktiven Schrumpfsystem »powerShrink«.</p> <p><a class=\"btn\" href=\"/produkte/schrumpftechnik/powershrink\">Mehr erfahren</a></p>",
+   "ftype": "zoller_overlay",
+   "id": "c3771",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Das High-Performance Zusammenspiel </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/0/f/csm_redomatic_Infodots_v2_431a9f8198.webp",
+    "alt": "",
+    "w": 1366,
+    "h": 986
+   },
+   "spots": [
+    {
+     "x": 39.537,
+     "y": 4.582,
+     "label": "Rauchgasabsaugung",
+     "text": "<h3>Rauchgasabsaugung</h3> <h4>Rauchgasabsaugung</h4> <p>Entfernt Rauchgase zuverlässig aus dem Arbeitsbereich der Bedienerin und des Bedieners. Die etablierte und patentierte Rauchgasabsaugung oberhalb der Induktionsspule wurde um eine integrierte Absaugung im Inneren des Spulen­gehäuses erweitert. Die Rauchgase werden somit direkt dort abgesaugt, wo sie entstehen.</p>"
+    },
+    {
+     "x": 33.0,
+     "y": 8.864,
+     "label": "Induktionsspule »varOct«",
+     "text": "<h3>Induktionsspule »varOct«</h3> <h4>Intelligente Induktions­spule mit Abschirmsystem »varOct«</h4> <p>Mit automatischer Durchmesser­einstellung bis zu einem Schaftdurchmesser von max. 32 mm für die jeweils optimale Heizleistung. Der Heizvorgang wird kontinuierlich überwacht. Der Innendurchmesser des Abschirmsystems »varOct« lässt sich mithilfe einer Rasterung schnell und automatisiert auf den gewünschten Durchmesser einstellen. Dank des maximalen Innendurchmessers von 45,8 mm lassen sich auch Werkzeuge mit größerem Schneiden­durchmesser einfach ausschrumpfen.</p> <p>Optional auch erhältlich mit einer Schnellwechsel­schnittstelle für den schnellen Spulenwechsel von 14 kVA auf 22 kVA.</p>"
+    },
+    {
+     "x": 26.9,
+     "y": 25.069,
+     "label": "Einhandbediengriff »eQ«",
+     "text": "<h3>Einhandbediengriff »eQ«</h3> <h4>Einhandbedien­griff »eQ« (ergonomic &amp; quick)</h4> <p>Mit einer Hand lässt sich der Optikträger schnell, gleichzeitig in Z und X und spielend leicht auf die richtige Position verfahren. Zudem können weitere Funktionen aus »pilot 4.0« in den Zusatzknopf des »eQ« integriert werden.</p>"
+    },
+    {
+     "x": 35.582,
+     "y": 36.817,
+     "label": "Längenanschlagsystem »asza«",
+     "text": "<h3>Längenanschlagsystem »asza«</h3> <h4>Automatisches Längenanschlag­system »asza«</h4> <p>In der Z-Achse für das Einschrumpfen auf weniger als 10 μm genau.<br/><br/><strong>Schrumpflängen­überwachung</strong> – für das sichere und kontrollierte Einschrumpfen von Werkzeugen mit Überwachung der Mindesteinschrumpflänge.</p>"
+    },
+    {
+     "x": 33.033,
+     "y": 42.284,
+     "label": "Hochgenauigkeitsspindel »ace«",
+     "text": "<h3>Hochgenauigkeitsspindel »ace«</h3> <h4>Hochgenauigkeits­spindel »ace«</h4> <p>Hochpräzises, universelles Spindelsystem mit maschinenspindelähnlichem Spannverhalten, garantiert die μm-genaue Aufnahme und Spannung von Werkzeugen. Das universelle Vorsatzhalter- Wechselsystem ermöglicht die Adaption zu nahezu jedem Werkzeughaltersystem.</p>"
+    },
+    {
+     "x": 52.5,
+     "y": 38.92,
+     "label": "Kühlglocken",
+     "text": "<h3>Kühlglocken</h3> <h4>Innovative Kühlglocken mit Bedienerführung »coolbyLight«</h4> <p>Für einen sicheren und einfach geführten Kühlprozess durch das Farbsystem der LEDs. Alternativ kann bei dem »redomatic 600« auch die Ausführung mit den Standard-Kühlglocken gewählt werden.</p> <p><strong>Kühl-Manager-Software für die Kühleinheit</strong> – die Kühleinheit wird nur bei Bedarf automatisch zugeschaltet.</p>"
+    },
+    {
+     "x": 59.3,
+     "y": 57.064,
+     "label": "Beistelleinheit",
+     "text": "<h3>Beistelleinheit</h3> <h4>Beistelleinheit</h4> <p>Zur Aufnahme der Schrumpfelektronik, Kühlglocken, Aufnahmeringe, Anschlagstangen und der ZOLLER-Einstelladapter »masterPiece«. Die Anzeige des Schrumpfleitsystems »sls« in der Bildverarbeitungs­software sorgt für eine schnelle Auswahl des benötigten Zubehörs.</p> <p><strong>Schrumpfleitsystem »sls«</strong> – »pilot 4.0« führt die Bedienerin und den Bediener mithilfe exakt vorgegebener Arbeitsschritte in der Software sicher und schnell durch den Schrumpfprozess.</p>"
+    },
+    {
+     "x": 68.7,
+     "y": 19.114,
+     "label": "Bildverarbeitungssoftware »pilot 4.0«",
+     "text": "<h3>Bildverarbeitungssoftware »pilot 4.0«</h3> <h4>IPC mit Bildverarbeitungs­software »pilot 4.0«</h4> <p>Die Steuerung bestehend aus IPC, »pilot 4.0« und 24\"-TFT-Farbmonitor übernimmt sämtliche Bearbeitungs­aufgaben zum Einstellen, Messen und Schrumpfen und sorgt für eine sichere und einfache Bedienung. Der Monitor ist in Höhe und Neigung verstellbar und gestaltet so die Nutzung der Software maximal komfortabel. Das »cockpit« bietet Platz für Tastatur und Maus sowie Ablagen für Etiketten- und Laserdrucker, Scanner und Werkzeuge wie z. B. Inbusschlüssel.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1484",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wir stehen für ZOLLER Solutions </h2>",
+   "body": "<p>ZOLLER Solutions – Bei uns bekommen Sie mehr als hervorragende Produkte. Sie bekommen individuelle Systemlösungen rund um Ihre Werkzeuge. Dafür kombinieren wir für Sie Hardware, Software und Services. Alles aus einer Hand. Alles für Ihren Erfolg. Wir nennen das: ZOLLER Solutions.</p> <p><a class=\"btn\" href=\"/solutions\">Mehr über ZOLLER Solutions</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_zoller_redomatic_geschaeftsleitung_638859d838.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1488",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»redomatic 400«</h4> <p>Kompakte Spitzenklasse. Treffen Sie Ihre Wahl einfach und übersichtlich oder sprechen Sie uns an!</p> <p><a class=\"btn\" href=\"/produkte/schrumpftechnik/redomatic\">Jetzt anfragen</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/9/csm_cta_redomatic400_f236af4606.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c2326",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»redomatic 600«</h4> <p>High Performance Zusammenspiel. Treffen Sie Ihre Wahl einfach und übersichtlich oder sprechen Sie uns an!</p> <p><a class=\"btn\" href=\"/produkte/schrumpftechnik/redomatic\">Jetzt anfragen</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/0/3/csm_cta_redomatic600_0cb1f5c4f1.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c2327",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2325",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Expertengespräch</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Jetzt Termin vereinbaren</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ]
+}

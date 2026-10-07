@@ -1,0 +1,374 @@
+{
+ "path": "/produkte/toolmanagement/zidcode/zidcode",
+ "url": "/produkte/toolmanagement/zidcode/zidcode",
+ "title": "»zidCode«",
+ "description": "»zidCode« - »zidCode«",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Datentransfer /",
+   "href": "/produkte/toolmanagement/datentransfer"
+  },
+  {
+   "label": "»zidCode« /",
+   "href": "/produkte/toolmanagement/zidcode"
+  },
+  {
+   "label": "»zidCode«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Datentransfer /",
+   "href": "/produkte/toolmanagement/datentransfer"
+  },
+  {
+   "label": "»zidCode« /",
+   "href": "/produkte/toolmanagement/zidcode"
+  },
+  {
+   "label": "»zidCode«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/zidcode/zidcode",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/data-transfer/zidcode/zidcode",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasferimento-dei-dati/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/dataoeverfoering/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/datentransfer/zidcode/zidcode",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/data-transfer/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/data-transfer/zidcode/zidcode",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/zidcode",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/zidcode",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»zidCode«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/toolmanagement/zidcode",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "/ »zidCode 4.0«",
+     "href": "/produkte/toolmanagement/zidcode/zidcode-40",
+     "current": false
+    },
+    {
+     "label": "»zidCode«",
+     "href": "/produkte/toolmanagement/zidcode/zidcode",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/toolmanagement/zidcode/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/toolmanagement/zidcode/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/toolmanagement/zidcode/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c842",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> »zidCode« – Datenfluss ohne Netzwerk </h1>",
+   "body": "<p>Mit »zidCode« sind Ihre CNC-Maschinen auch ohne Netzwerk bestens gegen Crashs gesichert – weil die Werkzeugdaten per Scanner und Code fehlerfrei an die CNC-Maschine übermittelt werden. </p> <p>Damit ist »zidCode« die optimale Lösung für Fertigungen, die ohne Netzwerk arbeiten. Und es ist perfekt für alle CNC-Maschinen, die nicht für Netzwerke vorbereitet sind. </p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/YhBb2ZKJtGM?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Datentransfer mit »zidCode« an die Maschine"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c966",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Fügt sich nahtlos ein </h2>",
+   "body": "<p>»zidCode« passt für fast jede Fertigungsumgebung. Die Lösung überträgt zum Beispiel Werkzeugdaten per Netzwerkkabel direkt in FANUC- oder HAAS-Steuerungen. Damit Sie die Vorteile von »zidCode« auch mit älteren Maschinen nutzen können, ist der Datentransfer zusätzlich ganz einfach über serielle Schnittstellen wie zum Beispiel RS232 möglich. So effizient geht Prozessoptimierung nur mit ZOLLER.</p> <p><a class=\"btn\" href=\"#c3752\">Direkte Übertragung per Netzwerkkabel</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/a/csm_werkzeugwagen_20_a951ece762.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1600
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c967",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/0/f/csm_zidcode_fanuc_01_5fe9a1d846.webp",
+    "alt": "",
+    "w": 960,
+    "h": 1245
+   },
+   "title": "Direkte Übertragung",
+   "text": "<p>Das Werkzeug wird am ZOLLER Einstell-und Messgerät vermessen und eingestellt. Die Werkzeug-Ist-Daten werden als QR-Code auf einem Etikett ausgedruckt. Mit dem »zidCode«-Handscanner werden diese QR-verschlüsselten Daten eingelesen und automatisch in den entsprechenden Datenfeldern der Steuerung der FANUC- oder HAAS-Maschinen eingetragen. Das Werkzeug kann anschließend physisch in die Maschine geladen werden. </p> <p>Die »zidCode«-Einheit wird über ein Netzwerkkabel mit der Maschine verbunden. Zur Installation muss lediglich die IP-Adresse in den Einstellungen der Steuerung eingetragen werden.</p> <h3>Voraussetzungen</h3><ul><li>CNC-Maschine mit freiem Netzwerkanschluss (kein Netzwerkswitch) </li></ul><h3>Vorteile</h3><ul><li>Keine Netzwerkintegration notwendig</li><li>Plug &amp; Play</li><li>Vermeidung von Tippfehlern</li></ul>",
+   "ftype": "zoller_overlay",
+   "id": "c3752",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Ausstattung </h2>",
+   "body": "<figure><table><tbody><tr><td>Barcode-Lesegerät 1D/2D pro CNC-Maschine</td></tr><tr><td>»zidCode«-Einheit pro CNC-Maschine zur magnetischen Montage</td></tr><tr><td>Software für »zidCode« am ZOLLER Einstell- und Messgerät mit Bildverarbeitung »pilot 3.0« oder »pilot 2 mT«</td></tr><tr><td>USB-Stick (Dokumentation, Anleitung, Schulungsvideos)</td></tr><tr><td>USB-Kabel (Verbindung »zidCode«-Einheit mit Maschinensteuerung)</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c968",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Voraussetzungen </h2>",
+   "body": "<figure><table><tbody><tr><td>CNC-Steuerung mit USB-Anschluss, an der eine simulierte USB-Tastatur erkannt wird (optional RS232-Schnittstelle zur Datenausgabe)</td></tr><tr><td>ZOLLER Einstell- und Messgerät mit Bildverarbeitung »﻿pilot 4.0﻿«, »﻿pilot 3.0﻿« oder »pilot 2 mT« ab Version 1.15.0.0, oder »﻿pilot 1.0﻿« ab Version 1.15.13.0</td></tr><tr><td>Thermo-Etikettendrucker</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c969",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

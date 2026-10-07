@@ -1,0 +1,344 @@
+{
+ "path": "/produkte/einstellen-messen/horizontale-geraete/hyperion/info-pool",
+ "url": "/produkte/einstellen-messen/horizontale-geraete/hyperion/info-pool",
+ "title": "»hyperion« – Info-Pool",
+ "description": "Info-Pool - »hyperion« – Info-Pool",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Einstellen & Messen /",
+   "href": "/produkte/einstellen-messen"
+  },
+  {
+   "label": "Horizontale Geräte /",
+   "href": "/produkte/einstellen-messen/horizontale-geraete"
+  },
+  {
+   "label": "»hyperion« /",
+   "href": "/produkte/einstellen-messen/horizontale-geraete/hyperion"
+  },
+  {
+   "label": "Info-Pool",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Einstellen & Messen /",
+   "href": "/produkte/einstellen-messen"
+  },
+  {
+   "label": "Horizontale Geräte /",
+   "href": "/produkte/einstellen-messen/horizontale-geraete"
+  },
+  {
+   "label": "»hyperion« /",
+   "href": "/produkte/einstellen-messen/horizontale-geraete/hyperion"
+  },
+  {
+   "label": "Info-Pool",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/einstellen-messen/horizontale-geraete/hyperion/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/presetting-measuring/horizontal-devices/hyperion/info-hub",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/reglage-et-mesure/appareils-horizontaux/hyperion/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/ajuste-e-medicao/dispositivos-horizontais/hyperion/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/regolazione-e-misurazione/strumenti-orizzontali/hyperion/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/instaellning-och-maetning/horisontella-maskiner/hyperion/informationspool",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/einstellen-messen/horizontale-geraete/hyperion/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/presetting-measuring/horizontal-devices/hyperion/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/reglage-et-mesure/appareils-horizontaux/hyperion/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E6%A8%AA%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%8F%E3%82%A4%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%B3/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%ED%8F%89%ED%98%95-%EC%9E%A5%EB%B9%84/hyperion/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/presetting-measuring/horizontal-devices/hyperion/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/ajuste-e-medicao/dispositivos-horizontais/hyperion/painel-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»hyperion«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/einstellen-messen/horizontale-geraete/hyperion",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/einstellen-messen/horizontale-geraete/hyperion/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/einstellen-messen/horizontale-geraete/hyperion/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/einstellen-messen/horizontale-geraete/hyperion/technische-daten",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/einstellen-messen/horizontale-geraete/hyperion/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3339",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Info-Pool </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3338",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Broschüren </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/hyperion/Info-Pool/ZOLLER_Broschuere_hyperion_BRHYP_01_DE.pdf",
+     "name": "»hyperion«",
+     "size": "3 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/e/d/csm_ZOLLER_Broschuere_hyperion_BRHYP_01_DE_5f7b0d47d3.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»hyperion«"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c3337",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Videos </h3>",
+   "body": "",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/k7Vt0OH7J5I?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER »hyperion« – Die universelle Einstell- und Messgeräteserie für die Drehteilefertigung"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/ahPKUKJy0kk?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Anwenderbericht LAUBLE–ZOLLER I Effizienter fertigen mit »hyperion« + TMS Tool Management Solutions"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3336",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Einstellen & Messen: Ihre Vorteile",
+     "href": "/solutions/einstellen-messen",
+     "caption": "<figcaption> <h3>Einstellen &amp; Messen: Ihre Vorteile</h3> <p>Erfahren Sie, warum Einstell- und Messgeräte den Aufwand an Zeit und Kosten reduzieren. Die Effekte sind skalierbar und können hohe Einsparungen bewirken. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin.</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

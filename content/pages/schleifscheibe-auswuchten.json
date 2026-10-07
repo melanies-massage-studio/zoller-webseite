@@ -1,0 +1,360 @@
+{
+ "path": "/schleifscheibe-auswuchten",
+ "url": "/schleifscheibe-auswuchten",
+ "title": "Schleifscheibe auswuchten",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Schleifscheibe auswuchten",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Schleifscheibe auswuchten",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/schleifscheibe-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balancing-a-grinding-wheel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-la-meule",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-o-rebolo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciare-la-mola",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-slipskivan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/schleifscheibe-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/balancing-the-grinding-wheel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-disque-abrasif",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%A0%94%E7%A3%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%97%B0%EB%A7%88-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%A7%9E%EC%B6%94%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-grinding-wheels",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-o-rebolo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/9/c/csm_grinding_wheel_header_82a94c5c43.webp",
+     "video": null,
+     "title": "Schleifscheibe auswuchten?",
+     "kicker": "",
+     "text": "<p>Mit unserem Auswuchtsystem »toolBalancer« kinderleicht</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8000",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Unser Auswuchtsystem erhöht die Werkzeugstandzeiten </h2>",
+   "body": "<p class=\"extra-large-text\">Für moderne Zerspanungsmaschinen sind feingewuchtete Werkzeuge enorm wichtig. Unwuchten in Schleifscheiben, Werkzeugsystemen und Rotoren sorgen für Verschleiß oder sogar Schäden – regelmäßiges Auswuchten verhindert Stillstand und reduziert Ihre Kosten.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8001",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Effizient Auswuchten mit dem ZOLLER »toolBalancer« </h2>",
+   "body": "<p>Lange Auswuchtzeiten sorgen für Stillstand und Qualitätsverlust. Mit unserem »toolBalancer« lassen sich nicht nur Werkzeugaufnahmen, Schleifscheiben und Rotoren hochgenau auswuchten – mit seinem automatisierten Messablauf wird der Vorgang auch deutlich beschleunigt.</p> <p>Ihre jetzigen Anforderungen lassen sich dabei ebenso berücksichtigen wie jene Entwicklungen, die Sie jetzt noch nicht einschätzen können: Dank seiner modularen Bauweise lässt sich der »toolBalancer« ganz individuell anpassen.</p> <p>Das Gerät lässt sich intuitiv und selbsterklären per Touchscreen, Tastatur oder Maus bedienen – ganz wie es für Ihre Arbeitsweise am besten passt. So können Sie sich darauf konzentrieren, effektiv und qualitativ hochwertig zu arbeiten und zu produzieren. So senken Sie messbar Ihre Ausschussquoten, Maschinenstillstandszeiten und Produktionskosten!</p> <p><a class=\"btn\" href=\"/produkte/wuchttechnik/toolbalancer\">Mehr über »toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/produkte/wuchttechnik/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8002",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Höhere Zerspanleistung ",
+    "Längere Werkzeugstandzeit ",
+    "Bessere Bauteilequalität"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c8003",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Was ist das Auswuchten? </h2>",
+   "body": "<p>Durch das Auswuchten werden vorhandene Unwuchten verringert oder idealerweise beseitigt, die jeder um eine feststehende Achse rotierende starre Körper besitzt. Die Unwuchten entstehen durch ungleichmäßige Massenverteilung in der Schleifscheibe; Bezugspunkt ist dabei jeweils die Drehachse der Schleifspindel. Das zentrale Ziel des Auswuchtens ist es, alle Fliehkraftwirkungen an der rotierenden Spindel auszugleichen, damit das Spindellager keinen zusätzlichen Kräften ausgesetzt ist.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8007",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wie entstehen Unwuchten in Schleifscheiben? </h2>",
+   "body": "<p>Unwuchten in einer Schleifscheibe können schon in der Herstellung auftauchen, zum Beispiel:</p><ul><li>leichte Abweichungen von der geometrischen Idealform oder einer perfekt symmetrischen Form durch Produktionsfehler,</li><li>sonstige Fertigungsfehler oder</li><li>ungleichmäßige Dichte des Schleifscheibengefüges (Folge: nicht ausgewogene Gewichtsverteilung).</li></ul><p>Vor allem entstehen Unwuchten allerdings durch Verschleiß im Schleifprozess. Beispiele dafür sind:</p><ul><li>ungleichmäßiger Abrieb im Schleifprozess,</li><li>Verschmutzungen durch Späne oder Kühl- bzw. Schmiermittel und</li><li>Beanspruchung und Verformungen durch Spannkräfte, Schnittkräfte und Fliehkräfte.</li></ul><p>Zusätzliche Probleme können durch unsachgemäße Lagerung oder falsche Behandlung der Schleifscheiben entstehen.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_schleifscheiben_314b691a95.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8004",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Warum Schleifscheiben auswuchten? </h2>",
+   "body": "<p>Die Folgen einer nicht ausgewuchteten Schleifscheibe können vielfältig sein: Die Schleifspindel dreht unter Umständen nicht leise und gleichmäßig (Laufruhe); eine Unwucht führt wiederum zu ungleichmäßigem Abrieb, der den Effekt noch verstärken kann. Zudem wird der Abrieb bzw. die Abtragsleistung der Schleifscheibe womöglich erhöht.</p> <p>Generell gilt: Wenn Werkzeug und Werkzeugaufnahme als Einheit keine hohe Rundlaufgenauigkeit aufweisen, kann sich infolge einer Unwucht die Fliehkraft negativ auf die Spindellagerung auswirken und deren Lebensdauer beträchtlich senken. Auch die Werkzeugstandzeit kann sich signifikant verschlechtern, wenn die von der Fliehkraft erzeugten Schwingungen sich auf die Maschine und das Werkzeug übertragen. Gewuchtete Werkzeuge tragen also zu niedrigeren Werkzeugkosten bei und erhöhen die Produktivität.</p> <p>Um eine höhere Zerspanleistung und eine längere Werkzeugstandzeit zu erzielen, ist es wichtig, den Auswuchtzustand der Schleifscheibe vor jeder Drehzahländerung zu überprüfen, denn jede Spindel-Drehzahl-Werkzeugkombination bringt eine spezifische Unwucht mit sich.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_scan_1dacd77291.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8005",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Welche Auswuchtsysteme gibt es? </h2>",
+   "body": "<p><strong>Im Wesentlichen unterscheidet man in der Auswuchttechnik zwischen drei verschiedenen Auswuchtsystemen.</strong></p><ul><li><p>Elektronisches Auswuchten: Hier wird die Unwucht der Schleifscheibe direkt auf der Schleifspindel gewuchtet; die entsprechende Technik kann entweder in die Schleifspindel integriert sein oder wird durch manuelles Verschieben der Wuchtgewichte erreicht.</p></li><li><p>Abrollböcke: Zwei einzelne Abrollböcke (der Abrollbock wird auch als Auswuchtbock bezeichnet) sind mit je zwei schmalen, in Kugellagern gelagerten Abrollscheiben versehen. Die Abrollböcke sind dazu in der Regel auf Schienen befestigt oder werden auf Granitplatten von Messmaschinen positioniert.</p></li><li><p>Auswuchtwaage: Auswuchtwaagen ermitteln die statische Unwucht von Schleifscheiben. Dabei wird de facto nur eine Ebene gemessen; die Schleifscheibe gilt als statisch ausgewuchtet, wenn sich ihr Schwerpunkt mittig befindet, also auf der Drehachse.</p></li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8006",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Wuchttechnik: Ihre Vorteile",
+     "href": "/solutions/wuchttechnik",
+     "caption": "<figcaption> <h3>Wuchttechnik: Ihre Vorteile</h3> <p>Wuchten wird unterschätzt. Dabei führt Wuchten zu mehr Wirtschaftlichkeit, weil es kostentreibenden Werkzeugverschleiß reduziert und Maschinenspindeln entlastet. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

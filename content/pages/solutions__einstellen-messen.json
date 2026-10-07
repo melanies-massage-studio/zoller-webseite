@@ -1,0 +1,448 @@
+{
+ "path": "/solutions/einstellen-messen",
+ "url": "/solutions/einstellen-messen",
+ "title": "Einstellen & Messen",
+ "description": "Einstellen & Messen",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Einstellen & Messen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Einstellen & Messen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/einstellen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/presetting-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/reglage-et-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/ajuste-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/regolazione-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/instaellning-och-maetning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/einstellen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/presetting-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/reglage-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/presetting-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/ajuste-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/c/csm_header_presetting_8b840715e8.webp",
+     "video": null,
+     "title": "Einstellen &",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c622",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Wer Werkzeuge parallel zur Hauptzeit der CNC-Maschine vermisst, fertigt effizienter. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c614",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Einstellen und Messen außerhalb der CNC-Maschine ändert grundlegend die Art und Weise, wie Sie fertigen. Sie werden Rüstzeiten stark verkürzen, Ausschuss reduzieren, Werkzeugstandzeiten erhöhen und Fertigungskosten senken. Viele gute Gründe für die Einstell- und Messgeräte von ZOLLER. </strong></p> <p>Für spanende Fertigungen sind exakte Werkzeugmessdaten unerlässlich, um sichere Prozesse und erstklassige Ergebnisse zu erzielen. Die Einstell- und Messgeräte von ZOLLER liefern diese Daten mit µm-genauer Präzision. ZOLLER geht noch einen Schritt weiter. Die Bedienung der Geräte ist so einfach, dass jede Messung unabhängig vom Bediener immer zu präzisen Messwerten führt. </p> <p>Einstellen und Messen mit ZOLLER bedeutet, dass Sie die Verantwortung für das Ergebnis verlagern – vom Menschen auf die Messgeräte. Angesichts von Fachkräftemangel und hohem Kostendruck in den Fertigungen, ist es die beste Entscheidung, Werkzeuge von einem ZOLLER-Gerät messen zu lassen. </p> <p><a class=\"btn\" href=\"/produkte/einstellen-messen\">Produkte anzeigen</a> <a href=\"/wirtschaftlichkeitsrechner\">Einsparpotenzial ermitteln</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c616",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c615",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Rüstzeit sinkt um über 40 % </h2>",
+   "body": "<p>Wenn Sie nur fünf Werkzeuge auf einem Einstell- und Messgerät von ZOLLER messen, bevor die Werkzeuge auf die Maschine kommen, reduzieren Sie die Rüstzeit um mehr als 40 %.</p> <p>Das hauptzeitparallele Rüsten mit ZOLLER öffnet den Weg zu hohen Einsparmöglichkeiten. Je nachdem, wie viele Werkzeugwechsel anfallen, können die Kostensenkungen pro Schicht und CNC-Maschine 15.000 Euro im Jahr betragen. Abhängig vom Einstell- und Messgerät und der Konfiguration kann sich Ihre Investition in wenigen Monaten amortisieren. </p> <p><a class=\"btn\" href=\"/solutions/einstellen-messen\">Jetzt Einsparpotenzial ermitteln</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c621",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Mehr Daten, mehr Werkstückqualität </h2>",
+   "body": "<p class=\"large-text\">Die Messtechnik einer CNC-Maschine erfasst im Regelfall nur die Werkzeuglänge. Das reicht nicht aus, um die hohen Präzisionspotenziale einer Maschine ausschöpfen.</p> <p class=\"large-text\">Mit ZOLLER erhalten Sie detaillierte Geometriedaten, mit denen CNC-Maschinen noch exakter produzieren können. Höchste Qualität aus Ihrer Fertigung. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/d/csm_presetting_01_59fab0dfc1.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c620",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Bessere Produktivität </h2>",
+   "body": "<p class=\"large-text\">Maschinenstillstand ist teuer und unnötig. Wenn Werkzeuge voreingestellt auf die Maschine kommen, starten Sie früher mit dem nächsten Auftrag. Maximieren Sie jetzt Ihre Produktivität mit einem Einstell- und Messgerät von ZOLLER.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/5/csm_presetting_02_f4a2e05503.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c619",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Standzeit maximal nutzen </h2>",
+   "body": "<p class=\"large-text\">Mit einem Einstell- und Messgerät von ZOLLER wissen Sie schon vor einem Fertigungslauf, ob ein Werkzeug noch intakt ist, oder nicht. Durch Einstellen und Messen überprüfen Sie regelmäßig die Schneidenqualität. Sie verhindern unproduktive Werkzeugwechsel und nutzen die Standzeit komplett aus. Einstellen und Messen mit ZOLLER steigert die Wirtschaftlichkeit Ihrer Produktion. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/a/csm_presetting_03_f94d19dc0f.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c618",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Skalierbares Einsparpotenzial je CNC-Maschine pro Jahr*:",
+   "value": "15.000 €",
+   "note": "* berechnet für 20 Werkzeugwechsel je 3 Min. Wechselzeit,",
+   "ftype": "zoller_count-banner",
+   "id": "c617",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Einstell- und Messgeräte </h2>",
+   "items": [
+    {
+     "href": "/produkte/einstellen-messen/vertikale-geraete/smile",
+     "title": "»smile«",
+     "text": "<p>Die robusten, µm-genauen Einstiegsgeräte für Standardwerkzeuge</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/produkte/einstellen-messen/vertikale-geraete/venturion",
+     "title": "»venturion«",
+     "text": "<p>Exzellente Werkzeug­ein­stellung und ‑vermessung mit vielen Optionen</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/produkte/einstellen-messen/horizontale-geraete/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>Das horizontale Einstell- und Messgerät für die Drehfertigung</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1621",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Produktivitätssteigerung durch ZOLLER Einstell- und Messgeräte</p> <p>Der ZOLLER Wirtschaftlichkeitsrechner kalkuliert das Einsparpotenzial Ihres Betriebs.</p>",
+   "button": "<a class=\"btn\" href=\"/wirtschaftlichkeitsrechner\">Jetzt Einsparpotenzial ermitteln</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4275",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Start with a Solution – Enter a System.",
+     "href": "/das-system",
+     "caption": "<figcaption> <h3>Start with a Solution – Enter a System.</h3> <p>Unsere Kunden profitieren von ganzheitlichen Lösungsansätzen, die wir seit Jahrzehnten vorantreiben. Das Resultat: Exzellente Effizienz. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

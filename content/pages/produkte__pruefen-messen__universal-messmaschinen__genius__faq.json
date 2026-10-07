@@ -1,0 +1,550 @@
+{
+ "path": "/produkte/pruefen-messen/universal-messmaschinen/genius/faq",
+ "url": "/produkte/pruefen-messen/universal-messmaschinen/genius/faq",
+ "title": "»genius« – FAQ",
+ "description": "FAQ - »genius« – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Prüfen & Messen /",
+   "href": "/produkte/pruefen-messen"
+  },
+  {
+   "label": "Universal-Messmaschinen /",
+   "href": "/produkte/pruefen-messen/universal-messmaschinen"
+  },
+  {
+   "label": "»genius« /",
+   "href": "/produkte/pruefen-messen/universal-messmaschinen/genius"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Prüfen & Messen /",
+   "href": "/produkte/pruefen-messen"
+  },
+  {
+   "label": "Universal-Messmaschinen /",
+   "href": "/produkte/pruefen-messen/universal-messmaschinen"
+  },
+  {
+   "label": "»genius« /",
+   "href": "/produkte/pruefen-messen/universal-messmaschinen/genius"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen/universal-messmaschinen/genius/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring/universal-measuring-machines/genius/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genio/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer/machine-de-mesure-universelle/genius/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao/maquina-de-medicao-universal/genius/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione/macchine-di-misura-universali/genius/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta/universella-maetmaskiner/geni/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen/universal-messmaschinen/genius/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring/universal-measuring-machines/genius/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/genie/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E6%B1%8E%E7%94%A8%E6%B8%AC%E5%AE%9A%E6%A9%9F/genius/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/genius/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring/universal-measuring-machines/genius/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao/maquinas-de-medicao-universais/genius/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»genius«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/genius",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/genius/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/genius/software-integration",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/genius/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/genius/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/genius/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/genius/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c817",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Häufig gestellte Fragen</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c805",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Was ist der Hauptunterschied zwischen Einstellgeräten und Inspektionsgeräten?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>An Inspektionsgeräten gibt es zusätzliche Achsen, Sensoren und Kameras, um Zerspanungswerkzeuge vollumfänglich vermessen zu können.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c808",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Welche Werkzeuge werden an den ZOLLER-Maschinen vermessen?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Alle rotierend bearbeitenden Zerspanungswerkzeuge können an den ZOLLER-Inspektionsgeräten vermessen werden. Zusätzlich können feststehende Werkzeuge wie Wendeschneidplatten mit unseren speziellen Adaptern problemlos nach Kundenwunsch vermessen werden.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c810",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kann ich die Inspektionsgeräte an eine Schleifmaschine anbinden?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Absolut, durch die Netzwerk­verbindung oder mit USB-Stick kann man die Werkzeugdatei aus Messgeräten zur Schleif­maschine, oder umgekehrt übertragen. Beispielweise bieten wir eine Dateischnittstelle für viele Programmiersysteme an.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c812",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Benötige ich viel Zeit zur Vermessung von Standardwerkzeugen?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Nein, in unserer Software befindet sich ein automatisch angelegtes Programm, der ZOLLER »elephant«. Mit dem Programm kann man die grundsätzlichen Geometrien ohne viele Einstellungen einfach vermessen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c831",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Was ist der Unterschied zwischen »genius« und »threadCheck«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER »threadCheck« basiert auf der Struktur des »genius«, hat aber eine zusätzliche Achse zur horizontalen Schwenkung und mehrere spezielle Programme zur Vermessung von Gewindewerkzeugen. Durch die Schwenkung kann man verzerrungsfrei die Kontur der Gewindeflanken richtig fokussieren und vermessen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c916",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kann ich an den Inspektionsgeräten nur Werkzeuge vermessen?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Nein, man kann verschiedene Objekte vermessen, z.B. auch Schleifscheiben oder ggf. das gefertigte Werkstück.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c918",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wie umfangreich können die Werkzeuge sein, um sie an den ZOLLER-Maschinen erfolgreich zu vermessen?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Unsere Inspektionsgeräte können auf Kundenwusch mit verschiedenen Kameras ausgestattet werden. Für die Werkzeughersteller, welche meistens Werkzeuge größer als Durchmesser 3 mm produzieren, empfehlen wir die Standardkamera für Makrowerkzeuge. Für die Mikro­werkzeug­hersteller empfehlen wir eine Mikrokamera für die Werkzeuge mit dem Durchmesser ab 0,4 mm.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c920",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Können auch Beginner schnell Werkzeuge an den Inspektionsgeräten vermenssen?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ja, wir können die vermessenen Werkzeuge in unserer Datenbank z.One speichern und jederzeit wieder aufrufen. Daher können auch Bediener mit wenig Erfahrung selbstständig die abgespeicherten Programme aufrufen. Das Werkzeug wird exakt nach Vorgabe vermessen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c922",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ist für die Installation ein klimatisierter Raum erforderlich?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ein klimatisierter Raum ist nicht erforderlich. Das Gerät kann in einem staubfreien Bereich in der Maschinenhalle installiert werden.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c924",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Gibt es Automationslösungen für die »genius«-Serie?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ja, wir können an alle Maschinen der Geräteserie »genius« eine Auto­matisierungs­anlage »roboSet 2« anbinden.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c926",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c806",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c804",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Prüfen & Messen: Ihre Vorteile",
+     "href": "/solutions/pruefen-messen",
+     "caption": "<figcaption> <h3>Prüfen &amp; Messen: Ihre Vorteile</h3> <p>Erfahren Sie, was mit ZOLLER bei Werkzeuginspektionen möglich ist. Prozessnahe Prüfungen oder Highend-Analysen bis hin zu SKP, Rauheit und dem Erstellen digitaler Zwillinge.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

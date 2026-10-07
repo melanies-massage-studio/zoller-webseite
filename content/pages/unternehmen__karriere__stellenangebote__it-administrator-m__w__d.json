@@ -1,0 +1,313 @@
+{
+ "path": "/unternehmen/karriere/stellenangebote/it-administrator-m/w/d",
+ "url": "/unternehmen/karriere/stellenangebote/it-administrator-m/w/d",
+ "title": "IT-Administrator (m/w/d)",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere/stellenangebote/it-administrator-m/w/d",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IT-Administrator (m/w/d)",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Ihr Benefit",
+     "href": "/unternehmen/karriere/stellenangebote/it-administrator-m/w/d/ihr-benefit",
+     "current": false
+    },
+    {
+     "label": "Bewerbung",
+     "href": "/unternehmen/karriere/stellenangebote/it-administrator-m/w/d/bewerbung",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c234311",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> IT-Systeme </h3> <h1> IT-Administrator (m/w/d) </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/IT_Administrator_2026_09_17_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Stellenangebot zum Download (pdf)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c234309",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Ihr Profil</h4><ul><li>Erfolgreich abgeschlossene Ausbildung im Bereich Informatik (z. B. Fachinformatiker Systemintegration) oder ein vergleichbares Studium mit IT-Schwerpunkt.</li><li>Mehrjährige Berufserfahrung in der Administration von Windows- und Linux-Systemen sowie im Betrieb komplexer IT-Infrastrukturen.</li><li>Fundierte Kenntnisse in den Bereichen Netzwerk, Firewall, VPN, Microsoft Azure, Microsoft Intune und Endpoint Management.</li><li>Erfahrung im 2nd- und 3rd-Level-Support sowie in der Analyse, Fehlerbehebung und nachhaltigen Lösung technischer Störungen.</li><li>Erfahrung in der Planung und Umsetzung von IT-Infrastrukturprojekten sowie bei der Einführung neuer Systeme und Technologien.</li><li>Selbstständige, strukturierte und lösungsorientierte Arbeitsweise verbunden mit hoher Serviceorientierung, Kommunikationsstärke und guten Deutsch- und Englischkenntnissen.<br/> </li></ul><h4>Ihre Aufgaben</h4><ul><li>Eigenständige Bearbeitung komplexer Störungen im 2nd- und 3rd-Level-Support einschließlich Fehler- und Root-Cause-Analyse.</li><li>Administration, Überwachung und Weiterentwicklung der Windows- und Linux-Serverlandschaft sowie zentraler Infrastruktur-Dienste unter Berücksichtigung der geltenden IT-Sicherheits- und Compliance-Vorgaben.</li><li>Analyse und Troubleshooting der Netzwerk-Infrastruktur einschließlich DNS, DHCP, VLAN, Routing, VPN sowie technische Administration von Firewall-Lösungen gemäß vorgegebenen Sicherheitsrichtlinien.</li><li>Sicherer und zuverlässiger Betrieb der IT-Infrastruktur.</li><li>Technische Konzeption, Planung und Umsetzung von Infrastrukturprojekten, Rollouts und Systemeinführungen sowie kontinuierliche Optimierung der IT-Infrastruktur.</li><li>Administration von Microsoft 365, Azure und Microsoft Intune einschließlich Endpoint Management, Softwareverteilung und Paketierung.</li><li>Benutzer- und Berechtigungsverwaltung sowie Betreuung nationaler und internationaler Standorte.</li><li>Automatisierung von Administrationsaufgaben durch Skripting sowie Durchführung von Backup- und Restore-Tests.</li><li>Lizenzmanagement und technische Dokumentation.<br/> </li></ul><h4>Ort</h4> <p>Pleidelsheim, Deutschland.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c234308",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c234310",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Online bewerben </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c234306",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Möchten Sie mit Ihrem Können zum Erfolg unseres Unternehmens beitragen? Dann freuen wir uns auf Ihre Bewerbung.</p> <p><a class=\"btn\" href=\"/unternehmen/karriere/stellenangebote/it-administrator-m/w/d/bewerbung\">Jetzt bewerben!</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c234305",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c234307",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ]
+}

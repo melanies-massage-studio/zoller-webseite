@@ -1,0 +1,473 @@
+{
+ "path": "/produkte/schrumpftechnik/powershrink/anwendungen",
+ "url": "/produkte/schrumpftechnik/powershrink/anwendungen",
+ "title": "»powerShrink« – Anwendungen",
+ "description": "Anwendungen - »powerShrink« – Anwendungen",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/produkte/schrumpftechnik/powershrink"
+  },
+  {
+   "label": "Anwendungen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/produkte/schrumpftechnik/powershrink"
+  },
+  {
+   "label": "Anwendungen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/powershrink/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/powershrink/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/powershrink/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/powershrink/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/powershrink/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/powershrink/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/powershrink/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/powershrink/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/powershrink/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/powershrink/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/powershrink/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/powershrink/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»powerShrink«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/schrumpftechnik/powershrink",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Modelle",
+     "href": "/produkte/schrumpftechnik/powershrink/modelle",
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/schrumpftechnik/powershrink/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/schrumpftechnik/powershrink/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/schrumpftechnik/powershrink/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/schrumpftechnik/powershrink/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/schrumpftechnik/powershrink/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1146",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Sicher und effizient zum Ziel </h1>",
+      "body": "<p><strong>Mit »powerShrink« von ZOLLER sind geschrumpfte Werkzeuge schnell einsatzbereit: dank intuitiv bedienbarer Software »pilot«, intelligentem Induktionssystem und der permanenten Überwachung der Arbeitsschritte.</strong></p> <p>Die Technologie des »powerShrink« sorgt für kürzeste Prozessfunktionen. Die daraus resultierenden kurzen Prozesszeiten erreichen auch unerfahrene Bedienerinnen und Bediener schon nach kurzer Einarbeitung. Die Bediensoftware »pilot« leitet Sie durch alle Arbeitsschritte und steuert viele Abläufe vollautomatisch. Die Software zeigt für jeden Arbeitsschritt die Komponente an, die benötigt wird, und unterstützt Sie visuell mithilfe von grafischen Anzeigen auf dem Bildschirm und dem wegweisenden ZOLLER-Bedienkonzept »actbyLight«. Die lichtgesteuerte Bedienerführung für den sicheren und effizienten Einsatz des »powerShrink« in Ihrem Unternehmen.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c1145",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/8/c/csm_ps_arbeitsschritte_01_1d67bafda1.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Schrumpffutter einsetzen, Heizparameter wählen (manuell/automatisch per »idChip«)</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/8/2/csm_ps_arbeitsschritte_02_7fbe9ad14e.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Abschirmsystem: Scheibe oder »varOct« (manuell/motorisch) einsetzen und ausrichten</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/f/3/csm_ps_arbeitsschritte_03_59a29571d3.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Spule nach unten bis auf Schrumpffutter verfahren</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/7/2/csm_ps_arbeitsschritte_04_d1d6b10cb5.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Heizvorgang starten, Heizfortschritt wird in Software dargestellt</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/2/4/csm_ps_arbeitsschritte_05_6a89d57efc.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Nach Heizvorgang Spule hochfahren, Schneidwerkzeu in Schrumpffutter einsetzen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/1/1/csm_ps_arbeitsschritte_06_c67d071d45.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Aufnahmetopf zur grün blinkenden Kühlglocke schieben und diese aufsetzen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/c/csm_ps_arbeitsschritte_07_243a8d8b98.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Kühlprozess startet automatisch, Ende wird blau blinkend angezeigt</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/9/8/csm_ps_arbeitsschritte_08_eaa3a6241a.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Nach Kühlprozessende Kühlglocke vom Schrumpffutter abnehmen</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2249",
+      "bg": "white",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2248",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Klar geführt und perfekt vernetzt </h2>",
+      "body": "<p>Die klar strukturierte grafische Darstellung der ZOLLER »pilot« Software leitet die Bedienerin und den Bediener mithilfe großer Funktions-Buttons und einem durchdachten Farbkonzept intuitiv und sicher Schritt für Schritt durch den Bediendialog. Der 12,5-Zoll-Monitor überzeugt dabei durch eine gestochen scharfe Darstellung.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c1207",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/c/a/csm_pilot_software_home_7c48c5a9b8.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Hauptmenü </strong>– große Funktionsflächen mit eindeutigen Bildern: Schrumpffuttertypen-Auswahl, Parameter-Auswahl oder Code scannen.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/e/csm_pilot_software_01_9cf8a9b735.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Parameter-Auswahl</strong> – die gewünschten Heizparameter können durch klare und verständliche Software-Funktionsflächen einfach und sicher ausgewählt werden.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/a/4/csm_pilot_software_02_804c34930c.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Scan-Funktion</strong> – alle zum Schrumpffutter passenden Parameter werden automatisch geladen – unabhängig vom Hersteller. Die Überwachung der Anzahl an Heizvorgängen und die Informationsanzeige je Schrumpffutter ist möglich.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/d/9/csm_pilot_software_03_ce773da547.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>S<strong>chrittweise Führung</strong> – während des gesamten Schrumpfprozesses zeigt Ihnen »pilot« ganz genau an, welchen Schritt Sie wann durchführen.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/e/4/csm_pilot_software_04_1b1ee4dc49.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Statusanzeigen</strong> – ob Heiz- oder Kühlvorgang, »pilot« zeigt Ihnen jederzeit den Prozessfortschritt sowie wichtige Sicherheitshinweise an.</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2452",
+      "bg": "white",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2450",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Schrumpftechnik: Ihre Vorteile",
+     "href": "/solutions/schrumpftechnik",
+     "caption": "<figcaption> <h3>Schrumpftechnik: Ihre Vorteile</h3> <p>Lesen Sie, wie wir die hohen Steigerungen bei Energieeffizienz, Prozessgeschwindigkeit und Ergonomie erzielt haben. Nutzen Sie Perfektion für Ihre Fertigung. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

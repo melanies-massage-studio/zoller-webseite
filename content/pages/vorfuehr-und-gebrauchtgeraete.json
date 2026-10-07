@@ -1,0 +1,295 @@
+{
+ "path": "/vorfuehr-und-gebrauchtgeraete",
+ "url": "/vorfuehr-und-gebrauchtgeraete",
+ "title": "Vorführ- und Gebrauchtgeräte",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/vorfuehr-und-gebrauchtgeraete",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/demonstration-and-used-appliances",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_gebrachtgeraete_header_v3_e37d9bf313.webp",
+     "video": null,
+     "title": "Hohe Zuverlässigkeit",
+     "kicker": "",
+     "text": "<p>Die Vorführ- und Gebrauchtgeräte von ZOLLER</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7998",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Vorführ- und Gebrauchtgeräte",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Angebotsübersicht",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+     "current": false
+    },
+    {
+     "label": "Vertriebs-Anfrage",
+     "href": "/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c8040",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Schnell zu mehr Effizienz </h2>",
+   "body": "<p class=\"extra-large-text\">Steigern Sie die Fertigungseffizienz mit den kurzfristig verfügbaren Vorführ- und Gebrauchtgeräten von ZOLLER. Entdecken Sie erstklassige Lösungen für Werkzeug­einstellung, Werkzeug­inspektion, Ein- und Ausschrumpfen, Wuchten, Werkzeug­aufbewahrung und -transport sowie den automatisierten Transfer von Werkzeugdaten.</p> <p class=\"extra-large-text\">Alle Geräte wurden von uns geprüft. Jedes arbeitet µm-genau wie am ersten Tag und ist bereit für viele Jahre in Ihrer Fertigung.</p> <p><a class=\"btn\" href=\"/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht\">Vorführ- und Gebrauchtgerät auswählen</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c7999",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Starke Vorteile, sofort verfügbar</h4> <p>Profitieren Sie von den besonderen Stärken unserer Vorführ- und Gebrauchtgeräte: </p><ul><li>kurze Lieferfristen, schnell einsatzbereit</li><li>größtenteils Vorführgeräte mit geringen Einsatzzeiten</li><li>viele Konfigurationen verfügbar</li><li>laufend weitere Angebote</li></ul>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_speed_67f9d7ee68.webp",
+        "alt": "",
+        "w": 395,
+        "h": 258
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8032",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Geprüfte Qualität, die sich auszahlt</h4> <p>Jedes Gerät steht für die überragende Wertigkeit von ZOLLER:</p><ul><li>geprüfte Premiumtechnologie</li><li>hochwertige Komponenten</li><li>langlebige Konstruktion</li><li>schnelle Amortisation</li><li>µm-genaues Messen in der Fertigung</li><li>erweiterbar im ZOLLER-System</li></ul>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/8/a/csm_certified_e62086c7dd.webp",
+        "alt": "",
+        "w": 219,
+        "h": 258
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8033",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8031",
+   "bg": "yellow",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ]
+}

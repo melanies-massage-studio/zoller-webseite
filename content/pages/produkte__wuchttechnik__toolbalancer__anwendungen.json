@@ -1,0 +1,535 @@
+{
+ "path": "/produkte/wuchttechnik/toolbalancer/anwendungen",
+ "url": "/produkte/wuchttechnik/toolbalancer/anwendungen",
+ "title": "»toolBalancer« – Anwendungen",
+ "description": "Anwendungen - »toolBalancer« – Anwendungen",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Wuchttechnik /",
+   "href": "/produkte/wuchttechnik"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/produkte/wuchttechnik/toolbalancer"
+  },
+  {
+   "label": "Anwendungen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Wuchttechnik /",
+   "href": "/produkte/wuchttechnik"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/produkte/wuchttechnik/toolbalancer"
+  },
+  {
+   "label": "Anwendungen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/wuchttechnik/toolbalancer",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/wuchttechnik/toolbalancer/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/wuchttechnik/toolbalancer/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/wuchttechnik/toolbalancer/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/wuchttechnik/toolbalancer/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1052",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Anwendungen </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1089",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Bediensoftware »toolBalancer« in 25 Sprachen",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Intuitive Software mit grafischer Bedienoberfläche zum schnellen und einfachen Wuchten in einer oder zwei Ebenen inkl. umfangreicher Standardfunktionen.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/7/csm_Bediensoftware_toolBalancer_DE_7deb604e59.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1094",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Touchscreen",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Komfortable Bedienung der Software über Touchscreen.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/8/csm_Touchscreen_DE_de8f698266.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1092",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Optische Eindrehhilfe",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Grafische Anzeige der Winkelposition der Spindel auf Monitor.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/2/csm_Optische_Eindrehhilfe_DE_74944f939a.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1098",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wuchtausgleich",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p><strong>Wuchtkorrektur „Verschiedene Gewichte“ </strong><br/>Ausgleich der Unwucht durch Anbringen oder Entfernen von Gewichten (z. B. Wuchtschrauben). Inkl. Vorgabemöglichkeit von vorhandenen Gewichtssätzen.</p> <p><strong>Wuchtkorrektur „Gewichte verschieben“</strong><br/>Ausgleich der Unwucht durch Verdrehen von Wuchtringen oder Nutensteinen.</p> <p><strong>Wuchtkorrektur „Bohren radial“</strong><br/>Ausgleich der Unwucht durch radiales Bohren. Automatische Berechnung von Anzahl, Winkelposition und Tiefe der Bohrungen.</p> <p><strong>Wuchtkorrektur „Fräsen“</strong><br/>Ausgleich der Unwucht durch radiale, tangentiale oder axiale Fräsbearbeitung.</p> <p><strong>Wuchtkorrektur „Bohren axial“</strong><br/>Ausgleich der Unwucht durch axiales Bohren. Automatische Berechnung von Anzahl, Winkelposition und Tiefe der Bohrungen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1097",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Lasermarkierung",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Anzeige der Unwucht- und Korrekturposition am Futter über Laserstrahl.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/4/e/csm_Lasermarkierung_DE_89b2795da8.webp",
+            "alt": "",
+            "w": 1012,
+            "h": 703
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1101",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wuchten in einer Ebene",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zum Messen und Ausgleich der Unwucht in einer Ebene (statisch).</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/6/csm_Wuchten_in_1_Ebene_DE_23e1e800e4.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1102",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wuchten in zwei Ebenen",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zum Messen und Ausgleich der Unwucht in zwei Ebenen (dynamisch).</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/6/1/csm_Wuchten_in_2_Ebenen_DE_b11238d497.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1105",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ergebnis Datenausgabe",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p><strong>Etikettendruck</strong><br/>Ausgabe der Messergebnisse in einer oder zwei Ebenen auf ZOLLER-Etikettendrucker.</p> <p><strong>Protokolldruck</strong><br/>Ausgabe des Messprotokolls als Ausdruck auf Laserdrucker oder als PDF-Datei inkl. Editierfunktion.</p> <p><strong>Messdatenexport</strong><br/>Automatischer Export von Messdaten im CSV-Format.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1106",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1090",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1088",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Wuchttechnik: Ihre Vorteile",
+     "href": "/solutions/wuchttechnik",
+     "caption": "<figcaption> <h3>Wuchttechnik: Ihre Vorteile</h3> <p>Wuchten wird unterschätzt. Dabei führt Wuchten zu mehr Wirtschaftlichkeit, weil es kostentreibenden Werkzeugverschleiß reduziert und Maschinenspindeln entlastet. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

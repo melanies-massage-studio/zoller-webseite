@@ -1,0 +1,434 @@
+{
+ "path": "/werkzeug-auswuchten",
+ "url": "/werkzeug-auswuchten",
+ "title": "Werkzeug auswuchten",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Werkzeug auswuchten",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Werkzeug auswuchten",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "Werkzeug auswuchten leicht gemacht",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Unwuchten in Ihrem Werkzeug werden schnell in mehrfacher Hinsicht zu einem Problem: Sie laufen unrund, belasten Spindel und Maschine, beeinträchtigen die Zerspanleistung und schließlich Ihre gesamte Prozesssicherheit.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Welche Folgen hat die Unwucht im Werkzeug? </h2>",
+   "body": "<p>Unruhig laufende Werkzeuge lassen sich nicht dauerhaft mit der gleichen Präzision einsetzen, die Sie für Ihre Arbeiten benötigen. Durch die auftretenden Schwingungen vermindert sich nicht nur die Zerspanleistung insgesamt, es entstehen an den Werkstücken zudem Artefakte wie z.B. Rattermarken, die ggf. nachbearbeitet werden müssen. Unwuchten im Werkzeug führen somit zu ganz konkreten Qualitätseinbußen und gefährden die Prozesssicherheit Ihrer Abläufe.</p> <p>Darüber hinaus wird durch die Unwuchten auch die Lebensdauer der Spindel und womöglich der Maschine reduziert – die Kosten dafür übersteigen schnell die Aufwände, die durch häufigeres Auswuchten der Werkzeuge entsteht.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Was bedeutet Unwucht? </h2>",
+   "body": "<p>Mit dem Begriff der „Unwucht“ wird bei rotierenden Körpern das allgegenwärtige Phänomen beschrieben, dass ihre Masse nicht drehsymmetrisch über den Körper verteilt ist. Dabei unterscheidet man im Wesentlichen zwischen drei Arten der Unwucht:</p><ul><li>Statische Unwucht: Hier liegt der Schwerpunkt des rotierenden Körpers außerhalb der Drehachse. Dies ist bereits im Stillstand messbar.</li><li>Momentenunwucht: Der Schwerpunkt liegt auf der Drehachse, erst in der Drehbewegung wird die Unwucht messbar.</li><li>Dynamische Unwucht: Im Begriff der dynamischen Unwucht sind die beiden anderen Unwuchtformen vereint, in einer beliebigen Kombination von statischer Unwucht und Momentenunwucht. Dies ist bei technischen Rotoren der Regelfall.</li></ul><p>Jede spezifische Form der Unwucht kann durch jeweils eigene, angemessene Anpassungen am rotierenden Körper ausgeglichen werden.</p> <p>Während der Drehung macht sich eine Unwucht umso stärker bemerkbar, je größer die Unwucht ist (lineares Wachstum) und je schneller die Drehbewegung ist (quadratisches Wachstum). Je schneller die Rotationsbewegung ist, umso wichtiger wird das Wuchten, umso wichtiger ist es, die Restunwucht so stark wie möglich zu reduzieren. Das Auswuchten sollte also systematisch in den Arbeitsprozess eingebaut werden.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wodurch entstehen Unwuchten im Werkzeugbetrieb? </h2>",
+   "body": "<p>In rotierenden Werkzeugsystemen sind Unwuchten ein bekanntes und regelmäßig auftretendes Phänomen. Für ihre Entstehung gibt es verschiedene mögliche Ursachen, zum Beispiel:</p><ul><li>Ein Werkzeug aus mehreren Einzelteilen wurde nicht korrekt montiert – etwa wenn die Werkzeugaufnahme und das Werkzeug nicht exakt in der richtigen Flucht stehen und von der Drehachse abweichen.</li><li>Die Massenverteilung des Werkzeugs war schon bei der Fertigung unsymmetrisch – hier müssen die Fertigungstoleranzen der Hersteller beachtet und ggf. überprüft werden.</li><li>Der Rotor selbst bzw. die Werkzeugaufnahme ist durch seine bzw. ihre Konstruktionsweise unsymmetrisch gebaut (z.B. Spannschraube in einem Fräsadapter (Weldon-Aufnahme)).</li></ul><p>Selbst mit feingewuchteten Werkzeugaufnahmen kann durch die Kombination der Aufnahmen mit dem konkreten Werkzeug wieder eine Unwucht entstehen. Diese zu messen und ggf. zu korrigieren ist von großer Bedeutung.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Warum ist das Auswuchten von Werkzeugen so wichtig? </h2>",
+   "body": "<p>Bei der Hochgeschwindigkeitsbearbeitung von Werkstücken mit rotierenden Werkzeugsystemen macht sich jede kleine Ungenauigkeit, jeder Mangel an Präzision, unter Umständen sehr schnell und sehr deutlich bemerkbar. Eine Unwucht im Werkzeug kann Vibrationen verursachen, mit Sicherheit aber unruhigen Lauf.</p> <p>Beides beeinträchtigt die Genauigkeit, mit der das Werkzeug arbeitet, und erhöht immer das Risiko von Artefakten und Schäden am Werkstück: Die Oberflächengüte verringert sich, es kann Ausschuss entstehen. Da Ihre Prozesse aber stark davon abhängig sind, dass korrekt bearbeitete Endergebnisse entstehen, machen nicht feingewuchtete Werkzeuge ausführlichere Qualitätskontrollen notwendig. Eventuell werden auch Nachbearbeitungen notwendig, auf jeden Fall ist die Prozesssicherheit nicht gewährleistet.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Fehlendes Auswuchten kostet bares Geld </h2>",
+   "body": "<p>Die Folge können Verzögerungen im Produktionsprozess sein, die sich wiederum direkt auf Ihre Fähigkeit auswirken, pünktlich die bestellte Menge in der notwendigen Qualität auszuliefern.</p> <p>Hinzu kommt noch der Umstand, dass unruhig laufende Werkzeuge insbesondere durch die Vibrationen die Lebensdauer der Drehspindel reduzieren können – auch dies ein Kostenfaktor, der nicht gering zu achten ist.</p> <p>Gewuchtetes Werkzeug ist also gut für die Werkstücke und für die Maschinen.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Faustregel: Oft gewuchtet, selten bereut! </h2>",
+   "body": "<p><strong>Als Faustregel gilt deshalb:</strong> Lieber rechtzeitig und häufiger auswuchten als am Ende die Kosten tragen. Generell sollte ein Werkzeug schon dann neu ausgewuchtet werden, wenn es mit veränderter Drehzahl eingesetzt wird – denn auch diese Veränderung kann deutliche Unterschiede in der Laufruhe verursachen.</p> <p>Regelmäßiges Auswuchten erhöht die Produktivität und die Qualität Ihrer Arbeit.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Werkzeug auswuchten: Wie geht‘s? </h2>",
+   "body": "<p>Generell gibt es drei Möglichkeiten, um eine Unwucht zu beheben bzw. zu beseitigen:</p><ul><li>Masse gezielt hinzufügen (z.B. durch Zusatzgewichte)</li><li>Masse entfernen (z.B. durch Bohrung oder Schleifen)</li><li>Masse verstellen (z.B. durch geeignete Drehringe)</li></ul><p>Um den Prozess speziell für Werkzeuge zu erleichtern und präzise durchführen zu können, empfiehlt sich der Einsatz einer Auswuchtmaschine mit geeigneter Software. Hier wird zunächst das Werkzeug in eine Wuchtspindel eingesetzt und in Rotation versetzt, um die auftretenden Fliehkräfte zu messen.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Automatisch berechneter Unwuchtausgleich </h2>",
+   "body": "<p>Aus diesen Messdaten wird dann vom Auswuchtsystem der Unwuchtausgleich berechnet. Bei einer fortschrittlichen Wuchtmaschine können die Maßnahmen dann unmittelbar umgesetzt werden, das Feinwuchten wird so fortgesetzt, bis keine Restunwucht mehr messbar ist oder alle Werte in einem akzeptablen Toleranzbereich sind.</p> <p>Auf diese Weise dauert das Wuchten also nicht einmal besonders lange, die ungleich verteilte Masse kann schnell ausgeglichen werden.</p> <p>Ein hochgenaues und weitgehend automatisches Auswuchtsystem ist auch deshalb sinnvoll, weil es die Möglichkeit gibt, Werkzeuge bei jeder Umstellung erneut und zugleich zügig auszuwuchten. So wird verhindert, dass es durch veränderte Anforderungen, Drehzahlen oder Werkstoffe zu Qualitätseinbußen kommt, ohne dass die Geschwindigkeit der Arbeit darunter leidet.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Effizientes Auswuchten mit dem ZOLLER »toolBalancer« </h3>",
+      "body": "<p>Feingewuchtete Werkzeuge auch für die Arbeit mit hohen Umdrehungszahlen: Dafür ist der ZOLLER »toolBalancer« das perfekte Auswuchtsystem. Mit seiner modularen Bauweise lässt es sich nicht nur individuell an Ihre ganz speziellen Anforderungen anpassen, sondern hat auch reichlich Spielraum für zukünftige Entwicklungen.</p> <p>Das hochgenaue Auswuchtsystem eignet sich für Werkzeugaufnahmen, Schleifscheiben und Rotoren, und garantiert Ihnen messbar niedrigere Ausschussquoten, Maschinenstillstandszeiten, Produktionskosten und Lieferzeiten.</p> <h3><br/>Die Vorteile im Überblick:</h3><ul><li><strong>Weniger Verschleiß</strong> und mehr Zerspanleistung durch hochgenau ausgewuchtete Werkzeuge</li><li>Die<strong> modulare Bauweise</strong> erlaubt individuelle Anpassungen</li><li>Die <strong>selbsterklärende Bedienung</strong> des Systems vermeidet unnötige und teure Fehler</li><li><strong>Komfortable Nutzung</strong> mit Touchscreen, Tastatur und Maus</li></ul><p><a class=\"btn\" href=\"/produkte/wuchttechnik/toolbalancer\">Erfahren Sie alles zu den Möglichkeiten des ZOLLER »toolBalancer«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Wuchttechnik: Ihre Vorteile",
+     "href": "/solutions/wuchttechnik",
+     "caption": "<figcaption> <h3>Wuchttechnik: Ihre Vorteile</h3> <p>Wuchten wird unterschätzt. Dabei führt Wuchten zu mehr Wirtschaftlichkeit, weil es kostentreibenden Werkzeugverschleiß reduziert und Maschinenspindeln entlastet. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

@@ -1,0 +1,313 @@
+{
+ "path": "/mechatroniker-m/w/d",
+ "url": "/mechatroniker-m/w/d",
+ "title": "Mechatroniker (m/w/d)",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/mechatroniker-m/w/d",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Mechatroniker (m/w/d)",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Ihr Benefit",
+     "href": "/mechatroniker-m/w/d/ihr-benefit",
+     "current": false
+    },
+    {
+     "label": "Bewerbung",
+     "href": "/mechatroniker-m/w/d/bewerbung",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c99259",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Elektrokonstruktion </h3> <h1> Mechatroniker (m/w/d) </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/Mechatroniker_2026_07_02_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Stellenangebot zum Download (pdf)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c99219",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Ihr Profil</h4><ul><li>Eine erfolgreich abgeschlossene Ausbildung zum Mechatroniker (m/w/d)</li><li>Erfahrung im Sondermaschinen- und Schaltschrankbau, Instandhaltung, Reparaturen und Umbaumaßnahmen</li><li>Sicherheit im Lesen von Maschinen-, Werkzeugzeichnungen und Schaltplänen</li><li>Kenntnisse im Bereich Steuer- und Regelungstechnik von Vorteil </li><li>Kenntnisse im Bereich Pneumatik von Vorteil • Kenntnisse im Bereich der Arbeitssicherheit</li><li>Guter Umgang mit MS-Office-Anwendungen und MS-Teams</li><li>Kenntnisse mit ERP-Systemen von Vorteil</li><li>Flexibilität, Zuverlässigkeit, Gewissenhaftigkeit, und Selbstständigkeit</li><li>Teamfähigkeit<br/> </li></ul><h4>Ihre Aufgaben</h4><ul><li>Eigenverantwortliche Montage und fachgerechte Inbetriebnahme kompletter Maschinen, Sondermaschinen und Prototypen sowie Montage der Unterbaugruppen und pneumatischen Komponenten</li><li>Sicherstellung optimaler Maschinenfunktionalität</li><li>Installation von elektrotechnischen Komponenten/ Schaltschrankbau</li><li>Durchführen von elektr. Abnahme- und Messprotokollen</li><li>Erstellen von Montageberichten</li><li>Unterstützung bei der Fehlerbehebung von Standardmaschinen in der Montage<br/> </li></ul><h4>Ort</h4> <p>Pleidelsheim, Deutschland.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c99199",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c99239",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Online bewerben </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c99159",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Möchten Sie mit Ihrem Können zum Erfolg unseres Unternehmens beitragen? Dann freuen wir uns auf Ihre Bewerbung.</p> <p><a class=\"btn\" href=\"/mechatroniker-m/w/d/bewerbung\">Jetzt bewerben!</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c99139",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c99179",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ]
+}

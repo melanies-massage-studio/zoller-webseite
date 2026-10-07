@@ -1,0 +1,534 @@
+{
+ "path": "/ruestzeitoptimierung",
+ "url": "/ruestzeitoptimierung",
+ "title": "Rüstzeitoptimierung",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Rüstzeitoptimierung",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Rüstzeitoptimierung",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ruestzeitoptimierung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/setup-time-optimization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/optimisation-du-temps-de-preparation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/ottimizzazione-dei-tempi-di-attrezzaggio",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/optimering-av-foerberedelsetiden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ruestzeitoptimierung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/setup-time-optimization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/optimisation-des-temps-de-preparation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%BA%96%E5%82%99%E6%99%82%E9%96%93%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A4%80%EB%B9%84-%EC%8B%9C%EA%B0%84-%EC%B5%9C%EC%A0%81%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/setup-time-optimization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_ruesten_header_8622b0d406.webp",
+     "video": null,
+     "title": "Warum Rüstzeitoptimierung?",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8076",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Fast keine Maschine, keine Anlage stellt heutzutage nur ein Produkt her – in der Regel werden sie je nach Bedarf für unterschiedliche Produkte umgestellt. Dadurch entstehen Rüstzeiten, in denen die Maschine in der Regel nichts produziert.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8048",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Was bedeutet Rüstzeit? </h2>",
+   "body": "<p>Die Rüstzeit ist jener Zeitraum, in dem die Maschine oder Anlage von der Herstellung eines Produktes auf ein anderes umgestellt wird. Wird zum Beispiel Stückgut hergestellt, ist die Definition von Rüstzeit: Die Zeit vom letzten Gutteil des alten Loses bis zum ersten Gutteil des neuen Loses.</p> <p>Rüstzeit ist also nicht im eigentlichen Sinne „Verschwendung“, da sie aber zumindest teilweise Maschinenstillstandszeiten bedeutet, reduziert sich mit längeren Rüstzeiten natürlich die Produktivität und Effektivität Ihrer Produktionsanlagen.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8049",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Wie optimiere ich die Rüstzeit? </h2>",
+      "body": "<p>Die Rüstzeit zu optimieren heißt vor allem: Rüstzeit minimieren! Um dieses Ziel zu erreichen gibt es verschiedene Ansätze.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8051",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Rüstvorgänge analysieren",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Jedem Verbesserungsprozess zur Rüstzeitreduzierung geht auf jeden Fall eine Analyse der Rüstvorgänge voran: Welche Schritte sind notwendig? Welche werden derzeit gemacht, wie viel Zeit muss dafür angewandt werden? In welcher Reihenfolge werden die Schritte durchgeführt, kann dies auch verändert werden? Welche Schritte sind wirklich nötig, welche lassen sich optimieren?</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Losgrößen optimieren",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zu einer gründlichen Analyse gehört auch die Fragestellung: Ist es möglich, die Anlagen insgesamt seltener umzurüsten, also die Zahl der Produktwechsel zu reduzieren? Seltenere Rüstvorgänge sind natürlich auch weniger zeitintensiv und sparen damit bares Geld. Zugleich sind die dadurch eingesparten Kosten klar abzuwägen gegen den Wunsch, die Lagerhaltung möglichst niedrig zu halten, also keine Überproduktion von Waren herbeizuführen. Und natürlich soll bei all dem die Anlagenauslastung möglichst hoch bleiben.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Externes Rüsten",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Im Rahmen der Rüstzeit unterscheidet man zwischen dem externen Rüsten (Tätigkeiten, die auch bei laufender Produktionsanlage möglich sind) und dem internen Rüsten (für das die Anlage stillstehen muss). Hier ist es natürlich in Ihrem Interesse, das interne Rüsten, das Produktivitätseinbußen erzwingt, möglichst kurz zu halten.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8058",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Digitalisierung und Automatisierung",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Mit modernen Maschinen ist die gründliche Digitalisierung und Automatisierung der Rüstprozesse eine entscheidende Maßnahme. Werkzeugvoreinstellgeräte können zum Beispiel die notwendigen Werkzeugdaten für eine CNC-Werkzeugmaschinen vorab ermitteln, also Werkzeuge messen und direkt die richtigen Einstellungen vornehmen. Auf diese Weise sinkt die interne Rüstzeit dramatisch, zudem verhindert die elektronische Datenübermittlung Fehler beim Übertrag.</p> <p>Da die externe Messung auf dem Einstell- und Messgerät stattfinden kann, während die Maschine selbst noch einen anderen Auftrag abarbeitet, wird weitere Zeit gespart: Sobald die Maschine bereit steht, können die Werkzeuge direkt eingesetzt werden. Der Stillstand der Maschine muss nicht für die Laser-Vermessung unnötig verlängert werden.</p> <p><a class=\"btn\" href=\"/produkte/einstellen-messen\"><strong>Werkzeuge messen und direkt die richtigen Einstellungen vornehmen</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Schulung",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Bei allen Rüsttätigkeiten – ob manuell oder elektronisch, extern oder intern – geht nichts über gut ausgebildete Rüstarbeiter. Wenn die Mitarbeiter in Rüstworkshops und an Trainingsmaschinen gut ausgebildet sind, passieren weniger Fehler und werden Schwierigkeiten schon frühzeitig erkannt, bevor es zu Produktivitätsausfällen kommt.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt/training-und-schulungen\">Zu den ZOLLER-Schulungen</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8062",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8052",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8050",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Was sind die Vorteile durch Rüstzeit­optimierung? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8064",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Höhere Effizienz und Produktivität",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Je kürzer die Rüstzeiten sind, je geringer ihr Anteil an der Arbeitszeit der Mitarbeiter ist, desto mehr Zeit können die Maschinen das tun, was sie eigentlich tun sollen: Produzieren. Damit erhöht sich die Gesamtproduktivität Ihrer Prozesse deutlich.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8075",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kostenreduzierung",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Geringere Rüstzeiten reduzieren auch Ihre Kosten – nicht nur durch höhere Effizienz, sondern auch durch eine Optimierung aller ineinandergreifenden Prozesse.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8073",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Standardisierung",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Eine gründliche Analyse der Rüstzeiten und der in ihnen notwendigen Arbeitsschritte erlaubt eine Standardisierung der Prozesse über die einzelne Anlage hinaus. Diese wiederum lassen sich in klarere Richtlinien und Schulungsunterlagen für Ihre Mitarbeiter umsetzen. Das gibt den Mitarbeitern zusätzliche Orientierung und Sicherheit – und erleichtert auch die Umstellung bei Anlagen, die den Mitarbeitern noch nicht so vertraut sind.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8071",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8065",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8063",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Start with a Solution – Enter a System.",
+     "href": "/das-system",
+     "caption": "<figcaption> <h3>Start with a Solution – Enter a System.</h3> <p>Unsere Kunden profitieren von ganzheitlichen Lösungsansätzen, die wir seit Jahrzehnten vorantreiben. Das Resultat: Exzellente Effizienz. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

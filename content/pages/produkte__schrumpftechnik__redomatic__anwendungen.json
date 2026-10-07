@@ -1,0 +1,512 @@
+{
+ "path": "/produkte/schrumpftechnik/redomatic/anwendungen",
+ "url": "/produkte/schrumpftechnik/redomatic/anwendungen",
+ "title": "»redomatic« – Anwendungen",
+ "description": "Anwendungen - »redomatic« – Anwendungen",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»redomatic« /",
+   "href": "/produkte/schrumpftechnik/redomatic"
+  },
+  {
+   "label": "Anwendungen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»redomatic« /",
+   "href": "/produkte/schrumpftechnik/redomatic"
+  },
+  {
+   "label": "Anwendungen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/redomatic/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/redomatic/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/redomatic/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/redomatic/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/redomatic/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/redomatic/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/redomatic/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/redomatic/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/redomatic/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/redomatic/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/redomatic/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/redomatic/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/redomatic/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/redomatic/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/redomatic/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»redomatic«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/schrumpftechnik/redomatic",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/schrumpftechnik/redomatic/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/schrumpftechnik/redomatic/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/schrumpftechnik/redomatic/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/schrumpftechnik/redomatic/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/schrumpftechnik/redomatic/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1311",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Sicher und effizient zum Ziel </h1>",
+      "body": "<p><strong>Mit dem ZOLLER »redomatic« sind Schrumpfwerkzeuge schnell einsatzbereit. Die Bildverarbeitungssoftware »pilot 4.0«, die Beistelleinheit und die permanente Überwachung der Arbeitsschritte erleichtern zügiges und prozesssicheres Arbeiten.</strong></p> <p>Die Technologie des »redomatic« sorgt für kürzeste Prozesszeiten. Dies erreicht auch unerfahrenes Bedienpersonal schon nach kurzer Einarbeitung. Auf der Beistelleinheit haben alle Komponenten ihren festen Platz. Die Bildverarbeitungssoftware »pilot 4.0« leitet die Bedienerin und den Bediener durch alle Arbeitsschritte und steuert viele Abläufe vollautomatisch. Die Software nennt für jeden Arbeitsschritt die Komponente, die benötigt wird, und zeigt auf dem Bildschirm an, wo sich die Komponente auf der Beistelleinheit befindet. »redomatic« ist die Lösung zum Einstellen, Messen und längengenauen Einschrumpfen von Werkzeugen.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c2455",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/f/e/csm_arbeitsschritte_01_56189371c3.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Schrumpffutter einsetzen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/9/f/csm_arbeitsschritte_02_f0e852418a.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Einstelladapter »masterPiece« und Werkzeug einsetzen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/e/0/csm_arbeitsschritte_03_9c555c9979.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Automatisches Einstellen des Längenanschlags passend zur Werkzeugsolllänge</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/6/0/csm_arbeitsschritte_04_56622be11e.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Werkzeug und Einstelladapter »masterPiece« entnehmen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/4/4/csm_arbeitsschritte_05_af3d1c1ceb.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Induktionsspule fährt auf Position, Heizvorgang startet</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/f/csm_arbeitsschritte_06_414dad1170.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Werkzeug einsetzen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/5/2/csm_arbeitsschritte_07_378ca02c77.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Kühlen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/8/b/csm_arbeitsschritte_08_e6986c99cc.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Kontrollmessung</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2456",
+      "bg": "white",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2454",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »redomatic 600« MST </h3> <h2> Werkzeuge automatisiert auf 10 μm genau einschrumpfen </h2>",
+   "body": "<p><strong>Mit einem »redomatic 600« MST von ZOLLER nutzen Sie die Vorteile Ihrer MST-Werkzeughalter optimal aus und steigern damit die Effizienz in Ihrer Fertigung. </strong></p> <p>Denn mit »redomatic 600« MST können Sie sicher sein, dass die Werkzeuglängen stets korrekt eingestellt sind. Dabei ist der von ZOLLER entwickelte Schrumpfablauf mit dem Einstelladapter »masterPiece« sowohl schnell als auch einfach. Das perfekte Zusammenspiel zwischen Mechanik, Pneumatik, Elektronik und Software sowie die durchgängige Parameterüberwachung und die automatischen Messabläufe garantieren Ihnen höchste Prozesssicherheit.</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/redomatic/Info-Pool/ZOLLER_Broschuere_redomaticMST_BRREDMST_00_DE.pdf\" rel=\"noopener\" target=\"_blank\" title=\"Broschüre »redomatic&amp;nbsp;600«&amp;nbsp;MST\">Broschüre »redomatic 600« MST</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/a/csm_redomatic600MTI_teaser_bf6f5aa8a3.webp",
+     "alt": "",
+     "w": 1239,
+     "h": 901
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4285",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> »pilot 4.0« steuert immer auf Erfolgskurs </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c2462",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>»pilot 4.0« ist die umfangreiche und umfassende Softwarelösung für alle ZOLLER-Einstell und Messgeräte. Die intuitive grafische Bedienerführung leitet die Anwenderinnen und Anwender schnell und sicher zum präzisen Messergebnis. Damit ist »pilot 4.0« so einfach zu bedienen, dass selbst komplexe Messaufgaben sofort gelingen. Gleichzeitig ist die Software so umfangreich in der Funktionalität, dass es für jede Anforderung eine Lösung gibt. Nicht umsonst gilt »pilot 4.0« als weltweit unerreichter Maßstab für die Werkzeugeinstellung, -messung und -prüfung.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c3218",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3217",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/c/1/csm_pilot4_Infodots_v2_15394ce304.webp",
+    "alt": "",
+    "w": 1190,
+    "h": 763
+   },
+   "spots": [
+    {
+     "x": 85.117,
+     "y": 40.618,
+     "label": "Werkzeugspezifische Informationen",
+     "text": "<h3>Werkzeugspezifische Informationen</h3>"
+    },
+    {
+     "x": 51.246,
+     "y": 31.693,
+     "label": "Adapterverwaltung",
+     "text": "<h3>Adapterverwaltung</h3> <ul><li>Werkzeugbezeichnung zur individuellen Kennung</li><li>Sollwerte mit Toleranzangaben</li></ul>"
+    },
+    {
+     "x": 41.496,
+     "y": 67.849,
+     "label": "Schneidenformen",
+     "text": "<h3>Schneidenformen</h3> <p>Automatisch erkannte Schneidenformen</p>"
+    },
+    {
+     "x": 78.226,
+     "y": 79.519,
+     "label": "Funktionsbuttons",
+     "text": "<h3>Funktionsbuttons</h3> <p>Mit selbstsprechenden Icons</p>"
+    },
+    {
+     "x": 16.716,
+     "y": 27.002,
+     "label": "Aktuelles Kamerabild der Schneide",
+     "text": "<h3>Aktuelles Kamerabild der Schneide</h3> <ul><li>Dynamisches Fadenkreuz</li><li>Winkelangabe mit auswählbarer Bezugsachse</li></ul>"
+    },
+    {
+     "x": 14.883,
+     "y": 65.217,
+     "label": "Aktuelle Positionsangaben",
+     "text": "<h3>Aktuelle Positionsangaben</h3> <ul><li>Aktuelle Positionsangaben der Achsen</li><li>Aktuell aktive Schneidenform</li></ul>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c2464",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Schrumpftechnik: Ihre Vorteile",
+     "href": "/solutions/schrumpftechnik",
+     "caption": "<figcaption> <h3>Schrumpftechnik: Ihre Vorteile</h3> <p>Lesen Sie, wie wir die hohen Steigerungen bei Energieeffizienz, Prozessgeschwindigkeit und Ergonomie erzielt haben. Nutzen Sie Perfektion für Ihre Fertigung. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

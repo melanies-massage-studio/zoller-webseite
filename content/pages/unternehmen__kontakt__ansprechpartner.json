@@ -1,0 +1,490 @@
+{
+ "path": "/unternehmen/kontakt/ansprechpartner",
+ "url": "/unternehmen/kontakt/ansprechpartner",
+ "title": "Ansprechpartner",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Kontakt /",
+   "href": "/unternehmen/kontakt"
+  },
+  {
+   "label": "Ansprechpartner",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Kontakt /",
+   "href": "/unternehmen/kontakt"
+  },
+  {
+   "label": "Ansprechpartner",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt/ansprechpartner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact/contact-person",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto/persona-de-contacto",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact/interlocuteur",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto/pessoa-de-contacto",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto/persona-di-contatto",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt/kontaktperson",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt/ansprechpartner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us/contact-person",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact/interlocuteur",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us/your-contact-person-in-india",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto/persona-de-contacto",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto/entre-em-contato",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_csm_customer-meeting-ZOLLER-03_RGB_38e548be22_360e80a1e0.webp",
+     "video": null,
+     "title": "Kundennah",
+     "kicker": "",
+     "text": "<p>Sie sind auf der Suche nach individueller Beratung?</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3249",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Finden Sie Ihre regionale Ansprechpartnerin oder Ihren regionalen Ansprechpartner in Deutschland. Unsere Mitarbeiterinnen und Mitarbeiter helfen Ihnen gerne weiter – nutzen Sie das 1:1 Expertengespräch von ZOLLER.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3251",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c3250",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Service </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3254",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Einstell- und Messgeräte</strong></p> <p>Montag – Freitag von 7:30 bis 17:00 Uhr<br/>+49 (0) 7144 8970-137<br/><a class=\"link-arrow\" href=\"https://zoller-group.atlassian.net/helpcenter/SGH\" rel=\"noopener\" target=\"_blank\" title=\"Service Anfrage\">Serviceanfrage</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4179",
+      "bg": "lightgray",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     },
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Toolmanagement</strong></p> <p>+49 (0) 7144 8970-213<br/><a class=\"link-arrow\" href=\"https://zoller-group.atlassian.net/helpcenter/TMSH\" rel=\"noopener\" target=\"_blank\" title=\"Supportanfrage\">Supportanfrage</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3256",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>After-Sales</strong></p> <p>+49 (0) 7144 8970-162<br/><a class=\"link-arrow\" href=\"mailto:vertrieb@zoller-d.com\" rel=\"noopener\" target=\"_blank\" title=\"aftersales@zoller-d.com\">vertrieb@zoller-d.com</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3257",
+      "bg": "lightgray",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c3253",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Standorte in Deutschland </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4181",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>E. ZOLLER GmbH &amp; Co. KG</strong> (Stammhaus)<br/>Einstell- und Messgeräte<br/>Gottlieb-Daimler-Str. 19<br/>74385 Pleidelsheim<br/>Telefon +49 7144 8970-0<br/>Fax +49 7144 8970-70191<br/><a class=\"link-arrow\" href=\"mailto:post@zoller.info\">post@zoller.info</a> <br/><a class=\"link-arrow\" href=\"https://goo.gl/maps/WCEZh2AiT992\" rel=\"noopener\" target=\"_blank\" title=\"Link zu google Maps\">Link zu Google Maps</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4182",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER West</strong><br/>E. ZOLLER GmbH &amp; Co. KG<br/>Service- und Vertriebszentrum<br/>Friedrich-Krupp-Straße 7<br/>D-40764 Langenfeld (Rheinland)<br/>+49 2173 5967090<br/>+49 2173 5967081<br/><a class=\"link-arrow\" href=\"mailto:ZollerWest@zoller-d.com\">ZollerWest@zoller-d.com</a> <br/><a class=\"link-arrow\" href=\"https://goo.gl/maps/49CQtnvSoeH2\" rel=\"noopener\" target=\"_blank\" title=\"Link zu google Maps\">Link zu Google Maps</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4194",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c4785",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER Nord</strong><br/>E. ZOLLER GmbH &amp; Co. KG<br/>Service- und Vertriebszentrum<br/>Wohlenbergstraße 4 c<br/>30179 Hannover<br/>+49 511 6765 5712<br/>+49 511 6765 5714<br/><a class=\"link-arrow\" href=\"mailto:zollernord@zoller-d.com\">zollernord@zoller-d.com</a> <br/><a class=\"link-arrow\" href=\"https://goo.gl/maps/o5skU9vyy4J2\" rel=\"noopener\" target=\"_blank\" title=\"Link zu google Maps\">Link zu Google Maps</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4193",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER Ost</strong><br/>E. ZOLLER GmbH &amp; Co. KG<br/>Service- und Vertriebszentrum<br/>Fugger Business Park<br/>Fuggerstraße 1 B<br/>D-04158 Leipzig<br/>+49 341 33209760<br/>+49 341 33209761 <br/><a class=\"link-arrow\" href=\"mailto:ZollerOst@zoller-d.com\">ZollerOst@zoller-d.com</a> <br/><a class=\"link-arrow\" href=\"https://goo.gl/maps/TaUJYtEEh7r\" rel=\"noopener\" target=\"_blank\" title=\"Link zu google Maps\">Link zu Google Maps</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4185",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c4786",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/2/csm_teaser_software_update_079d1bc12f.webp",
+     "alt": "",
+     "w": 633,
+     "h": 332,
+     "title": "Software-Update",
+     "href": "/software-updates",
+     "caption": "<figcaption> <h3>Software-Update</h3> <p>Immer auf dem neuesten Stand. Übermitteln Sie einfach Ihre Geräte- bzw. Software-Seriennummer und profitieren Sie vom neuesten Patchstand.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/0/csm_teaser_online_support_1b44919036.webp",
+     "alt": "",
+     "w": 633,
+     "h": 332,
+     "title": "Online-Support",
+     "href": "/online-support",
+     "caption": "<figcaption> <h3>Online-Support</h3> <p>Um Sie bei Fragen zu unseren Produkten oder bei technischen Anliegen schnell und zielgerichtet zu unterstützen.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_teaser_newsletter_36e5e58bec.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Newsletter",
+     "href": "/unternehmen/kontakt/newsletter",
+     "caption": "<figcaption> <h3>Newsletter</h3> <p>Im ZOLLER-Newsletter „Insights into progress“ stellen wir wichtige Branchenthemen vor. Wir informieren über Produkte, Erfolgs­geschichten und Termine. Jetzt anmelden.</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26294",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

@@ -1,0 +1,453 @@
+{
+ "path": "/produkte/automation/werkzeuginspektion/roboset-2",
+ "url": "/produkte/automation/werkzeuginspektion/roboset-2",
+ "title": "»roboSet«",
+ "description": "»roboSet 2« - »roboSet« - Werkzeughandling für »genius«, »3dCheck«, »threadCheck«, »titan« und »edgeControl« - Werkzeugprüfung und -dokumentation 24/7",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Automation /",
+   "href": "/produkte/automation"
+  },
+  {
+   "label": "Werkzeuginspektion /",
+   "href": "/produkte/automation/werkzeuginspektion"
+  },
+  {
+   "label": "»roboSet 2«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Automation /",
+   "href": "/produkte/automation"
+  },
+  {
+   "label": "Werkzeuginspektion /",
+   "href": "/produkte/automation/werkzeuginspektion"
+  },
+  {
+   "label": "»roboSet 2«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeuginspektion/roboset-2",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-inspection/roboset-2",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/controle-doutil/roboset-2",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/ferramenta-de-inspecao/roboset-2",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/ispezione-utensile/roboset-2",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/verktygskontroll/roboset-2",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeuginspektion/roboset-2",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-inspection/roboset-2",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/inspection-des-outils/roboset-2",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%82%B9%E6%A4%9C/roboset-2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC/roboset-2",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-inspection/roboset-2",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/ferramenta-de-inspecao/roboset-2",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»roboSet 2«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/automation/werkzeuginspektion/roboset-2/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/automation/werkzeuginspektion/roboset-2/software-integration",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/automation/werkzeuginspektion/roboset-2/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2555",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»roboSet 2«",
+   "text": "<p>Die Zeitmaschine: setzt mit jeder Inspektion <br/>Potenziale frei für Wertschöpfung</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/4/6/csm_roboSet2_header_cb0f4fcaa5.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1491",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Macht aus Erfahrung Erfolg </h2>",
+   "body": "<p><strong>Platz für acht Paletten und viele Werkzeuge – die vollständig automatisierte Werkzeuginspektion ist der beste Weg, um Fachkräfte dort einzusetzen, wo sie die größte Wirkung haben.</strong></p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1492",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Werkzeugsortierung nach Vorgabe ",
+    "Erstellt Dokumentation und Werkzeughistorie ",
+    "Kleiner Footprint und rasche Amortisation"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1493",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Für Dauerläufe in der Inspektion </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/c/b/csm_roboset2_infodots_0d09823387.webp",
+    "alt": "",
+    "w": 1340,
+    "h": 990
+   },
+   "spots": [
+    {
+     "x": 5.221,
+     "y": 34.13,
+     "label": "»cockpit«",
+     "text": "<h3>»cockpit«</h3> <h4>»cockpit«</h4> <p>Sie bedienen »﻿﻿﻿﻿roboSet 2﻿﻿﻿﻿« komfortabel und einfach über die Bildverarbeitungssoftware »﻿﻿﻿﻿pilot 4.0﻿﻿﻿﻿«</p>"
+    },
+    {
+     "x": 26.908,
+     "y": 31.522,
+     "label": "Messmaschine",
+     "text": "<h3>Messmaschine</h3> <h4>Messmaschine</h4> <p>Kombinierbar mit allen Mess­maschinen der Reihe »﻿﻿﻿﻿genius﻿﻿﻿﻿« von ZOLLER.</p>"
+    },
+    {
+     "x": 45.06,
+     "y": 40.652,
+     "label": "»roboSet 2«",
+     "text": "<h3>»roboSet 2«</h3> <h4>»roboSet 2«</h4> <p>Beladeeinheit mit Robotik, Markierungslaser und Reinigungsbad. Kapazität für mehrere tausend Werkzeuge.</p>"
+    },
+    {
+     "x": 62.008,
+     "y": 43.587,
+     "label": "Zugangsfenster",
+     "text": "<h3>Zugangsfenster</h3> <h4>Zugangsfenster</h4> <p>Großes, einfach nach oben verschiebbares Zugangsfenster zu den zwei Palettenebenen. Hohe Werkzeugkapazität durch acht Palettenplätze.</p>"
+    },
+    {
+     "x": 79.116,
+     "y": 43.152,
+     "label": "Innenraum",
+     "text": "<h3>Innenraum</h3> <h4>Innenraum</h4> <p>Komfortabler Zugang zur Ultraschallreinigung und zum Innenraum der Beladeeinheit.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1494",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Frisch gereinigt zur Prüfung </h2>",
+   "body": "<p>Mit einer Ultraschall- und Trockenreinigung befreit »roboSet 2« jedes Werkzeug von Mikropartikeln, Staub und organischen Kühlschmierstoffen. Mit welcher Messmaschine von ZOLLER Sie »roboSet 2« auch immer kombinieren: die Werkzeuge werden blitzblank zur Prüfung antreten. Perfekte Bedingungen, um die präzise Messpower von ZOLLER voll auszuschöpfen.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/c/csm_reinigung_3fd8f6c91c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1495",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mechanisch entkoppelt </h2>",
+   "body": "<p>In »roboSet 2« läuft die große Robotik-Action. Nebenan, bei »genius«, herrscht hingegen fast völlige Ruhe. Damit die ungleichen Nachbarn perfekt zusammen­arbeiten, wurde »﻿﻿﻿﻿roboSet 2﻿﻿﻿﻿« als separate, von der Mess­maschine mechanisch entkoppelte Einheit konzipiert. Schwingungen und Erschütterungen gelangen nicht an die µm-genaue Messtechnik.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/a/csm_palette_e5dfd3158c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1496",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Anwenderbericht: GKN Aerospace </h2>",
+   "body": "<p>Unser Kunde GKN Aerospace setzt seit zwei Jahren auf die auto­matisierte Inspektion mit »﻿﻿﻿﻿roboSet 2﻿﻿﻿﻿«. Im Video berichtet Fertigungsexperte Jeremy St. Pierre über die Erfahrungen, die er mit dieser ZOLLER-Lösung gemacht hat.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/1cOACnZU8f8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "GKN Aerospace - ZOLLER Solutions I Erfolgreicher Einsatz in der Werkzeugschleiferei"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1497",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Bereit für die neue Ära </h2>",
+   "body": "<p><strong>Automatisierung ist mehr als ein Schritt. Sie ist ein weiter Sprung zu neuen Prioritäten. Bestimmen Sie, wie Sie Ihr Fachpersonal künftig einsetzen wollen. »roboSet 2« ist effiziente Automatisierung für Werkzeughersteller und Schleifbetriebe. </strong></p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a> <a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 Expertengespräch</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_8b281c6989.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 858
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1498",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automation: Ihre Vorteile",
+     "href": "/solutions/automation",
+     "caption": "<figcaption> <h3>Automation: Ihre Vorteile</h3> <p>Erfahren Sie, wie Sie mit ZOLLER Werkzeugvorbereitung, -bereitstellung, -logistik und -inspektion automatisieren. Realisieren Sie bedarfsgerecht Ihre hocheffiziente Smart Factory. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

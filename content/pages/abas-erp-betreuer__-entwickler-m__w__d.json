@@ -1,0 +1,313 @@
+{
+ "path": "/abas-erp-betreuer/-entwickler-m/w/d",
+ "url": "/abas-erp-betreuer/-entwickler-m/w/d",
+ "title": "abas ERP-Betreuer/-Entwickler (m/w/d)",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/abas-erp-betreuer/-entwickler-m/w/d",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/abas-erp-supporttekniker/-utvecklare-m/k/d",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/chargee-de-support-/-developpeureuse-abas-erp-h/f/d",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "abas ERP-Betreuer/-Entwickler (m/w/d)",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Ihr Benefit",
+     "href": "/abas-erp-betreuer/-entwickler-m/w/d/ihr-benefit",
+     "current": false
+    },
+    {
+     "label": "Bewerbung",
+     "href": "/abas-erp-betreuer/-entwickler-m/w/d/bewerbung",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c90842",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Bereich IT-Systeme </h3> <h1> abas ERP-Betreuer/-Entwickler (m/w/d) </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/abas_ERPBetreuer_2026_05_07_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Stellenangebot zum Download (pdf)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90840",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Ihr Profil</h4><ul><li>Erfolgreich abgeschlossenes Studium der Fachrichtung Informatik, Wirtschaftsinformatik oder Computer Engineering bzw. vergleichbare Berufsausbildung mit Berufserfahrung – gerne auch als Quereinsteiger</li><li>Kenntnisse in ERP-Systemen, Dokumentenmanagementsystemen, Arbeitsprozessen und Datenbanken</li><li>Programmierkenntnisse in Java sowie Bereitschaft weitere Programmiersprachen zu erlernen</li><li>Gute Deutsch- und Englischkenntnisse</li><li>Dienstleistungs- und Kundenorientierung</li><li>Teamfähigkeit, Eigeninitiative, Verantwortungsbewusstsein<br/> </li></ul><h4>Ihre Aufgaben</h4><ul><li>Konzeption und Entwicklung von Prozesslösungen im Rahmen unseres ERP-Systems „abas“ und des Dokumentenmanagementsystems ELO</li><li>Entwicklung von Schnittstellen zu anderen Programm-Modulen</li><li>User- und Applikationssupport</li><li>Test von Modulen, Software und Schnittstellen</li><li>Pflege und Aktualisierung von Dokumentationen<br/> </li></ul><h4>Ort</h4> <p>Pleidelsheim, Deutschland.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90839",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c90841",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Online bewerben </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90837",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Möchten Sie mit Ihrem Können zum Erfolg unseres Unternehmens beitragen? Dann freuen wir uns auf Ihre Bewerbung.</p> <p><a class=\"btn\" href=\"/abas-erp-betreuer/-entwickler-m/w/d/bewerbung\">Jetzt bewerben!</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90836",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c90838",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ]
+}

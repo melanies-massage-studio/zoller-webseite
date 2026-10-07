@@ -1,0 +1,313 @@
+{
+ "path": "/elektrokonstrukteur-m/w/d",
+ "url": "/elektrokonstrukteur-m/w/d",
+ "title": "Elektrokonstrukteur (m/w/d)",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/elektrokonstrukteur-m/w/d",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/controlador-h/m/d-2-1-2-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/controleur-h/f/d-2-1-2-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/controlador-m/f/d-2-1-2-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Elektrokonstrukteur (m/w/d)",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Ihr Benefit",
+     "href": "/elektrokonstrukteur-m/w/d/ihr-benefit",
+     "current": false
+    },
+    {
+     "label": "Bewerbung",
+     "href": "/elektrokonstrukteur-m/w/d/bewerbung",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c99559",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Elektrokonstruktion </h3> <h1> Elektrokonstrukteur (m/w/d) </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/Elektrokonstrukteur_2026_07_03_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Stellenangebot zum Download (pdf)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c99519",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Ihr Profil</h4><ul><li>Abgeschlossene Ausbildung oder Studium im Bereich Elektrotechnik, Automatisierungstechnik oder eine vergleichbare Qualifikation</li><li>Erfahrung in der Elektrokonstruktion • Kenntnisse in E³, EPLAN P8 oder ähnlichen Programmen sind Voraussetzung</li><li>Kenntnisse der relevanten Normen und Richtlinien im Bereich Elektrokonstruktion</li><li>Grundkenntnisse der SPS- und Automatisierungstechnik</li><li>Erfahrung im Umgang mit technischen Dokumentationen und Stücklisten</li><li>Selbstständige, strukturierte und gewissenhafte Arbeitsweise</li><li>Flexibilität, Zuverlässigkeit und Teamfähigkeit<br/> </li></ul><h4>Ihre Aufgaben</h4><ul><li>Erstellung von Stromlaufplänen, Schaltplänen und elektrischen Stücklisten</li><li>Auslegung und Auswahl elektrischer Komponenten</li><li>Entwicklung von Schaltschrank- und Installationskonzepten</li><li>Planung von Steuerungs-, Antriebs- und Sicherheitstechnik</li><li>Erstellung, Pflege und Aktualisierung der technischen Dokumentation</li><li>Enge Zusammenarbeit mit den Bereichen Mechanikkonstruktion, SPS-Programmierung, HMI-Entwicklung und Roboterprogrammierung</li><li>Unterstützung bei der Inbetriebnahme sowie bei der Analyse und Behebung technischer Störungen • Berücksichtigung geltender Normen, Richtlinien und kundenspezifischer Anforderungen</li><li>Mitarbeit an fachübergreifenden<br/> </li></ul><h4>Ort</h4> <p>Pleidelsheim, Deutschland.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c99499",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c99539",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Online bewerben </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c99459",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Möchten Sie mit Ihrem Können zum Erfolg unseres Unternehmens beitragen? Dann freuen wir uns auf Ihre Bewerbung.</p> <p><a class=\"btn\" href=\"/elektrokonstrukteur-m/w/d/bewerbung\">Jetzt bewerben!</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c99439",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c99479",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ]
+}

@@ -1,0 +1,534 @@
+{
+ "path": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+ "url": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+ "title": "Angebotsübersicht",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Angebotsübersicht",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Angebotsübersicht",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/demonstration-and-used-appliances/offer-overview",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Vorführ- und Gebrauchtgeräte",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/vorfuehr-und-gebrauchtgeraete",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Angebotsübersicht",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+     "current": false
+    },
+    {
+     "label": "Vertriebs-Anfrage",
+     "href": "/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c8038",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Angebotsübersicht </h1>",
+   "body": "<p>Wir beraten Sie gerne – treffen Sie Ihre Wahl und treten Sie in Kontakt mit unserem ZOLLER‑Vertriebsteam!</p> <p><a href=\"#c8198\">Einstellen &amp; Messen</a> <a href=\"#c8199\">Smart Cabinets</a> <a href=\"#c8245\">Schrumpftechnik</a> <a href=\"#c8246\">Wuchttechnik</a> <a href=\"#c8247\">Datentransfer</a> <a href=\"#c8248\">Prüfen &amp; Messen</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8041",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Einstellen &amp; Messen </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/9/csm_gebraucht_smile420_pilot1_preview_92016f21bf.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»smile 420 pilot 1.0«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/smile-420-pilot-10",
+     "caption": "<figcaption> <h3>»smile 420 pilot 1.0«</h3> <p>Baujahr 2024</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/f/csm_gebraucht_venturion450_preview_b4c29c880b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»venturion 450 pilot 4.0«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/venturion-450-pilot-40",
+     "caption": "<figcaption> <h3>»venturion 450 pilot 4.0«</h3> <p>Baujahr 2021</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_gebraucht_millset_preview_dd65ad6afb.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»millSet«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/millset",
+     "caption": "<figcaption> <h3>»millSet«</h3> <p>Baujahr 2017</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8198",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Smart Cabinets </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/c/csm_gebraucht_toolOrganizer_preview_18b9a4a92a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»toolOrganizer 900«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/toolorganizer-900",
+     "caption": "<figcaption> <h3>»toolOrganizer 900«</h3> <p>Baujahr 2021</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_gebraucht_keeper2000_preview_be11abd5a2.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "Werkzeugschrank »keeper 2000«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/keeper-2000",
+     "caption": "<figcaption> <h3>Werkzeugschrank »keeper 2000«</h3> <p>Baujahr 2023</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/d/csm_gebraucht_autoLock_preview_d34016b625.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "Lagerschrank »autoLock«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/autolock",
+     "caption": "<figcaption> <h3> Lagerschrank »autoLock«</h3> <p>Baujahr 2019 </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_gebraucht_toolStation_preview_4ce887c28f.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»toolStation«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/toolstation",
+     "caption": "<figcaption> <h3>»toolStation«</h3> <p>Baujahr 2020</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/f/csm_gebraucht_zTower_preview_5c0b157b4c.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»zTower«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/ztower",
+     "caption": "<figcaption> <h3>»zTower«</h3> <p>Baujahr 2021</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/a/csm_gebraucht_werkzeugwagen_preview_3e3e0688f1.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "Werkzeugwagen »toolCart 750«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/toolcart-750",
+     "caption": "<figcaption> <h3>Werkzeugwagen »toolCart 750«</h3> <p>Baujahr 2024</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8199",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Schrumpftechnik </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/1/csm_gebraucht_powerShrink400_preview_97b869929c.webp",
+     "alt": "",
+     "w": 680,
+     "h": 400,
+     "title": "»powerShrink 400«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/schrumpftechnik/powershrink-400",
+     "caption": "<figcaption> <h3>»powerShrink 400«</h3> <p>Max. schrumpfbare Werkzeuglänge 460 mm</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/e/csm_gebraucht_redomatic600_preview_00853d5456.webp",
+     "alt": "",
+     "w": 680,
+     "h": 400,
+     "title": "»redomatic 600 pilot 4.0«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/schrumpftechnik/redomatic-600-pilot-40",
+     "caption": "<figcaption> <h3>»redomatic 600 pilot 4.0«</h3> <p>Baujahr 2021</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8245",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wuchttechnik </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_gebraucht_toolBalancer_preview_de1e7c5aa2.webp",
+     "alt": "",
+     "w": 680,
+     "h": 400,
+     "title": "»toolBalancer 550«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/wuchttechnik/toolbalancer-550",
+     "caption": "<figcaption> <h3>»toolBalancer 550«</h3> <p>Baujahr 2024</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8246",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Datentransfer </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_gebraucht_zidCode_preview_8e0cbca49c.webp",
+     "alt": "",
+     "w": 680,
+     "h": 400,
+     "title": "»zidCode 4.0«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/datentransfer/zidcode-40",
+     "caption": "<figcaption> <h3>»zidCode 4.0«</h3> <p>Baujahr 2024</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8247",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Prüfen &amp; Messen </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/4/csm_gebraucht_mt_genius_preview_f42c90e64c.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»genius«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/genius",
+     "caption": "<figcaption> <h3>»genius«</h3> <p>Baujahr 2022</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/b/csm_gebraucht_threadcheck_preview_3f01d7aa52.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»threadCheck«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/threadcheck",
+     "caption": "<figcaption> <h3>»threadCheck«</h3> <p>Baujahr 2023</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/8/csm_gebraucht_titan_preview_cc01fb49e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»titan«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/titan",
+     "caption": "<figcaption> <h3>»titan«</h3> <p>Baujahr 2024</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/a/csm_gebraucht_mt_3dCheck_preview_28480c98d8.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»3dCheck«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/3dcheck",
+     "caption": "<figcaption> <h3>»3dCheck«</h3> <p>Baujahr 2023</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/0/csm_gebraucht_pomBasic_preview_40923ade19.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»pomBasic«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/pombasic",
+     "caption": "<figcaption> <h3>»pomBasic«</h3> <p>Baujahr 2024</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/0/csm_gebraucht_mFocus_preview_a4f586b9fb.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»mμFocus«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/mmfocus",
+     "caption": "<figcaption> <h3>»mμFocus«</h3> <p>Baujahr 2023</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/7/csm_gebraucht_smartCheck_preview_aaf931154e.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»smartCheck 450«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/smartcheck-450",
+     "caption": "<figcaption> <h3>»smartCheck 450«</h3> <p>Baujahr 2024</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_gebraucht_sawCheck_preview_1d5e947ea4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 372,
+     "title": "»sawCheck«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/sawcheck",
+     "caption": "<figcaption> <h3>»sawCheck«</h3> <p>Baujahr 2024</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8248",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nicht Ihr Wunschmodell dabei? </h2>",
+   "body": "<p><strong>Treten Sie in Kontakt mit unserem ZOLLER-Vertriebsteam</strong> und stellen Sie Ihre Anfrage. Wir haben weitere Modelle für Sie zur Auswahl.</p> <p><a href=\"/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage\">ZOLLER-Vertriebs-Anfrage anfordern </a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8047",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

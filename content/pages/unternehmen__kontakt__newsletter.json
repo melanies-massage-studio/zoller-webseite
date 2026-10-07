@@ -1,0 +1,285 @@
+{
+ "path": "/unternehmen/kontakt/newsletter",
+ "url": "/unternehmen/kontakt/newsletter",
+ "title": "Newsletter",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Kontakt /",
+   "href": "/unternehmen/kontakt"
+  },
+  {
+   "label": "Newsletter",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Kontakt /",
+   "href": "/unternehmen/kontakt"
+  },
+  {
+   "label": "Newsletter",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt/newsletter",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact/newsletter",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto/boletin-informativo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact/lettre-dinformation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto/boletim-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto/newsletter",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt/nyhetsbrev",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt/newsletter",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us/newsletter",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact/lettre-dinformation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us/newsletter",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto/boletin-informativo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto/boletim-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Anmelden &amp; profitieren </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3893",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Mit unseren Newslettern sind Sie immer auf dem Laufenden. Melden Sie sich hier an und erhalten Sie ca. 6-mal im Jahr den Produktnewsletter mit Informationen zu<strong> aktuellen Trends und Anwenderberichten, zu ZOLLER-Produkten sowie Einladungen zu Messen und Events</strong>.</p> <p>Mit Ihrer Anmeldung akzeptieren Sie unsere Datenschutzerklärung und erklären sich einverstanden, dass ZOLLER Ihnen per E-Mail Informationen über Produkte und Services, aktuelle Aktionen sowie Wissenswertes über unser Unternehmen zusendet. Sie erteilen mit der Anmeldung die Einwilligung zur Verarbeitung von personenbezogenen Daten zum Zweck der Erstellung von personalisierten Newslettern und statistischen Auswertungen. Nach der Registrierung erhalten Sie von uns eine E-Mail mit einem Bestätigungslink. Erst mit Anklicken dieses Links ist Ihre Anmeldung abgeschlossen. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, dies bedeutet gleichzeitig, dass Sie unserem Newsletter abgemeldet werden. Senden Sie dafür eine formlose E-Mail an <a class=\"link-arrow\" href=\"mailto:news@zoller.info\">news@zoller.info</a> oder durch Klick auf den Abmelde-Link im Newsletter.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3894",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     },
+     {
+      "type": "form",
+      "kind": "form_formframework",
+      "html": "<form action=\"https://www.zoller.info/unternehmen/kontakt/newsletter?tx_form_formframework%5Baction%5D=perform&amp;tx_form_formframework%5Bcontroller%5D=FormFrontend&amp;cHash=aa2c7f18d0e4b1e7bfb762716a26256f#newsletter-3777\" enctype=\"multipart/form-data\" id=\"newsletter-3777\" method=\"post\"> <div><input name=\"tx_form_formframework[newsletter-3777][__state]\" type=\"hidden\" value=\"TzozOToiVFlQTzNcQ01TXEZvcm1cRG9tYWluXFJ1bnRpbWVcRm9ybVN0YXRlIjoyOntzOjI1OiIAKgBsYXN0RGlzcGxheWVkUGFnZUluZGV4IjtpOjA7czoxMzoiACoAZm9ybVZhbHVlcyI7YTowOnt9fQ==e1fa0a6fff7432dcbaca0174b96641dc4234cdba\"/><input name=\"tx_form_formframework[__trustedProperties]\" type=\"hidden\" value='{\"newsletter-3777\":{\"firstname\":1,\"lastname\":1,\"email\":1,\"RJYgEoX\":1,\"checkbox-data-protection\":1,\"recaptcha-1\":1,\"__currentPage\":1}}43f89e27dc6b568ff6a4181e7f633f84e0d011ba'/> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"newsletter-3777-firstname\">Vorname </label> <div class=\"input\"> <input class=\"form-control\" id=\"newsletter-3777-firstname\" name=\"tx_form_formframework[newsletter-3777][firstname]\" type=\"text\"/> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"newsletter-3777-lastname\">Nachname </label> <div class=\"input\"> <input class=\"form-control\" id=\"newsletter-3777-lastname\" name=\"tx_form_formframework[newsletter-3777][lastname]\" type=\"text\"/> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"newsletter-3777-email\">E-Mail </label> <div class=\"input\"> <input class=\"form-control\" id=\"newsletter-3777-email\" name=\"tx_form_formframework[newsletter-3777][email]\" type=\"text\"/> </div> </div> <input aria-hidden=\"true\" data-id=\"RJYgEoX\" id=\"newsletter-3777-RJYgEoX\" name=\"tx_form_formframework[newsletter-3777][RJYgEoX]\" tabindex=\"-1\" type=\"text\"/> <div class=\"form-group\"> <div class=\"input checkbox\"> <div class=\"form-check\"> <label class=\"add-on form-check-label\" for=\"newsletter-3777-checkbox-data-protection\"> <input name=\"tx_form_formframework[newsletter-3777][checkbox-data-protection]\" type=\"hidden\" value=\"\"/><input class=\"add-on\" id=\"newsletter-3777-checkbox-data-protection\" name=\"tx_form_formframework[newsletter-3777][checkbox-data-protection]\" required=\"required\" type=\"checkbox\" value=\"1\"/> <span>Ich habe die <a href=\"/datenschutz\" target=\"_blank\"> Dateschutz </a> gelesen und willige in die Verarbeitung und Speicherung meiner eingegebenen Daten für die Newsletter-Anmeldung ein. <span class=\"required\">*</span> </span> </label> </div> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"newsletter-3777-recaptcha-1\"></label> <div class=\"recaptcha\"> <input data-recaptcha-form-field=\"\" id=\"newsletter-3777-recaptcha-1\" name=\"tx_form_formframework[newsletter-3777][recaptcha-1]\" type=\"hidden\" value=\"\"/> <div class=\"g-recaptcha\" data-callback=\"onRecaptchaCallback\" data-error-callback=\"onRecaptchaError\" data-expired-callback=\"onRecaptchaExpired\" data-sitekey=\"6LcINbosAAAAAH8zSxnwOP319AslujYzyd6BWf7L\"></div> </div> </div> <div class=\"actions\"> <nav class=\"form-navigation\"> <div class=\"btn-toolbar\" role=\"toolbar\"> <div class=\"btn-group\" role=\"group\"> <span class=\"btn-group next submit\"> <button class=\"block-button\" name=\"tx_form_formframework[newsletter-3777][__currentPage]\" type=\"submit\" value=\"1\"> Submit </button> </span> </div> </div> </nav> </div> </form>",
+      "header": "<h2> Newsletteranmeldung </h2>",
+      "ftype": "form_formframework",
+      "id": "c3777",
+      "bg": "lightgray",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3892",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Media: ZOLLER im Detail",
+     "href": "/unternehmen/medien",
+     "caption": "<figcaption> <h3>Media: ZOLLER im Detail</h3> <p>Hier finden Sie Medienmitteilungen, Produktankündigungen, Messeauftritte, Presseberichte aus Fachmagazinen, das News-Archiv und unsere Ansprechpartner für die Medien. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

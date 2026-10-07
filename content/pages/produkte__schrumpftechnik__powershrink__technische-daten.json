@@ -1,0 +1,356 @@
+{
+ "path": "/produkte/schrumpftechnik/powershrink/technische-daten",
+ "url": "/produkte/schrumpftechnik/powershrink/technische-daten",
+ "title": "»powerShrink« – Technische Daten",
+ "description": "Technische Daten - »powerShrink« – Technische Daten",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/produkte/schrumpftechnik/powershrink"
+  },
+  {
+   "label": "Technische Daten",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/produkte/schrumpftechnik/powershrink"
+  },
+  {
+   "label": "Technische Daten",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/powershrink/technische-daten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/powershrink/technical-specifications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/powershrink/datos-tecnicos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/powershrink/caracteristiques-techniques",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/powershrink/dados-tecnicos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink/dati-tecnici",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/powershrink/tekniska-data",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/powershrink/technische-daten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/powershrink/technical-data",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/powershrink/caracteristiques-techniques",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink/%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink/%EA%B8%B0%EC%88%A0-%EC%82%AC%EC%96%91",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/powershrink/technical-specifications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/powershrink/especificaciones-tecnicas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/powershrink/dados-tecnicos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»powerShrink«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/schrumpftechnik/powershrink",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Modelle",
+     "href": "/produkte/schrumpftechnik/powershrink/modelle",
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/schrumpftechnik/powershrink/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/schrumpftechnik/powershrink/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/schrumpftechnik/powershrink/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/schrumpftechnik/powershrink/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/schrumpftechnik/powershrink/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1176",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Technische Daten </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c1466",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "table",
+   "header": "",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> »powerShrink 200« </td> <td class=\"text-center\"> »powerShrink 300« </td> <td class=\"text-center\"> »powerShrink 400« </td> <td class=\"text-center\"> »powerShrink 600« </td> </tr> <tr> <td> Schrumpfbare Werkzeuglänge </td> <td class=\"text-center\"> 400 mm </td> <td class=\"text-center\"> 600 mm </td> <td class=\"text-center\"> 600 mm </td> <td class=\"text-center\"> 600 mm </td> </tr> <tr> <td> Max. Innendurchmesser der Induktionsspule mit Abschirmsystem »varOct« </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> 45,8 mm </td> <td class=\"text-center\"> 45,8 mm </td> <td class=\"text-center\"> 45,8 mm </td> </tr> <tr> <td> Max. Innendurchmesser der Induktionsspule mit Abschirmscheiben </td> <td class=\"text-center\"> 50 mm </td> <td class=\"text-center\"> 50 mm </td> <td class=\"text-center\"> 50 mm </td> <td class=\"text-center\"> 50 mm </td> </tr> <tr> <td> Schrumpfbare Durchmesser mit 14-kVA-Induktionsspule </td> <td class=\"text-center\"> 3–32 mm </td> <td class=\"text-center\"> 3–32 mm </td> <td class=\"text-center\"> 3–32 mm </td> <td class=\"text-center\"> 3–32 mm </td> </tr> <tr> <td> Schrumpfbare Durchmesser mit 22-kVA-Induktionsspule </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> 16–50 mm </td> </tr> <tr> <td> Anschlusswerte </td> <td class=\"text-center\"> </td> <td class=\"text-center\"> </td> <td class=\"text-center\"> </td> <td class=\"text-center\"> </td> </tr> <tr> <td> Pneumatische Anschlusswerte </td> <td class=\"text-center\"> 6–8 bar </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> 6–8 bar </td> </tr> <tr> <td> Elektrische Anschlusswerte </td> <td class=\"text-center\"> 400 V 3~ /N/PE, 50 Hz </td> <td class=\"text-center\"> 400 V 3~ /N/PE, 50 Hz </td> <td class=\"text-center\"> 400 V 3~ /N/PE, 50 Hz </td> <td class=\"text-center\"> 400 V 3~ /N/PE, 50 Hz </td> </tr> <tr> <td> Netzkabelzuleitung </td> <td class=\"text-center\"> 3 m </td> <td class=\"text-center\"> 3 m </td> <td class=\"text-center\"> 3 m </td> <td class=\"text-center\"> 3 m </td> </tr> <tr> <td> Anschlussleistung Induktions-Schrumpfsystem 14 kVA </td> <td class=\"text-center\"> 15 kVA </td> <td class=\"text-center\"> 15 kVA </td> <td class=\"text-center\"> 15 kVA </td> <td class=\"text-center\"> 15 kVA </td> </tr> <tr> <td> Anschlussleistung Induktions-Schrumpfsystem 22 kVA </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> 23 kVA </td> </tr> <tr> <td> Gewichte </td> <td class=\"text-center\"> </td> <td class=\"text-center\"> </td> <td class=\"text-center\"> </td> <td class=\"text-center\"> </td> </tr> <tr> <td> Kein Kühlsystem, Luftkühlung unterhalb der Induktionsspule </td> <td class=\"text-center\"> ~ 35 kg </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> Werkbankausführung, »zStream« </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ~ 150 kg </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> Werkbankausführung, Kühlglocken,<br/> Zusätzliches Gewicht Wasserkühler </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ~ 143 kg<br/> ~ 42 kg </td> <td class=\"text-center\"> ~ 153 kg<br/> ~ 42 kg </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> Mit Untertisch, »zStream« </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ~ 240 kg </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> Mit Untertisch, Kühlglocken </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ~ 274 kg </td> <td class=\"text-center\"> ~ 284 kg </td> <td class=\"text-center\"> ~ 410 kg </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c232283",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/b/9/csm_powerShrink_400_11_small_161288d4d9.webp",
+        "alt": "",
+        "w": 540,
+        "h": 540
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4231",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h3> »powerShrink 400 | 11« </h3>",
+      "table": "<table> <tbody> <tr> <td> Induktionsspulenachse Zmax 1.100 mm </td> </tr> <tr> <td> Induktionsspulenachse Zmax 460 mm </td> </tr> <tr> <td> Stecker für Wechselbetrieb der 2 Induktionsspulenachsen </td> </tr> <tr> <td> Zusatzkühlglocke D 40-50 mm (Option) </td> </tr> <tr> <td> Verstellbare Werkzeugstütze </td> </tr> <tr> <td> Aufnahmetopf für Aufnahmeringe mit 100 mm Längenreduzieradapter </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c4230",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c4229",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Schrumpftechnik: Ihre Vorteile",
+     "href": "/solutions/schrumpftechnik",
+     "caption": "<figcaption> <h3>Schrumpftechnik: Ihre Vorteile</h3> <p>Lesen Sie, wie wir die hohen Steigerungen bei Energieeffizienz, Prozessgeschwindigkeit und Ergonomie erzielt haben. Nutzen Sie Perfektion für Ihre Fertigung. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

@@ -1,0 +1,313 @@
+{
+ "path": "/unternehmen/karriere/stellenangebote/software-engineer-m/w/d-ki-mlops-fullstack",
+ "url": "/unternehmen/karriere/stellenangebote/software-engineer-m/w/d-ki-mlops-fullstack",
+ "title": "Software Engineer (m/w/d) – KI, MLOps & Fullstack",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Karriere /",
+   "href": "/unternehmen/karriere"
+  },
+  {
+   "label": "Stellenangebote",
+   "href": "/unternehmen/karriere/stellenangebote"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere/stellenangebote/software-engineer-m/w/d-ki-mlops-fullstack",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software Engineer (m/w/d) – KI, MLOps & Fullstack",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Ihr Benefit",
+     "href": "/unternehmen/karriere/stellenangebote/software-engineer-m/w/d-ki-mlops-fullstack/ihr-benefit",
+     "current": false
+    },
+    {
+     "label": "Bewerbung",
+     "href": "/unternehmen/karriere/stellenangebote/software-engineer-m/w/d-ki-mlops-fullstack/bewerbung",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c231349",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Bereich Informatik </h3> <h1> Software Engineer (m/w/d) – KI, MLOps &amp; Fullstack </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/Software_Engineer_2026_09_03_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Stellenangebot zum Download (pdf)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c231339",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Ihr Profil</h4><ul><li>Studium der Informatik, Data Science, Künstlichen Intelligenz oder vergleichbare Qualifikation</li><li>Gute bis sehr gute Kenntnisse in Python</li><li>Erfahrung in der Softwareentwicklung und Interesse an KI-Anwendungen</li><li>Selbstständige und strukturierte Arbeitsweise sowie Freude an interdisziplinärer Zusammenarbeit</li><li>PyTorch oder TensorFlow, Docker/Kubernetes, Git/CI/CD, Linux, Computer Vision</li><li>moderne Webtechnologien, REST, relationale Datenbanken, FastAPI/.NET, dealerweise C#</li></ul> <h4>Ihre Aufgaben</h4> <p><strong>Schwerpunkt Machine Learning/MLOps</strong></p><ul><li>Entwicklung, Training und Optimierung von KI-Modellen</li><li>Aufbau und Automatisierung von MLOps-, CI/CD- und Deployment-Prozessen</li><li>Verwaltung und Versionierung von Daten und KI-Modellen</li><li>Performanceoptimierung und Benchmarking von KI-Hardware</li><li>Entwicklung innovativer Lösungen für industrielle Bild- und Messdaten</li></ul><p><strong>Schwerpunkt Fullstack/Backend</strong></p><ul><li>Entwicklung moderner Webanwendungen und Dashboards</li><li>Entwicklung von REST-APIs und Backend-Services</li><li>Umsetzung von Benutzer- und Rechteverwaltung sowie Datenmanagement</li><li>Integration von Bilddaten, KI-Modellen und Software-Services</li><li>Anbindung der Anwendungen an unsere ZOLLER-Messgeräte</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c231334",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c231344",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Online bewerben </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c231324",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Möchten Sie mit Ihrem Können zum Erfolg unseres Unternehmens beitragen? Dann freuen wir uns auf Ihre Bewerbung.</p> <p><a class=\"btn\" href=\"/unternehmen/karriere/stellenangebote/software-engineer-m/w/d-ki-mlops-fullstack/bewerbung\">Jetzt bewerben!</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c231319",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c231329",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ]
+}

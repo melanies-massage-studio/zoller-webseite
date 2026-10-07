@@ -1,0 +1,374 @@
+{
+ "path": "/produkte/automation/werkzeugvorbereitung/micbox",
+ "url": "/produkte/automation/werkzeugvorbereitung/micbox",
+ "title": "»micBox«",
+ "description": "»micBox« - Übernimmt das Drehen, Wenden und Tauschen von Wendeschneidplatten - Das effiziente Handling von Wendeschneidplatten",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Automation /",
+   "href": "/produkte/automation"
+  },
+  {
+   "label": "Werkzeugvorbereitung /",
+   "href": "/produkte/automation/werkzeugvorbereitung"
+  },
+  {
+   "label": "»micBox«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Automation /",
+   "href": "/produkte/automation"
+  },
+  {
+   "label": "Werkzeugvorbereitung /",
+   "href": "/produkte/automation/werkzeugvorbereitung"
+  },
+  {
+   "label": "»micBox«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeugvorbereitung/micbox",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-preparation/micbox",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/preparacion-de-herramientas/micbox",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/preparation-des-outils/micbox",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/preparacao-de-ferramentas/micbox",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/preparazione-degli-utensili/micbox",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/foerberedelse-av-verktyg/micbox",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeugvorbereitung/micbox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-preparation/micbox",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/preparation-des-outils/micbox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/micbox",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/micbox",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-preparation/micbox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/preparacion-de-herramientas/micbox",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/preparacao-de-ferramentas/micbox",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»micBox«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox/software-integration",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2517",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»micBox«",
+   "text": "<p>Effizienter Wendeschneid­plattenwechsler</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/4/4/csm_micbox_header_852f2d46f4.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c2475",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wir stehen für smarten Fortschritt </h2>",
+   "body": "<p>Die »micBox« ist das vollautomatische ZOLLER-System zum Montieren, Drehen, Wenden und Wechseln von Wendeschneidplatten an Fräs­werkzeugen – mannlos und somit absolut prozesssicher. Abläufe, die bisher in aufwändiger Handarbeit durchgeführt wurden, können präzise und fehlerfrei ausgeführt werden und machen die »micBox« zum Gamechanger in Ihrer Fertigung.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/8fJHOJgAAHA?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER »micBox« – Vollautomatischer Wendeschneidplatten-Wechsler"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2476",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Systemlösung im Detail </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/c/4/csm_micBox_info_3a0fe484f7.webp",
+    "alt": "",
+    "w": 1476,
+    "h": 866
+   },
+   "spots": [
+    {
+     "x": 10.983,
+     "y": 44.136,
+     "label": "Multiples Greifermagazin",
+     "text": "<h3>Multiples Greifermagazin</h3> <h4>Greifermagazin – </h4> <p>welches bis zu sechs Greifer für unterschiedliche Wendescheidplatten lagern kann.</p>"
+    },
+    {
+     "x": 24.277,
+     "y": 26.858,
+     "label": "Agiler 6-Achsroboter",
+     "text": "<h3>Agiler 6-Achsroboter</h3> <h4>6-Achsroboter – </h4> <p>von Fanuc mit dem die Wendeschneidplatten und Schrauben präzise gewechselt werden.</p>"
+    },
+    {
+     "x": 47.451,
+     "y": 11.907,
+     "label": "Integriertes Magazin für Wendeschneidplatten",
+     "text": "<h3>Integriertes Magazin für Wendeschneidplatten</h3> <h4>Magazin für Wende­schneidplatten – </h4> <p>bietet ausreichend Platz. Die zwei Magazine innerhalb der »micBox« können dabei unterschiedlich bestückt werden.</p>"
+    },
+    {
+     "x": 61.009,
+     "y": 37.869,
+     "label": "Integrierte Schmiereinheit",
+     "text": "<h3>Integrierte Schmiereinheit</h3> <h4>Schmiereinheit – </h4> <p>für Schrauben verfügt über ein spezielles Fett und garantiert das einfache Lösen der Schrauben mittels Schraubeinheit.</p>"
+    },
+    {
+     "x": 54.598,
+     "y": 50.045,
+     "label": "Bewegliche Dreh- und Wendeeinheit",
+     "text": "<h3>Bewegliche Dreh- und Wendeeinheit</h3> <h4>Dreh- und Wendeeinheit – </h4> <p>wird durch den 6-Achsroboter mit Wendeschneidplatten bestückt. Dieses Einsetzen der Wendeschneidplatten mittels 6-Achsroboter in die Dreh- und Wendeeinheit sorgt für die Neuausrichtung der Wendescheidplatten. Mit dem Schraubenmagazin wird bei Bedarf immer eine neue Schraube für das Werkzeug verwendet.</p>"
+    },
+    {
+     "x": 54.808,
+     "y": 64.548,
+     "label": "Effiziente Schraubeinheit",
+     "text": "<h3>Effiziente Schraubeinheit</h3> <h4>Schraubeinheit – </h4> <p>mit integriertem Vakuumgreifer, welche am Roboter montiert ist und stets für ein präzises Wechseln und Anziehen der Schrauben mit richtigem Drehmoment sorgt.</p>"
+    },
+    {
+     "x": 38.886,
+     "y": 66.338,
+     "label": "Hochgenaue Universalspindel",
+     "text": "<h3>Hochgenaue Universalspindel</h3> <h4>Universalspindel – </h4> <p>ermöglicht die Aufnahme von Werkzeugen bis zu 20 kg und ermöglicht des Weiteren dass Werkzeuge präzise in der Rotation positioniert werden können.</p>"
+    },
+    {
+     "x": 18.129,
+     "y": 76.992,
+     "label": "Leistungsstarke Steuerungssoftware",
+     "text": "<h3>Leistungsstarke Steuerungssoftware</h3> <h4>Steuerungssoftware – </h4> <p>gewährleistet die vollständige Bedienung der »micBox«. Die Software lässt sich zusätzlich auch auf externen Bildschirmen anzeigen.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c2477",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automation: Ihre Vorteile",
+     "href": "/solutions/automation",
+     "caption": "<figcaption> <h3>Automation: Ihre Vorteile</h3> <p>Erfahren Sie, wie Sie mit ZOLLER Werkzeugvorbereitung, -bereitstellung, -logistik und -inspektion automatisieren. Realisieren Sie bedarfsgerecht Ihre hocheffiziente Smart Factory. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

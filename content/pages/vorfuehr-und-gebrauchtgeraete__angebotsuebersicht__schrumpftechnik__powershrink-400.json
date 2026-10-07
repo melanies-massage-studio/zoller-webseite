@@ -1,0 +1,243 @@
+{
+ "path": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/schrumpftechnik/powershrink-400",
+ "url": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/schrumpftechnik/powershrink-400",
+ "title": "»powerShrink 400«",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Angebotsübersicht /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "»powerShrink 400«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Angebotsübersicht /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "»powerShrink 400«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/schrumpftechnik/powershrink-400",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/demonstration-and-used-appliances/offer-overview/shrink-technology/powershrink-400",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Schrumpftechnik",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»powerShrink 400«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/schrumpftechnik/powershrink-400",
+     "current": false
+    },
+    {
+     "label": "»redomatic 600 pilot 4.0«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/schrumpftechnik/redomatic-600-pilot-40",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c8222",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> »powerShrink 400« </h1>",
+   "body": "<ul><li><strong>Max. schrumpfbare Werkzeuglänge 460 mm</strong></li><li><strong>»shrinkbyLight«</strong></li><li><strong>5 Kühlglocken mit »coolbyLight«</strong></li><li><strong>Kühlglockenführung manuell</strong></li><li><strong>Induktionsspule 14 kVA »varOct« CNC</strong></li><li><strong>12,5\" TFT-Farbmonitor</strong></li><li><strong>Untertisch</strong></li></ul><p><a class=\"btn\" href=\"/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage\">ZOLLER-Vertriebs-Anfrage anfordern</a></p> <p><strong>Nicht Ihr Wunschmodell? </strong>Wir haben weitere Modelle der Geräteserie »powerShrink« für Sie zur Auswahl:</p><ul><li>»powerShrink 400« mit Luftkühlung »zStream«</li><li>»powerShrink 600« mit Luftkühlung »zStream«</li><li>»powerShrink 600« mit 14 kVA-Induktionsspule »varOct«</li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/6/csm_gebraucht_powerShrink400_de_b7eb3a323d.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8221",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

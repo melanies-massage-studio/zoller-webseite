@@ -1,0 +1,419 @@
+{
+ "path": "/solutions/schrumpftechnik",
+ "url": "/solutions/schrumpftechnik",
+ "title": "Schrumpftechnik",
+ "description": "Schrumpftechnik",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Schrumpftechnik",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Schrumpftechnik",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/schrumpftechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/shrink-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/amarre-termico-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/technique-de-retrecissement",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/montagem-termica-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tecnologia-per-il-calettamento-a-caldo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/krympteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/schrumpftechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/shrink-technology",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/technique-de-retraction",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/shrink-technology",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/tecnica-de-contraccion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/montagem-termica-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/0/csm_header_shrinking_da2d643d5d.webp",
+     "video": null,
+     "title": "Schrumpftechnik",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c694",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Wir haben die Schrumpftechnologie neu gedacht. Das Ein- und Ausschrumpfen gelingt nun effizienter denn je. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c696",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Fertigungen, die Schrumpfwerkzeuge einsetzen, finden bei ZOLLER die modernsten Schrumpfgeräte, die es aktuell gibt. Grundlegende Teilprozesse des Schrumpfens haben wir technologisch völlig neu gelöst. Die Zugewinne bei Energieeffizienz, Prozessgeschwindigkeit und Prozessführung sind überragend. </strong></p> <p>Geringer Zeitaufwand, hoher Wirkungsgrad und schonend gegenüber Schrumpffuttern – die ZOLLER-Geräte für das Ein- und Aufschrumpfen von Schaftwerkzeugen erreichen mit innovativer Technologie in allen relevanten Bereichen Bestwerte. <br/>Für Fertigungen, die Werkzeuge nicht nur schrumpfen, sondern auch einstellen und messen wollen, haben wir 2-in-1-Lösungen. Sie kombinieren längengenaues Einschrumpfen mit den exakten Geometriedaten aus den hochpräzisen Einstell- und Messgeräten von ZOLLER.</p> <p>Großartige Technologie für großartige Resultate. </p> <p><a class=\"btn\" href=\"/produkte/schrumpftechnik\">Produkte anzeigen</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c697",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c695",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Einfach dem Licht folgen </h2>",
+   "body": "<p>Ergonomie, Sicherheit und einfache Bedienung haben bei ZOLLER seit jeher einen hohen Stellenwert. In den Schrumpfgeräten zeigt sich das durch drei LED-basierte Leitsysteme. Diese führen Sie sicher durch den Schrumpfprozess, informieren Sie über den Status der Spulen und zeigen Ihnen, wann die Kühlung abgeschlossen ist.</p> <p>Sie heißen »actbyLight«, »shrinkbyLight« und »coolbyLight«. Exklusiv bei ZOLLER. </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c698",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Extreme Effizienz </h2>",
+   "body": "<p class=\"large-text\">Mit dem von ZOLLER entwickelten Induktionssystem ist Ihnen ein hoher Wirkungsgrad von fast 100 % sicher. In den Spulen sind zwei parallele Wicklungen verbaut. Nahezu die gesamte eingebrachte elektrische Leistung fließt in die Erhitzung der Schrumpffutter.</p> <p class=\"large-text\">Darüberhinaus verläuft jeder Heiz- und jeder Kühlzyklus enorm schnell. Extreme Effizienz für Ihre Schrumpfprozesse. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/d/csm_shrinking_01_e63ec03bf9.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c700",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Wertvolle Werkzeugdaten </h2>",
+   "body": "<p class=\"large-text\">Daten spielen im System ZOLLER eine tragende Rolle. Auch in Schrumpfprozessen fallen Werkzeugdaten an, die für das Toolmanagement verwertbar sind. Für alle Werkzeuge, die einen ZOLLER »idChip« tragen, können Sie automatisiert Heizzyklen erfassen und von der Software »pilot 4.0« speichern lassen. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/0/csm_shrinking_02_d3c241dbbc.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c699",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Produktive Premiumqualität </h2>",
+   "body": "<p class=\"large-text\">Mit den Schrumpfgeräten von ZOLLER nutzen Sie die modernste Technologie und eine bewährte, auf Langlebigkeit ausgelegte Qualität. Alle Geräte integrieren sich sofort in Ihre Fertigung und unterstützen die Produktivität. </p> <p class=\"large-text\">Die »powerShrink«-Serie sowie die Geräte »redomatic 400« und »redomatic 600« sind TÜV- und UL/CSA-geprüft. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/2/csm_shrinking_03_2905d02cf7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c701",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Erzielbare Minderung des Energiebedarfs:*",
+   "value": "30 %",
+   "note": "* im Vergleich zum Vorgängergerät",
+   "ftype": "zoller_count-banner",
+   "id": "c702",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Schrumpflösungen </h2>",
+   "items": [
+    {
+     "href": "/produkte/schrumpftechnik/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>Das Schrumpfsystem mit optimaler Energieeffizienz und maximaler Sicherheit</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/produkte/schrumpftechnik/redomatic",
+     "title": "»redomatic«",
+     "text": "<p>Universelles Einstell- und Messgerät mit integriertem Werkzeugschrumpfsystem</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1639",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Start with a Solution – Enter a System.",
+     "href": "/das-system",
+     "caption": "<figcaption> <h3>Start with a Solution – Enter a System.</h3> <p>Unsere Kunden profitieren von ganzheitlichen Lösungsansätzen, die wir seit Jahrzehnten vorantreiben. Das Resultat: Exzellente Effizienz. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

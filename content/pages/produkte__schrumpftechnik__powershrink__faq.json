@@ -1,0 +1,564 @@
+{
+ "path": "/produkte/schrumpftechnik/powershrink/faq",
+ "url": "/produkte/schrumpftechnik/powershrink/faq",
+ "title": "»powerShrink« – FAQ",
+ "description": "FAQ - »powerShrink« – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/produkte/schrumpftechnik/powershrink"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Schrumpftechnik /",
+   "href": "/produkte/schrumpftechnik"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/produkte/schrumpftechnik/powershrink"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/powershrink/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/powershrink/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/powershrink/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/powershrink/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/powershrink/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/powershrink/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/powershrink/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/powershrink/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/powershrink/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/powershrink/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/powershrink/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/powershrink/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»powerShrink«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/schrumpftechnik/powershrink",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Modelle",
+     "href": "/produkte/schrumpftechnik/powershrink/modelle",
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/schrumpftechnik/powershrink/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/schrumpftechnik/powershrink/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/schrumpftechnik/powershrink/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/schrumpftechnik/powershrink/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/schrumpftechnik/powershrink/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1201",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Häufig gestellte Fragen</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1199",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Auf welche Temperatur wird der Werkzeughalter während des Schrumpfvorgangs erwärmt?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Dies hängt von der Geometrie des Halters, der Größe des Spanndurchmessers und der Kegelgröße ab. Während einige Standardhalter 4,5 Grad haben, haben schlanke Halter 3 Grad. Je nach Typ wird beim Schrumpfen des Halters eine unterschiedliche Temperatur von 150˚C bis 350˚C verwendet.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1196",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Welche Arten von Schneidwerkstoffen können in Schrumpfhalterungen für das Schrumpfverfahren verwendet werden?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Stahl, HSS, Hartmetall, Schwermetalle, Metallpulver, Schrumpfhalterverlängerungen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1194",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wie groß ist die erforderliche Toleranz für den Schaftdurchmesser des Schneidwerkzeugs bei der Verwendung eines Schrumpfwerkzeughalters?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Die Schafttoleranz des Schneidwerkzeugs muss h6 oder h5 betragen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1192",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ist es möglich, die Lebensdauer des Werkzeughalters und die Anzahl der Schrumpfzyklen des Werkzeughalters zu überwachen?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Mit dem ZOLLER »powerShrink« ist es möglich, die Heizzyklen des Werkzeughalters mit Hilfe einer eindeutigen Werkzeughalter-ID-Nummer z.B. der ZOLLER »idChip« Technologie zu überwachen. Jeder Zyklus wird in der »pilot« Software überwacht und registriert.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1190",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Was ist die minimale und maximale Erhitzungszeit?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Die Erhitzungszeit hängt von der Geometrie des Werkzeughalters und dem Spanndurchmesser ab. Bei kleinen Durchmessern dauert diese 2 bis 3 Sekunden, bei großen Durchmessern 5 bis 7 Sekunden.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1188",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Was ist die minimale und maximale Kühlungszeit?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER bietet zwei Arten der Kühlsysteme an: Ein berührungsloses Kühlsystem mit Luftkühlung und Kühladapter. Je nach Werkzeugdurchmesser beträgt die Kühlzeit mit Kühladaptern 60 bis 120 Sekunden. Bei der Luftkühlung »Zstream« wird der Vorgang Konditionierung genannt, bei dem der komplette Werkzeughalter von der Nase bis zum Flansch gekühlt wird. Die Konditionierungszeit hängt hier vom Durchmesser des Halters ab und beträgt 3 bis 5 Minuten.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1186",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ist für die Installation des »powerShrink« Geräts ein klimatisierter Raum erforderlich?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ein klimatisierter Raum ist nicht erforderlich. Das Gerät kann in einem staubfreien Bereich in der Maschinenhalle installiert werden.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1184",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wie funktioniert das Schrumpfen und was für ein Prozess findet hier statt?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Das Konzept ist simpel. Jeder Schrumpfwerkzeughalter wird mit einem Innendurchmesser hergestellt, der etwas kleiner ist als der Schaftdurchmesser des Schneidwerkzeugs. Mit einem Induktionsgerät wird der Nasenbereich des Werkzeughalters schnell erhitzt, um den Innendurchmesser zu vergrößern. An diesem Punkt kann das Schneidwerkzeug in den Werkzeughalter eingesetzt werden. Danach wird der Werkzeughalter abgekühlt und der Durchmesser schrumpft, wodurch eine Kraft auf den Schaft des Schneidwerkzeugs ausgeübt wird, um dieses genau in Position zu halten.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1182",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Was ist berührungsloses Kühlen und Kontaktkühlung?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Wenn Werkzeughalter ohne direkten Kontakt geschrumpft werden, wird das Werkzeughaltersystem berührungslose Kühlung genannt. Dies erfolgt z. B. mit Hilfe von Kühladaptern oder Luftkühlung.</p> <p>Wenn die Werkzeughalter nach dem Erhitzen mit einer Flüssigkeit gekühlt werden, nennt man diesen Vorgang Abschrecken. Die Lebensdauer des Halters verringert sich und der Halter rostet, wenn der Werkzeughalter weiterhin mit Flüssigkeiten direkt darauf verwendet wird. Die Kühlflüssigkeit wird nach kurzer Zeit schmutzig und muss ersetzt werden, da sie sonst zusammenfällt, stark riecht und schädliche Inhaltsstoffe enthält, die für die menschliche Haut gefährlich sind.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1180",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ist es möglich, dieselbe Schrumpfmaschine für Standarddurchmesser von 3 bis 32 mm und Schwerlastschrumpfhalter für Durchmesser über 32 mm zu verwenden?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ja, dies ist mit dem ZOLLER »powerShrink 600« möglich, bei der die 14 kVA-Induktionsspule und die 22 kVA-Induktionsspule schnell und einfach über die Schnellwechselschnittstelle ausgetauscht werden können.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1178",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ist es möglich, die Gesamtlänge des Werkzeugs nach dem Schrumpfen mit der »powerShrink« Maschine zu verstellen?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ja, mit den Einstellsystemen »eQset« und »liteSet« ist es möglich, die Gesamtlänge des Werkzeugs am »powerShrink« voreinzustellen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1307",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1198",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1200",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Schrumpftechnik: Ihre Vorteile",
+     "href": "/solutions/schrumpftechnik",
+     "caption": "<figcaption> <h3>Schrumpftechnik: Ihre Vorteile</h3> <p>Lesen Sie, wie wir die hohen Steigerungen bei Energieeffizienz, Prozessgeschwindigkeit und Ergonomie erzielt haben. Nutzen Sie Perfektion für Ihre Fertigung. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

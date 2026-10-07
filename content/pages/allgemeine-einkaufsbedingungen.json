@@ -1,0 +1,202 @@
+{
+ "path": "/allgemeine-einkaufsbedingungen",
+ "url": "/allgemeine-einkaufsbedingungen",
+ "title": "Allgemeine Einkaufsbedingungen",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Allgemeine Einkaufsbedingungen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Allgemeine Einkaufsbedingungen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/allgemeine-einkaufsbedingungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/general-terms-and-conditions-of-purchase",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/conditions-generales-dachat",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/condicoes-gerais-de-compra",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/condizioni-generali-di-acquisto",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/allmaenna-inkoepsvillkor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/conditions-generales-dachat",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%B8%80%E8%88%AC%E8%B3%BC%E5%85%A5%E6%9D%A1%E4%BB%B6",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%9D%BC%EB%B0%98-%EA%B5%AC%EB%A7%A4-%EC%95%BD%EA%B4%80",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/general-terms-and-conditions-of-purchase",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/condiciones-generales-de-compra",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Allgemeine Einkaufsbedingungen </h1>",
+      "body": "<h3>1. Geltung, Gültigkeit der Bedingungen des Auftraggebers</h3> <p>Diese Einkaufsbedingungen gelten ausschließlich für alle – auch zukünftigen – Verträge mit Unternehmern, juristischen Personen des öffentlichen Rechts und öffentlichrechtlichen Sondervermögen über Lieferungen und sonstige Leistungen unter Einschluss von Werkverträgen. Entgegenstehenden oder zusätzlichen Bedingungen des Auftragnehmers wird hiermit widersprochen. Sie werden auch dann nicht anerkannt, wenn ihnen nicht nochmals nach Eingang ausdrücklich widersprochen, die Lieferung übernommen und/oder die Ware bezahlt wurde. ie gelten nur, wenn der Einkäufer sich schriftlich und ausdrücklich mit ihnen oder mit Teilen von ihnen einverstanden erklärt hat.</p> <h3>2. Bestellung des Auftraggebers</h3><ol><li>Bestellungen, mündliche Nebenabreden zur Bestellung, Vereinbarungen und Äußerungen von Angestellten des Auftraggebers werden erst durch schriftliche Bestätigung des Auftraggebers verbindlich. Dies gilt auch für nachträgliche Änderungen und Ergänzungen.</li><li>Änderungen bzw. Erweiterungen des Liefer-/Leistungsumfangs, die sich bei der Ausführung als erforderlich erweisen, wird der Auftragnehmer dem Auftraggeber unverzüglich schriftlich anzeigen. Sie bedürfen der vorherigen schriftlichen Zustimmung des Auftraggebers.</li><li>Die Schriftform ist auch gewahrt bei Übermittlung auf dem Wege der elektronischen Datenübertragung.</li><li>Die Bestellung ist innerhalb von acht Werktagen durch den Auftragnehmer per rechtsgültig unterschriebener Bestellkopie der Bestellung (Bestellungsannahme) zu bestätigen. Dies gilt nicht für Bestellungen, die vom Auftraggeber auf dem Wege der elektronischen Datenübertragung übermittelt wurden. In diesem Fall haben Bestätigungen innerhalb von zwei Werktagen zu erfolgen. Nichtbestätigung gilt als Annahme.</li></ol> <h3>3. Angebot des Auftragnehmers</h3><ol><li>Der Auftragnehmer hat sich im Angebot genau an die Spezifikation und den Wortlaut der Anfrage zu halten. Im Falle von Abweichungen ist ein ausdrücklicher Hinweis erforderlich.</li><li>An Abbildungen, Zeichnungen, Kalkulationen und sonstigen Unterlagen der Anfragen des Auftraggebers behält sich dieser Eigentums- und Urheberrechte vor; sie dürfen Dritten nicht zugänglich gemacht werden. Die Weitergabe an Dritte bedarf der ausdrücklichen schriftlichen Zustimmung des Auftraggebers. Die Unterlagen sind ausschließlich für die Fertigung aufgrund der Bestellung des Auftraggebers zu verwenden; nach Abwicklung der Bestellung sind sie dem Auftraggeber unaufgefordert zurückzugeben.</li><li>Die Erstellung von Angeboten ist für den Auftraggeber kostenlos und unverbindlich.</li><li>Der Auftragnehmer hat unter den Voraussetzungen des § 48 EstG mit Abgabe des Angebots eine gültige Freistellungsbescheinigung gemäß § 48 b EstG in lesbarer Kopie bzw. bei auftragsbezogener Bescheinigung im Original vorzulegen. Andernfalls kann das Angebot im weiteren Vergabeverfahren keine Berücksichtigung finden. Über einen eventuellen Widerruf einer gültigen Freistellungsbescheinigung hat der Auftragnehmer den Auftraggeber unverzüglich zu informieren.</li></ol> <h3>4. Liefer-, Leistungszeit</h3><ol><li>Die in der Bestellung angegebenen Termine der Lieferung oder Leistung sind bindend. Lieferungen vor dem vereinbarten Liefertermin können vom Auftraggeber zurückgewiesen werden. Der Auftragnehmer ist verpflichtet, den Auftraggeber unverzüglich schriftlich zu informieren, wenn Umstände eintreten oder ihm erkennbar werden, aus denen sich ergibt, dass der vereinbarte Termin nicht eingehalten werden kann. Die Verpflichtung zur Einhaltung der vereinbarten Termine bleibt hiervon unberührt.</li><li>Bei Verzug des Auftragnehmers kann der Auftraggeber nach ergebnislosem Ablauf einer von ihm gesetzten angemessenen Nachfrist die von dem Auftragnehmer noch nicht erbrachte Lieferung durch einen Dritten zulasten des Auftragnehmers durchführen lassen. Des Weiteren besteht die Möglichkeit, dass der Auftraggeber nach dem ergebnislosen Ablauf einer von ihm gesetzten angemessenen Nachfrist vom Vertrag zurücktreten kann.</li><li>Im Falle des Lieferverzugs des Auftragnehmers ist der Auftraggeber berechtigt, pauschalierten Verzugsschaden in Höhe von 1 % des Lieferwerts pro vollendeter Woche zu verlangen, jedoch nicht mehr als 10 %. Dem Auftragnehmer steht das Recht zu, dem Auftraggeber nachzuweisen, dass in Folge des Verzugs kein Schaden oder ein wesentlich geringerer Schaden entstanden ist. Der Auftraggeber behält sich das Recht vor, anstelle des pauschalierten Verzugsschadens weitergehende gesetzliche Ansprüche geltend zu machen, insbesondere Rücktritt oder Schadensersatz wegen Nichterfüllung.</li><li>Im Falle höherer Gewalt ist der Auftraggeber berechtigt, die Ausführung zu einem späteren Termin zu verlangen. Der Auftraggeber ist verpflichtet, dieses unverzüglich dem Auftragnehmer aufzuzeigen.</li><li>Ergänzend zu den in den vorstehenden Absätzen getroffenen Regelungen gelten die gesetzlichen Vorschriften.</li><li>Auf das Ausbleiben notwendiger, vom Auftraggeber zu liefernder Unterlagen, kann sich der Auftragnehmer nur berufen, wenn er diese Unterlagen trotz schriftlicher Mahnung nicht innerhalb angemessener Frist erhalten hat.</li></ol> <h3>5. Rahmenaufträge</h3><ol><li>Bei Rahmenaufträgen wird zwischen beiden Parteien ein eigenständiger Rahmenvertrag für die jeweils zu liefernden Materialien abgeschlossen. Aus diesem ergeben sich die Lieferpreise und die Gesamtstückzahl der zu liefernden Materialien für voraussichtlich ein Jahr (Jahresbedarf). Der konkrete Lieferabruf aus einem Rahmenauftrag erfolgt seitens des Auftraggeber schriftlich in Höhe der zuvor vereinbarten Losgröße. Allerdings ist es dem Auftraggeber gestattet, abweichend von den vereinbarten Losgrößen auch Abrufaufträge mit geringeren bzw. höheren Stückzahlen abzurufen.</li><li>Der Auftragnehmer ist verpflichtet, innerhalb von 3 Arbeitstagen nach Eingang eines schriftlichen Abrufauftrages aus einem Rahmenauftrag, die jeweilige Abrufmenge zu liefern. Der Auftragnehmer ist verpflichtet, Materialien aus bestehenden Rahmenverträgen stets in ausreichender Menge zu bevorraten um die Lieferfrist von 3 Arbeitstagen einzelner Abrufaufträge stets zu gewährleisten. Rahmenaufträge beginnen jeweils mit dem ersten und enden jeweils mit dem letzten Abruf der zu liefernden Materialien.</li><li>Die in den Rahmenverträgen vereinbarten Preise sind stets Festpreise, die über die Laufzeit der einzelnen Rahmenverträge gelten.</li><li>Der Auftraggeber verpflichtet sich gegenüber dem Auftragnehmer, die in den jeweiligen Rahmenverträgen vereinbarten Stückzahlen abzunehmen. Allerdings ist der Auftraggeber nicht verpflichtet, innerhalb bestimmter Zeiten bestimmte Teilmengen abzunehmen. Die konkrete Abnahmemenge richtet sich nach den betrieblichen Bedürfnissen des Auftraggeber und den konkreten Einzelabrufaufträgen.</li></ol> <h3>6. Ausführung, Umweltschutz, Sicherheit, Gesundheitsschutz und Qualität</h3><ol><li>Die Lieferung muss die vereinbarten Spezifikationen aufweisen, den anerkannten Regeln der Technik und die jeweils gültigen gesetzlichen und behördlichen Vorschriften und die betrieblichen Regeln und Vorschriften des Auftraggebers berücksichtigen. Insbesondere hat der Auftragnehmer die Unfallverhütungsvorschriften, das Berufsgenossenschaftliche Vorschriftenwerk, insbesondere BGVA1 und BGVA2, sowie die allgemein anerkannten sicherheitstechnischen und arbeitsmedizinischen Regeln zu beachten. Maschinen und technische Arbeitsmittel sind entsprechend der Maschinenverordnung mit einer Betriebsanleitung und einer EG-Konformitätserklärung zu liefern. Sie müssen außerdem den in den Verzeichnissen A und B der „Allgemeinen Verwaltungsvorschrift zum Gesetz über technische Arbeitsmittel“ aufgeführten Normen sowie sonstigen Regeln mit sicherheitstechnischem Inhalt und den Unfallverhütungsvorschriften entsprechen. Es sind vorzugsweise Arbeitsmittel mit CE-Kennzeichnung zu liefern. Ist ein Prüfzeichen nicht erteilt, ist die Einhaltung der o. g. Vorschriften auf unser Verlangen nachzuweisen.</li><li>Soweit anwendbar, unterhält der Auftragnehmer ein Qualitätssicherungssystem z. B. gemäß DIN EN ISO 9001–9003. Der Auftraggeber ist berechtigt, das System nach Abstimmung zu überprüfen.</li><li>Für den Fall, dass der Auftragnehmer Stoffe liefert, die Gefahrstoffe im Sinne der Gefahrstoffverordnung sind, ist der Auftragnehmer verpflichtet, unaufgefordert vor der Lieferung das EG-Sicherheitsdatenblatt (§ 4 GefStoffV) zur Verfügung zu stellen.</li><li>Der Einsatz von krebserregenden Stoffen wird dem Auftragnehmer untersagt. Der Auftragnehmer hat die Qualität seiner an den Auftraggeber zu liefernden Erzeugnisse ständig an dem neusten Stand der Technik auszurichten und den Auftraggeber auf Verbesserungsmöglichkeiten und technische Änderungsmöglichkeiten hinzuweisen.</li></ol> <h3>7. Versicherungen</h3><ol><li>Gewährleistungszeiten und Haftpflichtversicherungsschutz mit branchenüblichen Konditionen (Mindestdeckungssumme von 5 Mio. Euro pro Personenschaden/ Sachschaden pauschal) unterhalten. Der Auftragnehmer muss die bestehende Versicherung auf Verlangen des Auftraggebers nachweisen; geringere Der Auftragnehmer muss für die Dauer des Vertrags einschließlich Garantie- und Deckungssummen sind im Einzelfall mit dem Auftraggeber abzustimmen. Stehen dem Auftraggeber weitergehende Schadensersatzansprüche zu, so bleiben diese unberührt.</li><li>Alle unmittelbar an den Auftraggeber gerichteten Sendungen (z. B. Lieferungen aufgrund von Kaufverträgen, Werklieferungen, Instandhaltungsaufträgen oder Spezialanfertigungen, nicht jedoch Materiallieferungen für Werkverträge, die der Auftragnehmer in den Anlagen des Auftraggebers erbringt) sind durch den Auftragnehmer zu versichern.</li></ol> <h3>8. Eigentumsvorbehalte, Beistellung, Werkzeuge</h3><ol><li>Sofern der Auftraggeber Teile beim Auftragnehmer beistellt, behält sich dieser hieran das Eigentum vor. Verarbeitung oder Umbildung durch den Auftragnehmer werden für den Auftraggeber vorgenommen. Wird die vom Auftraggeber beigestellte Sache mit anderen, dem Auftraggeber nicht gehörenden Gegenständen verarbeitet oder untrennbar vermischt, so erwirbt der Auftraggeber das Miteigentum an der neuen Sache im Verhältnis des Werts der Vorbehaltssache (Einkaufspreis zuzüglich Umsatzsteuer) zu den anderen verarbeiteten oder vermischten Gegenständen zum Zeitpunkt der Verarbeitung/ Vermischung. Erfolgt die Verarbeitung/Vermischung in der Weise, dass die Sache des Auftragnehmers als Hauptsache anzusehen ist, so gilt als vereinbart, dass der Auftragnehmer dem Auftraggeber anteiliges Miteigentum überträgt; der Auftragnehmer verwahrt das Alleineigentum oder das Miteigentum für den Auftraggeber.</li><li>An beigestellten Werkzeugen behält sich der Auftraggeber das Eigentum vor; der Auftragnehmer ist verpflichtet, die Werkzeuge ausschließlich für die Herstellung der vom Auftraggeber bestellten Waren einzusetzen. Der Auftragnehmer ist verpflichtet, die dem Auftraggeber gehörenden Werkzeuge zum Neuwert auf eigene Kosten gegen Feuer-, Wasser- und Diebstahlschäden zu versichern. Gleichzeitig tritt der Auftragnehmer dem Auftraggeber schon jetzt alle Entschädigungsansprüche aus dieser Versicherung ab; der Auftraggeber nimmt die Abtretung hiermit an. Der Auftragnehmer ist verpflichtet, an den Werkzeugen des Auftraggebers erforderlich werdende Wartungs- und Inspektionsarbeiten sowie alle Instandhaltungs- und Instandsetzungskosten auf eigene Kosten rechtzeitig durchzuführen. Etwaige Störfälle hat er dem Auftraggeber sofort anzuzeigen; unterlässt er dies schuldhaft, so bleiben Schadensersatzansprüche unberührt. Soweit die dem Auftraggeber gegenüber gemäß den vorstehenden Regelungen bestehenden Sicherungsrechte den Einkaufspreis aller noch nicht bezahlten Vorbehaltswaren des Auftraggebers um mehr als 20 % übersteigen, ist der Auftraggeber auf Verlangen des Auftragnehmers zur Freigabe der Sicherungsrechte nach Wahl des Auftraggebers verpflichtet.</li><li>Bezüglich der Eigentumsvorbehaltsrechte des Auftragnehmers gelten dessen Bedingungen mit der Maßgabe, dass das Eigentum an der Ware mit ihrer Bezahlung auf den Auftraggeber übergeht und dementsprechend die Erweiterungsform des Kontokorrentvorbehalts nicht gilt. Aufgrund des Eigentumsvorbehalts kann der Auftragnehmer die Ware nur herausverlangen, wenn er zuvor vom Vertrag zurückgetreten ist.</li></ol> <h3>9. Subunternehmer, Arbeitskräfte aus Nicht-EU-Staaten</h3><ol><li>Die Einschaltung von Subunternehmern bedarf der vorherigen schriftlichen Zustimmung des Auftraggebers. Der Auftragnehmer hat den Subunternehmern bezüglich der von ihm übernommenen Aufgaben alle Verpflichtungen aufzuerlegen und deren Einhaltung sicherzustellen, die er gegenüber dem Auftraggeber übernommen hat.</li><li>Sollten Auftragnehmer oder Subunternehmer Arbeitskräfte einsetzen, die nicht aus EUStaaten stammen, sind dem Auftraggeber vor Arbeitsbeginn durch den Auftragnehmer die entsprechenden Arbeitserlaubnisse vorzulegen.</li><li>Setzt der Auftragnehmer Subunternehmer ohne unsere vorherige schriftliche Zustimmung gemäß Ziffer 2.(1) ein oder verstößt der Auftragnehmer gegen die Pflicht, Arbeitserlaubnisse gemäß Ziffer 2.(2) vorzulegen, hat der Auftraggeber das Recht, vom Vertrag zurückzutreten oder Schadensersatz wegen Nichterfüllung zu verlangen.</li><li>Der Auftragnehmer darf seine Subunternehmer nicht daran hindern, mit dem Auftraggeber Verträge über andere Lieferungen/Leistungen abzuschließen. Unzulässig sind insbesondere Exklusivitätsvereinbarungen mit Dritten, die den Auftraggeber oder den Subunternehmer am Bezug von Lieferungen/Leistungen hindern, die der Auftraggeber selbst oder der Subunternehmer für die Abwicklung derartiger Aufträge benötigt.</li></ol> <h3>10. Versand, Erfüllungsort</h3><ol><li>Vereinbarte Liefertermine und -fristen sind verbindlich. Drohende Lieferverzögerungen sind dem Auftraggeber unverzüglich schriftlich mitzuteilen. Gleichzeitig sind dem Auftraggeber geeignete Gegenmaßnahmen zur Abwehr der Verzögerungsfolgen vorzuschlagen. Maßgeblich für die Einhaltung des Liefertermins oder der Lieferfrist ist der Eingang der Ware beim Auftraggeber, soweit nichts anderes schriftlich vereinbart ist. Erfüllungsort ist die vom Auftraggeber in der Bestellung angegebene Lieferadresse.</li><li>Der Versand erfolgt auf Rechnung und Gefahr des Auftragnehmers. Es sind die für den Auftraggeber günstigsten Transportmöglichkeiten zu wählen, sofern dieser nicht ausdrücklich bestimmte Beförderungsvorschriften angegeben hat. Die Lieferungen sind so zu verpacken, dass Transportschäden vermieden werden.</li><li>Neben der Versandanschrift sind in den Transportpapieren die Bestellangaben (Bestellnummer, Artikelnummer des Auftraggeber, Bestelldatum, Anlieferstelle, ggf. Name des Empfängers und Behälternummer) anzugeben. Grundsätzlich ist die Sendung am Tage des Abgangs schriftlich der bestellenden Abteilung des Auftraggebers anzuzeigen.</li><li>Bei der Lieferung von Gefahrstoffen sind dem Auftraggeber Produktinformationen, insbesondere Sicherheitsdatenblätter, rechtzeitig vor der Lieferung zu übermitteln. Das Gleiche gilt für Informationen bezüglich gesetzlich bedingter Vermarktungsbeschränkungen.</li><li>Die durch Fehlleitung von Lieferungen entstehenden Kosten trägt der Auftragnehmer, sofern er den Transport übernimmt oder die Fehlleitung des Transports verschuldet hat. Fehlen in den Lieferpapieren die Bestellzeichen oder Anstellungsvermerke des Auftraggebers, so gehen alle dadurch entstandenen Kosten wie Wagenstandgeld, Umstellungsgebühr und dergleichen zulasten des Auftragnehmers. Auf das Ausbleiben notwendiger, vom Auftraggeber zu liefernder Unterlagen kann sich der Auftragnehmer nur berufen, wenn er die Unterlagen auch nach einer schriftlichen Mahnung nicht erhalten hat.</li><li>Der Auftragnehmer ist zu Teillieferungen/-leistungen grundsätzlich nur mit schriftlicher Zustimmung des Auftraggebers berechtigt.</li><li>Der Auftraggeber ist berechtigt, Verpackungen, die sich in gutem Zustand befinden, gegen Vergütung des sich aus der Rechnung hierfür ergebenden Werts an den Auftragnehmer zurückzusenden. Andere Versandanweisungen sind auf dem Lieferschein besonders hervorzuheben. Verpackungskosten trägt der Auftragnehmer, falls nicht schriftlich etwas anderes vereinbart wurde. Trägt der Auftraggeber im Einzelfall die Kosten der Verpackung, so ist diese billigst zu berechnen. Die Rücknahmepflichten richten sich nach der Verpackungsverordnung vom 21.08.1998 in ihrer jeweils gültigen Fassung.</li><li>Die Anerkennung von Mehr- oder Minderlieferungen behält sich der Auftraggeber vor.</li><li>Gerät der Auftragnehmer in Lieferverzug, stehen dem Auftraggeber die gesetzlichen Ansprüche zu. Insbesondere ist er berechtigt, nach dem fruchtlosen Ablauf einer von ihm gesetzten angemessenen Nachfrist Schadensersatz statt der Leistung zu verlangen. Der Anspruch des Auftraggebers auf die Lieferung ist erst ausgeschlossen, wenn der Auftragnehmer den Schadensersatz geleistet hat.</li></ol> <h3>11. Erklärung der Ursprungseigenschaft</h3> <p>Für den Fall, dass der Auftragnehmer Erklärungen über die Ursprungseigenschaft der verkauften Ware abgibt, gilt Folgendes:</p><ol><li>Der Auftragnehmer verpflichtet sich, die Überprüfung der Ursprungsnachweise durch die zuständigen Stellen der Zollverwaltung zu ermöglichen und sowohl die dazu notwendigen Auskünfte zu erteilen als auch eventuell erforderliche Bestätigungen beizubringen.</li><li>Der Auftragnehmer ist verpflichtet, den Schaden zu ersetzen, der dadurch entsteht, dass der erklärte Ursprung infolge fehlerhafter Bescheinigung oder fehlender Nachprüfungsmöglichkeit von der zuständigen Behörde nicht anerkannt wird, es sei denn, er hat diese Folgen nicht zu vertreten.</li></ol> <h3>12. Betreten und Befahren des Werksgeländes/der Baustelle des Auftraggebers</h3><ol><li>Beim Betreten und Befahren des Werksgeländes/der Baustelle des Auftraggebers ist den Anweisungen dessen Fachpersonals zu folgen. Das Betreten oder Befahren des Werksgeländes/der Baustelle ist rechtzeitig anzumelden. Die Vorschriften der StVO sind einzuhalten. Der Auftraggeber und seine Mitarbeiter haften, gleich aus welchem Rechtsgrund, nur für grobe Fahrlässigkeit und Vorsatz, bei Verletzung von Leben, Körper oder Gesundheit auch für einfache Fahrlässigkeit.</li><li>Werden Leistungen auf dem Werksgelände/der Baustelle erbracht, so gilt die entsprechende Baustellenordnung. Bei Arbeitsaufnahme oder auf vorherige Anforderung wird den Aufsichtspersonen des Auftragnehmers eine Ausfertigung der Baustellenordnung einschließlich Anlagenverzeichnis gegen Unterschrift ausgehändigt. Die Kenntnis über den Inhalt der Baustellenordnung einschließlich Anlagenverzeichnis ist durch eine schriftliche Erklärung zu bestätigen.</li></ol> <h3>13. Gefahrübergang</h3><ol><li>Die Gefahr geht erst auf den Auftraggeber über, nachdem ihm die Lieferung übergeben bzw. die Leistung von ihm abgenommen wurde. Die Annahme erfolgt unter Vorbehalt der Untersuchung auf Mangelfreiheit, insbesondere auch auf Richtigkeit, Vollständigkeit und Tauglichkeit . Wir sind berechtigt, den Vertragsgegenstand, soweit und sobald dies nach ordnungsgemäßen Geschäftsgang tunlich ist, zu untersuchen. Entdeckte Mängel werden von uns unverzüglich nach Entdeckung gerügt. Bei verstecktem Mangel gilt dies ab Entdeckung des Mangels. Von der Verpflichtung der unverzüglichen Untersuchung auf Mängelfreiheit wird der Auftraggeber ausdrücklich befreit. Insoweit verzichtet der Auftragnehmer auf den Einwand der verspäteten Mängelrüge.</li></ol> <h3>14. Gewährleistung</h3><ol><li>Die gesetzlichen Gewährleistungs- und Schadensersatzansprüche stehen dem Auftraggeber ungekürzt zu. Der Auftragnehmer hat dem Auftraggeber insbesondere dafür einzustehen, dass seine Lieferungen und Leistungen den anerkannten Regeln der Technik und den vertraglich vereinbarten Eigenschaften und Normen entsprechen. Unabhängig davon ist der Auftraggeber nach seiner Wahl berechtigt, vom Auftragnehmer Mangelbeseitigung oder Ersatzlieferung zu verlangen. In diesem Fall ist der Auftragnehmer verpflichtet, alle zum Zwecke der Mängelbeseitigung oder der Ersatzlieferung erforderlichen Aufwendungen zu tragen, die der Auftraggeber im Verhältnis zu seinem Abnehmer zu tragen hat, wenn der Mangel bereits beim Übergang der Gefahr auf den Auftraggeber vorhanden war. Eine Nachbesserung des Auftragnehmers gilt bereits nach dem ersten erfolglosen Versuch als fehlgeschlagen. Das Recht auf Schadensersatz, insbesondere das auf Schadensersatz wegen Nichterfüllung, bleibt ausdrücklich vorbehalten. Das Recht auf Rücktritt steht dem Auftraggeber auch dann zu, wenn die betreffende Pflichtverletzung des Auftragnehmers nur unerheblich ist. Die gesetzlichen Gewährleistungs-/Garantieansprüche verjähren, sofern das Gesetz keine längeren Fristen vorsieht, innerhalb von 24 Monaten nach Gefahrenübergang. Soweit der Auftraggeber von Dritten aufgrund der Mangelhaftigkeit der Ware in Anspruch genommen wird (Unternehmerrückgriff), wird die Verjährung bis zum Ablauf von maximal fünf Jahren gehemmt. Die Mängelhaftung des Auftragnehmers endet spätestens zehn Jahre nach Ablieferung der Ware. Diese Beschränkung gilt nicht, sofern die Ansprüche des Auftraggebers auf Tatsachen beruhen, die der Auftragnehmer kannte oder über die er nicht in Unkenntnis hat sein können und die er dem Auftraggeber nicht offenbart hat. Der Auftragnehmer tritt an den Auftraggeber bereits jetzt - erfüllungshalber – alle Ansprüche ab, die ihm gegen seine Vorlieferanten aus Anlass und im Zusammenhang mit der Lieferung mangelhafter Waren zustehen. Er wird dem Auftraggeber zur Geltendmachung solcher Ansprüche sämtliche hierfür erforderlichen Unterlagen aushändigen und sämtliche erforderlichen Erklärungen abgeben.</li><li>Mängel hat der Auftragnehmer unentgeltlich – einschließlich Nebenkosten – zu beseitigen. Ist dies nicht möglich, oder ist dem Auftraggeber die Annahme nachgebesserter Teile nicht zumutbar, hat der Auftragnehmer die mangelhaften Teile kostenfrei durch mangelfreie zu ersetzen.</li><li>In dringenden Fällen, oder wenn der Auftragnehmer mit der Mangelbeseitigung in Verzug gerät, kann der Auftraggeber die erforderlichen Maßnahmen auf Kosten des Auftragnehmers selbst durchführen oder durch einen Dritten durchführen lassen. Der Auftraggeber wird den Auftragnehmer vor Durchführung der Maßnahmen benachrichtigen. Ist dies nicht möglich, können in dringenden Fällen die zur Schadensabwehr erforderlichen Maßnahmen ohne vorherige Benachrichtigung durchgeführt werden; in diesen Fällen wird der Auftraggeber die Benachrichtigung unverzüglich nachholen. Die Gewährleistungsverpflichtung des Auftragnehmers bleibt hiervon unberührt; hiervon ausgenommen sind Mängel, die auf vom Auftraggeber oder einem Dritten durchgeführte Maßnahmen zurückzuführen sind.</li><li>Ist eine Mangelbeseitigung nicht möglich oder dem Auftraggeber nicht zumutbar, kann er Wandelung oder Minderung verlangen.</li><li>Bei Mängeln verlängert sich die Gewährleistungszeit um die zwischen Mängelrüge und Mängelbeseitigung liegende Zeit. Wird der Liefer-/Leistungsgegenstand neu geliefert, ganz oder teilweise nachgebessert oder ersetzt, beginnt die Gewährleistungszeit für den neu gelieferten, ersetzten oder ganz bzw. teilweise nachgebesserten Gegenstand erneut.</li><li>Soweit der Auftragnehmer für einen Produktschaden verantwortlich ist, ist er verpflichtet, den Auftraggeber insoweit von Schadensersatzansprüchen Dritter auf erstes Anfordern freizustellen, als die Ursache in seinem Herrschafts- und Organisationsbereich gesetzt ist und er im Außenverhältnis selbst haftet.</li><li>Im Rahmen seiner Haftung für Schadensfälle im Sinne des vorstehenden Absatzes (6) ist der Auftragnehmer auch verpflichtet, etwaige Aufwendungen gemäß §§ 683, 670 BGB sowie gemäß §§ 830, 840 BGB zu erstatten, die sich auch oder im Zusammenhang mit einer vom Auftraggeber durchgeführten Rückrufaktion ergeben. Über Inhalt und Umfang der durchzuführenden Rückrufmaßnahme wird der Auftraggeber den Auftragnehmer, soweit möglich und zumutbar, unterrichten und ihm Gelegenheit zur Stellungnahme geben. Sonstige gesetzliche Ansprüche des Auftraggebers bleiben vorbehalten.</li><li>Eine Haftung aus Verletzung von Pflichten aus dem Geräte- und Produktsicherheitsgesetz ist auf Produkte beschränkt, die nach dem 01.05.2004 in Verkehr gebracht wurden. Darüber hinaus bestehen Ansprüche auf Schadensersatz nur für solche Schäden, die durch vorsätzliche oder grob fahrlässige Verletzung der Pflichten verursacht wurden. Die Haftung ist – soweit zulässig – auf den Wert des Produktes beschränkt.</li></ol> <h3>15. Preise, Rechnungslegung</h3><ol><li>Die in der Bestellung genannten Preise sind einschließlich sämtlicher Nachlässe und Zuschläge Festpreise (zuzüglich gesetzlicher Umsatzsteuer) frei Verwendungsstelle einschließlich Verpackungs-, Korrosionsschutz- und Versandkosten. Bei unfreier Lieferung übernimmt der Auftraggeber nur die günstigsten Frachtkosten, es sei denn, er hat eine besondere Art der Versendung vorgeschrieben. Durch die Art der Preisstellung wird die Vereinbarung über den Erfüllungsort nicht berührt. Der Auftraggeber bezahlt, soweit nichts anderes schriftlich vereinbart ist, oder bei günstigeren Konditionen des Auftragnehmers, den vereinbarten Preis unter Abzug von 3 % Skonto.</li><li>Zahlungs- und Skontofristen laufen ab Rechnungseingang, jedoch nicht vor Eingang der Ware bzw. bei Leistungen nicht vor deren Abnahme und, sofern Dokumentationen, Prüfbescheinigungen (z. B. Werkszeugnisse) oder ähnliche Unterlagen zum Leistungsumfang gehören, nicht vor deren vertragsgemäßer Übergabe an den Auftraggeber.</li><li>Der Auftraggeber zahlt innerhalb von 14 Tagen mit obigem Skonto, er ist jedoch auch berechtigt, ohne Abzug am 15. des der Lieferung folgenden Monats nach vollständiger und unbeanstandeter Lieferung und Rechnungserhalt zu bezahlen.</li><li>Aufrechnungs- und Zurückbehaltungsrechte stehen dem Auftraggeber in gesetzlichem Umfang zu.</li><li>Die zweifach auszufertigenden Rechnungen sind nach erfolgter Lieferung/Leistung – getrennt nach Bestellungen – an die in der Bestellung angegebene Rechnungsanschrift bzw. an die Verwaltung des Auftraggebers zu senden; Bestellnummern sind anzugeben, sämtliche Abrechnungsunterlagen (Stücklisten, Arbeitsnachweise, Aufmasse usw.) sind beizufügen.</li><li>Rechnungen über Teillieferungen/-leistungen sind mit dem Vermerk „Teillieferungsrechnung“ bzw. „Teilleistungsrechnung“, Schlussrechnungen mit dem Vermerk „Restlieferungsrechnung“ bzw. „Restleistungsrechnung“ zu versehen.</li><li>Jede Rechnung muss die gesetzliche Umsatzsteuer ausweisen. Originalrechnungen dürfen der Warenlieferung nicht beigefügt werden.</li></ol> <h3>16. Zahlung</h3><ol><li>Der Auftraggeber zahlt zum vereinbarten Fälligkeitszeitpunkt nach Erhalt der Ware.</li><li>Erfolgte Zahlungen bedeuten keine Anerkennung der Abrechnung.</li><li>Zahlungen erfolgen mittels Scheck oder Banküberweisung. Die Zahlung ist rechtzeitig, wenn der Scheck am Fälligkeitstag per Post abgesandt bzw. die Überweisung am Fälligkeitstag bei der Bank in Auftrag gegeben wurde. Fälligkeitszinsen können nicht gefordert werden. Der Verzugszinssatz beträgt 5-%-Punkte über dem Basiszinssatz. Der Auftraggeber ist in jedem Fall berechtigt, einen geringeren Verzugsschaden als vom Käufer gefordert nachzuweisen.</li></ol> <h3>17. Abtretungsverbot</h3> <p>Abtretungen sowie sonstige Übertragungen von Rechten und Pflichten des Auftragnehmers außerhalb des Anwendungsbereichs des § 354 a HGB sind ausgeschlossen; Ausnahmefälle bedürfen zu ihrer Wirksamkeit der schriftlichen Einwilligung des Auftraggebers.</p> <h3>18. Kündigung</h3><ol><li>Die Beauftragung mit Werkleistungen kann durch den Auftraggeber jederzeit bis zur Vollendung des Werks bzw. der Werklieferung gemäß § 649 BGB gekündigt werden. Abweichend von den gesetzlich geregelten Kündigungsfolgen gilt: Wird aus einem wichtigen Grund, den der Auftragnehmer zu vertreten hat, durch den Auftraggeber gekündigt, so sind dem Auftragnehmer nur die bis zum Zugang der Kündigung erbrachten Einzelleistungen, die vom Auftraggeber verwertet werden, zu vergüten. Die Schadensersatzansprüche des Auftraggebers bleiben unberührt. Insbesondere hat der Auftragnehmer entstehende Mehraufwendungen zu ersetzen.</li><li>Wird aus einem wichtigen Grund, den der Auftragnehmer nicht zu vertreten hat, durch den Auftraggeber gekündigt, erhält der Auftragnehmer nur die vereinbarte Vergütung für die bis zum Zugang der Kündigung erbrachten und vom Auftraggeber abgenommenen Einzellieferungen und/oder -leistungen. Weitergehende Ansprüche des Auftragnehmers sind ausgeschlossen. Im Übrigen gelten die in § 649 BGB geregelten Kündigungsfolgen.</li><li>Von der Bestellung von Lieferungen (§ 433 BGB) kann der Auftraggeber aus wichtigem Grund bis zur Übergabe der Lieferung jederzeit zurücktreten. In diesem Fall gelten hinsichtlich des Vergütungsanspruchs des Auftragnehmers die vorstehenden Ziffern entsprechend; der Auftraggeber erwirbt Eigentum an den vergüteten Teillieferungen und - leistungen.</li><li>Ein wichtiger Grund i. S. d. Absatz (3) liegt insbesondere dann vor, wenn als Folge hoheitlicher Entscheidungen für den Auftraggeber das Interesse an der Erbringung der vertragsgemäßen Leistungen entfällt, aufseiten des Auftragnehmers ein Insolvenzantrag gestellt wird, die Voraussetzungen für einen Insolvenzantrag vorliegen oder der Auftragnehmer seiner Verpflichtung zur Nachbesserung fehlerhafter Leistungen nicht innerhalb einer schriftlich gesetzten, angemessenen Frist nachkommt.</li></ol> <h3>19. Abfallentsorgung</h3> <p>Soweit bei den Lieferungen/Leistungen des Auftragnehmers Abfälle entstehen, verwertet oder beseitigt der Auftragnehmer die Abfälle – vorbehaltlich abweichender schriftlicher Vereinbarung – auf eigene Kosten gemäß den Vorschriften des Abfallrechts. Eigentum, Gefahr und die abfallrechtliche Verantwortung gehen im Zeitpunkt des Abfallanfalls auf den Auftragnehmer über.</p> <h3>20. Gewichte, Mengen</h3> <p>Bei Gewichtsabweichungen gilt das bei der Eingangsmeldung durch den Auftraggeber festgestellte Gewicht, wenn nicht der Auftragnehmer nachweist, dass das von ihm berechnete Gewicht nach einer allgemein anerkannten Methode richtig festgestellt wurde. Analog gilt dies auch für Mengen.</p> <h3>21. Gewerbliche Schutzrechte (Patente, Lizenzen, Gebrauchsmuster usw.),<br/>Urheberrechte</h3> <p>Der Auftragnehmer haftet dafür, dass durch die Lieferung und Benutzung der Liefergegenstände und/oder des hergestellten Werks, Patente oder Schutzrechte Dritter nicht verletzt werden. Der Auftragnehmer verpflichtet sich, den Auftraggeber von etwaigen Ansprüchen Dritter wegen Verletzung dieser Rechte freizustellen und ihn auch sonst schadlos zu halten. Der Auftraggeber ist berechtigt, mit dem Dritten ohne Zustimmung des Auftragnehmers Vereinbarungen zu treffen, insbesondere einen Vergleich abzuschließen. Auch wenn gewerbliche Schutzrechte des Auftragnehmers bestehen, dürfen vom Auftraggeber oder dessen Beauftragten Instandsetzungen vorgenommen werden.</p> <h3>22. Geheimhaltung</h3><ol><li>Der Auftragnehmer ist verpflichtet, alle Informationen, die er bei Durchführung der Bestellung erhält, uneingeschränkt vertraulich zu behandeln. Dies gilt nicht für Informationen, die dem Auftragnehmer bei Empfang bereits bekannt waren oder von denen er anderweitig Kenntnis (z. B. von Dritten ohne Vorbehalt der Vertraulichkeit oder durch eigene unabhängige Bemühungen) erlangt hat.</li><li>Alle vom Auftraggeber übergebenen Unterlagen bleiben dessen Eigentum. Sie dürfen Dritten nicht zugänglich gemacht werden und sind nach Durchführung der Bestellung vollständig und unaufgefordert an den Auftraggeber zurückzugeben. Als Dritte gelten nicht die vom Auftragnehmer eingeschalteten Sonderfachleute und Subunternehmer, wenn sie sich gegenüber dem Auftragnehmer in gleicher Weise zur vertraulichen Handhabung verpflichtet haben. Der Auftragnehmer haftet für alle Schäden, die dem Auftraggeber aus der Verletzung dieser Verpflichtung erwachsen.</li><li>3. An allen Abbildungen, Zeichnungen, Berechnungen, Analysemethoden, Rezepturen und sonstigen Werken, die vom Auftragnehmer bei dem Zustandekommen und der Durchführung der Bestellung gefertigt oder entwickelt werden, stehen dem Auftraggeber sämtliche Nutzungsrechte ausschließlich zu.</li></ol> <h3>23. Datenschutz</h3> <p>Der Auftragnehmer ist damit einverstanden, dass der Auftraggeber personenbezogene Daten des Auftragnehmers speichert, bearbeitet und an verbundene Unternehmen übermittelt, soweit dies zur Erfüllung und Abwicklung der Bestellung erforderlich ist.</p> <h3>24. Veröffentlichung, Werbung</h3> <p>Eine Auswertung oder Bekanntgabe der mit dem Auftraggeber bestehenden Geschäftsbeziehungen in Veröffentlichungen oder zu Werbezwecken ist nur mit dessen ausdrücklicher vorheriger schriftlicher Zustimmung zulässig.</p> <h3>25. Verbringung ins Ausland</h3><ol><li>Dem Auftragnehmer ist bekannt, dass die Verbringung von Unterlagen und Gegenständen aller Art in vielen Fällen einer Genehmigung z. B. nach dem Außenwirtschaftsgesetz bedarf. Der Auftragnehmer ist dafür verantwortlich, dass in den Fällen, in denen er eigene Unterlagen oder Gegenstände bzw. Unterlagen oder Gegenstände des Auftraggebers ins Ausland verbringt, die Genehmigungsfähigkeit der Verbringung geprüft wird und – soweit nötig – sämtliche erforderlichen Genehmigungen rechtzeitig eingeholt und alle einschlägigen Rechtsvorschriften eingehalten werden.</li><li>Im Falle von Zuwiderhandlung gegen diese Vorschriften behält sich der Auftraggeber die Geltendmachung von Ersatzansprüchen für entstandene Schäden vor.</li></ol> <h3>26. Gerichtsstand</h3> <p>Soweit der Auftragnehmer Kaufmann im Sinne des Handelsgesetzbuchs, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist, ist der Sitz des Auftraggebers ausschließlicher Gerichtsstand für alle sich aus dem Vertragsverhältnis unmittelbar oder mittelbar ergebenden Streitigkeiten. Darüber hinaus ist der Auftraggeber berechtigt, vor dem Gericht zu klagen, das am Sitz des Auftragnehmers zuständig ist.</p> <h3>27. Vertragssprache, anwendbares Recht</h3><ol><li>Vertragssprache ist Deutsch. Es gilt deutsches Recht.</li><li>2. Hat der Auftragnehmer seinen Sitz im Ausland, wird deutsches Recht unter Ausschluss des Kollisionsrechts und unter Einschluss des Übereinkommens der Vereinten Nationen über Verträge über den internationalen Warenkauf vom 11.04.1980 vereinbart. Handelsübliche Klauseln sind nach den jeweiligen gültigen Incoterms – ICC, Paris, auszulegen.</li></ol> <h3>28. Salvatorische Klausel</h3><ol><li>Sollten einzelne Bestimmungen dieser unwirksam/undurchführbar sein oder werden, so bleiben die übrigen Bestimmungen wirksam.</li><li>Die Parteien sind verpflichtet, die unwirksame/undurchführbare Bestimmung vom Beginn der Ungültigkeit/Undurchführbarkeit an durch eine wirtschaftlich möglichst gleichwertige Bestimmung zu ersetzen.</li></ol> <p>E. Zoller GmbH &amp; Co. KG<br/>Einkaufsbedingungen / </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c46268",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c46267",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ]
+}

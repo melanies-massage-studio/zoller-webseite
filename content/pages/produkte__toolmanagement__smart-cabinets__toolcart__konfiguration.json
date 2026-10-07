@@ -1,0 +1,629 @@
+{
+ "path": "/produkte/toolmanagement/smart-cabinets/toolcart/konfiguration",
+ "url": "/produkte/toolmanagement/smart-cabinets/toolcart/konfiguration",
+ "title": "»toolCart« – Konfiguration",
+ "description": "Konfiguration - »toolCart« – Konfiguration",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Werkzeugtransport /",
+   "href": "/produkte/toolmanagement/werkzeugtransport"
+  },
+  {
+   "label": "»toolCart« /",
+   "href": "/produkte/toolmanagement/smart-cabinets/toolcart"
+  },
+  {
+   "label": "Konfiguration",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Werkzeugtransport /",
+   "href": "/produkte/toolmanagement/werkzeugtransport"
+  },
+  {
+   "label": "»toolCart« /",
+   "href": "/produkte/toolmanagement/smart-cabinets/toolcart"
+  },
+  {
+   "label": "Konfiguration",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/smart-cabinets/toolcart/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transport-des-outils/toolcart/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasporto-degli-utensili/toolcart/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygstransport/toolcart/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeugtransport/toolcart/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transport-doutils/toolcart/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81/toolcart/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolCart«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/toolmanagement/smart-cabinets/toolcart",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Konfiguration",
+     "href": "/produkte/toolmanagement/smart-cabinets/toolcart/konfiguration",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/toolmanagement/smart-cabinets/toolcart/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/toolmanagement/smart-cabinets/toolcart/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/toolmanagement/smart-cabinets/toolcart/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3000",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Alles im Überblick </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2998",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Bei den Smart Cabinets haben Sie das Sagen: Treffen Sie Ihre Vorauswahl und treten Sie in Kontakt mit unserem ZOLLER‑Vertriebsteam – wir beraten Sie gerne und konfigurieren Ihnen Ihr Wunschmodell.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2997",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2999",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> »toolCart« </h2>",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/2/2/csm_toolCart_ed395ae28d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 379
+       }
+      ],
+      "videos": [],
+      "pos": "below",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3002",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Größe </h2>",
+      "table": "<table> <tbody> <tr> <td> H x B x T: 985 x 660 x 1050 mm </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c2996",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Nutzlast </h2>",
+      "table": "<table> <tbody> <tr> <td> Max. 450 kg </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c2994",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version SK </h2>",
+      "table": "<table> <tbody> <tr> <td> SK 30, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> <tr> <td> SK 40, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> <tr> <td> SK 50, Größe L, Breite 95 mm, max. 7 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3037",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version HSK </h2>",
+      "table": "<table> <tbody> <tr> <td> HSK 25, 32, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> <tr> <td> HSK 40, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> <tr> <td> HSK 50, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> <tr> <td> HSK 63, Größe S bzw. L, Breite 72 bzw. 95 mm, max. 13 bzw. 7 pro Rahmen </td> </tr> <tr> <td> HSK 80, Größe L, Breite 95 mm, max. 7 pro Rahmen </td> </tr> <tr> <td> HSK 100, Größe L, Breite 95 mm, max. 7 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3038",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version VDI </h2>",
+      "table": "<table> <tbody> <tr> <td> VDI 30, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> <tr> <td> VDI 40, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3039",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version PSC </h2>",
+      "table": "<table> <tbody> <tr> <td> PSC 40, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> <tr> <td> PSC 50, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> <tr> <td> PSC 63, Größe S, Breite 72 mm, max. 13 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3040",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version Rohling </h2>",
+      "table": "<table> <tbody> <tr> <td> B58, Breite 58 mm, max. 7 pro Rahmen </td> </tr> <tr> <td> B75, Breite 75 mm, max. 7 pro Rahmen </td> </tr> <tr> <td> B120, Breite 120 mm, max. 7 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3041",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version Vorsatzhalter </h2>",
+      "table": "<table> <tbody> <tr> <td> D 78 VSH Gr. 1, Breite 95 mm, max. 7 pro Rahmen </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3042",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version Holzeinsätze </h2>",
+      "table": "<table> <tbody> <tr> <td> Holzeinsatz/Rohling, Breite 328 mm, max. 2 pro Rahmen </td> </tr> <tr> <td> D 42 14 Bohrungen, Breite 328 mm, max. 2 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3043",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Zubehör </h2>",
+      "table": "<table> <tbody> <tr> <td> Zusätzliche Werkzeugwechselrahmen </td> </tr> <tr> <td> Ausziehbare Schublade </td> </tr> <tr> <td> Ablageboard unten </td> </tr> <tr> <td> Ablageboard seitlich </td> </tr> <tr> <td> Einsätze nach Wahl </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3044",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> »toolCart 750« </h2>",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/8/8/csm_toolCart750_030ae7fb7a.webp",
+        "alt": "",
+        "w": 680,
+        "h": 379
+       }
+      ],
+      "videos": [],
+      "pos": "below",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3004",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Größe </h2>",
+      "table": "<table> <tbody> <tr> <td> H x B x T: 910 x 560 x 880 mm </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3003",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Nutzlast </h2>",
+      "table": "<table> <tbody> <tr> <td> Max. 450 kg </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3036",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version SK </h2>",
+      "table": "<table> <tbody> <tr> <td> SK 30, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> <tr> <td> SK 40, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> <tr> <td> SK 50, Größe L, Breite 95 mm, max. 7 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3045",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version HSK </h2>",
+      "table": "<table> <tbody> <tr> <td> HSK 25, 32, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> <tr> <td> HSK 40, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> <tr> <td> HSK 50, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> <tr> <td> HSK 63, Größe S bzw. L, Breite 72 bzw. 95 mm, max. 12 bzw. 7 pro Rahmen </td> </tr> <tr> <td> HSK 80, Größe L, Breite 95 mm, max. 7 pro Rahmen </td> </tr> <tr> <td> HSK 100, Größe L, Breite 95 mm, max. 7 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3046",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version VDI </h2>",
+      "table": "<table> <tbody> <tr> <td> VDI 30, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> <tr> <td> VDI 40, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3047",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version PSC </h2>",
+      "table": "<table> <tbody> <tr> <td> PSC 40, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> <tr> <td> PSC 50, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> <tr> <td> PSC 63, Größe S, Breite 72 mm, max. 12 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3048",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version Rohling </h2>",
+      "table": "<table> <tbody> <tr> <td> B58, Breite 58 mm, max. 7 pro Rahmen </td> </tr> <tr> <td> B75, Breite 75 mm, max. 7 pro Rahmen </td> </tr> <tr> <td> B120, Breite 120 mm, max. 7 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3049",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version Vorsatzhalter </h2>",
+      "table": "<table> <tbody> <tr> <td> D 78 VSH Gr. 1, Breite 95 mm, max. 7 pro Rahmen </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3050",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Werkzeugeinsätze – Version Holzeinsätze </h2>",
+      "table": "<table> <tbody> <tr> <td> Holzeinsatz/Rohling, Breite 328 mm, max. 2 pro Rahmen </td> </tr> <tr> <td> D 42 14 Bohrungen, Breite 328 mm, max. 2 pro Rahmen </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3051",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> Zubehör </h2>",
+      "table": "<table> <tbody> <tr> <td> Zusätzliche Werkzeugwechselrahmen </td> </tr> <tr> <td> Einsätze nach Wahl </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3052",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3001",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

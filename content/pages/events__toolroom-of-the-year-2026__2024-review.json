@@ -1,0 +1,366 @@
+{
+ "path": "/events/toolroom-of-the-year-2026/2024-review",
+ "url": "/events/toolroom-of-the-year-2026/2024-review",
+ "title": "Toolroom of the Year 2026 | review 2024",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Events /",
+   "href": "/events"
+  },
+  {
+   "label": "2024 review",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Events /",
+   "href": "/events"
+  },
+  {
+   "label": "2024 review",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events/toolroom-of-the-year-2026/2024-review",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/toolroom-of-the-year-2026/2024-review",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Judging Panel",
+     "href": "/events/toolroom-of-the-year-2026/judging-panel",
+     "current": false
+    },
+    {
+     "label": "2024 review",
+     "href": "/events/toolroom-of-the-year-2026/2024-review",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4813",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "slider",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/4/f/csm_toty2024_header_winners_1beaf6cfb0.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    }
+   ],
+   "ftype": "zoller_slider",
+   "id": "c7450",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> And the winner was ... Atlas Fibre! </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4818",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"large-text\"><strong>A premier provider of thermoset composite materials in the U.S., Atlas Fibre exemplifies innovation in manufacturing. Through strategic investments in advanced technologies, they have tripled efficiency at their Northbrook, Illinois, facility and laid the groundwork for hyper growth through automation.</strong></p> <p class=\"large-text\"><strong>By integrating ZOLLER Solutions — including tool management, presetting, balancing, data transfer, heat-shrinking and tooling technology — Atlas Fibre ensures precision and efficiency throughout production to meet the demands of customers in aerospace, semiconductors, electrification and defense, including many Fortune 1000 companies.</strong></p> <p class=\"large-text\"><strong>Let’s also give a round of applause to MetalQuest Unlimited, Inc. on securing second place and Primetals Technologies on third place, as well as runner-up Pro-CAM Services LLC. Thank you to everyone who entered the competition and shared your stories of excellence!</strong></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4820",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4819",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> First ZOLLER Toolroom of the Year winner announced </h2>",
+   "body": "<p>ZOLLER Inc. was proud to announce the winners of its first-ever Toolroom of the Year competition during IMTS 2024 in Chicago. Atlas Fibre, a premier manufacturer of thermoset composite materials, took home the first-place trophy for the impressive array of technology at its 120,000-square-foot facility in Northbrook, Illinois.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/GsjAckdpQJ0?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "First ZOLLER Toolroom of the Year winner announced at IMTS 2024"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4816",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> How Atlas Fibre Transformed Toolroom Efficiency with ZOLLER Solutions! </h2>",
+   "body": "<p>Discover how Atlas Fibre – the largest U.S. manufacturer of thermoset composite materials – transformed its manufacturing operations and toolroom with ZOLLER Solutions.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/9xUG9S0ujqQ?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "How Atlas Fibre Transformed Toolroom Efficiency with ZOLLER Solutions!"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4817",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "slider",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/4/e/csm_gallery_toolroom_of_the_year_2024_05_0683e18e7b.webp",
+      "alt": ""
+     },
+     "head": "<p> 1st place – Atlas Fibre </p>",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/f/3/csm_gallery_toolroom_of_the_year_2024_06_85818c1da0.webp",
+      "alt": ""
+     },
+     "head": "<p> 1st place – Atlas Fibre </p>",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_gallery_toolroom_of_the_year_2024_07_09af4b11c7.webp",
+      "alt": ""
+     },
+     "head": "<p> 2nd place – Metalquest </p>",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/6/6/csm_gallery_toolroom_of_the_year_2024_08_0eb54bcc29.webp",
+      "alt": ""
+     },
+     "head": "<p> Honorable mention: Pro-Cam Services </p>",
+     "text": ""
+    }
+   ],
+   "ftype": "zoller_slider",
+   "id": "c7443",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

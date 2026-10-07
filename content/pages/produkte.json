@@ -1,0 +1,897 @@
+{
+ "path": "/produkte",
+ "url": "/produkte",
+ "title": "Produkte",
+ "description": "Produkte - Produktübersicht",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Wählen Sie Ihren Weg zum Erfolg",
+     "kicker": "",
+     "text": "<p>Mit den ZOLLER Solutions zu mehr Effizienz</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Produktübersicht </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions stehen für Ihre Zukunft – wir machen Sie erfolg­reicher. Denn wer schneller und effizienter fertigt, arbeitet wirtschaftlicher, um in die Zukunft investieren zu können. Wenn wirtschaftlicher Fortschritt Ihr Ziel ist, dann ist ZOLLER Ihr Partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Einstellen & Messen",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Toolmanagement",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Prüfen & Messen",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Schrumpftechnik",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Werkzeugaufnahmen",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Wuchttechnik",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "66",
+      "label": "Bohrwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "93",
+      "label": "Cap-Fräser",
+      "selected": false
+     },
+     {
+      "value": "88",
+      "label": "Drehwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "99",
+      "label": "Dreh-/ Räumwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "90",
+      "label": "Fräswerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "91",
+      "label": "Feinbohrwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "69",
+      "label": "Gewindewerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "95",
+      "label": "Hochleistungswerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "94",
+      "label": "Kurbelwellenfräser",
+      "selected": false
+     },
+     {
+      "value": "97",
+      "label": "Präzisionswerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "92",
+      "label": "Planmesserköpfe",
+      "selected": false
+     },
+     {
+      "value": "83",
+      "label": "Plan-, Eck- und Schlicht-Messerköpfe",
+      "selected": false
+     },
+     {
+      "value": "73",
+      "label": "Reibahlen",
+      "selected": false
+     },
+     {
+      "value": "102",
+      "label": "Schleifscheiben",
+      "selected": false
+     },
+     {
+      "value": "74",
+      "label": "Sägeblätter",
+      "selected": false
+     },
+     {
+      "value": "98",
+      "label": "Steinbearbeitungswerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "75",
+      "label": "Schaftwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "96",
+      "label": "Verzahnungswerkzeuge",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen",
+       "title": "Einstellen & Messen",
+       "text": "Verkürzen Sie die Rüstzeiten um 40 % und mehr.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/produkte/toolmanagement",
+       "title": "Toolmanagement",
+       "text": "Prozesse vernetzen, Qualität sichern und schneller fertigen.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/produkte/pruefen-messen",
+       "title": "Prüfen & Messen",
+       "text": "Dokumentieren Sie Qualität und erstellen Sie digitale Zwillinge.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/produkte/automation",
+       "title": "Automation",
+       "text": "Flexible, modulare Automatisierung für Zerspanungswerkzeuge.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/produkte/schrumpftechnik",
+       "title": "Schrumpftechnik",
+       "text": "Ein- und Ausschrumpfen von Werkzeugen in Rekordzeit.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/produkte/werkzeugaufnahmen",
+       "title": "Werkzeugaufnahmen",
+       "text": "Werkzeughalter mit »idChip« als perfekte Schnittstelle für Ihre digitale Fertigung.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/produkte/wuchttechnik",
+       "title": "Wuchttechnik",
+       "text": "Spindeln schonen, Qualität sichern: mit den besten Wuchtgeräten am Markt.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ],
+   "tools": {
+    "66": {
+     "label": "Bohrwerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/smile",
+       "title": "»smile«",
+       "text": "Die robusten, µm-genauen Einstiegsgeräte für Standardwerkzeuge",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/schrumpftechnik/redomatic",
+       "title": "»redomatic«",
+       "text": "Universelles Einstell- und Messgerät mit integriertem Werkzeugschrumpfsystem",
+       "img": {
+        "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion",
+       "title": "»venturion«",
+       "text": "Exzellente Werkzeug­ein­stellung und ‑vermessung mit vielen Optionen",
+       "img": {
+        "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/automation/werkzeuginspektion/roboset-2",
+       "title": "»roboSet 2«",
+       "text": "Werkzeughandling für »genius«, »3dCheck«, »threadCheck«, »titan« und »edgeControl«",
+       "img": {
+        "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/torquematic",
+       "title": "»torquematic«",
+       "text": "Vollautomatisch spannen",
+       "img": {
+        "src": "/fileadmin/_processed_/7/8/csm_torquematic_preview_76d4d49ac6.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/tribos",
+       "title": "»tribos«",
+       "text": "Polygonspannfutter  montieren",
+       "img": {
+        "src": "/fileadmin/_processed_/3/2/csm_tribos_preview_8c77bd06f1.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "93": {
+     "label": "Cap-Fräser",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/spezialloesungen/uebersicht/millcheck",
+       "title": "»millCheck«",
+       "text": "Planmesserköpfe und Cap-Fräser unerreicht schnell",
+       "img": {
+        "src": "/fileadmin/_processed_/e/d/csm_millCheck_preview_0b06e6e4f8.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "88": {
+     "label": "Drehwerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/smile",
+       "title": "»smile«",
+       "text": "Die robusten, µm-genauen Einstiegsgeräte für Standardwerkzeuge",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/schrumpftechnik/redomatic",
+       "title": "»redomatic«",
+       "text": "Universelles Einstell- und Messgerät mit integriertem Werkzeugschrumpfsystem",
+       "img": {
+        "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion",
+       "title": "»venturion«",
+       "text": "Exzellente Werkzeug­ein­stellung und ‑vermessung mit vielen Optionen",
+       "img": {
+        "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/torquematic",
+       "title": "»torquematic«",
+       "text": "Vollautomatisch spannen",
+       "img": {
+        "src": "/fileadmin/_processed_/7/8/csm_torquematic_preview_76d4d49ac6.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/tribos",
+       "title": "»tribos«",
+       "text": "Polygonspannfutter  montieren",
+       "img": {
+        "src": "/fileadmin/_processed_/3/2/csm_tribos_preview_8c77bd06f1.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "99": {
+     "label": "Dreh-/ Räumwerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/spezialloesungen/uebersicht/gemini",
+       "title": "»gemini«",
+       "text": "Kurbelwellenfräser und Dreh-/ Räumwerkzeuge einfach vermessen",
+       "img": {
+        "src": "/fileadmin/_processed_/f/1/csm_gemini_preview_3824eb9465.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "90": {
+     "label": "Fräswerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/smile",
+       "title": "»smile«",
+       "text": "Die robusten, µm-genauen Einstiegsgeräte für Standardwerkzeuge",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/schrumpftechnik/redomatic",
+       "title": "»redomatic«",
+       "text": "Universelles Einstell- und Messgerät mit integriertem Werkzeugschrumpfsystem",
+       "img": {
+        "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion",
+       "title": "»venturion«",
+       "text": "Exzellente Werkzeug­ein­stellung und ‑vermessung mit vielen Optionen",
+       "img": {
+        "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/torquematic",
+       "title": "»torquematic«",
+       "text": "Vollautomatisch spannen",
+       "img": {
+        "src": "/fileadmin/_processed_/7/8/csm_torquematic_preview_76d4d49ac6.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/tribos",
+       "title": "»tribos«",
+       "text": "Polygonspannfutter  montieren",
+       "img": {
+        "src": "/fileadmin/_processed_/3/2/csm_tribos_preview_8c77bd06f1.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "91": {
+     "label": "Feinbohrwerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/spezialloesungen/uebersicht/phoenix",
+       "title": "»phoenix«",
+       "text": "Vermisst alle Parameter vollautomatisch im Rachenlehrenprinzip",
+       "img": {
+        "src": "/fileadmin/_processed_/8/d/csm_phoenix_preview_66edf5e474.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/reamcheck",
+       "title": "»reamCheck«",
+       "text": "Der Experte für feinjustierbare Werkzeuge",
+       "img": {
+        "src": "/fileadmin/_processed_/f/a/csm_reamCheck_preview_960fbcec38.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "69": {
+     "label": "Gewindewerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/pruefen-messen/universal-messmaschinen/threadcheckcc",
+       "title": "»﻿﻿﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+       "text": "Highend mit sechs CNC-Achsen und schwenkbarem Multisensor-Optikträger",
+       "img": {
+        "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/pruefen-messen/spezialloesungen/uebersicht/threadcheck",
+       "title": "»threadCheck«",
+       "text": "Misst Geometrien von Gewindewerkzeugen",
+       "img": {
+        "src": "/fileadmin/_processed_/9/6/csm_threadCheck_preview_2d381fd3ec.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/automation/werkzeuginspektion/roboset-2",
+       "title": "»roboSet 2«",
+       "text": "Werkzeughandling für »genius«, »3dCheck«, »threadCheck«, »titan« und »edgeControl«",
+       "img": {
+        "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "95": {
+     "label": "Hochleistungswerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/pruefen-messen/prozessorientertes-messen/pombasic",
+       "title": "»pomBasic«",
+       "text": "Prozessnah über 70 Parameter am Werkzeug prüfen",
+       "img": {
+        "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/pruefen-messen/prozessorientertes-messen/mmfocus",
+       "title": "»mμFocus«",
+       "text": "Analysiert Topografien und erstellt 3D-Abbildungen von Werkzeugschneiden",
+       "img": {
+        "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "94": {
+     "label": "Kurbelwellenfräser",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/spezialloesungen/uebersicht/gemini",
+       "title": "»gemini«",
+       "text": "Kurbelwellenfräser und Dreh-/ Räumwerkzeuge einfach vermessen",
+       "img": {
+        "src": "/fileadmin/_processed_/f/1/csm_gemini_preview_3824eb9465.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/spezialloesungen/uebersicht/equick",
+       "title": "»eQuick«",
+       "text": "Schneiden von Kurbelwellenfräsern im Durchlicht ergonomisch eingestellt und präzise vermessen",
+       "img": {
+        "src": "/fileadmin/_processed_/7/8/csm_eQuick_preview_9a51e9268b.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "97": {
+     "label": "Präzisionswerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/pruefen-messen/universal-messmaschinen/genius",
+       "title": "»genius«",
+       "text": "Erfasst über 100 Parameter ultrapräzise und hat sich weltweit mehr als 1000fach bewährt",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/pruefen-messen/universal-messmaschinen/titan",
+       "title": "»titan«",
+       "text": "Für Experten, die alles wissen wollen – einschließlich Schneidkanten­präparation",
+       "img": {
+        "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "92": {
+     "label": "Planmesserköpfe",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/spezialloesungen/uebersicht/millcheck",
+       "title": "»millCheck«",
+       "text": "Planmesserköpfe und Cap-Fräser unerreicht schnell",
+       "img": {
+        "src": "/fileadmin/_processed_/e/d/csm_millCheck_preview_0b06e6e4f8.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "83": {
+     "label": "Plan-, Eck- und Schlicht-Messerköpfe",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/spezialloesungen/uebersicht/zenit",
+       "title": "»zenit«",
+       "text": "Messerköpfe professionell vermessen",
+       "img": {
+        "src": "/fileadmin/_processed_/3/a/csm_zenit_preview_2a61a07056.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "73": {
+     "label": "Reibahlen",
+     "items": [
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion",
+       "title": "»venturion«",
+       "text": "Exzellente Werkzeug­ein­stellung und ‑vermessung mit vielen Optionen",
+       "img": {
+        "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/reamcheck",
+       "title": "»reamCheck«",
+       "text": "Der Experte für feinjustierbare Werkzeuge",
+       "img": {
+        "src": "/fileadmin/_processed_/f/a/csm_reamCheck_preview_960fbcec38.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "102": {
+     "label": "Schleifscheiben",
+     "items": [
+      {
+       "href": "/produkte/pruefen-messen/universal-messmaschinen/threadcheckcc",
+       "title": "»﻿﻿﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+       "text": "Highend mit sechs CNC-Achsen und schwenkbarem Multisensor-Optikträger",
+       "img": {
+        "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/pruefen-messen/universal-messmaschinen/smartcheck",
+       "title": "»smartCheck«",
+       "text": "Einstell- und Messgerät mit zusätzlichem Auflicht und erweiterter Bildanalyse",
+       "img": {
+        "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "74": {
+     "label": "Sägeblätter",
+     "items": [
+      {
+       "href": "/produkte/pruefen-messen/spezialloesungen/uebersicht/sawcheck",
+       "title": "»sawCheck«",
+       "text": "Präzision bei der Vermessung von Sägeblättern",
+       "img": {
+        "src": "/fileadmin/_processed_/9/8/csm_sawcheck_preview_16c71e56b4.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "98": {
+     "label": "Steinbearbeitungswerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/pruefen-messen/cnc-steinbearbeitung/condiaz",
+       "title": "»conDiaZ«",
+       "text": "Inspektionsgerät speziell für das Messen und Prüfen diamantbeschichteter Steinbearbeitungswerkzeuge",
+       "img": {
+        "src": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_66ae2d253b.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/pruefen-messen/cnc-steinbearbeitung/condress",
+       "title": "»conDress«",
+       "text": "Reinigung und Wiederherstellung der Schneidfähigkeit von Steinbearbeitungswerkzeugen",
+       "img": {
+        "src": "/fileadmin/_processed_/8/5/csm_conDress_preview_e519dedb34.webp",
+        "alt": ""
+       }
+      },
+      {
+       "href": "/produkte/einstellen-messen/cnc-steinbearbeitung/smile-gbo",
+       "title": "»smile | GBO«",
+       "text": "Ermöglicht mit Großbildoptik eine besonders präzise Höhenvermessung",
+       "img": {
+        "src": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_ab539499c1.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "75": {
+     "label": "Schaftwerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/automation/werkzeuginspektion/roboset-2",
+       "title": "»roboSet 2«",
+       "text": "Werkzeughandling für »genius«, »3dCheck«, »threadCheck«, »titan« und »edgeControl«",
+       "img": {
+        "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+        "alt": ""
+       }
+      }
+     ]
+    },
+    "96": {
+     "label": "Verzahnungswerkzeuge",
+     "items": [
+      {
+       "href": "/produkte/pruefen-messen/universal-messmaschinen/hobcheck",
+       "title": "»hobCheck«",
+       "text": "Über 200 Messwerte aus Durchlicht- und Auflichtkamera sowie Messtaster",
+       "img": {
+        "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+        "alt": ""
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

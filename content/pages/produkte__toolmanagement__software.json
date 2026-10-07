@@ -1,0 +1,377 @@
+{
+ "path": "/produkte/toolmanagement/software",
+ "url": "/produkte/toolmanagement/software",
+ "title": "Software",
+ "description": "Software",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Software",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Software",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Produktübersicht </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions stehen für Ihre Zukunft – wir machen Sie erfolg­reicher. Denn wer schneller und effizienter fertigt, arbeitet wirtschaftlicher, um in die Zukunft investieren zu können. Wenn wirtschaftlicher Fortschritt Ihr Ziel ist, dann ist ZOLLER Ihr Partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Einstellen & Messen",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Toolmanagement",
+      "selected": true
+     },
+     {
+      "value": "254",
+      "label": "Prüfen & Messen",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Schrumpftechnik",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Werkzeugaufnahmen",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Wuchttechnik",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "13361",
+      "label": "Software",
+      "selected": true
+     },
+     {
+      "value": "430",
+      "label": "Werkzeuglager",
+      "selected": false
+     },
+     {
+      "value": "431",
+      "label": "Werkzeugmontage",
+      "selected": false
+     },
+     {
+      "value": "432",
+      "label": "Werkzeugtransport",
+      "selected": false
+     },
+     {
+      "value": "343",
+      "label": "Datentransfer",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/produkte/toolmanagement/software/tms-core",
+       "title": "»TMS Core«",
+       "text": "Der ideale Startpunkt für die digitale Werkzeugorganisation",
+       "img": {
+        "src": "/fileadmin/_processed_/7/b/csm_TMSCore_product_44555a00d3.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": true,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zstock",
+       "title": "Add-on »z.Stock«",
+       "text": "Sorgt für klare Transparenz im Werkzeuglager",
+       "img": {
+        "src": "/fileadmin/_processed_/6/a/csm_zStock_product_080c00d832.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zcam-integration",
+       "title": "Add-on »z.CAM Integration«",
+       "text": "Erweitert das System um leistungsstarke Schnittstellen und bindet Werkzeugdaten direkt in den Workflow ein",
+       "img": {
+        "src": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_3d7c6707ab.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zresources",
+       "title": "Add-on »z.Resources«",
+       "text": "Verwaltet alle zusätzlichen Betriebsmittel",
+       "img": {
+        "src": "/fileadmin/_processed_/b/9/csm_zResources_product_9093d037df.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zshopfloor",
+       "title": "Add-on »z.Shopfloor«",
+       "text": "Durchgängiger, effizienter Werkzeugkreislauf direkt am Shopfloor",
+       "img": {
+        "src": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_50074e8009.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zconnectivity",
+       "title": "Add-on »z.Connectivity«",
+       "text": "Durchgängige, digitale Verbindung zwischen Werkzeugvermessung, Werkzeugverwaltung und Maschine",
+       "img": {
+        "src": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_0840457196.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zintegration",
+       "title": "Add-on »z.Integration«",
+       "text": "Herstellerunabhängige Werkzeugmanagement-Lösung für gewachsene Fertigungsumgebungen",
+       "img": {
+        "src": "/fileadmin/_processed_/a/7/csm_zIntegration_product_8352d357ce.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "path": "/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage",
+ "url": "/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage",
+ "title": "Vertriebs-Anfrage",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Vertriebs-Anfrage",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Vertriebs-Anfrage",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/demonstration-and-used-appliances/sales-inquiry",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Vorführ- und Gebrauchtgeräte",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/vorfuehr-und-gebrauchtgeraete",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Angebotsübersicht",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+     "current": false
+    },
+    {
+     "label": "Vertriebs-Anfrage",
+     "href": "/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c8039",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Vertriebs-Anfrage </h1>",
+   "body": "<p>Wir freuen uns über Ihr Interesse an unseren Vorführ- und Gebrauchtgeräten. Wir beraten Sie gerne auf dem Weg zu Ihrem Wunschmodell.<br/>Die Felder, die mit * gekennzeichnet sind, sind obligatorisch. <a class=\"link-arrow\" href=\"/datenschutz\">Datenschutzerklärung</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8200",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "form",
+   "kind": "form_formframework",
+   "html": "<form action=\"https://www.zoller.info/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage?tx_form_formframework%5Baction%5D=perform&amp;tx_form_formframework%5Bcontroller%5D=FormFrontend&amp;cHash=aa68cc1a2f71e6d15b8adef3b60b04ab#vertriebs-AnfrageGebrauchtgeraete-8201\" enctype=\"multipart/form-data\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201\" method=\"post\"> <div><input name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][__state]\" type=\"hidden\" value=\"TzozOToiVFlQTzNcQ01TXEZvcm1cRG9tYWluXFJ1bnRpbWVcRm9ybVN0YXRlIjoyOntzOjI1OiIAKgBsYXN0RGlzcGxheWVkUGFnZUluZGV4IjtpOjA7czoxMzoiACoAZm9ybVZhbHVlcyI7YTowOnt9fQ==e1fa0a6fff7432dcbaca0174b96641dc4234cdba\"/><input name=\"tx_form_formframework[__trustedProperties]\" type=\"hidden\" value='{\"vertriebs-AnfrageGebrauchtgeraete-8201\":{\"zollermultiselect-1\":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],\"text-2\":1,\"text-3\":1,\"j3uhfwvGzsymSbeD2Hdpa6I8\":1,\"text-1\":1,\"text-4\":1,\"email-1\":1,\"telephone-1\":1,\"text-6\":1,\"textarea-1\":1,\"checkbox-1\":1,\"recaptcha-1\":1,\"__currentPage\":1}}4d92eebce7eefcab0ffcd386b8b1e329710b4fa0'/> </div> <fieldset class=\"form-group\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-fieldset-3\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-zollermultiselect-1\">Bitte wählen Sie Ihre ZOLLER Solution aus, eine Mehrfachauswahl ist möglich:</label> <div class=\"record-multi-select\"> <div class=\"form-group custom-element-wrapper\"> <div class=\"form-zoller-multi-select\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-zollermultiselect-1\"> <label class=\"record-card-wrapper\"> <input name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1]\" type=\"hidden\" value=\"\"/><input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»smile 420 pilot 1.0«\"/> <div class=\"record-card\"> <div class=\"record-title\">»smile 420 pilot 1.0«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»venturion 450 pilot 4.0«\"/> <div class=\"record-card\"> <div class=\"record-title\">»venturion 450 pilot 4.0«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»millSet«\"/> <div class=\"record-card\"> <div class=\"record-title\">»millSet«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»genius«\"/> <div class=\"record-card\"> <div class=\"record-title\">»genius«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»threadCheck«\"/> <div class=\"record-card\"> <div class=\"record-title\">»threadCheck«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»titan«\"/> <div class=\"record-card\"> <div class=\"record-title\">»titan«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»3dCheck«\"/> <div class=\"record-card\"> <div class=\"record-title\">»3dCheck«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»pomBasic«\"/> <div class=\"record-card\"> <div class=\"record-title\">»pomBasic«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»mμFocus«\"/> <div class=\"record-card\"> <div class=\"record-title\">»mμFocus«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»smartCheck 450«\"/> <div class=\"record-card\"> <div class=\"record-title\">»smartCheck 450«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»sawCheck«\"/> <div class=\"record-card\"> <div class=\"record-title\">»sawCheck«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»toolOrganizer 900«\"/> <div class=\"record-card\"> <div class=\"record-title\">»toolOrganizer 900«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»keeper 2000«\"/> <div class=\"record-card\"> <div class=\"record-title\">»keeper 2000«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»autoLock«\"/> <div class=\"record-card\"> <div class=\"record-title\">»autoLock«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»toolStation«\"/> <div class=\"record-card\"> <div class=\"record-title\">»toolStation«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»zTower«\"/> <div class=\"record-card\"> <div class=\"record-title\">»zTower«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»toolCart 750«\"/> <div class=\"record-card\"> <div class=\"record-title\">»toolCart 750«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»toolBalancer 550«\"/> <div class=\"record-card\"> <div class=\"record-title\">»toolBalancer 550«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»powerShrink 400«\"/> <div class=\"record-card\"> <div class=\"record-title\">»powerShrink 400«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»redomatic 600 pilot 4.0«\"/> <div class=\"record-card\"> <div class=\"record-title\">»redomatic 600 pilot 4.0«</div> </div> </label> <label class=\"record-card-wrapper\"> <input class=\"hidden-record-input\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][zollermultiselect-1][]\" type=\"checkbox\" value=\"»zidCode 4.0«\"/> <div class=\"record-card\"> <div class=\"record-title\">»zidCode 4.0«</div> </div> </label> </div> </div> </div> </div> </fieldset> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-2\">Vorname <span class=\"required\">*</span> </label> <div class=\"input\"> <input autocomplete=\"given-name\" class=\"form-control\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-2\" maxlength=\"100\" minlength=\"1\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][text-2]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-3\">Nachname <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-3\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][text-3]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <input aria-hidden=\"true\" data-id=\"j3uhfwvGzsymSbeD2Hdpa6I8\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-j3uhfwvGzsymSbeD2Hdpa6I8\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][j3uhfwvGzsymSbeD2Hdpa6I8]\" tabindex=\"-1\" type=\"text\"/> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-1\">Firmenname <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-1\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][text-1]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-4\">Funktion <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-4\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][text-4]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-email-1\">E-Mail-Adresse <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-email-1\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][email-1]\" required=\"required\" type=\"email\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-telephone-1\">Telefon <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-telephone-1\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][telephone-1]\" required=\"required\" type=\"tel\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-6\">PLZ/Ort</label> <div class=\"input\"> <input class=\"form-control\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-text-6\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][text-6]\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <fieldset class=\"form-group\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-fieldset-1\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-textarea-1\">Anfrage</label> <div class=\"input\"> <textarea class=\"xxlarge form-control\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-textarea-1\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][textarea-1]\" placeholder=\"Geben Sie Ihre gewünschte Konfiguration ein.\"></textarea> </div> </div> </fieldset> <fieldset class=\"form-group\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-fieldset-2\"> <div class=\"form-group\"> <div class=\"input checkbox\"> <div class=\"form-check\"> <label class=\"add-on form-check-label\" for=\"vertriebs-AnfrageGebrauchtgeraete-8201-checkbox-1\"> <input name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][checkbox-1]\" type=\"hidden\" value=\"\"/><input class=\"add-on\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-checkbox-1\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][checkbox-1]\" required=\"required\" type=\"checkbox\" value=\"1\"/> <span>Sie sind einverstanden, dass die oben eingetragenen Daten zur Bearbeitung Ihrer Anfrage für Vertriebsaktivitäten verwendet und an die zuständigen Vertriebsniederlassungen bzw. Handelsvertreter weitergeben werden. Einer Datenverarbeitung können Sie jederzeit ohne Angabe von Gründen unter datenschutz@zoller.info widersprechen. <span class=\"required\">*</span> </span> </label> </div> </div> </div> </fieldset> <div class=\"form-group\"> <div class=\"recaptcha\"> <input data-recaptcha-form-field=\"\" id=\"vertriebs-AnfrageGebrauchtgeraete-8201-recaptcha-1\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][recaptcha-1]\" type=\"hidden\" value=\"\"/> <div class=\"g-recaptcha\" data-callback=\"onRecaptchaCallback\" data-error-callback=\"onRecaptchaError\" data-expired-callback=\"onRecaptchaExpired\" data-sitekey=\"6LcINbosAAAAAH8zSxnwOP319AslujYzyd6BWf7L\"></div> </div> </div> <div class=\"actions\"> <nav class=\"form-navigation\"> <div class=\"btn-toolbar\" role=\"toolbar\"> <div class=\"btn-group\" role=\"group\"> <span class=\"btn-group next submit\"> <button class=\"block-button\" name=\"tx_form_formframework[vertriebs-AnfrageGebrauchtgeraete-8201][__currentPage]\" type=\"submit\" value=\"1\"> E-Mail senden </button> </span> </div> </div> </nav> </div> </form>",
+   "header": "",
+   "ftype": "form_formframework",
+   "id": "c8201",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ]
+}

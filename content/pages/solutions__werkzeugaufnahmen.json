@@ -1,0 +1,570 @@
+{
+ "path": "/solutions/werkzeugaufnahmen",
+ "url": "/solutions/werkzeugaufnahmen",
+ "title": "Werkzeugaufnahmen",
+ "description": "Werkzeugaufnahmen",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Werkzeugaufnahmen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Werkzeugaufnahmen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Werkzeugaufnahmen",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "FAQ",
+     "href": "/solutions/werkzeugaufnahmen/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/solutions/werkzeugaufnahmen/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "Tooling Solutions",
+   "text": "<p>Werkzeughalter als perfekte Schnittstelle <br/>für Ihre digitale Fertigung</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Jetzt kaufen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wir stehen für smarte Solutions </h2>",
+   "body": "<p>Werkzeugaufnahmen mit ZOLLER »idChip«. Wir liefern auf Ihren Wunsch alle Werkzeughalter mit integriertem Chip und DataMatrix-Code. Sie identifizieren Ihre Werkzeughalter zu jeder Zeit eindeutig und wissen einfach alles: Anzahl der Heizvorgänge, Einsätze an der Maschine und noch viel mehr. Die Verarbeitung der wichtigen Funktionsflächen an der Werkzeugaufnahme wie die hartgedrehten Spannschultern und Mitnehmernuten garantiert eine lange Lebensdauer und höchste Präzision im Zerspanungsprozess. Nachhaltig, wirtschaftlich: Das ist die Zukunft.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Vernetzte Prozesse ",
+    "Präzisionsgarantie ",
+    "Alles aus einer Hand"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Zuverlässigkeit für höchste Präzision </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Chip-Bohrung",
+     "text": "<h3>Chip-Bohrung</h3> <h4>Chip-Bohrung</h4> <p>Zur Anbringung von Datenträgern wie RFID-Chips oder ZOLLER »idChip« an den ZOLLER Tooling Werkzeug­aufnahmen. Standardmäßig bei Hohlschaftkegeln HSK-A, Steilkegeln SK und Polygonschaftkegeln PSC.</p> <h4>ZOLLER »idChip«</h4> <p>Zur eindeutigen Identifikation Ihrer Werkzeug­halter und für eine maximale Produkt­lebenszeit. Auf Ihren Wunsch hin liefern wir die Werkzeug­halter gewuchtet mit fest integriertem Chip auch direkt in Ihre Fertigung.</p> <h4>3-Rillen-Technologie</h4> <p>In der Chipbohrung der Werkzeugaufnahme garantiert mit dem Kleber einen Formschluss für eine sichere und feste Verbindung.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Vier Gewinde",
+     "text": "<h3>Vier Gewinde</h3> <h4>Vier Gewinde</h4> <p>Zum nachträglichen Feinwuchten von Standard­schrumpffuttern.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Lange Schrumpfpassung",
+     "text": "<h3>Lange Schrumpfpassung</h3> <h4>Lange Schrumpf­passung mit Einführradius</h4> <p>Garantiert maximale Schrumpfkräfte, dank der Spannung des Werkzeugs an der gesamten Länge des Schafts.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "Einzugsschulter",
+     "text": "<h3>Einzugsschulter</h3> <h4>Hart nachbearbeitete Einzugsschulter</h4> <p>Garantiert ein optimales Gleiten der Spannsegmente an der Spannschulter und eine ausgezeichnete Spannung in der Spindel. Daraus resultiert ein Rundlauf an der Spannschulter von maximal 10 μm (5x genauer als DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Rundlauftoleranzen",
+     "text": "<h3>Rundlauftoleranzen</h3> <h4>Rundlauftoleranzen</h4> <p>Tooling Solutions garantieren einen Rundlauf &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Feingewuchtet",
+     "text": "<h3>Feingewuchtet</h3> <h4>Feingewuchtet</h4> <p><strong>Alle ZOLLER Tooling Werkzeugaufnahmen sind feingewuchtet</strong> – G2,5 bei 25.000 min<sup>-1</sup> oder max. Restunwucht ≤ 1 gmm. Daraus folgt ein ruhiger, lagerschonender Spindellauf bei der Bearbeitung. Sie profitieren von einer längeren Lebensdauer der Spindel, einer optimalen Werkstückoberfläche und höheren Werkzeugstandzeiten.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "Mitnehmernuten",
+     "text": "<h3>Mitnehmernuten</h3> <h4>Hart nachbearbeitete Mitnehmernuten</h4> <p>Garantieren eine 100 %-ige Mittenlage der Nuten, einen perfekten Sitz in der Spindel sowie eine hervorragende Drehmomentübertragung.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "Ausstoßfläche",
+     "text": "<h3>Ausstoßfläche</h3> <h4>Hart nachbearbeitete Ausstoßfläche</h4> <p>Garantiert ein sicheres Lösen der HSK-Werkzeugaufnahme beim Werkzeugwechsel.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>Für eine perfekte, gekühlte Werkzeugschneide, eine optimale Lenkung des Spans und die Vermeidung von Späneansammlungen an der Werkzeugschneide. Die schräge Anbringung der Kühlmittelbohrungen garantiert, dass Ihr Kühlmittel dort ankommt, wo es benötigt wird: an Ihrer Werkzeugschneide. Damit erzielen Sie optimale Zerspanergebnisse und erhöhen die Standzeit Ihrer Werkzeuge.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Typisch ZOLLER – alles aus einer Hand </h2>",
+   "body": "<p>ZOLLER geht bei der Entwicklung neuer Produkte stets einen Schritt weiter und schafft dabei Lösungen für die Zukunft. Nicht nur bei unseren Messmaschinen verfolgen wir seit Jahrzehnten dieses Prinzip. Rüsten Sie sich für die digitalen Anforderungen von morgen und bereiten Sie sich auf die Smart Factory der Zukunft vor – mit unseren ZOLLER Tooling Solutions.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/OKLwuZLfF2s?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Werkzeughelden"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLER Solutions für Ihre effiziente Fertigung </h2>",
+   "body": "<p>Profitieren Sie von unseren ZOLLER Tooling Solutions für Ihren effektiven Fertigungs­prozess. Wir bieten Ihnen dabei ein komplettes Programm an leistungsfähigen und hochpräzisen Werkzeugaufnahme-Systemen für Ihre Bearbeitungs­aufgaben. Die ZOLLER Tooling Solutions bilden darüber hinaus die perfekte Schnittstelle für Ihre digitale Fertigung.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iaV2Il_Gqn8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Über 2000 Aufnahmen </h2>",
+      "body": "<p>ZOLLER Tooling Solutions bieten Ihnen ein vollumfassendes Angebot an Werkzeugaufnahmen für jegliche Anforderungen Ihres Zerspanungs­prozesses. Dabei sind alle unsere Aufnahmen konstant besser als DIN-Anforderungen.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Schrumpffutter",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpffutter",
+     "caption": "<figcaption> <h3>Schrumpffutter</h3> <p>Zum Spannen von Werkzeugen mit Zylinderschaft aus Hartmetall oder HSS.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Spannzangenfutter",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:spannzangenfutter",
+     "caption": "<figcaption> <h3>Spannzangenfutter</h3> <p>Zum Spannen von Werkzeugen mit Zylinderschaft in ER Spannzangen.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Weldonaufnahmen",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:weldonaufnahmen",
+     "caption": "<figcaption> <h3>Weldonaufnahmen</h3> <p>Ideal geeigenet für den Einsatz von Werkzeugen ohne innere Kühlmittelzufuhr.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Whistle-Notch Aufnahmen",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:whistle-notch-aufnahmen",
+     "caption": "<figcaption> <h3> Whistle-Notch Aufnahmen</h3> <p>Zum Spannen von Werkzeugen mit Zylinderschaft.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Für Einschraubfräsen",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:für-einschraubfräsen",
+     "caption": "<figcaption> <h3>Für Einschraubfräsen</h3> <p>Zum Spannen von Werkzeugen mit Zylinderschaft.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Messerkopfaufnahmen",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:messerkopfaufnahmen",
+     "caption": "<figcaption> <h3>Messerkopfaufnahmen</h3> <p>Zur Aufnahme von Fräsern mit Quernut, mit Kühlmittelzufuhr an die Schneiden.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Kombidorne",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kombidorne",
+     "caption": "<figcaption> <h3>Kombidorne</h3> <p>Zur Aufnahme von Fräsern mit Längs- und Quernut.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Morsekegelaufnahmen",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:morsekegelaufnahmen",
+     "caption": "<figcaption> <h3>Morsekegelaufnahmen</h3> <p>Zur Aufnahme von Morsekegelwerkzeugen mit Austreiblappen nach DIN 2288.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Kurzbohrfutter",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kurzbohrfutter",
+     "caption": "<figcaption> <h3>Kurzbohrfutter</h3> <p>Zum Spannen von Werkzeugen mit Zylinderschaft.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "HAWK EYE",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>HAWK EYE</h3> <p>HAWK EYE® HPC-Präzisions-ER-Spannzangenfutter</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ER Spannzangen",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:er-spannzangen",
+     "caption": "<figcaption> <h3>ER Spannzangen</h3> <p>ER &amp; ER «Mini» Spannzangenfutter</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Schrumpfverlängerungen",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpfverlängerungen",
+     "caption": "<figcaption> <h3>Schrumpfverlängerungen</h3> <p>Zur Aufnahme von Werkzeugen mit Zylinderschaft.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Zubehör",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:zubehör",
+     "caption": "<figcaption> <h3>Zubehör</h3> <p>Dichtscheiben, Spannmuttern</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Jetzt sind Sie an der Reihe – greifen Sie zu! </h2>",
+   "body": "<p>In unserem Webshop steht Ihnen jetzt das komplette Sortiment an Werkzeugspannsystemen zur Verfügung. Finden Sie Ihre perfekte Werkzeugaufnahme einfach, schnell und bequem und verwenden Sie den dort verfügbaren digitalen Zwilling sofort in Ihrem CAM- und Toolmanagement-System.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Zum Tooling-Shop</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ]
+}

@@ -1,0 +1,445 @@
+{
+ "path": "/tool-management",
+ "url": "/tool-management",
+ "title": "Tool Management",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Tool Management",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Tool Management",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/tool-management",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/gestione-degli-strumenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/b/csm_toolmanagement_header_ab8ef9c82c.webp",
+     "video": null,
+     "title": "Toolmanagement – mehr als nur Werkzeugverwaltung",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8115",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Modernes Tool Management hat zahlreiche Aspekte – es geht um die Verwaltung von Werkzeugdaten, um die Lagerung, den Transport und die Bestellung von Werkzeugen und Werkzeugteilen, vor allem aber um eins: Effektivere, bessere Arbeitsprozesse.</p> <p class=\"extra-large-text\">Mit einem guten Tool Management System haben Sie alle Phasen im Lebenszyklus Ihrer Werkzeuge im Blick und im Griff – und können selbst bestimmen, in welcher Detailtiefe und Komplexität Sie den Überblick behalten wollen.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8116",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Werkzeugverwaltung: Lagerhaltung, Planung, Kontrolle </h2>",
+   "body": "<p>Werkzeugverwaltung bedeutet zum Beispiel, alle Werkzeuge und Werkzeugkomponenten zentral zu erfassen und zu verwalten. So gewinnen und erhalten Sie den Überblick über Ihre Tools und Komponenten, können aber auch Ihre Lagerhaltung optimieren, den Werkzeugeinsatz planen, kontrollieren – und genau zum richtigen Zeitpunkt, just-in-time, neue Werkzeuge und Komponenten bestellen.</p> <p>Mit der passenden Software erhalten Sie so volle Transparenz darüber, wie und wo Ihre Werkzeuge genutzt werden – und zwar über die ganze Prozesskette hinweg. Das bedeutet auch: bessere Kostenkontrolle, optimierte Arbeitsabläufe, effektiverer Einsatz Ihrer Tools.</p> <p>Toolmanagement bedeutet auch, dass alle Werkzeugdaten zentral verwaltet werden und idealerweise über geeignete Schnittstellen direkt an Ihre CAM-Systeme übertragen werden. Das vereinfacht und verkürzt den Rüstvorgang, macht die Einrichtung Ihrer Werkzeuge schneller und zuverlässiger.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8117",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Toolmanagement Software, die passt </h2>",
+      "body": "<p>Die modular aufgebaute Software TMS Tool Management Solutions von ZOLLER bietet alle Funktionen und Schnittstellen, die Sie von einer modernen Software zur Werkzeugverwaltung erwarten können.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8119",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Perfekt organisiert",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Erfassen Sie alle Einzelkomponenten, Komplettwerkzeuge und Einrichteblätter in einer zentralen Datenbank.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8122",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Verlustfreie Schnittstellen",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Mit zahlreichen Schnittstellen können Sie das ZOLLER-TMS an Ihre CAM-Systeme anbinden – die fehlerfreie digitale Übertragung von Werkzeugdaten spart Zeit, Sorgen und Geld.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8124",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Lagerverwaltung",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Jedes Teil liegt an seinem Ort – mit ZOLLER-TMS behalten Sie stets den Überblick, wo sich Ihre Komponenten und Werkzeuge befinden. Zugleich behalten Sie so effizient den Überblick über Ihre Lagerbestände.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8126",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Werkzeugüberwachung",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Versammeln Sie Qualitätskontrolle und Verschleißanalyse an einem Ort, kontrollieren Sie den Einsatz Ihrer Werkzeuge und erstellen Sie Statistiken über einzelne Aufträge, Ihre Kosten.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8128",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Transparenz und Effektivität",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Binden Sie Ihre Verwaltung an die Bestellprozesse an, um immer genau rechtzeitig zu bestellen, was Sie benötigen. Identifizieren Sie Probleme im Fertigungsprozess und sorgen Sie für reibungslose Abläufe.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8130",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8120",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8118",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tool Management Software als zentraler Bestandteil der Werkzeugverwaltung </h2>",
+   "body": "<p>Moderne Werkzeuglogistik ist ohne eine entsprechende Verwaltungssoftware eigentlich nicht mehr denkbar. Mit einem geeigneten Programm stellen Sie sicher, dass die Werkzeugversorgung für jeden Arbeitsgang sichergestellt ist, auch die aufwändige Werkzeugsuche gehört der Vergangenheit an. Denn in Ihrer Werkzeugliste ist dann auch vermerkt, wo sich jedes einzelne Teil befindet – und wenn Sie wollen, nutzen Sie Smart Cabinets, intelligente Lagerschränke, um sicherzustellen, dass wirklich alles an seinem Platz ist.</p> <h3>Werkzeugdaten stets bereit</h3> <p>Aber Toolmanagement ist wesentlich mehr als nur Werkzeuglagerung: Das System hält stets die passenden Werkzeugdaten bzw. Werkzeugvoreinstellungen vor und ermöglicht die schnelle und fehlerfreie Übertragung an Ihre Werkzeugsysteme bzw. ans Voreinstellgerät. Das verhindert Fehler, reduziert Ausschuss und beschleunigt die Arbeitsprozesse.</p> <p>Sei es die Nutzung von Zerspanwerkzeugen (normalerweise sprechen wir immer von „Zerspanungswerkzeugen“, aber wenn „Zerspanwerkzeugen“ aus SEO Sicht besser ist, können Sie diesen Begriff auch verwenden) oder Geräten aus einer ganz anderen Werkzeugklasse: In Ihrer Logistik sind sicher noch Verbesserungspotenziale, gibt es Möglichkeiten zur Optimierung – vielleicht bei der Werkzeugausgabe, beim Lagersystem oder bei der verwendeten Werkzeugdatenbank.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8131",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

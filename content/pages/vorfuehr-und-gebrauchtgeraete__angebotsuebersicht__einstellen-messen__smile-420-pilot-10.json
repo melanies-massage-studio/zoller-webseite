@@ -1,0 +1,248 @@
+{
+ "path": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/smile-420-pilot-10",
+ "url": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/smile-420-pilot-10",
+ "title": "»smile 420 pilot 1.0«",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Angebotsübersicht /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "Einstellen & Messen /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "»smile 420 pilot 1.0«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Angebotsübersicht /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "Einstellen & Messen /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "»smile 420 pilot 1.0«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/smile-420-pilot-10",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/demonstration-and-used-appliances/offer-overview/presetting-measuring/smile-420-pilot-10",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Einstellen & Messen",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»smile 420 pilot 1.0«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/smile-420-pilot-10",
+     "current": false
+    },
+    {
+     "label": "»venturion 450 pilot 4.0«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/venturion-450-pilot-40",
+     "current": false
+    },
+    {
+     "label": "»millSet«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/millset",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c8203",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> »smile 420 pilot 1.0« </h1>",
+   "body": "<ul><li><strong>Seriennummer SMILE420X-04660</strong></li><li><strong>Baujahr 2024</strong></li><li><strong>Messbereich Z = 420 mm</strong></li><li><strong>Messbereich D = 420 mm</strong></li><li><strong>Manuelle Achsverstellung</strong></li><li><strong>Hochgenauigkeitsspindel SK 50</strong></li><li><strong>Autofokus CNC-Antrieb in der C‑Achse</strong></li><li><strong>Untertisch</strong></li><li><strong>Wartungseinheit</strong></li><li><strong>Thermo-Etikettendrucker</strong></li><li><strong>Werkzeugaufnahmen nach Wahl (SK/HSK/VDI/PSC usw.)</strong></li></ul><p><a class=\"btn\" href=\"/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage\">ZOLLER-Vertriebs-Anfrage anfordern</a></p> <p><strong>Nicht Ihr Wunschmodell? </strong>Wir haben weitere Modelle der Geräteserie »smile« für Sie zur Auswahl:</p><ul><li>»smile 420 pilot 4.0«</li><li>»smile 320 pilot 1.0«</li><li>»smileAdvance«</li><li>»smileCompact«</li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_gebraucht_smile420_pilot1_de_34588289e7.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8045",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

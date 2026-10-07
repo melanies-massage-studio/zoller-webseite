@@ -1,0 +1,506 @@
+{
+ "path": "/produkte/toolmanagement",
+ "url": "/produkte/toolmanagement",
+ "title": "Toolmanagement",
+ "description": "Toolmanagement - Prozesse vernetzen, Qualität sichern und schneller fertigen.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Produktübersicht </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions stehen für Ihre Zukunft – wir machen Sie erfolg­reicher. Denn wer schneller und effizienter fertigt, arbeitet wirtschaftlicher, um in die Zukunft investieren zu können. Wenn wirtschaftlicher Fortschritt Ihr Ziel ist, dann ist ZOLLER Ihr Partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Einstellen & Messen",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Toolmanagement",
+      "selected": true
+     },
+     {
+      "value": "254",
+      "label": "Prüfen & Messen",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Schrumpftechnik",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Werkzeugaufnahmen",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Wuchttechnik",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "13361",
+      "label": "Software",
+      "selected": false
+     },
+     {
+      "value": "430",
+      "label": "Werkzeuglager",
+      "selected": false
+     },
+     {
+      "value": "431",
+      "label": "Werkzeugmontage",
+      "selected": false
+     },
+     {
+      "value": "432",
+      "label": "Werkzeugtransport",
+      "selected": false
+     },
+     {
+      "value": "343",
+      "label": "Datentransfer",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "Software",
+     "items": [
+      {
+       "href": "/produkte/toolmanagement/software/tms-core",
+       "title": "»TMS Core«",
+       "text": "Der ideale Startpunkt für die digitale Werkzeugorganisation",
+       "img": {
+        "src": "/fileadmin/_processed_/7/b/csm_TMSCore_product_44555a00d3.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": true,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zstock",
+       "title": "Add-on »z.Stock«",
+       "text": "Sorgt für klare Transparenz im Werkzeuglager",
+       "img": {
+        "src": "/fileadmin/_processed_/6/a/csm_zStock_product_080c00d832.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zcam-integration",
+       "title": "Add-on »z.CAM Integration«",
+       "text": "Erweitert das System um leistungsstarke Schnittstellen und bindet Werkzeugdaten direkt in den Workflow ein",
+       "img": {
+        "src": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_3d7c6707ab.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zresources",
+       "title": "Add-on »z.Resources«",
+       "text": "Verwaltet alle zusätzlichen Betriebsmittel",
+       "img": {
+        "src": "/fileadmin/_processed_/b/9/csm_zResources_product_9093d037df.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zshopfloor",
+       "title": "Add-on »z.Shopfloor«",
+       "text": "Durchgängiger, effizienter Werkzeugkreislauf direkt am Shopfloor",
+       "img": {
+        "src": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_50074e8009.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zconnectivity",
+       "title": "Add-on »z.Connectivity«",
+       "text": "Durchgängige, digitale Verbindung zwischen Werkzeugvermessung, Werkzeugverwaltung und Maschine",
+       "img": {
+        "src": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_0840457196.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/software/add-on-zintegration",
+       "title": "Add-on »z.Integration«",
+       "text": "Herstellerunabhängige Werkzeugmanagement-Lösung für gewachsene Fertigungsumgebungen",
+       "img": {
+        "src": "/fileadmin/_processed_/a/7/csm_zIntegration_product_8352d357ce.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Werkzeuglager",
+     "items": [
+      {
+       "href": "/produkte/toolmanagement/werkzeuglager/twister",
+       "title": "»twister«",
+       "text": "Für Werkzeug­komponenten und Zubehör­teile",
+       "img": {
+        "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/werkzeuglager/autolock",
+       "title": "»autoLock«",
+       "text": "Für Prüfmittel, Betriebsstoffe und größere Komponenten",
+       "img": {
+        "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/werkzeuglager/toolorganizer",
+       "title": "»toolOrganizer«",
+       "text": "Für Schneid­werkzeuge und Kleinteile",
+       "img": {
+        "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/werkzeuglager/keeper",
+       "title": "»keeper«",
+       "text": "Für Komplett­werkzeuge und Werkzeughalter",
+       "img": {
+        "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/werkzeuglager/zstorage",
+       "title": "»z.Storage«",
+       "text": "Ihre Artikel mit dem Prinzip eines Ausgabeautomaten ausgegeben",
+       "img": {
+        "src": "/fileadmin/_processed_/f/5/csm_zStorage_preview_48ded3c1b4.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Werkzeugmontage",
+     "items": [
+      {
+       "href": "/produkte/toolmanagement/smart-cabinets/ztower",
+       "title": "»zTower«",
+       "text": "Für die universelle Werkzeug­montage",
+       "img": {
+        "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/produkte/toolmanagement/smart-cabinets/toolstation",
+       "title": "»toolStation«",
+       "text": "Für die optimale Werkzeug­montage",
+       "img": {
+        "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Werkzeugtransport",
+     "items": [
+      {
+       "href": "/produkte/toolmanagement/smart-cabinets/toolcart",
+       "title": "»toolCart«",
+       "text": "Für den komfortablen Werkzeug­transport",
+       "img": {
+        "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Datentransfer",
+     "items": [
+      {
+       "href": "/produkte/toolmanagement/zidcode",
+       "title": "»zidCode«",
+       "text": "Mehr Sicherheit und Effizienz durch einfaches Werkzeugdaten-Handling",
+       "img": {
+        "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

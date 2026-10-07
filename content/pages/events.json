@@ -1,0 +1,602 @@
+{
+ "path": "/events",
+ "url": "/events",
+ "title": "Events",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Events",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Events",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/3/2/csm_zoller_live_header_514548cdf4.webp",
+     "video": null,
+     "title": "EVENTS",
+     "kicker": "",
+     "text": "<p>Treffpunkte der Branche</p>",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3101",
+   "bg": "white",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"large-text\">Besuchen Sie unsere Events vor Ort oder im Live-Stream. Hier finden Sie alle Themen und Termine.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8258",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "events",
+   "months": [
+    {
+     "label": "Oktober 2026",
+     "events": [
+      {
+       "month": "Okt",
+       "day": "13",
+       "weekday": "Dienstag",
+       "img": {
+        "src": "/fileadmin/_processed_/9/f/csm_6a483879fe4b9bf651bba96cd54632c0-1767874536_ae7c38e4e9.webp",
+        "alt": "",
+        "w": 171,
+        "h": 70
+       },
+       "date": "13.10.2026",
+       "place": "Toulouse, Frankreich",
+       "title": "SIANE",
+       "text": "<p>Besuchen Sie ZOLLER auf der SIANE Industries und erleben Sie die Solutions vor Ort in Toulouse.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1426",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20SIANE&body=SIANE%20%40%20Toulouse%2C%20Frankreich%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      },
+      {
+       "month": "Okt",
+       "day": "13",
+       "weekday": "Dienstag",
+       "img": {
+        "src": "/fileadmin/_processed_/9/0/csm_bc0586ff44b214890e59f7f6743d4541-1767775425_7aac4f7bcb.webp",
+        "alt": "",
+        "w": 171,
+        "h": 77
+       },
+       "date": "13.10.2026 - 16.10.2026",
+       "place": "Mailand, Italien",
+       "title": "BI-MU",
+       "text": "<p>Die ZOLLER-Lösungen auf der internationalen Messe für die Fertigungsindustrie von Werkzeugmaschinen in Mailand - Besuchen Sie uns.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1423",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20BI-MU&body=BI-MU%20%40%20Mailand%2C%20Italien%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "November 2026",
+     "events": [
+      {
+       "month": "Nov",
+       "day": "3",
+       "weekday": "Dienstag",
+       "img": {
+        "src": "/fileadmin/_processed_/2/1/csm_5ce112823e9a5ccad9b0701b52c7cba7-1704261151_46c1e47b8f.webp",
+        "alt": "",
+        "w": 171,
+        "h": 22
+       },
+       "date": "03.11.2026",
+       "place": "Limburg, Deutschland",
+       "title": "Hausaustellung BIMATEC SORALUCE",
+       "text": "<p>Erleben Sie die ZOLLER Solutions auf der Hausaustellung von BIMATEC SORALUCE in Limburg.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1428",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20Hausaustellung%20BIMATEC%20SORALUCE&body=Hausaustellung%20BIMATEC%20SORALUCE%20%40%20Limburg%2C%20Deutschland%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      },
+      {
+       "month": "Nov",
+       "day": "5",
+       "weekday": "Donnerstag",
+       "img": {
+        "src": "/fileadmin/_processed_/3/0/csm_87eacb37a2d2e8265e2e89b24a6a1d44-1678866894_8d204e06e0.webp",
+        "alt": "",
+        "w": 171,
+        "h": 128
+       },
+       "date": "05.11.2026",
+       "place": "Friedrich-Krupp-Straße 7 D-40764 Langenfeld",
+       "title": "Z.connect (Langenfeld)",
+       "text": "<p>Ready for 4.0: Workshop Tool Management für eine intelligente Fertigung. Erleben Sie praxisnah und live Lösungen für eine effiziente Werkzeugorganisation in einer vernetzten Fertigung von heute.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1444",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20Z.connect%20%28Langenfeld%29&body=Z.connect%20%28Langenfeld%29%20%40%20Friedrich-Krupp-Stra%C3%9Fe%207%20D-40764%20Langenfeld%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      },
+      {
+       "month": "Nov",
+       "day": "12",
+       "weekday": "Donnerstag",
+       "img": {
+        "src": "/fileadmin/_processed_/7/3/csm_3b7574addb5221d0537e69b04e15fd44-1678866876_682590b919.webp",
+        "alt": "",
+        "w": 171,
+        "h": 128
+       },
+       "date": "12.11.2026",
+       "place": "Fugger Business Park Fuggerstraße 1 B D-04158 Leipzig",
+       "title": "Z.connect (Leipzig)",
+       "text": "<p>Ready for 4.0: Workshop Tool Management für eine intelligente Fertigung. Erleben Sie praxisnah und live Lösungen für eine effiziente Werkzeugorganisation in einer vernetzten Fertigung von heute.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1432",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20Z.connect%20%28Leipzig%29&body=Z.connect%20%28Leipzig%29%20%40%20Fugger%20Business%20Park%20Fuggerstra%C3%9Fe%201%20B%20D-04158%20Leipzig%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      },
+      {
+       "month": "Nov",
+       "day": "18",
+       "weekday": "Mittwoch",
+       "img": {
+        "src": "/fileadmin/_processed_/e/e/csm_2981abac3195874866e4ae1be582b277-1767775633_e602911a08.webp",
+        "alt": "",
+        "w": 171,
+        "h": 96
+       },
+       "date": "18.11.2026 - 21.11.2026",
+       "place": "Bangkok, Thailand",
+       "title": "METALEX",
+       "text": "<p>Erleben Sie die Solutions von ZOLLER auf der METALEX in Bangkok: Nr. 1 Ausstellung für Werkzeugmaschinen und Metallbearbeitung im gesamten ASEAN-Raum.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1424",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20METALEX&body=METALEX%20%40%20Bangkok%2C%20Thailand%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      },
+      {
+       "month": "Nov",
+       "day": "19",
+       "weekday": "Donnerstag",
+       "img": {
+        "src": "/fileadmin/_processed_/3/0/csm_87eacb37a2d2e8265e2e89b24a6a1d44-1678866894_8d204e06e0.webp",
+        "alt": "",
+        "w": 171,
+        "h": 128
+       },
+       "date": "19.11.2026",
+       "place": "Pleidelsheim",
+       "title": "Z.connect (Pleidelsheim)",
+       "text": "<p>Ready for 4.0: Workshop Tool Management für eine intelligente Fertigung. Erleben Sie praxisnah und live Lösungen für eine effiziente Werkzeugorganisation in einer vernetzten Fertigung von heute.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1489",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20Z.connect%20%28Pleidelsheim%29&body=Z.connect%20%28Pleidelsheim%29%20%40%20Pleidelsheim%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      },
+      {
+       "month": "Nov",
+       "day": "23",
+       "weekday": "Montag",
+       "img": {
+        "src": "/fileadmin/_processed_/c/c/csm_0717c90d0bcca26dec8cd281647d5584-1756793553_3d23897b72.webp",
+        "alt": "",
+        "w": 171,
+        "h": 122
+       },
+       "date": "23.11.2026 - 24.11.2026",
+       "place": "Pleidelsheim",
+       "title": "Erweiterte Anwendung in digitalen Werkzeugverwaltungssystemen",
+       "text": "<p>Seien Sie als Lehrkraft dabei, wenn es um die Fortbildung zum Thema digitale Werkzeugmanagementsysteme geht.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1488",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20Erweiterte%20Anwendung%20in%20digitalen%20Werkzeugverwaltungssystemen&body=Erweiterte%20Anwendung%20in%20digitalen%20Werkzeugverwaltungssystemen%20%40%20Pleidelsheim%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Januar 2026",
+     "events": [
+      {
+       "month": "Jan",
+       "day": "21",
+       "weekday": "Donnerstag",
+       "img": {
+        "src": "/fileadmin/_processed_/4/6/csm_1333d07493d6b7b2c04a6eb0ab76d9ad-1787560075_2c7f6ba789.webp",
+        "alt": "",
+        "w": 171,
+        "h": 114
+       },
+       "date": "21.01.2027",
+       "place": "Bengaluru, Indien",
+       "title": "IMTEX",
+       "text": "<p>Besuchen Sie ZOLLER auf der IMTEX 2027 in Bengaluru und erleben Sie unsere Solutions live vor Ort.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1514",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20IMTEX&body=IMTEX%20%40%20Bengaluru%2C%20Indien%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "März 2027",
+     "events": [
+      {
+       "month": "Mär",
+       "day": "2",
+       "weekday": "Dienstag",
+       "img": {
+        "src": "/fileadmin/_processed_/6/2/csm_51b541aecfb3d18a039c9f1eab232e8e-1706605132_7682b6999c.webp",
+        "alt": "",
+        "w": 171,
+        "h": 178
+       },
+       "date": "02.03.2027",
+       "place": "Leipzig, Deutschland",
+       "title": "Intec",
+       "text": "<p>Besuchen Sie ZOLLER auf der Intec in Leipzig und überzeugen Sie sich von unseren Effizienzlösungen.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1449",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20Intec&body=Intec%20%40%20Leipzig%2C%20Deutschland%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      },
+      {
+       "month": "Mär",
+       "day": "15",
+       "weekday": "Montag",
+       "img": {
+        "src": "/fileadmin/_processed_/6/d/csm_c1099ce3bb4810dab667ab679f237485-1787560574_845f739e5d.webp",
+        "alt": "",
+        "w": 171,
+        "h": 67
+       },
+       "date": "15.03.2027",
+       "place": "Lyon, Frankreich",
+       "title": "Global Industrie",
+       "text": "<p>Besuchen Sie ZOLLER auf der Global Industrie in Paris und erleben Sie unsere Solutions live vor Ort.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1515",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20Global%20Industrie&body=Global%20Industrie%20%40%20Lyon%2C%20Frankreich%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "April 2027",
+     "events": [
+      {
+       "month": "Apr",
+       "day": "7",
+       "weekday": "Mittwoch",
+       "img": {
+        "src": "/fileadmin/_processed_/5/d/csm_cd99acf84474b3d0baafa88f82277521-1712122301_bc2f240120.webp",
+        "alt": "",
+        "w": 171,
+        "h": 43
+       },
+       "date": "07.04.2027",
+       "place": "Villingen-Schwennigen, Deutschland",
+       "title": "DST Dreh- und Spantage Südwest",
+       "text": "<p>Besuchen Sie ZOLLER auf den DST Dreh- und Spantage Südwest in Villingen-Schwenningen und erleben Sie unsere Effizienzlösungen vor Ort.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1450",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20DST%20Dreh-%20und%20Spantage%20S%C3%BCdwest&body=DST%20Dreh-%20und%20Spantage%20S%C3%BCdwest%20%40%20Villingen-Schwennigen%2C%20Deutschland%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Juni 2027",
+     "events": [
+      {
+       "month": "Jun",
+       "day": "21",
+       "weekday": "Montag",
+       "img": {
+        "src": "/fileadmin/_processed_/2/5/csm_3d292e520abd494ae0f3ab955706b0b9-1770789403_33a152742c.webp",
+        "alt": "",
+        "w": 171,
+        "h": 35
+       },
+       "date": "21.06.2027",
+       "place": "Düsseldorf, Deutschland",
+       "title": "GIFA",
+       "text": "<p>Besuchen Sie uns auf der GIFA in Düsseldorf und erleben Sie unsere Solutions live vor Ort.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Mehr erfahren",
+         "href": "https://myzoller.com/de/de/live/detail/1451",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20GIFA&body=GIFA%20%40%20D%C3%BCsseldorf%2C%20Deutschland%20-%20https%3A%2F%2Fwww.zoller.info%2Fevents",
+         "share": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Expertengespräch</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Jetzt Termin vereinbaren</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ]
+}

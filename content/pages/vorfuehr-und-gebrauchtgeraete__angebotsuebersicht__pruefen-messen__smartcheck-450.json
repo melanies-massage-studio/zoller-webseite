@@ -1,0 +1,273 @@
+{
+ "path": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/smartcheck-450",
+ "url": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/smartcheck-450",
+ "title": "»smartCheck 450«",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Angebotsübersicht /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "Prüfen & Messen /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "»smartCheck 450«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Vorführ- und Gebrauchtgeräte /",
+   "href": "/vorfuehr-und-gebrauchtgeraete"
+  },
+  {
+   "label": "Angebotsübersicht /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "Prüfen & Messen /",
+   "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht"
+  },
+  {
+   "label": "»smartCheck 450«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/smartcheck-450",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/demonstration-and-used-appliances/offer-overview/inspection-measuring/smartcheck-450",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Prüfen & Messen",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»genius«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/genius",
+     "current": false
+    },
+    {
+     "label": "»threadCheck«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/threadcheck",
+     "current": false
+    },
+    {
+     "label": "»titan«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/titan",
+     "current": false
+    },
+    {
+     "label": "»3dCheck«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/3dcheck",
+     "current": false
+    },
+    {
+     "label": "»pomBasic«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/pombasic",
+     "current": false
+    },
+    {
+     "label": "»mμFocus«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/mmfocus",
+     "current": false
+    },
+    {
+     "label": "»smartCheck 450«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/smartcheck-450",
+     "current": false
+    },
+    {
+     "label": "»sawCheck«",
+     "href": "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/pruefen-messen/sawcheck",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c8242",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> »smartCheck 450« </h1>",
+   "body": "<ul><li><strong>Seriennummer SMART450X-00439</strong></li><li><strong>Baujahr 2024</strong></li><li><strong>Messbereich D = 420 mm</strong></li><li><strong>Werkzeuginspektion Auflichtbildverarbeitung mit zentrierter LED‑Beleuchtung</strong></li><li><strong>CNC-Steuerung in der Z- und X-Achse</strong></li><li><strong>Hochgenauigkeitsspindel »ace« Rundlaufgenauigkeit 0,002 mm</strong></li><li><strong>Autofokus CNC-Antrieb in der C-Achse</strong></li><li><strong>Rotationsgeber (ROD) zur hochpräzisen Positionsbestimmung in der C-Achse</strong></li><li><strong>Bedieneinheit »cockpit« mit 24\" TFT-Farbmonitor mit Touchbedienung</strong></li><li><strong>Ablagebord Adapter 2-reihig</strong></li></ul><p><a class=\"btn\" href=\"/vorfuehr-und-gebrauchtgeraete/vertriebs-anfrage\">ZOLLER-Vertriebs-Anfrage anfordern</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/5/csm_gebraucht_smartCheck_de_5c72cc1111.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8241",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

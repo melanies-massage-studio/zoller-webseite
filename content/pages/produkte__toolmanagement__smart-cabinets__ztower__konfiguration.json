@@ -1,0 +1,391 @@
+{
+ "path": "/produkte/toolmanagement/smart-cabinets/ztower/konfiguration",
+ "url": "/produkte/toolmanagement/smart-cabinets/ztower/konfiguration",
+ "title": "»zTower« – Konfiguration",
+ "description": "Konfiguration - »zTower« – Konfiguration",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Werkzeugmontage /",
+   "href": "/produkte/toolmanagement/werkzeugmontage"
+  },
+  {
+   "label": "»zTower« /",
+   "href": "/produkte/toolmanagement/smart-cabinets/ztower"
+  },
+  {
+   "label": "Konfiguration",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Werkzeugmontage /",
+   "href": "/produkte/toolmanagement/werkzeugmontage"
+  },
+  {
+   "label": "»zTower« /",
+   "href": "/produkte/toolmanagement/smart-cabinets/ztower"
+  },
+  {
+   "label": "Konfiguration",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/smart-cabinets/ztower/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-assembly/ztower/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/montaje-de-herramienta/ztower/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/montage-doutil/ztower/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/montagem-de-ferramenta/ztower/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/montaggio-utensile/ztower/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygsmontering/ztower/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeugmontage/ztower/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-assembly/ztower/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/montage-doutils/ztower/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91/ztower/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/ztower/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-assembly/ztower/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/montaje-de-herramienta/ztower/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/ztower/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»zTower«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/toolmanagement/smart-cabinets/ztower",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Konfiguration",
+     "href": "/produkte/toolmanagement/smart-cabinets/ztower/konfiguration",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/toolmanagement/smart-cabinets/ztower/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/toolmanagement/smart-cabinets/ztower/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/toolmanagement/smart-cabinets/ztower/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3027",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Alles im Überblick </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3025",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Bei den Smart Cabinets haben Sie das Sagen: Treffen Sie Ihre Vorauswahl und treten Sie in Kontakt mit unserem ZOLLER‑Vertriebsteam – wir beraten Sie gerne und konfigurieren Ihnen Ihr Wunschmodell.</p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_f11714b056.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c3024",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3026",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Varianten </h2>",
+   "table": "<table> <tbody> <tr> <td> Basic, mit Standfuß, H x B: 2010 x 1260 mm, Arbeitshöhe 925 mm </td> </tr> <tr> <td> Mit »toolOrganizer 600«, H x B: 2100 x 1490 mm, Arbeitshöhe 925 mm </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3023",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Schubladen </h2>",
+   "table": "<table> <tbody> <tr> <td> Verriegelung mit Zentralschloss </td> </tr> <tr> <td> Elektronische Schubladenverriegelung </td> </tr> <tr> <td> Elektronische Einzelfachverriegelung »smartCompartment« </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3022",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Ansteuerung </h2>",
+   "table": "<table> <tbody> <tr> <td> Panel-PC zur Anbringung an der Rückwand mit Steuerungssoftware »quickPick« </td> </tr> <tr> <td> TMS Tool Management Solutions – Arbeitsstation </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3020",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Optionen – Version 1 Basic </h2>",
+   "table": "<table> <tbody> <tr> <td> Panel-PC an Rückwand </td> </tr> <tr> <td> Montage-Haken-Set zum Aufhängen von Montagwerkzeugen an Rückwand </td> </tr> <tr> <td> Werkzeugmontagevorrichtung </td> </tr> <tr> <td> Beleuchtungspaket LED </td> </tr> <tr> <td> Pneumatikanschluss </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3019",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Optionen – Version 2 mit »toolOrganizer« </h2>",
+   "table": "<table> <tbody> <tr> <td> »toolOrganizer« mit Schubladen oder mit Türe </td> </tr> <tr> <td> Panel-PC an Rückwand </td> </tr> <tr> <td> Montage-Haken-Set zum Aufhängen von Montagwerkzeugen an Rückwand </td> </tr> <tr> <td> Werkzeugmontagevorrichtung </td> </tr> <tr> <td> Zusätzliche Elektronikanschlüsse </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3018",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

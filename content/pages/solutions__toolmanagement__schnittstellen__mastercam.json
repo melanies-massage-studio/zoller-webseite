@@ -1,0 +1,320 @@
+{
+ "path": "/solutions/toolmanagement/schnittstellen/mastercam",
+ "url": "/solutions/toolmanagement/schnittstellen/mastercam",
+ "title": "Mastercam",
+ "description": "Mastercam",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/solutions/toolmanagement"
+  },
+  {
+   "label": "Schnittstellen /",
+   "href": "/solutions/toolmanagement/schnittstellen"
+  },
+  {
+   "label": "Mastercam",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/solutions"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/solutions/toolmanagement"
+  },
+  {
+   "label": "Schnittstellen /",
+   "href": "/solutions/toolmanagement/schnittstellen"
+  },
+  {
+   "label": "Mastercam",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement/schnittstellen/mastercam",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> ZOLLER-TMS Mastercam Schnittstelle </h1>",
+   "body": "<p><strong>Die Schnittstelle Zoller–TMS zu Mastercam ist eine CAM Schnittstelle, bei welcher dem Benutzer die Möglichkeit gegeben wird die Komponenten und Werkzeugdaten zentral im Zoller-TMS System einzugeben und zu Pflegen. Dabei werden die Werkzeugdaten aus Zoller-TMS über die Direktanbindung an die ZOLLER-Datenbank bereitgestellt.</strong></p> <p>Legen Sie Ihre Zerspanungswerkzeuge ein einziges Mal zentral in der ZOLLERWerkzeugdatenbank »z.One« an. Dank der ZOLLER-Schnittstelle zum CAM-System Mastercam können Sie diese im CAM-System einfach und schnell nutzen. Ebenso leicht kann die Liste der erforderlichen Werkzeuge (Einrichteblatt) vom CAM-System an die ZOLLER TMS Tool Management Solutions zurück geschickt werden. Somit wird sichergestellt, dass ausschließlich korrekte Werkzeuge in Ihrem Fertigungsprozess zum Einsatz kommen.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 Expertengespräch</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/4/csm_mastercam_logo_865aaaaaf9.webp",
+     "alt": "",
+     "w": 900,
+     "h": 430
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c240292",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Keine doppelte Datenpflege ",
+    "Überblick über die reell verfügbaren Werkzeuge ",
+    "Einfache Handhabung durch standardisierten und automatisierten Datenaustausch"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c240290",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Bidirektionaler Datenaustausch </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/f/csm_mastercam_datenuebertragung_f3a8749fa1.webp",
+     "alt": "",
+     "w": 633,
+     "h": 281,
+     "title": "Datenübertragung",
+     "caption": "<figcaption> <h3>Datenübertragung</h3> <p>Datenübertragung zwischen ZOLLER und Mastercam</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/e/csm_mastercam_datenuebertragung_werkzeugdaten_2e9db2d04a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 281,
+     "title": "Werkzeugdaten",
+     "caption": "<figcaption> <h3>Werkzeugdaten</h3> <p>Die Werkzeugdaten (Sachmerkmale) aus der ZOLLER-Werkzeug­datenbank z.One werden dem CAM-System zur Verfügung gestellt</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/7/csm_mastercam_datenuebertragung_werkzeugliste_f390d7a83f.webp",
+     "alt": "",
+     "w": 633,
+     "h": 281,
+     "title": "Werkzeugliste",
+     "caption": "<figcaption> <h3>Werkzeugliste</h3> <p>Die Werkzeugliste (Einrichteblatt) wird vom CAM-System in die ZOLLER-Werkzeugdatenbank z.One übertragen</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c240298",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Technische Daten </h2>",
+   "table": "<table> <tbody> <tr> <td> Speicherort </td> <td> Mastercam Projekt </td> </tr> <tr> <td> Anlage der Sachmerkmale </td> <td> Komplettwerkzeuge mit Einzelkomponenten </td> </tr> <tr> <td> Unterstützung Fräswerkzeuge </td> <td> ja </td> </tr> <tr> <td> Unterstützung Drehwerkzeuge </td> <td> ja </td> </tr> <tr> <td> Zurückschreiben von Einrichteblättern </td> <td> ja </td> </tr> <tr> <td> Übertragung von Technologiedaten </td> <td> ja </td> </tr> <tr> <td> Filtermöglichkeiten </td> <td> Maschine, Einrichteblatt, Werkzeug </td> </tr> <tr> <td> Konturübertragung nach CAM </td> <td> ja </td> </tr> <tr> <td> 3D-Daten nach CAM </td> <td> ja (bei Drehwerkzeugen) </td> </tr> <tr> <td> Sachmerkmalsprachen </td> <td> DE / EN </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c240291",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

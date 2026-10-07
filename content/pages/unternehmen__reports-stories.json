@@ -1,0 +1,467 @@
+{
+ "path": "/unternehmen/reports-stories",
+ "url": "/unternehmen/reports-stories",
+ "title": "Reports & Stories",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Reports &amp; Stories </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3213",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "taglist",
+   "tags": [
+    {
+     "label": "Einstellen & Messen",
+     "href": "/unternehmen/reports-stories/tag/einstellen-messen"
+    },
+    {
+     "label": "Event",
+     "href": "/unternehmen/reports-stories/tag/event-1"
+    },
+    {
+     "label": "Automation",
+     "href": "/unternehmen/reports-stories/tag/automation"
+    },
+    {
+     "label": "Nachhaltigkeit",
+     "href": "/unternehmen/reports-stories/tag/nachhaltigkeit"
+    },
+    {
+     "label": "Wuchttechnik",
+     "href": "/unternehmen/reports-stories/tag/wuchttechnik"
+    },
+    {
+     "label": "Schrumpftechnik",
+     "href": "/unternehmen/reports-stories/tag/schrumpftechnik"
+    },
+    {
+     "label": "Toolmanagement",
+     "href": "/unternehmen/reports-stories/tag/toolmanagement"
+    },
+    {
+     "label": "Prüfen & Messen",
+     "href": "/unternehmen/reports-stories/tag/pruefen-messen"
+    },
+    {
+     "label": "Anwenderbericht",
+     "href": "/unternehmen/reports-stories/tag/anwenderbericht"
+    },
+    {
+     "label": "Pressemitteilung",
+     "href": "/unternehmen/reports-stories/tag/pressemitteilung"
+    }
+   ],
+   "ftype": "news_taglist",
+   "id": "c3330",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "",
+   "articles": [
+    {
+     "href": "/unternehmen/reports-stories/detail/werkzeugwuchten-mehr-qualitaet-geringere-kosten",
+     "img": {
+      "src": "/fileadmin/_processed_/c/9/csm_report_wuchten_teaserimg_e2610a8e69.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Wuchttechnik"
+     ],
+     "title": "Werkzeugwuchten: mehr Qualität, geringere Kosten",
+     "teaser": "Mit dem Thema Werkzeuge wuchten befassen sich auffallend wenige Fertigungen. Dabei ist Wuchten der Startpunkt für präzises Fertigen. »toolBalancer« von ZOLLER ist die perfekte Lösung und liefert Messergebnisse < 0,4 gmm.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/fuenf-irrtuemer-zur-digitalisierung",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_fuenf_irrtuermer_teaserimg_f37f1b5058.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung"
+     ],
+     "title": "Fünf Irrtümer zur Digitalisierung",
+     "teaser": "Besonders kleine Unternehmen zögern bei der Digitalisierung ihrer Fertigung und verschenken so Effizienzvorteile. Oft sind Vorurteile der Grund. Höchste Zeit, diese Irrtümer auszuräumen und passende Lösungen für kleine und mittelgroße Fertigungen aufzuzeigen.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/vollhartmetall-werkzeuge-so-begegnen-sie-dem-wolfram-preisschock",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "So begegnen Sie dem Wolfram-Preisschock",
+     "teaser": "Gegen die extreme Preissteigerung bei Vollhartmetall-Werkzeugen helfen zwei Strategien: Mehr Effizienz im Werkzeugeinsatz und höchste Präzision bei Nachschleifprozessen.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/80-jahre-zoller-blick-nach-vorne",
+     "img": {
+      "src": "/fileadmin/_processed_/d/d/csm_interview_emo_x-technik_teaserimg_1bca8d87d2.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Event"
+     ],
+     "title": "80 Jahre ZOLLER – Blick nach vorne",
+     "teaser": "Im Rahmen der EMO 2025 sprach Christoph Zoller mit Ing. Robert Fraunberger, Chefredakteur vom Fachmagazin x-technik Fertigungstechnik.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/ausschliesslich-strom-aus-nachhaltigen-quellen",
+     "img": {
+      "src": "/fileadmin/_processed_/3/a/csm_Teaser-Oekstrom_79e9c37e4f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Unternehmen",
+      "Nachhaltigkeit"
+     ],
+     "title": "Ausschließlich Strom aus nachhaltigen Quellen",
+     "teaser": "Wir produzieren ausschließlich mit Strom aus erneuerbaren Energien. Mit unserer hauseigenen Photovoltaikanlage tragen wir dazu bei.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/500-quadratmeter-insektenflugplatz",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_Teaser_Helene_Zoller_Garten_c802c65201.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Unternehmen",
+      "Nachhaltigkeit"
+     ],
+     "title": "500 Quadratmeter Insektenflugplatz",
+     "teaser": "Blühender Wohlfühlort am Unternehmen ZOLLER",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/innovation-schuetzt-ressourcen-steigert-nachhaltigkeit",
+     "img": {
+      "src": "/fileadmin/_processed_/d/4/csm_Teaser-Innovation_94d7fa6347.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Unternehmen",
+      "Nachhaltigkeit"
+     ],
+     "title": "Innovation – schützt Ressourcen, steigert Nachhaltigkeit",
+     "teaser": "Mit ZOLLER nutzen Fertigungen ihre Maschinen, Materialressourcen und Werkzeuge optimal. Das reduziert Fehlteile und steigert die Effizienz.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/zuverlaessig-und-schnell-werkzeuge-beschaffen",
+     "img": {
+      "src": "/fileadmin/_processed_/c/d/csm_werkzeugbeschaffung_teaserimg_5bb2437ec7.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Zuverlässig und schnell Werkzeuge beschaffen",
+     "teaser": "Bestellungen mit TMS Tool Management Solutions von ZOLLER vereinfachen Organisation und Abläufe.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/qualifizieren-fuer-effizientes-toolmanagement",
+     "img": {
+      "src": "/fileadmin/_processed_/6/9/csm_tms_praxis_teaserimg_0b827b00f9.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "So gelingt effizientes Toolmanagement",
+     "teaser": "Praxisnahe Schulungen in der Smart Factory für ZOLLER TMS Tool Management Solutions.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/reporting-service-laufend-und-lueckenlos-informiert",
+     "img": {
+      "src": "/fileadmin/_processed_/3/c/csm_Reporting-Service_teaserimg_a0a451592f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Reporting Service: laufend und lückenlos informiert",
+     "teaser": "Transparente Berichterstattung mit ZOLLER TMS Tool Management Solutions",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/komfortabel-und-schnell-zur-datenbasis-mit-tms-tool-management-solutions-von-zoller",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_Datenbasis_teaserimg_36bb6bb863.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Komfortabel und schnell zur Datenbasis",
+     "teaser": "Datenanlage mit ZOLLER TMS Tool Management Solutions: Per Mausklick Werkzeugdaten importieren.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/werkzeuge-komfortabel-ein-und-auslagern",
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_werkzeuge_ein-auslagern_teaserimg_d03855fb05.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Werkzeuge komfortabel ein- und auslagern",
+     "teaser": "Mehr Effizienz durch grafische Unterstützung der ZOLLER TMS Tool Management Solutions",
+     "date": ""
+    }
+   ],
+   "pages": [
+    {
+     "label": "1",
+     "href": "",
+     "current": true
+    },
+    {
+     "label": "2",
+     "href": "/unternehmen/reports-stories?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=2&cHash=2ce88414ead9c3cf3ec24a7b7ea413a1",
+     "current": false
+    },
+    {
+     "label": "3",
+     "href": "/unternehmen/reports-stories?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=3&cHash=db2c72f959be9fa749287f2409e947a1",
+     "current": false
+    }
+   ],
+   "ftype": "news_pi1",
+   "id": "c557",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  }
+ ]
+}

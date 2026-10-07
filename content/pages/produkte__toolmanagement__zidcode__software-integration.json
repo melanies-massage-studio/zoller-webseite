@@ -1,0 +1,557 @@
+{
+ "path": "/produkte/toolmanagement/zidcode/software-integration",
+ "url": "/produkte/toolmanagement/zidcode/software-integration",
+ "title": "»zidCode« – Software & Integration",
+ "description": "Software & Integration - »zidCode« – Software & Integration",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Datentransfer /",
+   "href": "/produkte/toolmanagement/datentransfer"
+  },
+  {
+   "label": "»zidCode« /",
+   "href": "/produkte/toolmanagement/zidcode"
+  },
+  {
+   "label": "Software & Integration",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Datentransfer /",
+   "href": "/produkte/toolmanagement/datentransfer"
+  },
+  {
+   "label": "»zidCode« /",
+   "href": "/produkte/toolmanagement/zidcode"
+  },
+  {
+   "label": "Software & Integration",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/zidcode/software-integration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/data-transfer/zidcode/software-integration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/software-e-integracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/logiciels-et-integration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/software-e-integracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasferimento-dei-dati/zidcode/software-e-integrazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/dataoeverfoering/zidcode/programvara-och-integration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/datentransfer/zidcode/software-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/data-transfer/zidcode/software-integration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/logiciels-et-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A8%E7%B5%B1%E5%90%88",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%B0%8F-%ED%86%B5%ED%95%A9",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/data-transfer/zidcode/software-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/software-e-integracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/software-e-integracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»zidCode«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/toolmanagement/zidcode",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "/ »zidCode 4.0«",
+     "href": "/produkte/toolmanagement/zidcode/zidcode-40",
+     "current": false
+    },
+    {
+     "label": "»zidCode«",
+     "href": "/produkte/toolmanagement/zidcode/zidcode",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/toolmanagement/zidcode/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/toolmanagement/zidcode/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/toolmanagement/zidcode/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c838",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Software </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c932",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Modul »zidCode«",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Das Modul »zidCode« unterstützt in der ZOLLER-Software TMS Tool Management Solutions sowie in der Bild­verarbeitungs­software »pilot 4.0« durch seine intuitive Bedienung eine effiziente und optimale Auftrags­vorbereitung.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/4/csm_software_modulzidcode_2043300238.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c952",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Lagermodul »quickPick«",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Das Lagermodul »quickPick« ist die einfache Lager­oberfläche für die Handhabung von Einzel­komponenten, Komplett­werkzeugen, Vorrichtungen, Aufträgen und Zubehör. Mit wenigen Klicks führen Sie Lager­buchungen durch.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/6/csm_software_quickpick_009cb1287c.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c953",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "NC-Programmverwaltung – »zidCode 4.0«",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Mit der NC-Programmverwaltung von ZOLLER TMS Tool Management Solutions und der Übertragung durch »zidCode 4.0« steht alles zur Verfügung, was die Maschine für sichere Abläufe benötigt.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/3/4/csm_software_nc-programmverwaltung_ef69649c40.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 542
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c954",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "»idChip«-Technologie – »zidCode 4.0«",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Wird der DataMatrix-Code am integrierten Chip des Werkzeugs gescannt, erhält die CNC-Maschine über das Netzwerk alle erforderlichen Werkzeugdaten.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c955",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c933",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c931",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Schnittstellen für reibungslose Prozesse </h2>",
+   "body": "<p>Mehr als 20 Schnittstellen ermöglichen die Anbindung an CAM-Systeme. Pflegen Sie die Werkzeugdaten nur einmal in der zentralen Werkzeugdatenbank und greifen Sie direkt aus Ihrem Programmier­system auf diese Daten zu. Erstellen Sie direkt im CAM-System Einrichteblätter für den nachfolgenden Fertigungsprozess.<br/><br/><a class=\"btn\" href=\"#c3753\">CAM-Schnittstellen</a> <a class=\"btn\" href=\"#c3754\">»z.DMI«-Technologie</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/8/csm_schnittstellen_arbeitsplatz_a6313cdac3.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c956",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/7/a/csm_cam-schnittstellen_c3f54f119d.webp",
+    "alt": "",
+    "w": 996,
+    "h": 681
+   },
+   "title": "CAM-Schnittstellen",
+   "text": "<p>Sorgen für die erhöhte Prozesssicherheit durch Simulation mit real verfügbaren Werkzeugen und bieten den effizienten Einsatz Ihrer Werkzeuge durch Standardisierung von Werkzeuglisten mit sichtbarer Kostenminimierung.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3753",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/5/f/csm_zdmi-technologie_e20872edc9.webp",
+    "alt": "",
+    "w": 996,
+    "h": 392
+   },
+   "title": "»z.DMI«-Technologie",
+   "text": "<p>Ermöglicht die direkte Übertragung der Werkzeugdaten in den Werkzeugspeicher der Maschinensteuerung und zurück in die Datenbank z.One. Dieser bidirektionale Datentransfer hält zum Beispiel Standzeitdaten automatisch aktuell.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3754",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Vernetzen Sie Ihre Fertigung </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/f/3/csm_zidcode_vernetzung_1c2e55d6b5.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 704
+   },
+   "spots": [
+    {
+     "x": 13.024,
+     "y": 32.436,
+     "label": "Integrierte CAM‑Schnittstellen",
+     "text": "<h3>Integrierte CAM‑Schnittstellen</h3> <h4>Integrierte CAM‑Schnittstellen</h4> <p>Die Fertigungsabläufe werden im CAM-System mithilfe von Werkzeugdaten aus der Cloud simuliert. Die Werkzeugdaten aus dem CAM-System werden in Form eines Einrichteblatts direkt an die ZOLLER TMS Tool Management Solutions übertragen.</p>"
+    },
+    {
+     "x": 28.675,
+     "y": 79.437,
+     "label": "Strukturierte Werkzeugvorbereitung",
+     "text": "<h3>Strukturierte Werkzeugvorbereitung</h3> <p>Strukturierte Werkzeugvorbereitung</p> <p>In den ZOLLER Smart Cabinets und mithilfe der ZOLLER TMS Tool Management Solutions Software sind Werkzeuge, Komponenten, Zubehör und Komplett­werkzeuge digital erfasst und lokalisierbar. Die vorbereiteten Komplett­werkzeuge werden am ZOLLER Einstell- und Messgerät identifiziert und gemessen. Die Werkzeugdaten sind danach direkt an der Maschinensteuerung verfügbar.</p>"
+    },
+    {
+     "x": 39.519,
+     "y": 30.477,
+     "label": "Datenbank z.One",
+     "text": "<h3>Datenbank z.One</h3> <h4>Datenbank z.One</h4> <p>z.One ist die zentrale Werkzeugdatenbank. Alle Stationen des Fertigungsprozesses greifen auf diese Datenbasis zu, ebenso wie auch ERP und andere Softwaresysteme. Mehrfache Datenpflege ist nicht notwendig.</p>"
+    },
+    {
+     "x": 44.606,
+     "y": 12.607,
+     "label": "TMS Tool Management Solutions Software",
+     "text": "<h3>TMS Tool Management Solutions Software</h3> <h4>TMS Tool Management Solutions Software</h4> <p>Die TMS Tool Management Solutions Software wird perfekt in den Gesamtprozess integriert und bietet alles für ein effizientes Toolmanagement. Diese Softwarelösung kann mit CAM-, ERP- und anderen Systemen vernetzt werden.</p>"
+    },
+    {
+     "x": 64.449,
+     "y": 28.152,
+     "label": "Effiziente Produktion",
+     "text": "<h3>Effiziente Produktion</h3> <h4>Effiziente Produktion</h4> <p>Alle Werkzeugdaten des Werkzeughalters mit integrierter ZOLLER »idChip«-Technologie werden durch »zidCode 4.0« zur Maschine übertragen. Der Scanvorgang an der Steuerungs­einheit »zidCode 4.0« sorgt für schnellen, einfachen und fehlerfreien Datentransfer.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c957",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/1/csm_teaser_kontakt_e9808d5a35.webp",
+    "alt": ""
+   },
+   "text": "<h3>Kontakt aufnehmen</h3> <p><a class=\"btn\" href=\"/unternehmen/kontakt/ansprechpartner\">Ansprechpartner finden</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c781",
+   "bg": "",
+   "space": {}
+  }
+ ]
+}

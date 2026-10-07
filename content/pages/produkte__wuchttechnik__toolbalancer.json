@@ -1,0 +1,720 @@
+{
+ "path": "/produkte/wuchttechnik/toolbalancer",
+ "url": "/produkte/wuchttechnik/toolbalancer",
+ "title": "»toolBalancer«",
+ "description": "»toolBalancer« - Das Auswuchtsystem mit modernster Technologie und ergonomischem Design - Werkzeuge wuchten",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Wuchttechnik /",
+   "href": "/produkte/wuchttechnik"
+  },
+  {
+   "label": "»toolBalancer«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Wuchttechnik /",
+   "href": "/produkte/wuchttechnik"
+  },
+  {
+   "label": "»toolBalancer«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/wuchttechnik/toolbalancer/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/wuchttechnik/toolbalancer/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/wuchttechnik/toolbalancer/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/wuchttechnik/toolbalancer/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1087",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»toolBalancer«",
+   "text": "<p>Das Auswuchtsystem mit modernster Technologie <br/>und ergonomischem Design</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_ab04491c9e.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1086",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wir stehen für smarten Fortschritt </h2>",
+   "body": "<p>Mit optimal und hochpräzise gewuchteten Werkzeugen erreichen Sie höhere Werkzeugstandzeiten, eine längere Spindellaufzeit und eine bessere Oberflächengüte Ihrer Bauteile. Mit »toolBalancer« bringen Sie nicht nur Ihre Werkzeuge, sondern Ihre gesamte Fertigung in die perfekte Balance aus Nachhaltigkeit, Effizienz und Fortschritt.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\"><strong>Jetzt anfragen</strong></a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1085",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/7/f/csm_toolBalancer_Frank_Hartstein2_123681c0f9.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Die einzigartige Balance aus Funktionalität und Ergonomie für exakte Messergebnisse: Das ist Präzision und zertifizierte Sicherheit für Ihre Fertigung.</p> <p><strong>Frank Hartstein, Teil des Teams Produktentwicklung »toolBalancer«</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_toolBalancer_Christoph_Zoller2_490ea1f2a5.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Wir, das Technologie-Unternehmen ZOLLER, fokussierten unsere Erfahrungen und Kompetenzen für diese Produkt-Neuentwicklung, setzen damit einen weiteren Meilenstein und komplettieren das ZOLLER-Produktportfolio. Typisch ZOLLER: Alles aus einer Hand.</p> <p><strong>Christoph Zoller, Geschäftsführer</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_toolBalancer_Alexander_Zoller2_7bc76f629f.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Die perfekte Kombination aus Design, Ergonomie und technologischer Intelligenz. Die ZOLLER-Lösung mit zertifizierter Sicherheit für eine ressourcenschonende Anwendung in Ihrer Fertigung.</p> <p><strong>Alexander Zoller, Geschäftsführer</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c1073",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "TÜV- und UL/CSA-geprüft ",
+    "500 kg massive Basis ",
+    "Beste Wuchtergebnisse: &lt; 0,4 gmm"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1074",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Das High-Performance Zusammenspiel </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/0/0/csm_toolBalancer_Infodots_19598a8bff.webp",
+    "alt": "",
+    "w": 1192,
+    "h": 1172
+   },
+   "spots": [
+    {
+     "x": 18.424,
+     "y": 44.444,
+     "label": "Sicherheitshaube »twinPanel«",
+     "text": "<h3>Sicherheitshaube »twinPanel«</h3> <h4>Sicherheitshaube »twinPanel«</h4> <p>Entspricht der DIN ISO 21940-23 Klasse C60 für maximale Sicherheit.</p> <p>Die innenliegende „Opferscheibe“ nimmt Schmutz durch z. B. Reste von Kühlschmierstoffen und Beschädigungen durch Bauteilablösung auf. Damit wird der sehr wichtige und häufig nicht beachtete Prozess der Schutzscheibenalterung, der durch den täglichen Gebrauch entsteht, berücksichtigt. Durch einen schnellen und kostengünstigen Wechsel der Opferscheibe wird durch das ZOLLER »twinPanel« die Sicherheit Ihrer Bedienerinnen und Bediener dauerhaft garantiert.</p>"
+    },
+    {
+     "x": 36.522,
+     "y": 51.575,
+     "label": "Hochgenauigkeitsspindel",
+     "text": "<h3>Hochgenauigkeitsspindel</h3> <h4>Hochgenauigkeits­spindel</h4> <p>Nimmt mit einem entsprechenden Wuchtadapter nahezu jede Werkzeugaufnahme auf. Die Spindel dreht das Werkzeug abhängig vom Gewicht mit einer variabel einstellbaren Drehzahl von 400 bis max. 1200 Umdrehungen pro Minute und misst die Unwucht mit einer Genauigkeit von &lt; 0,4 gmm.</p> <p>Bei der Konstruktion der Hochgenauigkeitsspindel legte ZOLLER einen besonderen Fokus auf den sicheren und zertifizierten Adapter-Wechselprozess. Durch ein besonderes Designelement werden Unfälle und Beschädigungen durch in der Spindel nicht verschraubte Wuchtadapter vermieden.</p>"
+    },
+    {
+     "x": 50.707,
+     "y": 67.496,
+     "label": "Adapter-Ablagefach",
+     "text": "<h3>Adapter-Ablagefach</h3> <h4>Adapter-Ablagefach mit schwenkbarer Frontklappe</h4> <p>Drei Ablageplätze für einen ergonomischen, rückenschonenden und schnellen Adapterwechsel ohne Kniebeugen.</p>"
+    },
+    {
+     "x": 33.424,
+     "y": 88.834,
+     "label": "Gabelaussparung",
+     "text": "<h3>Gabelaussparung</h3> <h4>Gabelaussparung</h4> <p>Für eine flexible Aufstellung und einfachen Transport des »toolBalancer« in Ihrer Fertigung mithilfe eines Hubwagens.</p>"
+    },
+    {
+     "x": 73.859,
+     "y": 31.896,
+     "label": "ZOLLER-Bediensoftware",
+     "text": "<h3>ZOLLER-Bediensoftware</h3> <h4>Einfache ZOLLER-Bediensoftware</h4> <p>Die strukturierte, grafische Darstellung leitet die Bedienerin und den Bediener intuitiv durch den Mess- und Wuchtablauf. </p> <p>Das Einrichten der Maschine erfolgt durch die Eingabe der Werkzeug-Geometriedaten. Alle Daten werden in der Datenbank gespeichert und stehen auch zu einem späteren Zeitpunkt wieder zur Verfügung.</p>"
+    },
+    {
+     "x": 73.75,
+     "y": 50.249,
+     "label": "Bedieneinheit »cockpit«",
+     "text": "<h3>Bedieneinheit »cockpit«</h3> <h4>Separate Bedieneinheit »cockpit«</h4> <p>Ist in Höhe und Position sowie der Monitor in der Neigung verstellbar, lässt sich einfach auf die gewünschte Position verschieben und gestaltet so das Bedienen der Software maximal komfortabel. </p> <p>Neben der Touch-Bedienung bietet das »cockpit« die Eingabemöglichkeit per Maus und Tastatur sowie Ablagen für Etiketten- und Laserdrucker, Hand-Scanner und Werkzeuge wie z. B. Inbus-Schlüssel.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1084",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Sicher und schnell zum Ziel </h2>",
+      "body": "<p><strong>»toolBalancer« macht das Werkzeugwuchten besonders einfach: dank ergonomisch designter Sicherheitshaube »twinPanel«, komfortabler Folientastatur, Ablagefach für Wuchtadapter und Ablagen im großen Arbeitsraum.</strong></p> <p>Die ZOLLER-Bediensoftware mit der strukturierten grafischen Darstellung leitet die Bedienerin und den Bediener intuitiv durch den Mess- und Wuchtablauf. Über entsprechende Software-Optionen stehen alle Wuchtapplikationen auf 1 bis 2 Wuchtebenen zur Anwendung zur Verfügung, wie Festortausgleich mit Wuchtschrauben oder der Einsatz von Wuchtringen oder Wuchten durch Materialabtrag wie Bohren oder Fräsen.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c1297",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/1/csm_folientastatur_03_510bc9a335.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Haube öffnen, Spannung lösen,<br/>Werkzeug um 180° drehen und spannen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/c/f/csm_folientastatur_05_839802995b.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Haube öffnen,<br/>Unwucht korrigieren (z. B. durch Wuchtschrauben)</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/b/b/csm_folientastatur_01_c9cb39b29d.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Haube öffnen,<br/>Werkzeug einsetzen und spannen</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/2/8/csm_folientastatur_02_74fa69e935.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Haube schließen und Lauf 1 starten</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/9/c/csm_folientastatur_04_67b73aa1b5.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Haube schließen und Lauf 2 starten</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/0/8/csm_folientastatur_06_8de63acc7e.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Haube schließen und Kontrolllauf starten, <br/>Messergebnis Kontrolllauf</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c1299",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1296",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Unsere Adapter, zuverlässig und genau </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1081",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Die Auswahl der hochpräzisen ZOLLER-Wuchtadapter mit ihrer einzigartigen Konstruktion erlauben Ihnen das kraftbetätigte und vor allem sichere Spannen von SK-, HSK- und Polygonschaftkegel-Aufnahmen in bisher unerreichter Wiederholpräzision.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1082",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1080",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "",
+   "cols": 3,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/6/csm_toolBalancer_adapter_01_ee95cc4a5f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 429
+     },
+     "label": "SK-Adapter SK 30/40/50",
+     "img": null,
+     "text": "<h4>SK-Adapter – SK 30/40/50</h4><ul><li>Pneumatische Werkzeugspannung <br/>mit Kraftfederpaket</li><li>Hohe Reproduzierbarkeit und Wiederholgenauigkeit</li><li>Zentrierbolzen mit Auswerfer<br/>zum einfachen Wechsel der Werkzeugaufnahme</li><li>Maximale Wiederholpräzision<br/>dank radial und axial spielfreier<br/>Aufnahme der Werkzeugaufnahmen</li><li>5-Punkt-Anlage zur spielfreien<br/>Aufnahme des Steilkegels</li><li>Zertifizierte Sicherheit beim Adapterwechsel</li><li>Wuchten von SK-Aufnahmen<br/>ohne Anzugbolzen möglich</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/e/csm_toolBalancer_adapter_02_5df06a81c6.webp",
+      "alt": "",
+      "w": 680,
+      "h": 429
+     },
+     "label": "HSK-Adapter HSK 32/40/50/63/80/100 (A/C/E-B/D/F)",
+     "img": null,
+     "text": "<h4>HSK-Adapter – HSK 32/40/50/63/80/100 (A/C/E-B/D/F)</h4><ul><li>Pneumatische Werkzeugspannung <br/>mit Kraftfederpaket</li><li>Hohe Reproduzierbarkeit und Wiederholgenauigkeit</li><li>Zentrierbolzen mit Auswerfer<br/>zum einfachen Wechsel der Werkzeugaufnahme</li><li>Maximale Wiederholpräzision<br/>dank radial und axial spielfreier<br/>Aufnahme der Werkzeugaufnahmen</li><li>Zertifizierte Sicherheit beim Adapterwechsel</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/c/csm_toolBalancer_adapter_03_f66ff0170c.webp",
+      "alt": "",
+      "w": 680,
+      "h": 429
+     },
+     "label": "Polygonschaftskegel-Adapter C 32/40/50/63/80",
+     "img": null,
+     "text": "<h4>Polygonschaftskegel-Adapter – C 32/40/50/63/80</h4><ul><li>Pneumatische Werkzeugspannung <br/>mit Kraftfederpaket</li><li>Hohe Reproduzierbarkeit und Wiederholgenauigkeit</li><li>Zentrierbolzen mit Auswerfer<br/>zum einfachen Wechsel der Werkzeugaufnahme</li><li>Maximale Wiederholpräzision<br/>dank radial und axial spielfreier<br/>Aufnahme der Werkzeugaufnahmen</li><li>Zertifizierte Sicherheit beim Adapterwechsel</li></ul>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c1079",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>Weitere Adapter auf Anfrage.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Kontakt aufnehmen</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c1083",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Aus der Mitte zur höchsten Präzision </h2>",
+   "body": "<p>Eine Unwucht an Werkzeugen entsteht durch eine asymmetrische Bauweise und der damit einhergehenden asymmetrischen Massenverteilung. Der ZOLLER »toolBalancer« löst Gleiches mit Gleichem und setzt bei der Vermessung und Auswuchtung Ihrer Werkzeuge auf einen bewussten Mittenversatz im Wuchtadapter.</p> <p>Der Wuchtadapter mit Mittenversatz ist mit einer Zweipunktanlage und einem Druckstück konstruiert. Diese führen zu einem großen und besser messbaren Sensorsignal und garantieren, besonders bei hoher Wuchtgüte und kleiner Unwucht, hochpräzise Wuchtergebnisse.</p> <p><a class=\"btn\" href=\"#c3622\">Mehr erfahren</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/4/csm_toolBalancer_spindel_geometrie_v5_4a286074bb.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1076",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": null,
+   "title": "",
+   "text": "<h4>Mittenversatz</h4> <p>Durch eine definierte Verschiebung der Werkzeugaufnahme durch das Druckstück in Richtung der Anlageflächen entsteht der Mittenversatz für eine hohe Reproduzierbarkeit der Ergebnisse.</p> <h4>Festpunktanlage</h4> <p>Für eine hohe Reproduzierbarkeit: An den Anlageflächen des Wuchtadapters liegen die Werkzeugaufnahmen fest an.</p> <h4>Druckstück</h4> <p>Das Druckstück drückt den Kegel der Werkzeugaufnahmen spielfrei gegen die Anlageflächen des Wuchtadapters.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3622",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wuchten bedeutet Ruhe für Werkzeuge </h2>",
+   "body": "<p>Wenn rotierende Werkzeuge nicht rund laufen, entstehen Schwingungen. Diese können schon bei geringen Drehzahlen zu höherem Werkzeugverschleiß, Qualitätseinbußen an Oberflächen und Zusatzbelastungen an den Maschinenspindeln führen. Lassen Sie Ihre Werkzeuge deshalb regelmäßig Station an einem Wuchtgerät von ZOLLER machen. </p> <p>Erfahren Sie mehr über die Vorteile der ZOLLER Solution Wuchten. </p> <p><a class=\"btn\" href=\"/solutions/wuchttechnik\">Mehr über Wuchttechnik</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/b/csm_zoller_weltweit_435e0ebe70.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 2094
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1075",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»toolBalancer 550«</h4> <p>Treffen Sie Ihre Wahl einfach und übersichtlich oder sprechen Sie uns an! Maximaler Werkzeugdurchmesser: 480 mm, maximale Werkzeuglänge: 550 mm</p> <p><a class=\"btn\" href=\"/produkte/wuchttechnik/toolbalancer\">Jetzt anfragen</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/b/5/csm_cta_toolBalancer550_c1c83e688d.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622,
+        "href": "/unternehmen/kontakt"
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4129",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»toolBalancer 750«</h4> <p>Treffen Sie Ihre Wahl einfach und übersichtlich oder sprechen Sie uns an! Maximaler Werkzeugdurchmesser: 480 mm, maximale Werkzeuglänge: 750 mm</p> <p><a class=\"btn\" href=\"/produkte/wuchttechnik/toolbalancer\">Jetzt anfragen</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/b/3/csm_cta_toolBalancer750_ac2cdc46af.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622,
+        "href": "/unternehmen/kontakt"
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4130",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4128",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Expertengespräch</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Jetzt Termin vereinbaren</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ]
+}

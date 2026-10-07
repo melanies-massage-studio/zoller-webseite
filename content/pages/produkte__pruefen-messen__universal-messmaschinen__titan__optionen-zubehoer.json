@@ -1,0 +1,591 @@
+{
+ "path": "/produkte/pruefen-messen/universal-messmaschinen/titan/optionen-zubehoer",
+ "url": "/produkte/pruefen-messen/universal-messmaschinen/titan/optionen-zubehoer",
+ "title": "»titan« – Optionen & Zubehör",
+ "description": "Optionen & Zubehör - »titan« – Optionen & Zubehör",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Prüfen & Messen /",
+   "href": "/produkte/pruefen-messen"
+  },
+  {
+   "label": "Universal-Messmaschinen /",
+   "href": "/produkte/pruefen-messen/universal-messmaschinen"
+  },
+  {
+   "label": "»titan« /",
+   "href": "/produkte/pruefen-messen/universal-messmaschinen/titan"
+  },
+  {
+   "label": "Optionen & Zubehör",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Prüfen & Messen /",
+   "href": "/produkte/pruefen-messen"
+  },
+  {
+   "label": "Universal-Messmaschinen /",
+   "href": "/produkte/pruefen-messen/universal-messmaschinen"
+  },
+  {
+   "label": "»titan« /",
+   "href": "/produkte/pruefen-messen/universal-messmaschinen/titan"
+  },
+  {
+   "label": "Optionen & Zubehör",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen/universal-messmaschinen/titan/optionen-zubehoer",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring/universal-measuring-machines/titan/options-accessories",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/titan/opciones-y-accesorios",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer/machine-de-mesure-universelle/titan/options-et-accessoires",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao/maquina-de-medicao-universal/titan/opcoes-e-acessorios",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione/macchine-di-misura-universali/titan/opzioni-e-accessori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta/universella-maetmaskiner/titan/tillval-tillbehoer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen/universal-messmaschinen/titan/optionen-zubehoer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring/universal-measuring-machines/titanium/options-accessories",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/titane/options-et-accessoires",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E6%B1%8E%E7%94%A8%E6%B8%AC%E5%AE%9A%E6%A9%9F/titan/%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/titan/%EC%98%B5%EC%85%98-%EB%B0%8F-%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring/universal-measuring-machines/titan/options-accessories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/titan/opciones-y-accesorios",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao/maquinas-de-medicao-universais/titan/opcoes-e-acessorios",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»titan«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/titan",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/titan/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/titan/software-integration",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/titan/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/titan/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/titan/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/pruefen-messen/universal-messmaschinen/titan/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1558",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Optionen &amp;<br/>Zubehör </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1539",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Automatische Schiebetür",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Vor dem Start des Messvorgangs kann die Schiebetür der Messmaschine bequem und einfach über die Software automatisch pneumatisch geschlossen und nach Beendigung des Messvorgangs wieder geöffnet werden.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/9/9/csm_option_schiebetuer_a5040531ed.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1554",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "»orthoScan«",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Der schwenkbare Multisensor-Optikträger »orthoScan« findet immer den perfekten Blickwinkel auf das Werkzeug. So können an steigungsbehafteten Werkzeugen wie Gewindebohrer oder Wälzfräser die Schneidengeometrien verzerrungsfrei vermessen werden.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/1/csm_option_orthoScan_26dac9eafc.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1552",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Reitstock-Gegenspitze",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Mit einem Spannbereich von 300 mm zur Aufnahme von Werkzeugen zwischen Spitzen und zum Messen ausschließlich im Rachenlehrenprinzip. Der Reitstock ist abnehmbar und mit einer hochpräzisen Hirth-Verzahnung als Wechselschnittstelle ausgestattet.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/8/a/csm_option_reitstock_5c3f865d44.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2378",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Scannender Messtaster",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zur elektronischen taktilen Messung beispielsweise des Flankenhinterschliffs an Gewindebohrern. Lieferbar mit Tasteinsätzen von D 0,3 mm bis D 2 mm.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/5/csm_option_messtaster_d8462cdf46.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1550",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Mess- und Prüfmittel",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zur periodischen Überprüfung der Messmaschine vor Ort und zum Nachweis der Genauigkeiten von Durch- und Auflichtmessungen bietet ZOLLER für Ihre Messmaschine entsprechende Mess- und Prüfmittel wie beispielsweise Kontrolldorne, Durchmesser- und Winkelprüflehren.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/9/9/csm_option_messmittel_39f8b82e8f.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1548",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Sicherheitspaket",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Wichtige Bedienelemente sind an der Vorderseite der Messmaschine angebracht. So haben Sie stets einen uneingeschränkten Zugriff auf den Not-Halt-Schalter, den Reset-Taster, die Folientastatur und die Taste zum Start von Messvorgängen.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/3/2/csm_option_sicherheitspaket_b2fa328696.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1546",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Sicherheitspaket",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Wichtige Bedienelemente sind an der Vorderseite der Messmaschine angebracht. So haben Sie stets einen uneingeschränkten Zugriff auf den Not-Halt-Schalter, den Reset-Taster, die Folientastatur und die Taste zum Start von Messvorgängen.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/d/csm_option_sicherheitspaket_95153e17e4.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1544",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Manuelle RFID-Schreib-/Lesestation »mslz«",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Für manuelles Schreiben/Lesen des Codeträgers an der Werkzeug­aufnahme über einen Handleser.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/f/csm_option_rfid_34dfe1d75c.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1542",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "USV-Anlage",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Mit der USV-Anlage zur unterbrechungsfreien Stromversorgung wird bei Störungen im Stromnetz sichergestellt, dass Ihr Rechner ordnungsgemäß heruntergefahren wird, um Datenverlust zu vermeiden. Netzspannungen von 230 V~ (Europa) bzw. 120 V~ (USA) sind verfügbar.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/2/csm_option_usv_4c4cb5d571.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1540",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1556",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1557",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Prüfen & Messen: Ihre Vorteile",
+     "href": "/solutions/pruefen-messen",
+     "caption": "<figcaption> <h3>Prüfen &amp; Messen: Ihre Vorteile</h3> <p>Erfahren Sie, was mit ZOLLER bei Werkzeuginspektionen möglich ist. Prozessnahe Prüfungen oder Highend-Analysen bis hin zu SKP, Rauheit und dem Erstellen digitaler Zwillinge.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

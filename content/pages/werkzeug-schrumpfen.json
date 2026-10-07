@@ -1,0 +1,383 @@
+{
+ "path": "/werkzeug-schrumpfen",
+ "url": "/werkzeug-schrumpfen",
+ "title": "Werkzeug schrumpfen",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Werkzeug schrumpfen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Werkzeug schrumpfen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-schrumpfen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-shrinkage",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/contraer-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fretter-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/retrair-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/calettare-lutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/krympning-av-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-schrumpfen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/retrecissement-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%8E%E7%B8%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EC%B6%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/shrink-tool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/contraer-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/retrair-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/1/b/csm_shrinking_header_4f2b52f126.webp",
+     "video": null,
+     "title": "Schneller Werkzeugwechsel mit Schrumpfgerät",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4381",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>Mit einem guten Schrumpfgerät lässt sich der Werkzeugwechsel mit verschiedenen Aufnahmehaltern schnell, einfach und zuverlässig durchführen. Wie das funktioniert und welche Vorteile es bringt, beschreiben wir hier genauer.</strong></h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4035",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Was passiert beim Werkzeugschrumpfen?</h4> <p>Das Werkzeug zu schrumpfen bedeutet nicht, dass die Größe des Werkzeugs selbst reduziert wird. Stattdessen wird die Werkzeugaufnahme, in die z.B. ein Bohr- oder Zerspanungswerkzeug eingeführt wird, kurzzeitig, gezielt und gleichmäßig so erhitzt, dass sie sich ausdehnt.</p> <p>Dadurch entsteht in der Werkzeugaufnahme genug Platz, um das Werkzeug einzusetzen. Beim Abkühlen zieht sich das Material der Aufnahme wieder gleichmäßig von allen Seiten zusammen. So wird das Werkzeug mit hoher Steifigkeit, maximaler Spannkraft und zentriert eingespannt.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4388",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Wozu werden spezielle Schrumpffutter benötigt?</h4> <p>Für das Schrumpfen werden meist spezielle Werkzeugaufnahmen verwendet, die Schrumpffutter. Sie sind speziell darauf ausgelegt sind, trotz wiederholter Erhitzung und Abkühlung ihre Form zu behalten. Zum Beispiel enthalten sie keine beweglichen Teile, so dass ihre Wuchtgüte erhalten bleibt; wichtig ist zudem, dass auch die Rundlaufgenauigkeit des Schrumpffutters sehr hoch ist, denn sonst hilft auch ein sehr präzise zentriertes Werkzeug nichts.</p> <p>Gegenüber herkömmlichen Spannfuttern haben die Schrumpffutter den kleinen Nachteil, dass für jeden Schaftdurchmesser ein eigenes Futter mit jeweils passendem Durchmesser benötigt wird. Dem steht allerdings die wesentlich höhere Rundlaufgenauigkeit gegenüber, die für qualitativ hochwertig bearbeitete Werkstücke von großer Bedeutung ist.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4387",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Was ist ein Schrumpfgerät, und wie funktioniert es?</h4> <p>Eine Schrumpfmaschine erhitzt das Schrumpffutter, die Werkzeugaufnahme, durch induktiven Strom (also über ein Magnetfeld) in kurzer Zeit gleichmäßig. Mit den geeigneten Hilfsmitteln und Messvorrichtungen wird dann nicht nur dafür gesorgt, dass das neue Werkzeug präzise zentriert eingesetzt wird, es kann auch für geeignete Längengenauigkeit sorgen und diese vor der kontrollierten Abkühlung des Schrumpffutters messen und ggf. korrigieren. Entsprechende Sensoren verhindern auch ein Überhitzen des Schrumpffutters oder des Werkzeugs.</p> <p>Automatisierte Schrumpftechnik sorgt so zum Beispiel dafür, dass die Auskraglänge und alle weiteren Parameter, die für die Bearbeitung der Werkstücke wichtig sind, automatisiert gemessen und korrekt eingestellt werden – und das Werkzeug dennoch innerhalb von kürzester Zeit wieder zur Verfügung steht. Das sorgt für kurze Rüstzeiten und insgesamt für geringere Kosten.</p> <p>Gute Schrumpfgeräte bringen zudem eine eigene Kühleinheit mit, in der das Schrumpffutter gleichmäßig abgekühlt wird. Dabei wird z.B. Kontaktkühlung verwendet, manche Geräte arbeiten auch mit Wasserkühlung. Durch die entsprechend gesicherte Kühlung wird auch die Gefahr von Verbrennungen gebannt, die natürlich bei versehentlichem Berühren der erhitzten Werkzeugaufnahme möglich wären.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4382",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Einstellen, Schrumpfen und Messen – die vollautomatische Kombilösung </h2>",
+   "body": "<p>Mit ZOLLER »redomatic« geht das Schrumpfen ihrer Werkzeuge entspannt und vollautomatisch von der Hand. Unser Multitalent fürs Einstellen, Schrumpfen und Messen von Werkzeugen – alle Vorgänge werden dabei in einem gemeinsamen Ablauf auch automatisiert abgearbeitet – bringt 4-Achsen-CNC-Steuerung, Autofokus, Werkzeugrevolver, Induktionsspule, Reitstock und Kühlsystem mit.</p> <h4><br/>Sicher, sparsam und präzise</h4> <p>Mit der patentierten Längenanschlagautomatik »asza« bietet es insbesondere die Möglichkeit, Werkzeuge einfach, schnell und genau auf mindestens +/- 10 µm Genauigkeit auf Solllänge einzuschrumpfen.</p> <p>ZOLLER »redomatic« führt beim Erwärmen der Werkzeugfutter nur so viel Energie zu, wie unbedingt nötig, und schont dadurch auch Ihre Futter; das von uns konzipierte Schrumpfleitsystem und die patentierte Rauchgasabsaugung sorgen für größere Sicherheit für Ihre Mitarbeiter.</p> <p><a class=\"btn\" href=\"/solutions/schrumpftechnik\">Erfahren Sie hier alles zu unserer erfolgreichen Schrumpflösung</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4040",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Welche Vorteile hat das Einschrumpfen und Ausschrumpfen? </h2>",
+   "body": "<p>Das Einschrumpfen und Ausschrumpfen von Werkzeugen hat eine Reihe von Vorteilen:</p><ul><li>Eine Zentrierung des Werkzeugs ist bereits vor dem Schrumpfen möglich, das verhindert Verkanten und sorgt für hohe Rundlaufgenauigkeit.</li><li>Das Werkzeug wird im Schrumpffutter durch hohe Spannkräfte gleichmäßig gehalten.</li><li>Spezialisierte Futter bringen hohe Wuchtgüte mit und verformen sich auch nach zahlreichen Schrumpfvorgängen nicht.</li><li>Mit einem hochwertigen Schrumpfgerät und einer geeigneten Schrumpfaufnahme dauern der Heizvorgang und die Abkühlung weniger als eine Minute.</li><li>Für hohe Drehzahlen und Werkzeuge mit hoher Auskraglänge erlaubt kein anderes Spannverfahren ähnlich präzise Werkzeugnutzung.</li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4039",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Alles an einem Ort</h3> <p>Mit unserer Schrumpfstation ZOLLER »powerShrink« haben Sie alles an einem Platz, was Sie für einen zügigen Schrumpfvorgang benötigen. Durch ihren modularen Aufbau können Sie den Arbeitsplatz leicht an Ihre Bedürfnisse und Anforderungen anpassen.</p> <p>Die Station ist universell für alle HSS- und Hartmetallwerkzeuge von 3 bis 32 mm Durchmesser einsetzbar und ist auch für extrem lange Werkzeuge geeignet.</p> <p><a class=\"btn\" href=\"/produkte/schrumpftechnik/powershrink\">Erfahren Sie mehr zu ZOLLER »powerShrink« Schrumpfstation</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c4038",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4036",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Schrumpftechnik: Ihre Vorteile",
+     "href": "/solutions/schrumpftechnik",
+     "caption": "<figcaption> <h3>Schrumpftechnik: Ihre Vorteile</h3> <p>Lesen Sie, wie wir die hohen Steigerungen bei Energieeffizienz, Prozessgeschwindigkeit und Ergonomie erzielt haben. Nutzen Sie Perfektion für Ihre Fertigung. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

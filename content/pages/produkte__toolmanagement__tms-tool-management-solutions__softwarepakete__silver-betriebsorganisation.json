@@ -1,0 +1,451 @@
+{
+ "path": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/silver-betriebsorganisation",
+ "url": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/silver-betriebsorganisation",
+ "title": "SILVER Betriebsorganisation",
+ "description": "SILVER Betriebsorganisation",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "SILVER Betriebsorganisation",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "SILVER Betriebsorganisation",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/silver-betriebsorganisation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tms-tool-management-solutions/software-packages/silver-operational-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/organizacion-operativa-silver",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/silver-organisation-operationnelle",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/organizacao-operacional-silver",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/tms-tool-management-solutions/pacchetti-software/silver-organizzazione-aziendale",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/tms-verktygshanteringsloesningar/programvarupaket/silver-verksamhetsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/silver-betriebsorganisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tms-tool-management-solutions/software-packages/silver-company-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/silver-organisation-de-lentreprise",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/tms-%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8/silver-%E9%81%8B%E5%96%B6%E4%BD%93%E5%88%B6",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/tms-%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%80/silver-%EC%9A%B4%EC%98%81-%EC%A1%B0%EC%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tms-tool-management-solutions/software-packages/silver-company-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/organizacion-operativa-de-silver",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/organizacao-operacional-silver",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "STARTER Lagerverwaltung",
+     "href": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/starter-lagerverwaltung",
+     "current": false
+    },
+    {
+     "label": "BRONZE CAD/CAM-Modul",
+     "href": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/bronze-cad-cam-modul",
+     "current": false
+    },
+    {
+     "label": "SILVER Betriebsorganisation",
+     "href": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/silver-betriebsorganisation",
+     "current": false
+    },
+    {
+     "label": "GOLD Shopfloormanagement",
+     "href": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/gold-shopfloormanagement",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3807",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> SILVER: Umfassende Verwaltung des Werkzeuglagers </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3817",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Mit dem SILVER-Paket von ZOLLER starten Sie in die effiziente Verwaltung des gesamten Werkzeuglagers. Sie wissen jederzeit, was sich wo befindet, wie groß der Bestand ist und können die Zahlen zu den Werkzeugkosten einfach abrufen. Mit dem SILVER-Paket verwalten Sie zusätzlich zu Werkzeugen und Komponenten auch alle Betriebsmittel wie zum Beispiel Messmittel, Vorrichtungen und NC-Programme. </p><ul><li>Systematische Verwaltung von Einzelkomponenten und Komplettwerkzeugen</li><li>Integrierte Umlaufkontrolle aller vorhandenen Werkzeuge</li><li>Hit-Flop-Liste – für eine optimale Bestandsregulierung</li><li>Werkzeugüberwachung – zur Qualitätskontrolle und Verschleißanalyse</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3818",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3816",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h3> Softwaremodule SILVER-Paket </h3>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_silver_1_ba5aa3ce22.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Lagerschnittstellen Direkte Anbindung an verschiedene Lagersysteme",
+     "img": {
+      "src": "/fileadmin/_processed_/9/7/csm_silver_1_ba5aa3ce22.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Lagerschnittstellen</h4> <p>Das SILVER Paket beinhaltet Schnittstellen zu den ZOLLER Smart Cabinets und auch Werkzeugschränken von Fremdanbietern. Mit diesen Schnittstellen können die verschiedenen Systeme direkt aus den TMS Tool Management Solutions angesteuert werden.</p> <p><strong>Schnittstellen:</strong></p><ul><li>»toolOrganizer«</li><li>»keeper«</li><li>»twister«</li><li>Fremdanbieter wie BCS Bamberger, Bedrunka+Hirth, Achterberg Toolbase, Gühring-Schranksysteme, Hänel, Kardex, Klingeisen, Lista LEC, Modula, StoretecStoreManager</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/f/csm_lagerplaetze_2a89227d89.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Lagerortverwaltung Komplettwerkzeuge, Werkzeugkomponenten und Zubehör immer im Blick",
+     "img": {
+      "src": "/fileadmin/_processed_/7/f/csm_lagerplaetze_2a89227d89.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Lagerortverwaltung</h4> <p>Mit dem Modul Lagerortverwaltung haben Sie Ihre Komplettwerkzeuge, Ihre Werkzeugkomponenten und Ihr Zubehör immer im Blick. Die Lagerortverwaltung enthält einen virtuellen 3D-Bausatz, mit dem Sie Ihr Lager schnell und einfach dreidimensional abbilden und die Artikel einem virtuellen Lagerplatz zuordnen können. Jeder angelegte Artikel kann bestandsmäßig verwaltet werden, damit Sie einen schnellen Überblick über den Lagerort, den Umlauf und den aktuellen Bestand erhalten. Externe Lager- und Liftsysteme können selbstverständlich über Schnittstellen angesprochen werden.</p> <p><strong>Features:</strong></p><ul><li>Schneller Lagerüberblick</li><li>Zeitersparnis durch Wegfall der Suche und kürzere Wege</li><li>24h Werkzeugverfügbarkeit</li><li>Reduktion der Werkzeugkosten</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/1/csm_silver_4_eff1636860.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Lagermodul »quickPick« Einfaches und schnelles Ein- und Auslagern von Einzelkomponenten, Komplettwerkzeugen, Prüfmitteln, Vorrichtungen, Aufträgen und Zubehör",
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_silver_4_eff1636860.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Lagermodul <strong>»quickPick«</strong></h4> <p>Das Lagermodul »quickPick« überzeugt durch seine reduzierte Benutzeroberfläche für die einfache und schnelle Handhabung von Einzelkomponenten, Komplettwerkzeugen, Prüfmitteln, Vorrichtungen, Aufträgen und Zubehör. Mit nur wenigen Klicks können Lagerbuchungen durchgeführt werden. Externe Lager- und Liftsysteme können selbstverständlich über Schnittstellen angesprochen werden.</p> <p><strong>Features:</strong></p><ul><li>Bestandsmäßige Verwaltung aller Betriebsmittel</li><li>Einfachste Handhabung, kein Schulungsaufwand</li><li>Reduktion der Suchzeiten</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/c/csm_silver_5_8483d50b06.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Prüfmittel­verwaltung Dieses Modul verwaltet all Ihre Mess- und Prüfmittel zum Einrichteblatt und überwacht Kalibrierungsintervalle",
+     "img": {
+      "src": "/fileadmin/_processed_/4/c/csm_silver_5_8483d50b06.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Prüfmittel­verwaltung</h4> <p>Dieses Modul verwaltet all Ihre Mess- und Prüfmittel zum Einrichteblatt und überwacht Kalibrierungsintervalle. Prüfprotokolle werden durch aussagekräftige Grafiken ergänzt und verbessern die Kontrolle der Messmittel. Die Protokolle können nach Belieben zum Messmittel gespeichert werden. In Kombination mit der Lagerverwaltung können den Messmitteln Lagerplätze zugeordnet und grafisch verwaltet werden.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/0/1/csm_silver_6_2328d40603.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Vorrichtungs­verwaltung Zeitgemäßen Verwaltung Ihrer Vorrichtungen zum Einrichteblatt",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_silver_6_2328d40603.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Vorrichtungs­verwaltung</h4> <p>Dieses Modul dient der zeitgemäßen Verwaltung Ihrer Vorrichtungen zum Einrichteblatt und hinterlegt Bildinformationen sowie Rüstanweisungen. Vorrichtungsvarianten werden als Stücklisteninformation verwaltet. In Kombination mit der Lagerverwaltung können den Vorrichtungen Lagerplätze zugeordnet und grafisch verwaltet werden.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/a/f/csm_NCverwaltung_24d6554561.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "NC-Programm­verwaltung Einfache Verwaltung Ihrer NC-Programme",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_NCverwaltung_24d6554561.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>NC-Programm­verwaltung</h4> <p>Dieses Modul dient der einfachen Verwaltung Ihrer NC-Programme in der ZOLLER Datenbank zum Einrichteblatt und bietet die Option, verschiedene Programmversionen zu hinterlegen (Versionsverwaltung). Zum NC-Programm können Informationen wie Aufspannskizze, Werkstückzeichnung und das Volumenmodell hinterlegt werden. In die NC-Programmverwaltung ist ein Standard Viewer integriert. Weitere Option: Einbindung eines externen Viewers.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/6/csm_Statistik_eaac7ff788.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Artikelstatistik Ermöglicht einen Überblick über die aktuelle Kostensituation Ihres Werkzeugwesens",
+     "img": {
+      "src": "/fileadmin/_processed_/c/6/csm_Statistik_eaac7ff788.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Artikelstatistik</h4> <p>Eine Analyse Ihrer Werkzeugbewegungen und somit Transparenz in der Fertigung ist die Voraussetzung, um Optimierungspotentiale auszuschöpfen. ZOLLER ermöglicht mit der Artikelstatistik einen Überblick über die aktuelle Kostensituation Ihres Werkzeugwesens sowie die Verteilung Ihres Verbrauchs an den einzelnen Kostenstellen.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c3824",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a> Paketvergleich</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3827",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

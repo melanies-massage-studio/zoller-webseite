@@ -1,0 +1,496 @@
+{
+ "path": "/startseite",
+ "url": "/startseite",
+ "title": "Start with a Solution – Enter a System.",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start",
+   "href": ""
+  },
+  {
+   "label": "Start",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/startseite",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/home",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/page-daccueil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/pagina-inicial",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/home-page",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/startsida",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/startseite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/home-page",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/page-daccueil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%99%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/homepage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/pagina-inicial",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Startingpage/zollerinfo_header_animation_780.mp4",
+     "title": "Mit System zum Maximum",
+     "kicker": "",
+     "text": "<p>Steigern Sie die Effizienz Ihrer Werkzeugprozesse <br/>mit den Lösungen des Technologieführers: ZOLLER. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2274",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> ZOLLER »wearCheck« </h3> <h2> Werkzeugverschleiß­messung mit KI-gestützter Analyse </h2>",
+   "body": "<p>ZOLLER bietet die zuverlässige KI-Funktion zur Bewertung der Werkzeugstandzeit. Ziel ist es, Werkzeuge effizient bis zur technisch sinnvollen Verschleißgrenze zu nutzen – unterstützt durch systemgestützte Auswertung realer Werkzeugdaten. </p> <p>Auf dieser Basis können klare Entscheidungen zum weiteren Einsatz getroffen werden. Ungeplante Maschinenstillstände durch Werkzeug­versagen lassen sich so vermeiden.</p> <p><a class=\"btn\" href=\"/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_DE_02.pdf\" rel=\"noopener\" target=\"_blank\">Mehr über »wearCheck« erfahren</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/3/csm_teaser_wearCheck_6ef55a1f36.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 1080
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c99110",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Premiumtechnologie für jede Fertigung </h2>",
+   "body": "<p class=\"extra-large-text\"><br/>Die Effizienzeffekte von ZOLLER in Werkzeugprozessen sind hoch. Deshalb amortisiert sich jede Investition schnell. Bereits bei einer CNC-Maschine reduzieren die Lösungen von ZOLLER Zeit, Kosten und Maschinenstillstand.</p> <p class=\"extra-large-text\">Bei ZOLLER ist Premium ein Versprechen, <br/>kein Privileg.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/2/csm_az_cz_30f31cdd7e.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c539",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "kpis",
+   "title": "Kundenerfolge mit ZOLLER",
+   "subtitle": "Höhere Gewinne, mehr Aufträge, weniger Zeitaufwand, geringere Fertigungskosten – ZOLLER steigert weltweit die Effizienz seiner Kunden.",
+   "items": [
+    {
+     "label": "In Highspeed rüsten",
+     "value": "30 %",
+     "text": "<p>Um diesen Anteil reduziert ein ZOLLER »hyperion« die Rüstzeiten bei SycoTec. Auf dem horizontalen Einstell- und Messgerät werden Drehwerkzeuge und Mehrfachdrehhalter gemessen. Damit fertigt SycoTec Highspeed-Kleinstmotoren. </p> <p><a class=\"btn\" href=\"/unternehmen/reports-stories/detail?tx_news_pi1%5Bnews%5D=116&amp;cHash=af4114be70126277ca6ed6d8f381beca\">Zur Erfolgsgeschichte</a></p>"
+    },
+    {
+     "label": "Weniger Personalaufwand",
+     "value": "83 %",
+     "text": "<p>So hoch ist die potenzielle Minderung des Personalaufwands bei der Inspektion von Werkzeugen im Dreischichtbetrieb, wenn Sie die Automationslösung »roboSet 2« nutzen. </p> <p><a class=\"btn\" href=\"/produkte/automation/werkzeuginspektion/roboset-2\">Mehr über »roboSet 2«</a></p>"
+    },
+    {
+     "label": "Rasch amortisieren",
+     "value": "9 Monate",
+     "text": "<p>So lange dauert es durchschnittlich, bis sich ein Einstell- und Messgerät »smile« amortisiert hat. Grundlage: Fertigung im Einschichtbetrieb mit einer CNC-Maschine. Bei zwei Maschinen halbiert sich die Zeit. </p> <p><a class=\"btn\" href=\"/produkte/einstellen-messen/vertikale-geraete/smile\">Mehr über »smile«</a></p>"
+    },
+    {
+     "label": "Hohe Umsatzsteigerung",
+     "value": "1 Mio. $",
+     "text": "<p>Das Familienunternehmen ProCam aus Michigan/USA hat binnen zwei Jahren nach Kauf eines »smile 420« den Umsatz um 1 Mio. USD gesteigert. Durch verkürzte Rüstzeiten und weniger Maschinenstillstand konnte ProCam mehr Aufträge bearbeiten.</p> <p><a class=\"btn\" href=\"/ihr-erfolg/detail?tx_news_pi1%5Bnews%5D=37&amp;cHash=992d0db4f33082f4543da88c75286a33\">Zur Erfolgsgeschichte</a></p>"
+    }
+   ],
+   "ftype": "zoller_content-scroller",
+   "id": "c537",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Produktivitätssteigerung durch ZOLLER Einstell- und Messgeräte</p> <p>Der ZOLLER Wirtschaftlichkeitsrechner kalkuliert das Einsparpotenzial Ihres Betriebs.</p>",
+   "button": "<a class=\"btn\" href=\"/wirtschaftlichkeitsrechner\">Jetzt Einsparpotenzial ermitteln</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4326",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mehr Produktivität beim Fräsen, Drehen und Schleifen </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/2/csm_teaser_milling_6f80026943.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Fräsen",
+     "href": "/fraesen",
+     "caption": "<figcaption> <h3>Fräsen</h3> <p>Präzises Einstellen und Messen, die beste Wuchttechnologie am Markt, exaktes Ein- und Ausschrumpfen sowie alle Schnittstellen und Daten für einen durchgängigen Prozess von CAM-to-Part. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/5/csm_teaser_turning_a68c271858.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Drehen",
+     "href": "/drehen",
+     "caption": "<figcaption> <h3>Drehen</h3> <p>Spezielle Messtechnik für Drehwerkzeuge, Toolmanagement, Datenhandling und effizientes Vorbereiten in Nebenzeit: ZOLLER ermöglicht mehr Erfolg beim Drehen.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_teaser_grinding_7de917acd6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Schleifen",
+     "href": "/werkzeuge-schleifen",
+     "caption": "<figcaption> <h3>Schleifen</h3> <p>Schnittstellen zur CAD-Konstruktion, steuerungsgerechte Daten für die CNC-Schleifmaschine, simulierte Messläufe sowie prozessnahe Inspektion und Dokumentation.</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c540",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> „Automation ist unabdingbar, um international wettbewerbs­fähig zu arbeiten.“ </h3>",
+   "body": "<p class=\"large-text\">Michael Mauth, Geschäftsführung Mauth Werkzeug- Schleiftechnik in Oberndorf</p> <p><a class=\"btn\" href=\"/ihr-erfolg/detail?tx_news_pi1%5Bnews%5D=109&amp;cHash=edd71d398b779dcca094c57186138635\"> Zum Anwenderbericht</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/3/csm_teaser_roboSet2_8f949c1d6b.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/ihr-erfolg/detail?tx_news_pi1%5Bnews%5D=109&cHash=edd71d398b779dcca094c57186138635"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4109",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> „Die Digitalisierung mit Software­systemen von ZOLLER trug entscheidend dazu bei, deutlich wirtschaftlicher zu produzieren.“ </h2>",
+   "body": "<p class=\"large-text\">Dipl.-Ing. Frank Schaefer, Mitglied der Geschäftsleitung, LIDU Maschinenbau Lienenbrügger GmbH in Dülmen</p> <p><a class=\"btn\" href=\"/ihr-erfolg/detail?tx_news_pi1%5Bnews%5D=112&amp;cHash=5bd9e00bf990db26ead5dc36b56cb9be\">Zum Anwenderbericht</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/1/csm_teaser_zoller_002_647c6fcfb2.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/ihr-erfolg/detail?tx_news_pi1%5Bnews%5D=112&cHash=5bd9e00bf990db26ead5dc36b56cb9be"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c536",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Das ZOLLER-System live erleben </h2>",
+   "body": "<p>In der ZOLLER Smart Factory in Pleidelsheim präsentieren wir das ZOLLER-System mit allen Solutions bis hin zur kompletten Shopfloor Automation. Überzeugen Sie sich von der hohen Effizienz lückenloser CAM-to-Part-Prozesse und den Vorteilen durchgängig verfügbarer Werkzeugdaten. </p> <p>Erfahren Sie jetzt mehr darüber, wie Sie Ihren Termin für einen Besuch oder für ein 1:1 Experten­gespräch buchen können.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt/smart-factory\">Zur Smart Factory</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/startseite\">Werkzeuge wuchten auf höchstem Niveau</a> </h2>",
+   "body": "<p>»toolBalancer« von ZOLLER ist weltweit State-of-the-art, wenn es um das Wuchten von Werkzeugen geht. Sie erzielen damit Wuchtergebnisse &lt; 0,4 gmm bei hoher Ergonomie und einfacher Bedienung. Alle »toolBalancer« sind TÜV- und UL/CSA-geprüft.</p> <p><a class=\"btn\" href=\"/produkte/wuchttechnik/toolbalancer\">Mehr über »toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/produkte/wuchttechnik/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c750",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Aktuelle Meldungen </h3>",
+   "articles": [
+    {
+     "href": "/ihr-erfolg/detail/werkzeugwuchten-mehr-qualitaet-geringere-kosten",
+     "img": {
+      "src": "/fileadmin/_processed_/c/9/csm_report_wuchten_teaserimg_e2610a8e69.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Wuchttechnik"
+     ],
+     "title": "Werkzeugwuchten: mehr Qualität, geringere Kosten",
+     "teaser": "Mit dem Thema Werkzeuge wuchten befassen sich auffallend wenige Fertigungen. Dabei ist Wuchten der Startpunkt für präzises Fertigen. »toolBalancer« von ZOLLER ist die perfekte Lösung und liefert Messergebnisse < 0,4 gmm.",
+     "date": ""
+    },
+    {
+     "href": "/ihr-erfolg/detail/fuenf-irrtuemer-zur-digitalisierung",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_fuenf_irrtuermer_teaserimg_f37f1b5058.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung"
+     ],
+     "title": "Fünf Irrtümer zur Digitalisierung",
+     "teaser": "Besonders kleine Unternehmen zögern bei der Digitalisierung ihrer Fertigung und verschenken so Effizienzvorteile. Oft sind Vorurteile der Grund. Höchste Zeit, diese Irrtümer auszuräumen und passende Lösungen für kleine und mittelgroße Fertigungen aufzuzeigen.",
+     "date": ""
+    },
+    {
+     "href": "/ihr-erfolg/detail/vollhartmetall-werkzeuge-so-begegnen-sie-dem-wolfram-preisschock",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "So begegnen Sie dem Wolfram-Preisschock",
+     "teaser": "Gegen die extreme Preissteigerung bei Vollhartmetall-Werkzeugen helfen zwei Strategien: Mehr Effizienz im Werkzeugeinsatz und höchste Präzision bei Nachschleifprozessen.",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c749",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Expertengespräch</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Jetzt Termin vereinbaren</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ]
+}

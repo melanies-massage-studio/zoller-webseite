@@ -1,0 +1,456 @@
+{
+ "path": "/produkte/wuchttechnik/toolbalancer/optionen-zubehoer",
+ "url": "/produkte/wuchttechnik/toolbalancer/optionen-zubehoer",
+ "title": "»toolBalancer« – Optionen & Zubehör",
+ "description": "Optionen & Zubehör - »toolBalancer« – Optionen & Zubehör",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Wuchttechnik /",
+   "href": "/produkte/wuchttechnik"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/produkte/wuchttechnik/toolbalancer"
+  },
+  {
+   "label": "Optionen & Zubehör",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Wuchttechnik /",
+   "href": "/produkte/wuchttechnik"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/produkte/wuchttechnik/toolbalancer"
+  },
+  {
+   "label": "Optionen & Zubehör",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer/optionen-zubehoer",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer/options-accessories",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer/opciones-y-accesorios",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer/options-et-accessoires",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer/opcoes-e-acessorios",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer/opzioni-e-accessori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer/tillval-tillbehoer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer/optionen-zubehoer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer/options-accessories",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer/options-et-accessoires",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer/%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer/%EC%98%B5%EC%85%98-%EB%B0%8F-%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer/options-accessories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer/opciones-y-accesorios",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer/opcoes-e-acessorios",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/wuchttechnik/toolbalancer",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/wuchttechnik/toolbalancer/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/wuchttechnik/toolbalancer/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/wuchttechnik/toolbalancer/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/wuchttechnik/toolbalancer/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1051",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Alle Optionen<br/>im Überblick </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1108",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Zwei Modelle, viel inklusive und praktische Optionen: Wählen Sie zwischen zwei verschiedenen Werkzeuglängen und Zubehör für den optimalen täglichen Gebrauch. Für ganz individuelle Arbeitsabläufe und Gegebenheiten in Ihrer Fertigung.<br/><br/>Treffen Sie Ihre Wahl einfach und übersichtlich oder sprechen Sie uns an: Wir beraten Sie gerne bei der Auswahl Ihres Modells und der innovativen Vielfalt an Optionen.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1109",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1107",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Geräte-Ausstattung </h2>",
+   "body": "<figure><table><tbody><tr><td>Integrierte Bedieneinheit (Monitorhalterung) mit 17-Zoll-Touch-Monitor und ZOLLER-Bediensoftware</td></tr><tr><td>Separate Bedieneinheit »cockpit«, mit 17-Zoll-Touch-Monitor und ZOLLER-Bediensoftware, inkl. Tastatur, Maus und Ablagen für Drucker und weiterem Zubehör</td></tr><tr><td>Sicherheitshaube »twinPanel« für maximale Sicherheit beim Wuchten</td></tr><tr><td>Schaltschrank zur sorgfältigen Aufnahme aller Elektronikkomponenten</td></tr><tr><td>Folientastatur zur Bedienung der Spindel und Haubenverriegelung</td></tr><tr><td>Not-Halt-Schaltung</td></tr><tr><td>Aufbewahrungsfach für Wuchtadapter</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1111",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zubehör </h2>",
+   "body": "<figure><table><tbody><tr><td>Werkzeug-Identifikation per Hand-Scanner mit Halterung</td></tr><tr><td>Präzisionswaage (optional mit DAkkS-Zertifizierung)/Werkzeugwaage</td></tr><tr><td>Standfuß-Ablage für Waagen und Wuchtschraubensatz</td></tr><tr><td>Laserdrucker/Etikettendrucker</td></tr><tr><td>Ablagen für Etikettendrucker, Laserdrucker, Werkzeuge</td></tr><tr><td>Zertifizierter Kalibrier-Rotor</td></tr><tr><td>Kalibriermagnete</td></tr><tr><td>Wuchtknet</td></tr><tr><td>Wuchtschraubensatz/Wuchtringe</td></tr><tr><td>USV-Anlage 230 V/750 VA</td></tr><tr><td>Bodenfixierungssatz</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c1112",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wuchtadapter (weitere auf Anfrage) </h2>",
+   "body": "<figure><table><tbody><tr><td>Wuchtadapter SK 30/40/50</td></tr><tr><td>Wuchtadapter HSK 32/40/50/63/80/100 (A/C/E-B/D/F)</td></tr><tr><td>Wuchtadapter PSC C 32/40/50/63/80</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c1113",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zwei Varianten, keine Kompromisse </h2>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c1122",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»toolBalancer 550«</h4> <p>Treffen Sie Ihre Wahl einfach und übersichtlich oder sprechen Sie uns an! Maximaler Werkzeugdurchmesser: 480 mm, maximale Werkzeuglänge: 550 mm</p> <p><a class=\"btn\" href=\"/produkte/wuchttechnik/toolbalancer/optionen-zubehoer\">Jetzt anfragen</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/b/5/csm_cta_toolBalancer550_c1c83e688d.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622,
+        "href": "/unternehmen/kontakt"
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c1120",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»toolBalancer 750«</h4> <p>Treffen Sie Ihre Wahl einfach und übersichtlich oder sprechen Sie uns an! Maximaler Werkzeugdurchmesser: 480 mm, maximale Werkzeuglänge: 750 mm</p> <p><a class=\"btn\" href=\"/produkte/wuchttechnik/toolbalancer/optionen-zubehoer\">Jetzt anfragen</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/b/3/csm_cta_toolBalancer750_ac2cdc46af.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622,
+        "href": "/unternehmen/kontakt"
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c1121",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1119",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Wuchttechnik: Ihre Vorteile",
+     "href": "/solutions/wuchttechnik",
+     "caption": "<figcaption> <h3>Wuchttechnik: Ihre Vorteile</h3> <p>Wuchten wird unterschätzt. Dabei führt Wuchten zu mehr Wirtschaftlichkeit, weil es kostentreibenden Werkzeugverschleiß reduziert und Maschinenspindeln entlastet. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

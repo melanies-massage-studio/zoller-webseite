@@ -1,0 +1,427 @@
+{
+ "path": "/standzeit-werkzeug",
+ "url": "/standzeit-werkzeug",
+ "title": "Standzeit Werkzeug erhöhen – Tipps & Lösungen",
+ "description": "Verlängern Sie die Standzeit Ihrer Werkzeuge: Faktoren für Verschleiß, Nachschleifen mit µm-Präzision und Werkzeugüberwachung. Jetzt Produktivität steigern!",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Standzeit Werkzeug",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Standzeit Werkzeug",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/standzeit-werkzeug",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-life",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/vida-util-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/temps-de-fonctionnement-de-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/tempo-util-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/vita-dellutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygets-livslaengd",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/standzeit-werkzeug",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-life",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/duree-de-vie-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E8%80%90%E7%94%A8%E5%B9%B4%E6%95%B0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EB%AA%85",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-life",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/vida-util-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/tempo-util-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/f/csm_standzeit_header_573a919a37.webp",
+     "video": null,
+     "title": "Standzeit Ihrer Werkzeuge erhöhen",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4279",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> So verlängern Sie die Lebensdauer Ihrer Zerspanungs­werkzeuge </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3831",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Je größer die Standzeit eines Zerspanungswerkzeugs, desto geringer sind die Kosten für dieses Werkzeug, desto effektiver kann es arbeiten. Wie lässt sich die Standzeit nun am besten erhöhen?</p> <p>Rein sprachlich gesehen wirkt der Begriff der „Standzeit“ für Zerspanungswerkzeuge ein wenig kontra-intuitiv. Denn er beschreibt keineswegs die Zeit, in der ein Werkzeug nutzlos herumsteht, sondern das genaue Gegenteil: Mit der Standzeit wird die Gesamtzeit beschrieben, während derer ein Zerspanungswerkzeug im Einsatz ist (also auch tatsächlich Späne abträgt), bevor es ausgetauscht werden muss. Zeit, die für den Wechsel des Werkstücks benötigt wird, zählt daher auch nicht zur Standzeit dazu.</p> <p>Der Austausch eines Werkzeugs wiederum verursacht Kosten gleich in mehrfacher Hinsicht:</p><ul><li>Ein neues Werkzeug muss angeschafft und eingesetzt, das alte nachgeschliffen oder entsorgt werden.</li><li>Es kostet Arbeitszeit, das alte Werkzeug zu entfernen (und später ggf. nachzuschleifen) sowie ein neues einzusetzen.</li><li>Während das Werkzeug ausgewechselt wird, steht die Maschine, steht der Fertigungsprozess still – je häufiger ein Austausch ansteht, umso mehr Produktionsausfälle gibt es also.</li><li>Sie haben erhöhte Lagerkosten und Beschaffungskosten für Ihren Werkzeugbestand.</li></ul><p>Längere Werkzeugstandzeiten sorgen also für weniger Maschinenstillstand und ermöglichen damit insgesamt effektiveres Arbeiten, reduzieren also die Kosten Ihrer Produktion.</p> <p>Neuanschaffungen von Werkzeugen können durch Nachschärfen der Werkzeuge vermieden werden. Durch Nachschleifen der Werkzeugschneiden verlängert sich die Lebensdauer des Zerspanungswerkzeugs ganz erheblich und spart so Anschaffungskosten für neue Werkzeuge ein. Hilfreich ist hier die Messmaschine »edgeControl«. Das Gerät detektiert den größten Verschleiß einer Schneide. Das erlaubt es, das Werkzeug nur soweit nachzuschleifen, wie es tatsächlich notwendig ist, und zwar auf das µm genau.</p> <p><a class=\"btn\" href=\"/produkte/pruefen-messen/universal-messmaschinen\">Mehr über Verschleißmarken und Defekte entlang der Schneidkante erfahren</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4254",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4253",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Was beeinflusst<br/>die Standzeit? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4257",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Dass die Standzeit überhaupt begrenzt ist, hat schlichte physikalische Gründe: Durch die Zerspanung verschleißt das Werkzeug, schließlich wird das Material, aus dem es gemacht ist, mechanisch beansprucht und auch erhitzt.</p> <p>Daraus ergeben sich logisch auch die wichtigsten Faktoren, die Einfluss auf die Standzeit nehmen:</p><ul><li><p>die Werkzeuggeometrie, also die spezifische Form des Werkzeugs,</p></li><li><p>das Material, aus dem das Werkzeug gefertigt wurde,</p></li><li><p>die konkreten Bedingungen der Zerspanung (insbesondere Schnittgeschwindigkeit, Vorschub und Schnitttiefe),</p></li><li><p>das Material, aus dem das Werkstück gefertigt ist (der Werk- oder Schneidstoff) und</p></li><li><p>die Temperatur bzw. Veränderungen in der Temperatur des Werkzeugs.</p></li></ul><p>Aus diesen Faktoren lässt sich ableiten, dass zum Beispiel geringere Zerspanungsgeschwindigkeiten, eine präzise berechnete Schnitttiefe, der Einsatz geeigneter Kühlmittel und natürlich die Verwendung von Werkzeugen aus hochwertigem, dem Werkstoff angepassten Material auch die Standzeit zum Teil deutlich verlängern können, weil sie den Werkzeugverschleiß verlangsamen.</p> <p>Durch die Umsetzung bestimmter Maßnahmen lassen sich hier deutliche Verbesserungen erzielen. Zugleich ist es entscheidend, den Erfolg dieser Maßnahmen während ihrer Anwendung im Alltag auch zu kontrollieren. Hier ist es sinnvoll, auf entsprechende Technologien zur Werkzeugüberwachung und Werkzeugverwaltung zurückzugreifen.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3962",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4256",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Wie äußert sich der Werkzeugverschleiß? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4261",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Der Verschleiß macht sich am Werkzeug auf unterschiedliche Weise bemerkbar. Im Kern gibt es beim Zerspanungswerkzeug zwei Formen von Verschleiß: den Freiflächenverschleiß (wie der Name sagt auf der Freifläche des Werkzeuges) und den Kolkverschleiß, der auf der Spanfläche auftritt.</p> <p>Die Verschleißmarkenbreite und die Kolktiefe werden oft als Kriterien dafür herangezogen, ob ein Werkzeug ausgetauscht bzw. nachgeschliffen werden muss, ob also seine Standzeit abgelaufen ist („Standzeitkriterien“).</p> <p>Neben dem Freiflächenverschleiß und dem Kolkverschleiß gibt es noch andere Formen des Verschleißes:</p><ul><li>Verzunderung (also die Oxidation der Werkzeugoberfläche durch den Luftsauerstoff, die insbesondere bei höheren Temperaturen auftreten kann),</li><li>Ausbrüche aus dem Werkzeug und</li><li>Risse, die vor allem durch wechselnde mechanische und thermische Belastungen auftreten können.</li></ul><p>Insbesondere für Werkzeugverschleiß, der durch hohe oder schnell wechselnde Temperaturen bedingt ist, ist es hilfreich, ein geeignetes und an die Situation angepasstes Kühlmittel zu verwenden. Dies kann die Lebensdauer Ihrer Präzisionswerkzeuge deutlich verlängern.</p> <p>Mit zunehmendem Werkzeugverschleiß nimmt logischerweise die Zerspanleistung des Werkzeugs ab, vor allem aber leidet, wie bei einem schartig gewordenen Messer, die Genauigkeit und die Qualität des zu bearbeitenden Bauteils.</p> <h4>Mehr Standzeit, mehr Betriebsstunden</h4> <p>Wenn Sie die Standzeit Ihrer Werkzeuge durch geeignete Maßnahmen und die Auswahl qualitativ hochwertiger Werkzeuge verlängern, hat das viele Vorteile. Sie reduzieren den Maschinenstillstand, optimieren die Zeitabläufe im Bereich der Fertigung, arbeiten effektiver und nutzen Ihre Präzisionswerkzeuge genau so lange, wie es möglich ist, ohne dass die Qualität Ihrer Arbeit sinkt.</p> <p>Insgesamt steigt dadurch Ihre Produktivität, denn die Zahl der Betriebsstunden, in denen Sie auch produzieren können, steigt auf mittlere und lange Sicht deutlich an.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3963",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4260",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Volle Werkzeugkontrolle mit ZOLLER </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4262",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Mit ZOLLER TMS Tool Management Solutions haben Sie Ihre Werkzeuge immer im Blick. Schon beim Wareneingang können Sie alle Parameter messen, mangelhafte Werkzeuge aussortieren und ggf. reklamieren. Die ZOLLER Software »flash« erlaubt Ihnen zu überprüfen, ob die von den Herstellern versprochenen Standzeiten auch eingehalten werden. Das spart bares Geld und sorgt für qualitativ hochwertige Produkte.</p> <p><a class=\"btn\" href=\"/produkte/toolmanagement\">Toolmanagement mit System</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3964",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4259",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Start with a Solution – Enter a System.",
+     "href": "/das-system",
+     "caption": "<figcaption> <h3>Start with a Solution – Enter a System.</h3> <p>Unsere Kunden profitieren von ganzheitlichen Lösungsansätzen, die wir seit Jahrzehnten vorantreiben. Das Resultat: Exzellente Effizienz. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

@@ -1,0 +1,500 @@
+{
+ "path": "/produkte/toolmanagement/software/add-on-zintegration",
+ "url": "/produkte/toolmanagement/software/add-on-zintegration",
+ "title": "Add-on »z.Integration«",
+ "description": "Add-on »z.Integration« - Herstellerunabhängige Werkzeugmanagement-Lösung für gewachsene Fertigungsumgebungen - Smarte Vernetzung",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Software /",
+   "href": "/produkte/toolmanagement/software"
+  },
+  {
+   "label": "Add-on »z.Integration«",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/produkte/toolmanagement"
+  },
+  {
+   "label": "Software /",
+   "href": "/produkte/toolmanagement/software"
+  },
+  {
+   "label": "Add-on »z.Integration«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zintegration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-integration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zintegration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zintegration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zintegration",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/toolmanagement/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/produkte/toolmanagement/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/produkte/toolmanagement/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/produkte/toolmanagement/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/produkte/toolmanagement/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/produkte/toolmanagement/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/produkte/toolmanagement/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/produkte/toolmanagement/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164329",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Smarte Vernetzung </h3> <h1> Add-on »z.Integration« </h1>",
+   "body": "<p>ZOLLER TMS mit dem <strong>Add-on »z.Integration«</strong> ist die herstellerunabhängige Werkzeugmanagement-Lösung für gewachsene Fertigungsumgebungen. Als echter Brownfield-Connector bindet das System hunderte Schnittstellen an und integriert unterschiedlichste Fremdsysteme nahtlos in eine zentrale Werkzeug­datenbasis – ohne Kompromisse. Unabhängig davon, welche Systeme sich im Einsatz befinden – von Einstell- und Messgeräten über automatische Lager­systeme bis hin zu ERP- und CAM-Umgebungen – sorgt ZOLLER TMS für einen durchgängigen Datenfluss über den gesamten Werkzeuglebenszyklus.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 Expertengespräch</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_zIntegration_product_38b70f8400.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164378",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Bestehende Systeme integrieren statt ersetzen ",
+    "Zentrale Datenbasis statt Insellösungen ",
+    "Zukunftssichere Digitalisierung ohne Herstellerbindung"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164383",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.Integration« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Webbrowser </td> <td class=\"text-center\"> Desktop </td> </tr> <tr> <td> Excel-Einleseschnittstelle V1/V2 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Integration Einstellgerät Fremdhersteller </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> CAM-Schnittstellen </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> Simulations-Schnittstellen </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> ERP-Schnittstellen </td> <td class=\"text-center\"> ⦿ </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> Lagersystem-Schnittstellen </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> Datenübernahme aus Fremdsystemen </td> <td class=\"text-center\"> ⦿ </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> Anbindung von Fremdsystemen </td> <td class=\"text-center\"> ⦿ </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> OEM-Datenimportschnittstelle (Sandvik/KM/Iscar + weitere) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> ToolsUnited-Schnittstelle </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> TOOLS ERA-Schnittstelle </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164388",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● Basis ⦿ optional <strong>―</strong> nicht verfügbar </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164427",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/7/csm_zIntegration_prozess_ec44fffb1b.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 428
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164393",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.Integration« </h3> <h2> Prozessqualität </h2>",
+   "body": "<p class=\"large-text\">Durch das Add-on bleiben bestehende Investitionen vollständig erhalten – ohne Austausch von Bestandssystemen.</p> <p class=\"large-text\">Das Add-on beschleunigt Prozesse messbar – dank automatisiertem und durchgängigem Datenfluss.</p> <p class=\"large-text\">Durch das Add-on entstehen keine Systembrüche mehr, alle Anwendungen greifen nahtlos ineinander.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/4/csm_zIntegration_benefit_81a33a8e63.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164398",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/9/csm_zIntegration_Feature_01_e176f7ae25.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "ZOLLER im Dialog",
+     "caption": "<figcaption> <h3>ZOLLER im Dialog</h3> <p>Beratung auf Augenhöhe</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/3/csm_zIntegration_Feature_02_7e2aeb8599.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Schulung",
+     "caption": "<figcaption> <h3>Schulung</h3> <p>Schulung zur optimalen Nutzung der ZOLLER-Systeme</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164403",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Auswahl möglicher Fremdsysteme durch Add-on »z.Integration« </h2>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "table",
+      "header": "",
+      "table": "<table> <tbody> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> Lager </td> </tr> <tr> <td class=\"text-center\"> Gühring </td> </tr> <tr> <td class=\"text-center\"> Hänel </td> </tr> <tr> <td class=\"text-center\"> Iscar </td> </tr> <tr> <td class=\"text-center\"> Kardex </td> </tr> <tr> <td class=\"text-center\"> Kennametal </td> </tr> <tr> <td class=\"text-center\"> + weitere </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c169984",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "table",
+      "header": "",
+      "table": "<table> <tbody> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> Simulation </td> </tr> <tr> <td class=\"text-center\"> NCSimul </td> </tr> <tr> <td class=\"text-center\"> Vericut </td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> + weitere </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c169986",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "table",
+      "header": "",
+      "table": "<table> <tbody> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> ERP </td> </tr> <tr> <td class=\"text-center\"> ﻿abas </td> </tr> <tr> <td class=\"text-center\"> Mantis </td> </tr> <tr> <td class=\"text-center\"> SAP </td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> + weitere </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c169987",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c169985",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

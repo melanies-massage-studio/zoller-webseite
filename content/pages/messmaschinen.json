@@ -1,0 +1,288 @@
+{
+ "path": "/messmaschinen",
+ "url": "/messmaschinen",
+ "title": "Messmaschinen",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Messmaschinen",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Messmaschinen",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/messmaschinen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/measuring-machines",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/machines-de-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/maquinas-de-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/macchine-di-misura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/maetmaskiner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/messmaschinen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/machines-de-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%B8%AC%E5%AE%9A%E6%A9%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%B8%A1%EC%A0%95%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/measuring-machines",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/maquinas-de-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/7/csm_messung_header_416ff4c8b2.webp",
+     "video": null,
+     "title": "Größere Präzision",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8018",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mess- und Prüfgeräte sind ebenso wichtig wie die dazugehörige Software </h2>",
+   "body": "<p class=\"extra-large-text\">Damit Werkzeuge genau das tun, wofür sie geplant und konstruiert wurden, müssen sie selbst präzise gefertigt sein. Mit unseren Universal-Messmaschinen lassen sich Werkzeuge auf den Mikrometer genau messen und prüfen, ob sie den Anforderungen entsprechen.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8019",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Messen im Koordinatenmesssystem </h2>",
+   "body": "<p>Die gemessenen Tastpunkte werden von den Messmaschinen jeweils entlang einer bestimmten Verfahrachse einem bestimmten Längenmesssystem zugeordnet. Die Messsoftware verarbeitet diese Informationen dann weiter und ordnet sie bestimmten Punkten im gesamten Koordinatenmesssystem zu.</p> <p>Aus den so ermittelten Koordinaten werden anschließend von der Software des KMG die Werte für nicht direkt gemessene Größen bestimmt – also etwa Längen, Winkel, Abstände zwischen zwei Messpunkten usw.</p> <p>Die im Koordinatenmesssystem (englisch „Coordinate Measuring System“) ermittelten Messpunkte (Istwerte) werden schließlich mit den Werten verglichen, die sich aus den Vorgaben, also etwa den Entwürfen für das Werkzeug, ergeben (Sollwerte). Wenn diese nicht miteinander übereinstimmen, wenn es also Messabweichungen gibt – sei es durch Produktionsfehler, sei es durch Abnutzung –, so kann im Anschluss entsprechend angemessen reagiert werden.</p> <h4>Was sind <strong>3D-Messmaschinen</strong>?</h4> <p>Als „3D-Messmaschinen“ werden zumeist Messmaschinen bezeichnet, die in relativ kurzer Zeit – idealerweise in Echtzeit – die dreidimensionale Ausdehnung eines Messobjekts abmessen können. Bei der Anwendung von kompakten linearen oder Matrix-Array-Kameras können diese Prüfmaschinen zum Teil sogar tragbar oder zumindest portabel sein. Allerdings sind portable KMG in der Regel etwas ungenauer als herkömmliche Prüfmaschinen.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_inspection-and-measuring_02_68ae6129c7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8020",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Koordinatenmesstechnik </h2>",
+   "body": "<p>Viele Messgeräte arbeiten mit der sogenannten Koordinatenmesstechnik. Das Messgerät (die vollständige Bezeichnung ist dann „Koordinatenmessgerät“, KMG) erfasst dabei mit einem geeigneten Sensor die genauen Koordinaten, auf denen sich bestimmte Punkte auf der Oberfläche des Werkstücks befinden.</p> <p>Das Koordinatensystem ist dabei in den meisten Fällen parallel zu den orthogonal liegenden Verfahrachsen der Koordinatenmesssysteme angelegt.</p> <h4><strong>Berührungslose Antastung</strong></h4> <p>Mit Kameras, Lasertriangulationssensoren und anderen Methoden arbeitet hingegen die berührungslose Antastung, bei der zum Beispiel optische oder elektrische Sensorik zum Einsatz kommt. Der Messvorgang findet hier also statt, ohne dass ein Messtaster überhaupt in Kontakt mit dem Werkstück kommt. Unter Umständen kann dies den Messprozess deutlich beschleunigen.</p> <h4><strong>Taktile Antastung</strong></h4> <p>Für die taktile (mechanische) Antastung der Werkstücke werden Messtaster oder Taststifte eingesetzt; dabei unterscheidet man meist schaltende Systeme (die also nur zwischen Ruhezustand und Berührung unterscheiden können) und messende Systeme (die in einem engen Bereich Abweichungen messen können).</p> <h4><strong>Multisensor</strong></h4> <p>Multisensorkoordinatenmessgeräte verbinden verschiedene Antastungsmethoden, um nicht nur besonders genaue Ergebnisse zu erzielen, sondern auch für jede Anforderung eine besonders geeignete Messmethode bere</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_optik_8e5c836a3b.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8024",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Prüfen & Messen: Ihre Vorteile",
+     "href": "/solutions/pruefen-messen",
+     "caption": "<figcaption> <h3>Prüfen &amp; Messen: Ihre Vorteile</h3> <p>Erfahren Sie, was mit ZOLLER bei Werkzeuginspektionen möglich ist. Prozessnahe Prüfungen oder Highend-Analysen bis hin zu SKP, Rauheit und dem Erstellen digitaler Zwillinge.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

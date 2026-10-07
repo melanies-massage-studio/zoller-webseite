@@ -1,0 +1,288 @@
+{
+ "path": "/voreinstellgeraet",
+ "url": "/voreinstellgeraet",
+ "title": "Voreinstellgerät",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Voreinstellgerät",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Voreinstellgerät",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/voreinstellgeraet",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/preset-device",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/appareil-de-prereglage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/dispositivo-de-pre-ajuste",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/dispositivo-di-preimpostazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foerinstaellningsenhet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/voreinstellgeraet",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/appareil-de-prereglage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%97%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E8%A3%85%E7%BD%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%A0%84-%EC%84%A4%EC%A0%95-%EC%9E%A5%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/preset-device",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/dispositivo-de-pre-ajuste",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/1/csm_voreinstellen_venturion_header_222cabbd3d.webp",
+     "video": null,
+     "title": "Voreinstellgeräte erhöhen Produktivität, Qualität und Prozesssicherheit",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8104",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Kurze Rüstzeit, hohe Maschinenlaufzeit: Das sind die zwei wichtigsten Faktoren, um die Produktivität ihrer Werkzeugmaschinen zu steigern. Ein Werkzeugvoreinstellgerät ermittelt alle wichtigen Daten vorab und transferiert sie fehlerfrei an die Maschine.</p> <p class=\"extra-large-text\">Um präzise arbeiten zu können, benötigen CNC-Werkzeugmaschinen exakte Werkzeuggeometriedaten. Wenn diese Werkzeugdaten bereits vorab und außerhalb der CNC-Maschine ermittelt werden, können sie beim Einsetzen des Werkzeugs ohne Zeitverzögerung eingelesen werden.</p> <p class=\"extra-large-text\">Die elektronische Datenübertragung vom Voreinstellgerät zur Werkzeugmaschine verhindert nicht nur Tippfehler und andere Übertragungsprobleme, sie ist auch in kürzester Zeit abgeschlossen. So reduziert sich nicht nur die Rüstzeit auf ein Minimum, die Einrichtezeit für das neue Werkzeug ist de facto Null – und Sie maximieren auf diese Weise die Werkzeugstandzeiten.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8105",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Voreinstellgerät – die Vorzüge </h2>",
+   "body": "<ul><li>Einstellung und Rüstzeit werden getrennt: Die Werkzeuge können schon vorbereitet werden, während die CNC-Werkzeugmaschine noch läuft – dies kann sogar räumlich getrennt voneinander stattfinden, wenn dies die Arbeitsprozesse erleichtert oder beschleunigt.</li><li>Keine Einrichtezeit: Durch die elektronische Übertragung der vorbereiteten Werkzeugdaten erhält die Maschinensteuerung die korrekten Informationen ohne Verzögerung und fehlerfrei</li><li>Erhöhte Prozesssicherheit: Keine Fehler mehr bei manueller Einstellung durch vollständig elektronischen Datentransfer direkt aus dem Voreinstellgerät zur CNC-Maschine.</li><li>Qualität vom ersten Teil an: Ihre perfekt mit Daten versorgten Maschinen produzieren vom ersten Werkstück an Top-Ergebnisse und keinen Ausschuss. Mit genau vermessenen Werkzeugen gibt es zudem keine Crashs und Unterbrechungen.</li><li>Längere Werkzeugstandzeiten: Durch minimierte Rüstzeiten und Einrichtezeiten kann die Maschine effektiver und produktiver arbeiten. Mit einer regelmäßigen Kontrolle der Schneidenqualität im Voreinstellgerät stets in Top-Qualität</li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/f/csm_voreinstellen_demonstration_84e2c4fdc8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8108",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mit ZOLLER Voreinstellgeräten besser, effektiver, produktiver arbeiten </h2>",
+   "body": "<p><strong>Die ZOLLER Werkzeugvoreinstellgeräte sind auf alle Anwendungsfälle vorbereitet.</strong></p> <p>Unsere Messgeräte arbeiten mit modularen Systemen, so dass sich für alle Anforderungen die passenden Lösungen zusammenstellen lassen. Sie können mit jeweils geeigneten Messmethoden für unterschiedliche Parameter und Werkzeuge konfiguriert werden – sei es bei vollautomatischer oder bei manueller Messung. Eine Präzisionsmessung ist das Ergebnis auf jeden Fall.</p> <p>Die intuitive Bedienoberfläche ist extrem einfach, sicher und bequem zu bedienen. Die Geräte bieten unter anderem eine automatische Werkzeugschneidenerkennung, einen Einhandbediengriff zur leichten Schlittenverstellung und eine Folientastatur für kraftbetätigte Spindelklemmung und Spindelarretierung.</p> <p>Die direkte elektronische Übertragung der Werkzeugdaten, mit der Eingabefehler der Vergangenheit angehören, ist selbstverständlich mit allen Geräten möglich. Dabei bieten ZOLLER-Voreinstellgeräte unterschiedliche Varianten für den sicheren Datentransfer an die Maschine – ob für KMUs oder große Unternehmen, ob für Heller, Index oder weitere Maschinenhersteller.</p> <p>Hinzu kommen einfache Optionen zum Importieren und Exportieren von Werkzeugdaten und weitere Features.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/1/csm_voreinstellen_fertigung_782ce05bd8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8109",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Einstellen & Messen: Ihre Vorteile",
+     "href": "/solutions/einstellen-messen",
+     "caption": "<figcaption> <h3>Einstellen &amp; Messen: Ihre Vorteile</h3> <p>Erfahren Sie, warum Einstell- und Messgeräte den Aufwand an Zeit und Kosten reduzieren. Die Effekte sind skalierbar und können hohe Einsparungen bewirken. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin.</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ]
+}

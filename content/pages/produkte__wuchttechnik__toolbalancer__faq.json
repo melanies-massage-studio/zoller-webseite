@@ -1,0 +1,631 @@
+{
+ "path": "/produkte/wuchttechnik/toolbalancer/faq",
+ "url": "/produkte/wuchttechnik/toolbalancer/faq",
+ "title": "»toolBalancer« – FAQ",
+ "description": "FAQ - »toolBalancer« – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Wuchttechnik /",
+   "href": "/produkte/wuchttechnik"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/produkte/wuchttechnik/toolbalancer"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Produkte /",
+   "href": "/produkte"
+  },
+  {
+   "label": "Wuchttechnik /",
+   "href": "/produkte/wuchttechnik"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/produkte/wuchttechnik/toolbalancer"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/produkte/wuchttechnik/toolbalancer",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Anwendungen",
+     "href": "/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "current": false
+    },
+    {
+     "label": "Optionen & Zubehör",
+     "href": "/produkte/wuchttechnik/toolbalancer/optionen-zubehoer",
+     "current": false
+    },
+    {
+     "label": "Technische Daten",
+     "href": "/produkte/wuchttechnik/toolbalancer/technische-daten",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/produkte/wuchttechnik/toolbalancer/faq",
+     "current": false
+    },
+    {
+     "label": "Info-Pool",
+     "href": "/produkte/wuchttechnik/toolbalancer/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1050",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Häufig gestellte Fragen</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Warum ist der ZOLLER »toolBalancer« genauer als Wuchtsysteme des Wettbewerbs?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Aufgrund des Mittenversatzes beim Messen ist der »toolBalancer« so überragend genau. Dieser Vorteil wirkt sich bei jedem Werkzeug aus – aber besonders bei kleineren HSC-Werkzeugen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1034",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ich habe bereits ein Wuchtsystem. Kann ich meinen Wuchtadapter in den ZOLLER »toolBalancer« einsetzen?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ja, das können Sie. Das Besondere an der Spindel des »toolBalancer« ist die Universalität. Sie können sowohl ZOLLER-Wuchtadapter in die Spindel einsetzen, als auch Adapter von anderen Herstellern.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1032",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ist der ZOLLER »toolBalancer« servicefreundlich?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Die Servicefreundlichkeit ist mit der Hauptunterschied zu den anderen Wuchtgeräten im Markt. Begonnen mit der Sicherheitshaube »twinPanel« des »toolBalancer«. Löst sich ein Teil beim Wuchten oder altert die Scheibe aufgrund von Kontakt mit Öl, muss nicht gleich die gesamte Haube ersetzt werden. Die Haube ist aus zwei Scheiben aufgebaut. So können Sie nur die innere Scheibe austauschen. Wir nennen sie deshalb „Opferscheibe“. Des Weiteren haben Sie einen einfachen Zugang zur Spindel und auch alle Elektronikkomponenten sind im Schaltschrank sorgfältig und sicher für einen störungsfreien Betrieb verbaut. Die Position des Schaltschranks, der Antriebe und Sensoren ermöglichen beste Zugänglichkeit bei Wartungs- und Servicearbeiten.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1030",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wie unterscheidet sich der »toolBalancer« von den Auswuchtsystemen des Wettbewerbs?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Der »toolBalancer« ist eine Neuentwicklung und verfügt über die modernere Technologie sowie das bessere und ergonomischere Design. Daraus resultieren hohe Präzision, einfache Bedienung und zertifizierte Sicherheit.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1028",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wie sieht der Unwuchtkorrektur-Prozess genau aus?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>In diesem Video stellen wir Ihnen genau vor, wie der Unwuchtkorrektur-Prozess des »toolBalancer« abläuft.</p>",
+          "images": [],
+          "videos": [
+           {
+            "kind": "iframe",
+            "src": "https://www.youtube-nocookie.com/embed/L-ZgiVWrb5g?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+            "title": "»toolBalancer«: Schnelle Unwuchtkorrektur durch geführten Prozessablauf"
+           }
+          ],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1064",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ich möchte eine individuelle Beratung. Welche Möglichkeiten gibt es?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Bei ZOLLER finden Sie eine Reihe von Angeboten, um sich individuell über ein Produkt zu informieren. Zum Beispiel das 1:1 Expertengespräch im virtuellen Showroom. Gerne können wir uns auch über Microsoft-Teams oder telefonisch austauschen. Oder Sie kommen in unserer Smart Factory vorbei.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1024",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Warum wird ein »toolBalancer« benötigt?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Eine ausgewuchtete Werkzeugbaugruppe sorgt für eine längere Lebensdauer der Werkzeuge, geringere Vibrationen, eine höhere Spindeldrehzahl, bessere Oberflächenbearbeitung der Teile und vor allem auch für eine längere Lebensdauer der Spindel.</p> <p>Unwucht in einer Werkzeugbaugruppe erzeugt übermäßige Zentrifugalkräfte, die die Spindellager beschädigen können. Solche Schäden verringern die Lebensdauer der Spindel und können zu kostspieligen ungeplanten Ausfallzeiten führen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1022",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wenn gewuchtete Werkzeughalter mit der Sorte G2.5 und 25.000 U/min verwendet werden, muss dann die gesamte Werkzeugbaugruppe nach der Montage der Schneidwerkzeuge/Einsätze noch gewuchtet werden?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Schneidwerkzeuge sind manchmal asymmetrisch, z. B. durch Abflachungen am Schaft (Weldon-Oberfläche). Profilschneidwerkzeuge können eine unsymmetrische Gewichtsverteilung aufweisen. Wenn solche Schneidwerkzeuge in einem ausgewuchteten Werkzeughalter montiert werden, führt dies zu einer Unwucht in der Werkzeugbaugruppe. Spannzangen, Spannmuttern, Anschlagschrauber, Datenchips usw. tragen ebenfalls zur Unwucht der Werkzeugbaugruppe bei. Sobald diese anderen Komponenten zur Werkzeughalterbaugruppe hinzugefügt werden, muss der Werkzeughalter möglicherweise neu ausgewuchtet werden, um den ISO-Auswuchtspezifikationen zu entsprechen.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1020",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Haben Sie einen Adapter zum Einspannen von Bohrfräsern, z.B. für Holzfräser und Werkzeuge mit unterschiedlichen Schaftgrößen für Profilwerkzeuge?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER bietet spezielle Adapter zum Spannen von Bohrfräsern und Werkzeugen mit unterschiedlichen Schaftgrößen an.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1018",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Was ist eine Unwucht in einer Ebene (statisch) und eine Unwucht in zwei Ebenen (dynamisch)? Wie können wir entscheiden, welche Methode wir zum Auswuchten der Werkzeugbaugruppe verwenden sollten?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Die folgende Faustregel kann als Anhaltspunkt dafür dienen, ob der Werkzeughalter \"statisch\" oder \"dynamisch\" ausgewuchtet werden sollte:</p> <p>Statisch: 1 Das Auswuchten in der Ebene gilt für Werkzeughalter, die eine Betriebsdrehzahl von weniger als 20.000 U/min haben und bei denen die Gesamtlänge des Halters weniger als das Doppelte des maximalen Durchmessers des Werkzeughalters beträgt.</p> <p>Dynamisch: 2 Planwuchten gilt für Werkzeughalter mit einer Betriebsdrehzahl von mehr als 20.000 U/min, oder wenn die Gesamtlänge des Halters mehr als das Doppelte des maximalen Durchmessers des Werkzeughalters beträgt.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1016",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Was ist G1, G 2.5 und G 6,3 und wo ist es anwendbar?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Mit G ist die Auswuchtgüteklasse angegeben. CNC-Maschinen, Werkzeugmaschinenantriebe, Werkzeugindustrie verwenden für Schlichtwerkzeuge G2.5, für Schruppwerkzeuge G6.3 und für Schleifscheiben G1.</p> <p>Dies sind die Gütestufen nach DIN ISO 1940-1.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1066",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Welche verschiedenen Auswuchtmethoden gibt es?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>In der Auswuchttechnik gibt es drei Methoden, um die Unwucht auszugleichen: </p> <p>Materialzugabe im Schraubverfahren.<br/>Materialabtrag durch Bohren oder Fräsen<br/>Materialverschiebung durch Unwuchtringe.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1068",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Wenn die Drehzahl nur 2000 U/min beträgt, muss sie dann noch ausgewuchtet werden?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Wenn die Spindel nur mit 2000 U/min läuft, weil Vibrationen und Schneidgeräusche auftreten, dann liegt das an der Verwendung einer nicht ausgewuchteten Werkzeuganordnung. Wenn die Werkzeuge ausgewuchtet sind, können auch höhere Drehzahlen und Vorschübe verwendet werden und die Rentabilität wird erhöht.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1070",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Was bedeutet die Einheit gmm?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Das ist die Einheit, mit der die Unwucht gemessen wird. Der Grund für eine Unwucht ist eine rotierende Masse außerhalb der Rotationsachse. Die Unwucht wird ausgedrückt als das Produkt aus dieser Masse mal dem Abstand von der Drehachse, z. B. in Gramm-Millimeter (gmm) oder Kilogramm-Meter (kgm).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1072",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1036",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1038",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Wuchttechnik: Ihre Vorteile",
+     "href": "/solutions/wuchttechnik",
+     "caption": "<figcaption> <h3>Wuchttechnik: Ihre Vorteile</h3> <p>Wuchten wird unterschätzt. Dabei führt Wuchten zu mehr Wirtschaftlichkeit, weil es kostentreibenden Werkzeugverschleiß reduziert und Maschinenspindeln entlastet. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ]
+}

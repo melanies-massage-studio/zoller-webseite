@@ -1,0 +1,411 @@
+{
+ "path": "/unternehmen/medien",
+ "url": "/unternehmen/medien",
+ "title": "Medien",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Medien",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Medien",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/medien",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/media",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/medios-de-comunicacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/medias",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/midia",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/media",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/media",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/medien",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/media",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/medias",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/media",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/medios-de-comunicacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/midia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Medien </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c792",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Pressemitteilungen </h3>",
+   "articles": [
+    {
+     "href": "/unternehmen/medien/detail/werkzeugwuchten-mehr-qualitaet-geringere-kosten",
+     "img": {
+      "src": "/fileadmin/_processed_/c/9/csm_report_wuchten_teaserimg_e2610a8e69.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Wuchttechnik"
+     ],
+     "title": "Werkzeugwuchten: mehr Qualität, geringere Kosten",
+     "teaser": "Mit dem Thema Werkzeuge wuchten befassen sich auffallend wenige Fertigungen. Dabei ist Wuchten der Startpunkt für präzises Fertigen. »toolBalancer« von ZOLLER ist die perfekte Lösung und liefert Messergebnisse < 0,4 gmm.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/medien/detail/fuenf-irrtuemer-zur-digitalisierung",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_fuenf_irrtuermer_teaserimg_f37f1b5058.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung"
+     ],
+     "title": "Fünf Irrtümer zur Digitalisierung",
+     "teaser": "Besonders kleine Unternehmen zögern bei der Digitalisierung ihrer Fertigung und verschenken so Effizienzvorteile. Oft sind Vorurteile der Grund. Höchste Zeit, diese Irrtümer auszuräumen und passende Lösungen für kleine und mittelgroße Fertigungen aufzuzeigen.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/medien/detail/vollhartmetall-werkzeuge-so-begegnen-sie-dem-wolfram-preisschock",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "So begegnen Sie dem Wolfram-Preisschock",
+     "teaser": "Gegen die extreme Preissteigerung bei Vollhartmetall-Werkzeugen helfen zwei Strategien: Mehr Effizienz im Werkzeugeinsatz und höchste Präzision bei Nachschleifprozessen.",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c793",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/unternehmen/reports-stories?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=45&amp;cHash=25afede15b12521919a2bbdb5816e592\">Weitere Pressemitteilungen</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c797",
+   "bg": "lightgray",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Broschüren </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/blaetterkatalog/DRMAG_01_2026_DE/index.html",
+     "name": "ZOLLER Magazin 01|2026 (Flipbook)",
+     "size": "4 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/e/6/csm_ZOLLER_Magazin_1_2026_DRMAG01_26_DE_d9ad0fd714.png",
+      "alt": "",
+      "w": 310,
+      "h": 437
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/ZOLLER_Magazin_1_2026_DRMAG01_26_DE.pdf",
+     "name": "ZOLLER Magazin 01|2026",
+     "size": "3 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/e/6/csm_ZOLLER_Magazin_1_2026_DRMAG01_26_DE_d9ad0fd714.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazin 01|2026"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/ZOLLER80_Grussbotschaft_DE.pdf",
+     "name": "80 Jahre ZOLLER",
+     "size": "8 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/0/4/csm_ZOLLER80_Grussbotschaft_DE_7ce05227f3.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "80 Jahre ZOLLER"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/insights-ZOLLER_Broschuere_DE.pdf",
+     "name": "ZOLLER insights Broschüre",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/7/3/csm_insights-ZOLLER_Broschuere_DE_a3b2e037d8.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER insights Broschüre"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/ZOLLER_Broschuere_Kompetenz_BRKOM_00_DE.pdf",
+     "name": "ZOLLER Kompetenz Broschüre",
+     "size": "5 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/5/csm_ZOLLER_Broschuere_Kompetenz_BRKOM_00_DE_647e84a809.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Kompetenz Broschüre"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/Service_ZOLLER_Broschuere_DE.pdf",
+     "name": "Service Broschüre",
+     "size": "3 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/6/csm_Service_ZOLLER_Broschuere_DE_42c7c31c0b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Service Broschüre"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/Ansicht_rz_Zmagazine-05-2019_DE.pdf",
+     "name": "ZOLLER Magazin Ausgabe 2019 – 10 ZOLLER VORTEILE",
+     "size": "11 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/e/0/csm_Ansicht_rz_Zmagazine-05-2019_DE_7a5c6d4b32.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazin Ausgabe 2019 – 10 ZOLLER VORTEILE"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/Zmagazin-04-2018_DE_WEB.pdf",
+     "name": "ZOLLER Magazin Ausgabe 2018 – 4 ERFOLGSBESCHLEUNIGER",
+     "size": "8 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/1/4/csm_Zmagazin-04-2018_DE_WEB_3675c1564a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazin Ausgabe 2018 – 4 ERFOLGSBESCHLEUNIGER"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c4008",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "raw",
+   "html": "<h3> Pressekontakt </h3> <a href=\"/unternehmen/medien\" title=\"Henrieke Heimbeck\"> <img alt=\"\" height=\"554\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_press_contact_b9abc7099a.webp\" title=\"Henrieke Heimbeck\" width=\"1050\"/> </a> <h3>Henrieke Heimbeck</h3> <p>Assistentin der Geschäftsleitung</p> <p>Telefon</p> <a href=\"tel:+4971448970133\">+4971448970133</a> <p>E-Mail</p> <a href=\"mailto:heimbeck@zoller-d.com\">heimbeck@zoller-d.com</a>",
+   "ftype": "list",
+   "id": "c794",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_teaser_map_c7d5eb53c3.webp",
+    "alt": ""
+   },
+   "text": "<h3>Weltweit für Sie da</h3> <p><a class=\"btn\" href=\"/unternehmen/kontakt/standorte\">Zur Standortsuche</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c789",
+   "bg": "",
+   "space": {}
+  }
+ ]
+}
