@@ -17,11 +17,23 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "docs")
 ORIGIN = "https://www.zoller.info"
 HOME = "/startseite"
+SHOWROOM_URL = "https://melanies-massage-studio.github.io/zoller-produktumgebung-3d/"
+CUBE_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">'
+             '<path d="M12 2.8 20 7.4v9.2l-8 4.6-8-4.6V7.4z"/><path d="M4 7.4l8 4.6 8-4.6M12 12v9.2"/></svg>')
 
 PAGES = {}
 NAV = {}
 LOCATIONS = []
-ASSET_VER = date.today().strftime("%Y%m%d")
+def _asset_version():
+    import hashlib
+    h = hashlib.md5()
+    for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/stage3d.js"):
+        with open(os.path.join(ROOT, rel), "rb") as fh:
+            h.update(fh.read())
+    return h.hexdigest()[:10]
+
+
+ASSET_VER = _asset_version()
 
 esc = html.escape
 
@@ -798,6 +810,23 @@ def render_block(ctx, b):
     return out
 
 
+# ================================================ 3D-Showroom-Teaser ====
+def showroom_teaser(ctx, bg="bg-black"):
+    img = f'{ctx.prefix}assets/img/produktumgebung-3d.webp?v={ASSET_VER}'
+    return f'''<section class="section {bg} showroom-teaser" id="produktumgebung-3d"><div class="wrap"><div class="feature">
+  <div class="feature__media reveal-mask"><a class="media-frame showroom-teaser__frame" href="{SHOWROOM_URL}" aria-label="Produktumgebung 3D öffnen">
+    <img src="{img}" alt="Blick in die 3D-Produktumgebung: zentraler Platz mit ZOLLER-Symbol und den Themenwelten" width="1600" height="900" loading="lazy" decoding="async">
+    <span class="showroom-teaser__play">{CUBE_ICON}</span></a><span class="feature__badge">NEU · 3D</span></div>
+  <div class="feature__text">
+    <span class="eyebrow" data-reveal>Produktumgebung 3D</span>
+    <h2 data-reveal>Alle Produkte in einer 3D-Halle erleben</h2>
+    <p data-reveal>59 Produkte in sieben Themenwelten – von Einstellen &amp; Messen bis Wuchttechnik. Drehen, zoomen, zu Fuß durch die Halle gehen und jedes Gerät mit allen Details, Modellen und technischen Daten ansehen.</p>
+    <ul class="showroom-teaser__facts" data-reveal><li><b>59</b> Produkte</li><li><b>7</b> Themenwelten</li><li><b>360°</b> Rundgang</li></ul>
+    <p data-reveal><a class="btn" href="{SHOWROOM_URL}">3D-Showroom öffnen</a></p>
+  </div>
+</div></div></section>'''
+
+
 # ======================================================== Startseite ====
 def render_home(ctx, page):
     B = page["blocks"]
@@ -873,6 +902,8 @@ def render_home(ctx, page):
     # 4) Kennzahlen
     for b in by.get("kpis", []):
         out.append(r_kpis(ctx, b))
+    # 4b) 3D-Produktumgebung
+    out.append(showroom_teaser(ctx))
     # 5) Rechner-Banner
     for b in by.get("cta_strip", []):
         out.append(r_cta_strip(ctx, b))
@@ -968,6 +999,7 @@ def header_html(ctx):
   <a class="site-header__logo" href="{esc(home, quote=True)}" aria-label="ZOLLER Startseite"><img src="{ctx.prefix}assets/img/zoller.svg" alt="ZOLLER" width="118" height="27"></a>
   <nav class="mainnav" aria-label="Hauptnavigation"><ul class="mainnav__list">{"".join(items)}</ul></nav>
   <div class="site-header__tools">
+    <a class="showroom-link" href="{SHOWROOM_URL}" title="Alle Produkte in der 3D-Produktumgebung erleben">{CUBE_ICON}<span class="showroom-link__full">3D-Showroom</span><span class="showroom-link__short">3D</span></a>
     {meta}
     <a class="meta-link myzoller-link" href="https://myzoller.com/" target="_blank" rel="noopener" aria-label="MYZOLLER"><img src="{ctx.prefix}assets/img/myzoller.svg" alt="MYZOLLER" width="90" height="15"></a>
     <button class="icon-btn" type="button" data-search-open aria-label="Suche öffnen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></button>
@@ -998,7 +1030,9 @@ def mobile_nav(ctx):
         else:
             top.append(f'<a href="{esc(ctx.url(n["href"]), quote=True)}">{esc(n["label"])}</a>')
     meta = "".join(f'<a href="{esc(ctx.url(m["href"]), quote=True)}">{esc(m["label"])}</a>' for m in NAV["meta"])
-    return f'<nav class="mobile-nav" aria-label="Mobile Navigation" data-mobile-nav>{"".join(top)}<div class="mobile-nav__meta">{meta}<a href="https://myzoller.com/" target="_blank" rel="noopener">MYZOLLER</a></div></nav>'
+    showroom = (f'<a class="mobile-nav__showroom" href="{SHOWROOM_URL}">{CUBE_ICON}<span>Produktumgebung 3D'
+                f'<small>Alle Produkte im 3D-Showroom erleben</small></span></a>')
+    return f'<nav class="mobile-nav" aria-label="Mobile Navigation" data-mobile-nav>{showroom}{"".join(top)}<div class="mobile-nav__meta">{meta}<a href="https://myzoller.com/" target="_blank" rel="noopener">MYZOLLER</a></div></nav>'
 
 
 def footer_html(ctx):
@@ -1103,7 +1137,11 @@ def render_page(page):
             if prev == bg and b["type"] not in ("hero", "product_header", "subnav"):
                 b["_continued"] = True
             prev = bg if b["type"] != "subnav" else prev
-        parts = [render_block(ctx, b) for b in blocks]
+        parts = []
+        for b in blocks:
+            if page["path"] == "/produkte" and b["type"] == "productlist":
+                parts.append(showroom_teaser(ctx))
+            parts.append(render_block(ctx, b))
         body = "\n".join(p for p in parts if p)
         if not ctx.main_cls and not any(b["type"] in ("hero",) for b in blocks[:1]) and not any(b["type"] == "article" for b in blocks):
             # Seiten ohne Bühne bekommen einen Seitentitel, falls keiner vorhanden ist

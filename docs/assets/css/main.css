@@ -168,6 +168,10 @@ hr { border: 0; border-top: 1px solid currentColor; opacity: .15; margin: 2rem 0
 .meta-link { font-size: .8125rem; color: rgba(255, 255, 255, .7); padding: .4rem .6rem; border-radius: 999px; }
 .meta-link:hover { color: var(--white); background: rgba(255, 255, 255, .1); }
 .myzoller-link img { height: 15px; width: auto; }
+.showroom-link { display: inline-flex; align-items: center; gap: .45rem; margin-right: .5rem; padding: .45rem .85rem .45rem .7rem; border-radius: 999px; background: var(--yellow); color: var(--black); font-size: .8125rem; font-weight: 500; line-height: 1; white-space: nowrap; transition: transform .35s var(--ease-out), box-shadow .35s var(--ease-out); }
+.showroom-link svg { width: 17px; height: 17px; flex: none; }
+.showroom-link:hover { transform: translateY(-1px); box-shadow: 0 8px 24px -8px rgba(240, 230, 0, .8); }
+.showroom-link__short { display: none; }
 .burger { display: none; }
 
 /* Mega-Menü */
@@ -218,6 +222,9 @@ hr { border: 0; border-top: 1px solid currentColor; opacity: .15; margin: 2rem 0
 .mobile-nav li a { display: block; padding: .45rem 0; color: rgba(255, 255, 255, .85); }
 .mobile-nav li a small { display: block; color: var(--gray-500); font-size: .8125rem; }
 .mobile-nav > a { display: block; padding: 1rem 0; font-size: 1.375rem; font-weight: 500; border-bottom: 1px solid rgba(255, 255, 255, .12); }
+.mobile-nav > a.mobile-nav__showroom { display: flex; border-bottom: 0; align-items: center; gap: .9rem; margin: .5rem 0 1rem; padding: 1rem 1.1rem; border-radius: var(--radius-sm); background: var(--yellow); color: var(--black); font-size: 1.125rem; font-weight: 500; line-height: 1.2; }
+.mobile-nav__showroom svg { width: 28px; height: 28px; flex: none; }
+.mobile-nav__showroom small { display: block; font-size: .8125rem; font-weight: 400; opacity: .7; margin-top: .2rem; }
 .mobile-nav__meta { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; margin-top: 2rem; color: var(--gray-400); }
 
 /* Suche */
@@ -757,6 +764,17 @@ tr:hover td { background: rgba(240, 230, 0, .08); }
 .js .reveal-mask { clip-path: inset(12% 6% 12% 6% round var(--radius)); }
 .reduced-motion [data-reveal], .reduced-motion .reveal-mask { opacity: 1 !important; transform: none !important; clip-path: none !important; }
 
+/* ---------- 3D-Produktumgebung (Teaser) ---------- */
+.showroom-teaser .feature__media .media-frame { aspect-ratio: 16 / 9; display: block; box-shadow: 0 30px 80px -30px rgba(240, 230, 0, .35); }
+.showroom-teaser .media-frame img { transition: transform 1.2s var(--ease-out); }
+.showroom-teaser .media-frame:hover img { transform: scale(1.04); }
+.showroom-teaser__play { position: absolute; right: 1.25rem; bottom: 1.25rem; width: 64px; height: 64px; display: grid; place-items: center; border-radius: 50%; background: var(--yellow); color: var(--black); box-shadow: 0 10px 30px rgba(0, 0, 0, .35); transition: transform .4s var(--ease-out); }
+.showroom-teaser__play svg { width: 30px; height: 30px; }
+.showroom-teaser .media-frame:hover .showroom-teaser__play { transform: scale(1.08) rotate(-8deg); }
+.showroom-teaser__facts { list-style: none; display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.5rem 0 1.75rem; padding: 0; }
+.showroom-teaser__facts li { margin: 0; padding: .5rem .9rem; border-radius: 999px; background: rgba(255, 255, 255, .08); color: rgba(255, 255, 255, .8); font-size: .9375rem; }
+.showroom-teaser__facts b { color: var(--yellow); font-weight: 500; margin-right: .2rem; }
+
 /* ---------- Responsive ---------- */
 @media (max-width: 1180px) {
   .mainnav, .meta-link, .site-header__tools .myzoller-link { display: none; }
@@ -796,6 +814,9 @@ tr:hover td { background: rgba(240, 230, 0, .08); }
   .textmedia__media[data-cols="3"], .textmedia__media[data-cols="4"] { grid-template-columns: repeat(2, 1fr); }
   .hscroll__item { width: 86vw; }
   .site-header__logo { width: 104px; }
+  .showroom-link { margin-right: .25rem; padding: .45rem .65rem; }
+  .showroom-link__full { display: none; }
+  .showroom-link__short { display: inline; font-weight: 700; }
   .subnav .btn { display: none; }
 }
 
