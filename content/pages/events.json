@@ -201,11 +201,48 @@
    }
   },
   {
+   "type": "event_teaser",
+   "id": "automation-week",
+   "bg": "black",
+   "href": "/events/automation-week-torrance-2026",
+   "kicker": "Neu · 12.–16. Oktober 2026 · Torrance, Kalifornien",
+   "title": "ZOLLER Automation Week",
+   "text": "<p>Fünf Tage, drei Lösungen live: »coraLogistic«, »coraVarion« und »loadBox«. Sehen Sie das Einladungsvideo und sichern Sie sich Ihren Platz im Terminkalender.</p>",
+   "poster": "/assets/video/automation-week-poster.jpg"
+  },
+  {
    "type": "events",
    "months": [
     {
      "label": "Oktober 2026",
      "events": [
+      {
+       "month": "Okt",
+       "day": "12",
+       "weekday": "Montag",
+       "img": {
+        "src": "/assets/img/automation-week.svg",
+        "alt": "",
+        "w": 171,
+        "h": 70
+       },
+       "date": "12.10.2026 - 16.10.2026",
+       "place": "Torrance, Kalifornien, USA",
+       "title": "ZOLLER Automation Week",
+       "text": "<p>Fünf Tage Automation live bei ZOLLER Inc. Pacific: »coraLogistic«, »coraVarion« und »loadBox« in Live-Demos, Vorträgen und 1:1-Expertengesprächen.</p>",
+       "buttons": [
+        {
+         "label": "Zum Terminkalender",
+         "href": "/events/automation-week-torrance-2026#terminkalender",
+         "share": false
+        },
+        {
+         "label": "Event teilen",
+         "href": "mailto:?subject=Event%3A%20ZOLLER%20Automation%20Week&body=ZOLLER%20Automation%20Week%2C%2012.-16.10.2026%20%40%20Torrance%2C%20Kalifornien",
+         "share": true
+        }
+       ]
+      },
       {
        "month": "Okt",
        "day": "13",

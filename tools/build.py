@@ -33,7 +33,7 @@ def _asset_version():
     import hashlib
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/stage3d.js", "assets/js/productstage.js",
-                "assets/js/worldflight.js", "assets/js/world.js"):
+                "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js"):
         if not os.path.exists(os.path.join(ROOT, rel)):
             continue
         with open(os.path.join(ROOT, rel), "rb") as fh:
@@ -74,6 +74,8 @@ class Ctx:
             return href
         if not href.startswith("/"):
             return href
+        if href.startswith("/assets/"):
+            return self.prefix + href.lstrip("/")
         if href.startswith("/fileadmin/_processed_/") or re.search(r"\.(webp|jpe?g|png|gif|svg)$", href.split("?")[0], re.I):
             if href.startswith("/fileadmin/") and os.path.exists(os.path.join(OUT, urllib.parse.unquote(href.lstrip("/").split("?")[0]))):
                 return self.prefix + href.lstrip("/")
@@ -774,6 +776,122 @@ def r_events(ctx, b):
     return section(ctx, b, f'<div class="events">{"".join(groups)}</div>')
 
 
+# ===================================================== Event-Seiten ====
+WEEKDAYS = ("Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag")
+MONTHS = ("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember")
+ICON_CAL = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">'
+            '<rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>')
+ICON_PIN = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">'
+            '<path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>')
+ICON_CLOCK = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">'
+              '<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>')
+ICON_PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg>'
+
+
+def r_event_hero(ctx, b):
+    if ctx.first_block:
+        ctx.main_cls = "has-hero"
+    imgs = "".join(f'<img class="ev-hero__img ev-hero__img--{i}" src="{esc(ctx.url(im["src"]), quote=True)}" alt="{esc(im.get("alt", ""), quote=True)}"'
+                   f'{" fetchpriority=high" if i == 0 else " loading=lazy"}>' for i, im in enumerate(b.get("images", [])))
+    btns = "".join(f'<a class="btn{" btn--ghost" if x.get("ghost") else ""}" href="{esc(ctx.url(x["href"]), quote=True)}">{esc(x["label"])}</a>'
+                   for x in b.get("buttons", []))
+    meta = "".join(f'<li>{ic}<span>{esc(b[k])}</span></li>' for k, ic in (("dates", ICON_CAL), ("place", ICON_PIN), ("hours", ICON_CLOCK)) if b.get(k))
+    return (f'<section class="ev-hero bg-black" id="{esc(b.get("id", ""))}"><div class="ev-hero__glow" aria-hidden="true"></div>'
+            f'<div class="ev-hero__symbol" aria-hidden="true">{SYMBOL_SVG}</div>'
+            f'<div class="wrap ev-hero__inner"><div class="ev-hero__copy" data-hero-copy>'
+            f'<p class="ev-hero__kicker">{esc(b.get("kicker", ""))}</p><h1 class="ev-hero__title">{esc(b.get("title", ""))}</h1>'
+            f'<p class="ev-hero__sub">{esc(b.get("subtitle", ""))}</p><ul class="ev-hero__meta">{meta}</ul>'
+            f'<div class="hero__btns">{btns}</div></div><div class="ev-hero__stage" aria-hidden="true">{imgs}</div></div>'
+            f'<span class="scroll-cue" aria-hidden="true"></span></section>')
+
+
+def r_event_facts(ctx, b):
+    items = "".join(f'<div class="ev-fact" data-reveal><b>{esc(x["value"])}</b><span>{esc(x["label"])}</span><p>{esc(x.get("text", ""))}</p></div>'
+                    for x in b.get("items", []))
+    return section(ctx, b, f'<div class="ev-facts">{items}</div>', tight=True)
+
+
+def r_event_video(ctx, b):
+    head = (f'<div class="section-head section-head--center" data-reveal><p class="ev-kicker">{esc(b.get("kicker", ""))}</p>'
+            f'<h2>{esc(b.get("title", ""))}</h2>{rte(ctx, b.get("text", ""))}</div>')
+    player = (f'<div class="ev-video reveal-mask" data-ev-video><video src="{esc(ctx.url(b["src"]), quote=True)}" poster="{esc(ctx.url(b["poster"]), quote=True)}" '
+              f'preload="none" playsinline controls></video><button class="ev-video__play" type="button" aria-label="Video abspielen">{ICON_PLAY}</button></div>')
+    return section(ctx, b, head + player)
+
+
+def r_event_products(ctx, b):
+    head = f'<div class="section-head" data-reveal><h2>{esc(b.get("title", ""))}</h2>{rte(ctx, b.get("text", ""))}</div>'
+    cards = []
+    for it in b.get("items", []):
+        lis = "".join(f"<li>{esc(x)}</li>" for x in it.get("benefits", []))
+        cards.append(f'<article class="ev-product" data-reveal><div class="ev-product__media"><img src="{esc(ctx.url(it["img"]), quote=True)}" alt="" loading="lazy"></div>'
+                     f'<div class="ev-product__body"><h3>{esc(it["name"])}</h3><p class="ev-product__claim">{esc(it.get("claim", ""))}</p><ul class="ev-benefits">{lis}</ul>'
+                     f'<div class="ev-product__links"><a class="link-arrow" href="{esc(ctx.url(it["href"]), quote=True)}">Zum Produkt</a>'
+                     f'<button class="link-arrow" type="button" data-agenda-jump="{esc(it["tag"], quote=True)}">Demos im Terminkalender</button></div></div></article>')
+    return section(ctx, b, head + f'<div class="ev-products">{"".join(cards)}</div>')
+
+
+def r_agenda(ctx, b):
+    ctx.has_agenda = True
+    tags = {"coralogistic": "»coraLogistic«", "coravarion": "»coraVarion«", "loadbox": "»loadBox«"}
+    tabs, panels = [], []
+    for i, d in enumerate(b.get("days", [])):
+        y, m, dd = (int(x) for x in d["date"].split("-"))
+        dt = date(y, m, dd)
+        wd = WEEKDAYS[dt.weekday()]
+        did = f"tag-{dt.isoformat()}"
+        tabs.append(f'<button class="agenda__tab" type="button" role="tab" id="{did}-tab" aria-controls="{did}" aria-selected="{"true" if i == 0 else "false"}"'
+                    f'{"" if i == 0 else " tabindex=-1"}><span class="agenda__wd">{wd[:2]}</span><b>{dd}</b><span class="agenda__lab">{esc(d.get("label", ""))}</span></button>')
+        rows = []
+        for s in d.get("slots", []):
+            tag = s.get("tag", "")
+            kind = s.get("kind", "")
+            bookable = bool(s.get("seats"))
+            chip = f'<span class="agenda__chip agenda__chip--{esc(tag)}">{esc(tags[tag])}</span>' if tag in tags else ""
+            seats = f'<span class="agenda__seats">max. {s["seats"]} {"Teilnehmer" if s["seats"] > 3 else "Termine"}</span>' if bookable else ""
+            acts = (f'<button class="btn agenda__book" type="button" data-book>Platz anfragen</button>' if bookable else "") + \
+                   f'<button class="agenda__ics" type="button" data-ics aria-label="In Kalender eintragen: {esc(s["title"], quote=True)}">{ICON_CAL}<span>Kalender</span></button>'
+            text = f'<p>{esc(s["text"])}</p>' if s.get("text") else ""
+            slug = {"1:1": "meeting"}.get(kind, re.sub(r"\W+", "-", kind.lower()))
+            rows.append(f'<li class="agenda__slot agenda__slot--{slug}" data-tag="{esc(tag or "none")}" '
+                        f'data-date="{d["date"]}" data-start="{s["start"]}" data-end="{s["end"]}" data-title="{esc(s["title"], quote=True)}">'
+                        f'<div class="agenda__time"><b>{s["start"]}</b><span>{s["end"]}</span></div>'
+                        f'<div class="agenda__body"><div class="agenda__tags"><span class="agenda__kind">{esc(kind)}</span>{chip}{seats}</div>'
+                        f'<h4>{esc(s["title"])}</h4>{text}</div>'
+                        f'<div class="agenda__acts">{acts}</div></li>')
+        panels.append(f'<div class="agenda__day" role="tabpanel" id="{did}" aria-labelledby="{did}-tab"{"" if i == 0 else " hidden"}>'
+                      f'<div class="agenda__dayhead"><h3>{wd}, {dd}. {MONTHS[m - 1]} {y}</h3><p>{esc(d.get("focus", ""))}</p></div>'
+                      f'<ol class="agenda__list">{"".join(rows)}</ol><p class="agenda__empty" hidden>An diesem Tag gibt es keinen Programmpunkt zu dieser Lösung – wählen Sie einen anderen Tag.</p></div>')
+    filters = '<button type="button" class="agenda__filter is-active" data-filter="all" aria-pressed="true">Alle</button>' + "".join(
+        f'<button type="button" class="agenda__filter agenda__filter--{k}" data-filter="{k}" aria-pressed="false">{esc(v)}</button>' for k, v in tags.items())
+    head = (f'<div class="agenda__head"><div class="section-head" data-reveal><h2>{esc(b.get("title", ""))}</h2>{rte(ctx, b.get("text", ""))}</div>'
+            f'<button class="btn btn--ghost agenda__all" type="button" data-ics-all>{ICON_CAL}Ganze Woche in den Kalender</button></div>')
+    cfg = {k: b.get(k, "") for k in ("email", "event", "location", "tz", "tzoffset")}
+    return section(ctx, b, head + f'<div class="agenda" data-agenda=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=False)}\'>'
+                   f'<div class="agenda__bar"><div class="agenda__tabs" role="tablist" aria-label="Veranstaltungstage">{"".join(tabs)}</div>'
+                   f'<div class="agenda__filters" role="group" aria-label="Nach Lösung filtern">{filters}</div></div>{"".join(panels)}</div>')
+
+
+def r_event_venue(ctx, b):
+    c = b.get("contact", {})
+    notes = "".join(f"<li>{esc(x)}</li>" for x in b.get("notes", []))
+    lines = "<br>".join(esc(x) for x in b.get("lines", []))
+    tel = re.sub(r"[^\d+]", "", c.get("phone", ""))
+    return section(ctx, b, f'<div class="ev-venue"><div data-reveal><h2>{esc(b.get("title", ""))}</h2><address><strong>{esc(b.get("name", ""))}</strong><br>{lines}</address>'
+                   f'<p><a class="btn" href="{esc(b["map"], quote=True)}" target="_blank" rel="noopener">Route planen</a></p></div>'
+                   f'<div data-reveal><ul class="ev-benefits">{notes}</ul><div class="ev-venue__contact"><h3>{esc(c.get("label", ""))}</h3>'
+                   f'<p><a href="mailto:{esc(c.get("email", ""), quote=True)}">{esc(c.get("email", ""))}</a><br><a href="tel:{tel}">{esc(c.get("phone", ""))}</a></p></div></div></div>')
+
+
+def r_event_teaser(ctx, b):
+    href = esc(ctx.url(b["href"]), quote=True)
+    return section(ctx, b, f'<div class="feature ev-teaser"><div class="feature__media reveal-mask"><a class="media-frame ev-teaser__frame" href="{href}#video" aria-label="Einladungsvideo ansehen">'
+                   f'<img src="{esc(ctx.url(b["poster"]), quote=True)}" alt="" loading="lazy"><span class="ev-video__play">{ICON_PLAY}</span></a></div>'
+                   f'<div class="feature__text"><p class="ev-kicker" data-reveal>{esc(b.get("kicker", ""))}</p><h2 data-reveal>{esc(b.get("title", ""))}</h2>'
+                   f'<div data-reveal>{rte(ctx, b.get("text", ""))}</div><p class="hero__btns" data-reveal><a class="btn" href="{href}#terminkalender">Zum Terminkalender</a>'
+                   f'<a class="btn btn--ghost" href="{href}#video">Video ansehen</a></p></div></div>')
+
+
 def r_academy(ctx, b):
     flt = b.get("filters", {})
     selects = []
@@ -850,6 +968,8 @@ RENDER = {
     "cta_banner": r_cta_banner, "newslist": r_newslist, "taglist": r_taglist, "quote": r_quote,
     "icon_list": r_icon_list, "goals": r_goals, "timeline": r_timeline, "form": r_form,
     "locations": r_locations, "events": r_events, "academy": r_academy, "search": r_search,
+    "event_hero": r_event_hero, "event_facts": r_event_facts, "event_video": r_event_video, "event_products": r_event_products,
+    "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser,
     "article": r_article, "raw": r_raw,
 }
 
@@ -1225,6 +1345,7 @@ def render_page(page):
     ctx.main_cls = ""
     ctx.has_stage = False
     ctx.has_worldflight = False
+    ctx.has_agenda = False
     is_home = page["path"] == HOME
     if is_home:
         body = render_home(ctx, page)
@@ -1289,6 +1410,9 @@ def render_page(page):
 <script src="{ctx.prefix}assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/lenis.min.js" defer></script>
 <script src="{ctx.prefix}assets/js/main.js?v={ASSET_VER}" defer></script>'''
+    if ctx.has_agenda:
+        scripts += f'''
+<script src="{ctx.prefix}assets/js/eventagenda.js?v={ASSET_VER}" defer></script>'''
     modules = []
     if is_home:
         modules.append("stage3d.js")
