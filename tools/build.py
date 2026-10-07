@@ -23,11 +23,19 @@ CUBE_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-
 
 PAGES = {}
 NAV = {}
+SHOW = {}        # Produktpfad -> Produkt aus der 3D-Produktumgebung (assets/showroom/products.json)
+SHOW_CATS = {}   # Kategorie-ID -> Kategorie
+STAGE_KINDS = ("machine", "pedestal", "software")
+ZSYMBOL_SVG = ('<svg class="product-hero__symbol" viewBox="-62 -62 124 124" aria-hidden="true"><circle r="27"/>'
+               '<path d="M19 -19 L42 -42 M19 19 L42 42 M-19 19 L-42 42 M-19 -19 L-42 -42"/></svg>')
 LOCATIONS = []
 def _asset_version():
     import hashlib
     h = hashlib.md5()
-    for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/stage3d.js"):
+    for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/stage3d.js", "assets/js/productstage.js",
+                "assets/js/worldflight.js", "assets/js/world.js"):
+        if not os.path.exists(os.path.join(ROOT, rel)):
+            continue
         with open(os.path.join(ROOT, rel), "rb") as fh:
             h.update(fh.read())
     return h.hexdigest()[:10]
@@ -292,14 +300,54 @@ def r_hero(ctx, b):
     return f'<section class="{cls}" id="{esc(b.get("id", ""))}" data-hero>{inner}{"<span class=scroll-cue aria-hidden=true></span>" if ctx.first_block else ""}</section>'
 
 
+def show_product(path):
+    p = SHOW.get((path or "").rstrip("/"))
+    return p if p and p.get("kind") in STAGE_KINDS else None
+
+
 def r_product_header(ctx, b):
     if ctx.first_block or ctx.after_subnav:
         ctx.main_cls = "has-hero"
+    p = show_product(ctx.path)
+    if p:
+        return product_stage(ctx, b, p)
     img = img_tag(ctx, b.get("img"), eager=True, alt=b.get("title", ""))
     return (f'<section class="product-hero" id="{esc(b.get("id", ""))}"><div class="wrap"><div class="product-hero__grid">'
             f'<div class="product-hero__copy" data-hero-copy><h1 class="product-hero__name">{esc(b.get("title", ""))}</h1>'
             f'<div class="product-hero__claim">{rte(ctx, b.get("text", ""))}</div></div>'
             f'<div class="product-hero__img" data-product-img>{img}</div></div></div></section>')
+
+
+def product_stage(ctx, b, p):
+    """Produkt-Hero mit 3D-Bühne (assets/js/productstage.js); ohne WebGL bleibt das Foto mit SVG-Symbol."""
+    ctx.has_stage = True
+    cut = f'{ctx.prefix}assets/showroom/img/hd/{p["id"]}.webp'
+    cat = SHOW_CATS.get(p["cat"], {})
+    crumbs = [cat.get("name", ""), p.get("sub", "")] + ([p["badge"]] if p.get("badge") else [])
+    eyebrow = " · ".join(esc(c) for c in crumbs if c)
+    title = b.get("title") or p["name"]
+    showroom = (f'<a class="btn btn--ghost btn--3d" href="{SHOWROOM_URL}#produkt/{p["id"]}">'
+                f'{CUBE_ICON}<span>Im 3D-Showroom ansehen</span></a>')
+    return (f'<section class="product-hero product-hero--stage" id="{esc(b.get("id", "") or "produkt")}" data-product-stage '
+            f'data-cutout="{esc(cut, quote=True)}" data-aspect="{p.get("aspect", 1.2)}" data-kind="{esc(p["kind"])}">'
+            f'<div class="wrap"><div class="product-hero__grid">'
+            f'<div class="product-hero__copy" data-hero-copy><span class="product-hero__eyebrow">{eyebrow}</span>'
+            f'<h1 class="product-hero__name">{esc(title)}</h1>'
+            f'<div class="product-hero__claim">{rte(ctx, b.get("text", ""))}</div>'
+            f'<div class="product-hero__actions">{showroom}</div></div>'
+            f'<div class="product-hero__img" data-product-img>{ZSYMBOL_SVG}'
+            f'<img class="product-hero__cutout" src="{esc(cut, quote=True)}" alt="{esc(title, quote=True)}" fetchpriority="high" decoding="async">'
+            f'<canvas class="product-hero__canvas" aria-hidden="true"></canvas></div>'
+            f'</div></div><span class="scroll-cue" aria-hidden="true"></span></section>')
+
+
+def showroom_strip(ctx, cat):
+    n = cat.get("count", 0)
+    return (f'<section class="section section--tight"><div class="wrap"><div class="cta-strip cta-strip--3d" data-reveal="scale">'
+            f'<div class="cta-strip__text"><span class="cta-strip__icon">{CUBE_ICON}</span><div class="rte">'
+            f'<p class="bold"><strong>Themenwelt »{esc(cat["name"])}« in 3D erleben</strong></p>'
+            f'<p>{n} {"Produkt" if n == 1 else "Produkte"} auf einer Bühne im 3D-Showroom – drehen, zoomen und zu Fuß durch die Halle gehen.</p></div></div>'
+            f'<a class="btn" href="{SHOWROOM_URL}#themenwelt/{cat["id"]}">3D-Showroom öffnen</a></div></div></section>')
 
 
 def r_subnav(ctx, b):
@@ -481,7 +529,12 @@ def r_bento(ctx, b):
 
 def product_card(ctx, it, i=0):
     href = ctx.url(it.get("href", ""))
-    img = img_tag(ctx, it.get("img"), alt="")
+    sp = show_product(it.get("href", ""))
+    if sp:
+        img = (f'<img src="{ctx.prefix}assets/showroom/img/hd/{sp["id"]}.webp" alt="" loading="lazy" decoding="async" '
+               f'data-product="{sp["id"]}">')
+    else:
+        img = img_tag(ctx, it.get("img"), alt="")
     title = esc(it.get("title", ""))
     text = it.get("text", "")
     text_html = rte(ctx, text) if text.startswith("<") else (f"<p>{esc(text)}</p>" if text else "")
@@ -827,6 +880,51 @@ def showroom_teaser(ctx, bg="bg-black"):
 </div></div></section>'''
 
 
+def worldflight(ctx):
+    """Startseite: scroll-gesteuerter Kameraflug durch die 3D-Halle (assets/js/worldflight.js)."""
+    ctx.has_worldflight = True
+    cats = list(SHOW_CATS.values())
+    prods = list(SHOW.values())
+    total = sum(c.get("count", 0) for c in cats)
+    chapters = [f'''<div class="wf-chapter wf-chapter--intro" data-chapter="0">
+  <span class="eyebrow">Die ZOLLER Produktwelt in 3D</span>
+  <h2>{total} Produkte.<br>{len(cats)} Themenwelten.<br><em>Eine Halle.</em></h2>
+  <p>Scrollen Sie – die Kamera fliegt durch alle Themenwelten der 3D-Produktumgebung.</p>
+  <span class="wf-scroll" aria-hidden="true"><i></i></span></div>''']
+    rail = []
+    for i, c in enumerate(cats):
+        items = [p for p in prods if p.get("cat") == c["id"]]
+        chips = "".join(f'<li><a href="{esc(ctx.url(p["path"]), quote=True)}">{esc(p["name"])}</a></li>' for p in items[:9])
+        more = f'<li class="wf-more">+ {len(items) - 9} weitere</li>' if len(items) > 9 else ""
+        n = c.get("count", len(items))
+        chapters.append(f'''<div class="wf-chapter" data-chapter="{i + 1}">
+  <span class="wf-num">{i + 1:02d}<small> / {len(cats):02d}</small></span>
+  <h3>{esc(c["name"])}</h3>
+  <p class="wf-text">{esc(c.get("text", ""))}</p>
+  <p class="wf-count"><b>{n}</b> {"Produkt" if n == 1 else "Produkte"}</p>
+  <ul class="wf-chips">{chips}{more}</ul>
+  <div class="wf-links"><a class="link-arrow" href="{esc(ctx.url("/produkte/" + c["id"]), quote=True)}">Themenwelt ansehen →</a>
+  <a class="wf-3d" href="{SHOWROOM_URL}#themenwelt/{c["id"]}">{CUBE_ICON}In 3D begehen</a></div></div>''')
+        rail.append(f'<li><button type="button" data-goto="{i + 1}" aria-label="{esc(c["name"], quote=True)}"><span>{esc(c["name"])}</span></button></li>')
+    chapters.append(f'''<div class="wf-chapter wf-chapter--outro" data-chapter="{len(cats) + 1}">
+  <span class="eyebrow">Produktumgebung 3D</span>
+  <h2>Jetzt selbst durch<br>die Halle gehen.</h2>
+  <p>Jedes Gerät anklicken, Details lesen, im Begehen-Modus zu Fuß durch alle Themenwelten.</p>
+  <p><a class="btn" href="{SHOWROOM_URL}">3D-Showroom öffnen</a></p></div>''')
+    img = f'{ctx.prefix}assets/img/produktumgebung-3d.webp?v={ASSET_VER}'
+    return f'''<section class="worldflight" id="produktwelt" data-worldflight data-base="{ctx.prefix}assets/showroom/" aria-label="Die ZOLLER Produktwelt in 3D">
+  <div class="worldflight__sticky">
+    <div class="worldflight__poster" style="background-image:url('{img}')"></div>
+    <canvas class="worldflight__canvas" aria-hidden="true"></canvas>
+    <div class="worldflight__shade" aria-hidden="true"></div>
+    <div class="worldflight__loading" aria-hidden="true"><i></i><span>Halle wird geladen</span></div>
+    <div class="wrap worldflight__ui">{"".join(chapters)}</div>
+    <ol class="worldflight__rail" aria-label="Themenwelten">{"".join(rail)}</ol>
+    <div class="worldflight__bar" aria-hidden="true"><i></i></div>
+  </div>
+</section>'''
+
+
 # ======================================================== Startseite ====
 def render_home(ctx, page):
     B = page["blocks"]
@@ -902,8 +1000,8 @@ def render_home(ctx, page):
     # 4) Kennzahlen
     for b in by.get("kpis", []):
         out.append(r_kpis(ctx, b))
-    # 4b) 3D-Produktumgebung
-    out.append(showroom_teaser(ctx))
+    # 4b) 3D-Produktwelt: Kameraflug durch die Halle
+    out.append(worldflight(ctx) if SHOW_CATS else showroom_teaser(ctx))
     # 5) Rechner-Banner
     for b in by.get("cta_strip", []):
         out.append(r_cta_strip(ctx, b))
@@ -1125,6 +1223,8 @@ def render_page(page):
     ctx.after_subnav = False
     ctx.has_subnav = False
     ctx.main_cls = ""
+    ctx.has_stage = False
+    ctx.has_worldflight = False
     is_home = page["path"] == HOME
     if is_home:
         body = render_home(ctx, page)
@@ -1137,10 +1237,26 @@ def render_page(page):
             if prev == bg and b["type"] not in ("hero", "product_header", "subnav"):
                 b["_continued"] = True
             prev = bg if b["type"] != "subnav" else prev
+        sp = show_product(page["path"])
+        if sp and not any(b["type"] == "product_header" for b in blocks):
+            # Produktseiten ohne eigenen Kopf (Speziallösungen, Software) bekommen eine 3D-Bühne
+            blocks = list(blocks)
+            at = 1 if blocks and blocks[0]["type"] == "subnav" else 0
+            text = sp.get("teaser") or sp.get("claim") or ""
+            blocks.insert(at, {"type": "product_header", "id": "produkt", "title": sp["name"],
+                               "text": f'<p>{esc(text)}</p><p><a class="btn" href="/unternehmen/kontakt">Jetzt anfragen</a></p>'})
+            nxt = blocks[at + 1] if len(blocks) > at + 1 else None
+            if nxt and nxt["type"] == "textmedia" and "<h1" in nxt.get("header", ""):
+                nxt = dict(nxt)
+                nxt["header"] = nxt["header"].replace("<h1", "<h2").replace("</h1>", "</h2>")
+                blocks[at + 1] = nxt
+        cat_id = page["path"].split("/")[-1] if page["path"].count("/") == 2 and page["path"].startswith("/produkte/") else None
         parts = []
         for b in blocks:
             if page["path"] == "/produkte" and b["type"] == "productlist":
                 parts.append(showroom_teaser(ctx))
+            if cat_id in SHOW_CATS and b["type"] == "productlist":
+                parts.append(showroom_strip(ctx, SHOW_CATS[cat_id]))
             parts.append(render_block(ctx, b))
         body = "\n".join(p for p in parts if p)
         if not ctx.main_cls and not any(b["type"] in ("hero",) for b in blocks[:1]) and not any(b["type"] == "article" for b in blocks):
@@ -1173,10 +1289,19 @@ def render_page(page):
 <script src="{ctx.prefix}assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/lenis.min.js" defer></script>
 <script src="{ctx.prefix}assets/js/main.js?v={ASSET_VER}" defer></script>'''
+    modules = []
     if is_home:
+        modules.append("stage3d.js")
+    if ctx.has_worldflight:
+        modules.append("worldflight.js")
+    if ctx.has_stage:
+        modules.append("productstage.js")
+    if modules:
         scripts += f'''
-<script type="importmap">{{"imports":{{"three":"{ctx.root}assets/vendor/three.module.min.js"}}}}</script>
-<script type="module" src="{ctx.prefix}assets/js/stage3d.js?v={ASSET_VER}"></script>'''
+<script type="importmap">{{"imports":{{"three":"{ctx.root}assets/vendor/three.module.min.js"}}}}</script>'''
+        for m in modules:
+            scripts += f'''
+<script type="module" src="{ctx.prefix}assets/js/{m}?v={ASSET_VER}"></script>'''
     doc = f'''{head}
 <body class="{body_cls}" data-root="{ctx.root}">
 <a class="skip-link" href="#main">Zum Inhalt springen</a>
@@ -1222,6 +1347,11 @@ def search_index():
 def main():
     global NAV, LOCATIONS
     NAV = json.load(open(os.path.join(ROOT, "content", "nav.json"), encoding="utf-8"))
+    show_file = os.path.join(ROOT, "assets", "showroom", "products.json")
+    if os.path.exists(show_file):
+        sd = json.load(open(show_file, encoding="utf-8"))
+        SHOW_CATS.update({c["id"]: c for c in sd["categories"]})
+        SHOW.update({p["path"].rstrip("/"): p for p in sd["products"] if p.get("path")})
     loc_file = os.path.join(ROOT, "content", "locations.json")
     if os.path.exists(loc_file):
         LOCATIONS = json.load(open(loc_file, encoding="utf-8"))

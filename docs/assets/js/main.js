@@ -17,6 +17,7 @@
     if (window.Lenis && !matchMedia('(pointer: coarse)').matches) {
       lenis = new Lenis({ duration: 1.15, easing: t => Math.min(1, 1.001 - Math.pow(2, -10 * t)), smoothWheel: true });
       lenis.on('scroll', ScrollTrigger.update);
+      window.__lenis = lenis;
       gsap.ticker.add(t => lenis.raf(t * 1000));
       gsap.ticker.lagSmoothing(0);
     }
@@ -313,6 +314,13 @@
     $$('.product-hero').forEach(ph => {
       const img = ph.querySelector('[data-product-img]');
       const copy = ph.querySelector('[data-hero-copy]');
+      if (ph.hasAttribute('data-product-stage')) {
+        // 3D-Bühne animiert das Gerät selbst; hier nur Text und sanftes Ausblenden beim Scrollen
+        if (copy) gsap.from(copy.children, { y: 40, opacity: 0, duration: 1.3, ease: 'expo.out', stagger: .1, delay: .15 });
+        if (copy) gsap.to(copy, { yPercent: -18, opacity: .15, ease: 'none', scrollTrigger: { trigger: ph, start: 'top top', end: 'bottom top', scrub: true } });
+        gsap.to(img, { yPercent: -8, ease: 'none', scrollTrigger: { trigger: ph, start: 'top top', end: 'bottom top', scrub: true } });
+        return;
+      }
       gsap.from(img, { y: 120, opacity: 0, scale: .92, duration: 1.6, ease: 'expo.out', delay: .1 });
       if (copy) gsap.from(copy.children, { y: 40, opacity: 0, duration: 1.3, ease: 'expo.out', stagger: .12 });
       gsap.to(img, { yPercent: -12, scale: 1.06, ease: 'none', scrollTrigger: { trigger: ph, start: 'top top', end: 'bottom top', scrub: true } });
@@ -483,4 +491,93 @@
   $$('a[href^="http"]').forEach(a => {
     if (!a.target && !a.href.includes(location.host)) { a.target = '_blank'; a.rel = 'noopener'; }
   });
+
+  /* ------------------------------------------- Produktkarten: 3D-Kippen + Lichtreflex */
+  if (!reduced && matchMedia('(hover: hover) and (pointer: fine)').matches) {
+    $$('.product-card').forEach(card => {
+      let raf = 0, rx = 0, ry = 0, gx = 50, gy = 50;
+      const apply = () => {
+        raf = 0;
+        card.style.setProperty('--rx', `${rx.toFixed(2)}deg`); card.style.setProperty('--ry', `${ry.toFixed(2)}deg`);
+        card.style.setProperty('--gx', `${gx.toFixed(1)}%`); card.style.setProperty('--gy', `${gy.toFixed(1)}%`);
+        card.style.setProperty('--mx', (ry / 6).toFixed(3)); card.style.setProperty('--my', (-rx / 5).toFixed(3));
+      };
+      card.addEventListener('pointermove', (e) => {
+        const r = card.getBoundingClientRect();
+        const x = (e.clientX - r.left) / r.width, y = (e.clientY - r.top) / r.height;
+        ry = (x - 0.5) * 12; rx = (0.5 - y) * 10; gx = x * 100; gy = y * 100;
+        card.classList.add('is-tilting');
+        if (!raf) raf = requestAnimationFrame(apply);
+      });
+      card.addEventListener('pointerleave', () => { rx = ry = 0; gx = gy = 50; card.classList.remove('is-tilting'); if (!raf) raf = requestAnimationFrame(apply); });
+    });
+
+    /* Magnetische Buttons */
+    $$('.btn, .showroom-link, .wf-3d').forEach(btn => {
+      btn.addEventListener('pointermove', (e) => {
+        const r = btn.getBoundingClientRect();
+        const x = (e.clientX - r.left - r.width / 2) / r.width, y = (e.clientY - r.top - r.height / 2) / r.height;
+        btn.style.translate = `${(x * 8).toFixed(1)}px ${(y * 6).toFixed(1)}px`;
+      });
+      btn.addEventListener('pointerleave', () => { btn.style.translate = ''; });
+    });
+  }
+
+  /* ------------------------------------------- Seitenübergang: Karte → Produkt (View Transitions) */
+  // Das angeklickte Kartenbild bekommt den Namen der Produktbühne und "fliegt" auf die neue Seite.
+  document.addEventListener('click', (e) => {
+    const card = e.target.closest('a.product-card');
+    if (!card || e.metaKey || e.ctrlKey || e.shiftKey || card.target === '_blank') return;
+    $$('[style*="view-transition-name"]').forEach(el => { if (el.style.viewTransitionName === 'product-hero') el.style.viewTransitionName = ''; });
+    const img = card.querySelector('.product-card__img img');
+    if (img) img.style.viewTransitionName = 'product-hero';
+  });
+  window.addEventListener('pageshow', () => {
+    $$('.product-card__img img').forEach(img => { img.style.viewTransitionName = ''; });
+  });
+
+  /* ------------------------------------------- Überschriften: Wort für Wort aus der Maske */
+  if (!reduced && 'IntersectionObserver' in window) {
+    const heads = $$('main .section h2, main .section .section-head h2, main .feature__text h2').filter(h =>
+      !h.closest('[data-words], .worldflight, .product-hero, .modal, .mega, .accordion, .slider__slide') &&
+      [...h.childNodes].every(n => n.nodeType === 3 || ['BR', 'EM', 'STRONG', 'SPAN'].includes(n.nodeName) && !n.querySelector?.('*')));
+    const hio = new IntersectionObserver((entries) => entries.forEach(en => {
+      if (en.isIntersecting) { en.target.classList.add('is-in'); hio.unobserve(en.target); }
+    }), { rootMargin: '0px 0px -10% 0px' });
+    heads.forEach(h => {
+      let i = 0;
+      const wrap = (node) => {
+        if (node.nodeType === 3) {
+          const frag = document.createDocumentFragment();
+          node.textContent.split(/(\s+)/).forEach(part => {
+            if (!part) return;
+            if (/^\s+$/.test(part)) { frag.appendChild(document.createTextNode(' ')); return; }
+            const o = document.createElement('span'); o.className = 'hw';
+            const inner = document.createElement('span'); inner.textContent = part; inner.style.setProperty('--i', i++);
+            o.appendChild(inner); frag.appendChild(o);
+          });
+          node.replaceWith(frag);
+        } else if (node.nodeName !== 'BR') { [...node.childNodes].forEach(wrap); }
+      };
+      [...h.childNodes].forEach(wrap);
+      h.classList.add('h-split');
+      hio.observe(h);
+    });
+  }
+
+  /* ------------------------------------------- Lichtschein folgt dem Mauszeiger (dunkle Bereiche) */
+  if (!reduced && matchMedia('(hover: hover) and (pointer: fine)').matches) {
+    $$('main .bg-black, .site-footer').forEach(sec => {
+      const glow = document.createElement('span'); glow.className = 'cursor-glow'; glow.setAttribute('aria-hidden', 'true');
+      if (getComputedStyle(sec).position === 'static') sec.style.position = 'relative';
+      sec.prepend(glow);
+      let raf = 0, x = 0, y = 0;
+      sec.addEventListener('pointermove', (e) => {
+        const r = sec.getBoundingClientRect(); x = e.clientX - r.left; y = e.clientY - r.top;
+        if (!raf) raf = requestAnimationFrame(() => { raf = 0; glow.style.transform = `translate3d(${x}px, ${y}px, 0)`; });
+        glow.classList.add('is-on');
+      });
+      sec.addEventListener('pointerleave', () => glow.classList.remove('is-on'));
+    });
+  }
 })();

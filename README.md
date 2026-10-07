@@ -32,6 +32,7 @@ Danach http://localhost:8765 öffnen.
 ## Seite neu erzeugen
 
 ```bash
+python3 tools/sync_showroom.py  # übernimmt Produktbilder, Daten und 3D-Engine aus ../zoller-produktumgebung-3d
 python3 tools/build.py          # erzeugt docs/ aus content/ (SITE_BASE=/ bei eigener Domain)
 python3 tools/check_links.py    # prüft alle internen Links und Bilder
 ```
@@ -53,6 +54,14 @@ python3 tools/build.py
 - **Startseite**: Gepinnte 3D-Bühne mit prozedural modelliertem Schrumpffutter (Steilkegel), beschichtetem 4-Schneiden-Fräser, gelbem Messring mit Messpunkten und dem ZOLLER-Symbol in 3D. Kamera, Rotation und Texte werden vom Scrollen gesteuert. Ohne WebGL oder bei „Bewegung reduzieren“ läuft stattdessen das originale Header-Video.
 - **Überall**: Smooth Scrolling, Bildmasken, die sich beim Scrollen öffnen, Parallax-Zoom, Statements, die Wort für Wort aufleuchten, hochzählende Kennzahlen, horizontal gepinnter Bereich (Fräsen/Drehen/Schleifen), klebende Produkt-Unternavigation, Produkt-Hero mit schwebendem Gerät, Zeitstrahl mit Fortschrittslinie (Historie).
 - `prefers-reduced-motion` wird respektiert.
+
+## 3D & Animationen (Anbindung an die Produktumgebung 3D)
+
+- **3D-Produktbühne** auf 51 Produktseiten (`assets/js/productstage.js`): freigestelltes Produktfoto auf spiegelndem Boden, dahinter das ZOLLER-Symbol als metallisch-gelbes 3D-Objekt, Lichtkante, Partikel, Kamera-Parallaxe mit Maus und Scroll. Auch Speziallösungen und Software-Add-ons, die bisher keinen Produktkopf hatten, bekommen diese Bühne. Hinweis: Die Geräte sind Fotos, keine 3D-Modelle – sie drehen sich deshalb immer zur Kamera.
+- **Kameraflug „Die ZOLLER Produktwelt"** auf der Startseite (`assets/js/worldflight.js`): Die Engine der [Produktumgebung 3D](https://melanies-massage-studio.github.io/zoller-produktumgebung-3d/) läuft im Kino-Modus, das Scrollen fliegt die Kamera durch alle sieben Themenwelten; zu jeder Themenwelt erscheinen Text, Produktlinks und Absprung in den Showroom.
+- **Seitenübergänge** per View Transitions: Das Produktbild einer Karte fliegt beim Klick in die Produktbühne der neuen Seite (Chrome/Edge, Safari 18.2+; andere Browser laden normal).
+- **Produktkarten** kippen in 3D zum Mauszeiger, mit Lichtreflex; **Buttons** ziehen magnetisch zum Zeiger; **Überschriften** gleiten Wort für Wort aus einer Maske; in dunklen Bereichen folgt ein gelber Lichtschein dem Zeiger.
+- **Showroom-Links**: gelber Header-Button, Eintrag im Handy-Menü, Teaser auf der Produktübersicht, „Themenwelt in 3D erleben" auf den Kategorieseiten und „Im 3D-Showroom ansehen" auf jeder Produktseite (Deep-Link auf das Gerät).
 
 ## Funktionen
 
