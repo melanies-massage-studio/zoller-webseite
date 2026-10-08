@@ -17,7 +17,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "docs")
 ORIGIN = "https://www.zoller.info"
 HOME = "/startseite"
-SHOWROOM_URL = "https://melanies-massage-studio.github.io/zoller-produktumgebung-3d/"
+SHOWROOM_URL = "https://mzollercreations.github.io/zoller-produktumgebung-3d/"
 CUBE_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">'
              '<path d="M12 2.8 20 7.4v9.2l-8 4.6-8-4.6V7.4z"/><path d="M4 7.4l8 4.6 8-4.6M12 12v9.2"/></svg>')
 
