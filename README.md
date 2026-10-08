@@ -63,6 +63,13 @@ python3 tools/build.py
 - **Produktkarten** kippen in 3D zum Mauszeiger, mit Lichtreflex; **Buttons** ziehen magnetisch zum Zeiger; **Überschriften** gleiten Wort für Wort aus einer Maske; in dunklen Bereichen folgt ein gelber Lichtschein dem Zeiger.
 - **Showroom-Links**: gelber Header-Button, Eintrag im Handy-Menü, Teaser auf der Produktübersicht, „Themenwelt in 3D erleben" auf den Kategorieseiten und „Im 3D-Showroom ansehen" auf jeder Produktseite (Deep-Link auf das Gerät).
 
+## Header, Abstände & Globus
+
+- **Header-Leiste**: Logo, direkt daneben die Hauptnavigation, rechts Suche, Sprache und der gelbe 3D-Showroom-Button. Die Leiste passt sich stufenweise an: Meta-Links (Service, Medien, Karriere) ab 1500 px, MYZOLLER ab 1300 px, kompakte Navigation mit „3D“-Button ab 1024 px (iPad quer), darunter Burger-Menü mit allen Werkzeugen rechtsbündig.
+- **Mega-Menü**: Intro-Spalte mit Übersicht-Link und Hinweiskarte (3D-Showroom bzw. Standortglobus), daneben fließen die Gruppen wie Mauerwerk in Spalten – keine Lücken mehr durch unterschiedlich lange Gruppen.
+- **Abstände**: `fix_spacing()` in `tools/build.py` prüft jede Abschnittsgrenze. Das alte CMS stapelt Inhalte mit „Abstand: keiner“; an Farbwechseln bekommt jetzt jede Seite ihren Innenabstand zurück, bei gleicher Farbe bleibt mindestens der Stapelabstand (`is-stacked`), und der erste Abschnitt unter Header bzw. Unternavigation bekommt Luft nach oben (`pt-top`).
+- **Standortglobus**: Auf Touch-Geräten dreht ein Finger auf der Kugel nur den Globus, die Seite scrollt dabei nicht mit; außerhalb der Kugel scrollt die Seite normal. Auf dem Trackpad dreht seitliches Wischen den Globus, senkrechtes Scrollen bleibt der Seite, Pinch bzw. Strg/⌘ + Mausrad zoomt.
+
 ## Funktionen
 
 - Mega-Menü (Desktop) und Mobile-Navigation mit allen Ebenen

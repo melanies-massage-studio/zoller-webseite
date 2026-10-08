@@ -346,7 +346,7 @@ def product_stage(ctx, b, p):
 
 def showroom_strip(ctx, cat):
     n = cat.get("count", 0)
-    return (f'<section class="section section--tight"><div class="wrap"><div class="cta-strip cta-strip--3d" data-reveal="scale">'
+    return (f'<section class="section section--tight bg-white"><div class="wrap"><div class="cta-strip cta-strip--3d" data-reveal="scale">'
             f'<div class="cta-strip__text"><span class="cta-strip__icon">{CUBE_ICON}</span><div class="rte">'
             f'<p class="bold"><strong>Themenwelt »{esc(cat["name"])}« in 3D erleben</strong></p>'
             f'<p>{n} {"Produkt" if n == 1 else "Produkte"} auf einer Bühne im 3D-Showroom – drehen, zoomen und zu Fuß durch die Halle gehen.</p></div></div>'
@@ -840,7 +840,7 @@ def standortwelt(ctx, page):
   <aside class="globe__panel" data-globe-panel aria-live="polite" hidden></aside>
   <div class="globe__tip" data-globe-tip hidden></div>
   <div class="globe__zoom"><button type="button" data-globe-zoom="in" aria-label="Hineinzoomen">+</button><button type="button" data-globe-zoom="out" aria-label="Herauszoomen">−</button></div>
-  <p class="globe__hint" aria-hidden="true"><span>Ziehen zum Drehen · Punkt anklicken für Details</span></p>
+  <p class="globe__hint" aria-hidden="true"><span class="globe__hint-mouse">Ziehen zum Drehen · Punkt anklicken für Details</span><span class="globe__hint-touch">Auf der Kugel wischen zum Drehen · Punkt antippen für Details</span></p>
   <a class="globe__down" href="#alle-standorte" aria-label="Zur Standortliste"><span>Alle Standorte als Liste</span><i aria-hidden="true"></i></a>
   <script type="application/json" data-globe-data>{data}</script>
 </section>'''
@@ -1306,9 +1306,33 @@ def render_home(ctx, page):
 
 
 # ============================================================ Layout ====
+MEGA_INTRO = {
+    "/solutions": "Lösungen für jeden Schritt Ihres Werkzeugprozesses – vom Einstellen bis zur Automation.",
+    "/produkte": "Geräte, Software und Systeme für Einstellen, Messen, Prüfen und Toolmanagement.",
+    "/unternehmen": "Über ZOLLER, Kontakt, Karriere und Standorte weltweit.",
+}
+
+
+def mega_teaser(ctx, href):
+    """Hinweiskarte in der Intro-Spalte des Mega-Menüs."""
+    if href == "/produkte":
+        return (f'<a class="mega__teaser" href="{SHOWROOM_URL}"><img src="{ctx.prefix}assets/img/produktumgebung-3d.webp?v={ASSET_VER}" alt="" '
+                f'width="1600" height="900" loading="lazy" decoding="async"><span><b>{CUBE_ICON}3D-Showroom</b>'
+                f'Alle Produkte in einer 3D-Halle erleben</span></a>')
+    if href == "/unternehmen" and STANDORTE_PATH in PAGES:
+        return (f'<a class="mega__teaser mega__teaser--globe" href="{esc(ctx.url(STANDORTE_PATH), quote=True)}"><span><b>Standorte weltweit</b>'
+                f'Niederlassungen und Vertretungen auf dem 3D-Globus</span></a>')
+    return ""
+
+
 def header_html(ctx):
     nav = NAV["main"]
     items = []
+
+    def claim(x):
+        c = x.get("claim") or x.get("desc")
+        return f'<small>{esc(c)}</small>' if c else ""
+
     for n in nav:
         href = ctx.url(n["href"])
         active = ctx.path == n["href"] or ctx.path.startswith(n["href"].rstrip("/") + "/")
@@ -1316,26 +1340,28 @@ def header_html(ctx):
         if not kids:
             items.append(f'<li class="mainnav__item"><a class="mainnav__link{" is-active" if active else ""}" href="{esc(href, quote=True)}">{esc(n["label"])}</a></li>')
             continue
+        # Einträge, die nur auf die Übersicht zeigen, deckt der Übersicht-Link der Intro-Spalte ab
+        kids = [c for c in kids if c.get("children") or c["href"].rstrip("/") != n["href"].rstrip("/")]
         cols = []
         for c in kids:
-            sub = c.get("children", [])
             lis = []
-            for s in sub:
-                small = f'<small>{esc(s.get("claim") or s.get("desc", ""))}</small>' if (s.get("claim") or s.get("desc")) else ""
+            for s in c.get("children", []):
                 ss = s.get("children", [])
                 subsub = ""
                 if ss:
                     subsub = '<ul class="sub-group">' + "".join(
-                        f'<li><a href="{esc(ctx.url(x["href"]), quote=True)}">{esc(x["label"])}'
-                        f'{("<small>" + esc(x.get("claim") or x.get("desc", "")) + "</small>") if (x.get("claim") or x.get("desc")) else ""}</a></li>'
-                        for x in ss) + "</ul>"
-                lis.append(f'<li><a href="{esc(ctx.url(s["href"]), quote=True)}">{esc(s["label"])}{small}</a>{subsub}</li>')
+                        f'<li><a href="{esc(ctx.url(x["href"]), quote=True)}">{esc(x["label"])}{claim(x)}</a></li>' for x in ss) + "</ul>"
+                lis.append(f'<li><a href="{esc(ctx.url(s["href"]), quote=True)}">{esc(s["label"])}{claim(s)}</a>{subsub}</li>')
             title = f'<h3><a href="{esc(ctx.url(c["href"]), quote=True)}">{esc(c["label"])}</a></h3>'
-            cols.append(f'<div class="mega__col">{title}{("<ul>" + "".join(lis) + "</ul>") if lis else ""}</div>')
+            leaf = "" if lis else " mega__col--leaf"
+            cols.append(f'<div class="mega__col{leaf}">{title}{("<ul>" + "".join(lis) + "</ul>") if lis else ""}</div>')
         mid = "mega-" + re.sub(r"\W+", "", n["label"].lower())
+        intro = MEGA_INTRO.get(n["href"].rstrip("/"), "")
+        intro = f'<p>{esc(intro)}</p>' if intro else ""
+        ncols = min(4, sum(1 for c in kids if c.get("children")) + (1 if any(not c.get("children") for c in kids) else 0))
         items.append(f'''<li class="mainnav__item has-mega"><a class="mainnav__link{" is-active" if active else ""}" href="{esc(href, quote=True)}" aria-expanded="false" aria-controls="{mid}">{esc(n["label"])}</a>
-<div class="mega" id="{mid}"><div class="wrap mega__inner"><div class="mega__intro"><h2>{esc(n["label"])}</h2><a href="{esc(href, quote=True)}">Übersicht {esc(n["label"])} →</a></div>
-<div class="mega__cols">{"".join(cols)}</div></div></div></li>''')
+<div class="mega" id="{mid}"><div class="wrap mega__inner"><div class="mega__intro"><h2>{esc(n["label"])}</h2>{intro}<a class="mega__overview" href="{esc(href, quote=True)}">Übersicht {esc(n["label"])}</a>{mega_teaser(ctx, n["href"].rstrip("/"))}</div>
+<div class="mega__cols" style="--mega-cols:{max(2, ncols)}">{"".join(cols)}</div></div></div></li>''')
     meta = "".join(f'<a class="meta-link" href="{esc(ctx.url(m["href"]), quote=True)}">{esc(m["label"])}</a>' for m in NAV["meta"])
     home = ctx.url(HOME)
     return f'''<header class="site-header" data-header>
@@ -1343,12 +1369,11 @@ def header_html(ctx):
   <a class="site-header__logo" href="{esc(home, quote=True)}" aria-label="ZOLLER Startseite"><img src="{ctx.prefix}assets/img/zoller.svg" alt="ZOLLER" width="118" height="27"></a>
   <nav class="mainnav" aria-label="Hauptnavigation"><ul class="mainnav__list">{"".join(items)}</ul></nav>
   <div class="site-header__tools">
-    <a class="showroom-link" href="{SHOWROOM_URL}" title="Alle Produkte in der 3D-Produktumgebung erleben">{CUBE_ICON}<span class="showroom-link__full">3D-Showroom</span><span class="showroom-link__short">3D</span></a>
-    {meta}
-    <a class="meta-link myzoller-link" href="https://myzoller.com/" target="_blank" rel="noopener" aria-label="MYZOLLER"><img src="{ctx.prefix}assets/img/myzoller.svg" alt="MYZOLLER" width="90" height="15"></a>
+    <div class="site-header__meta">{meta}<a class="meta-link myzoller-link" href="https://myzoller.com/" target="_blank" rel="noopener" aria-label="MYZOLLER"><img src="{ctx.prefix}assets/img/myzoller.svg" alt="MYZOLLER" width="90" height="15"></a></div>
     <button class="icon-btn" type="button" data-search-open aria-label="Suche öffnen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></button>
     <button class="icon-btn" type="button" data-lang-open aria-label="Sprache wählen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg></button>
-    <button class="icon-btn burger" type="button" data-burger aria-label="Menü öffnen" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></svg></button>
+    <a class="showroom-link" href="{SHOWROOM_URL}" title="Alle Produkte in der 3D-Produktumgebung erleben">{CUBE_ICON}<span class="showroom-link__full">3D-Showroom</span><span class="showroom-link__short">3D</span></a>
+    <button class="icon-btn burger" type="button" data-burger aria-label="Menü öffnen" aria-expanded="false"><svg class="burger__open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></svg><svg class="burger__close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
   </div>
 </div>
 </header>
@@ -1462,6 +1487,58 @@ def search_overlay(ctx):
 <ul class="search-results" data-search-results></ul></div></div>'''
 
 
+SECTION_BGS = ("bg-white", "bg-lightgray", "bg-yellow", "bg-black")
+OPEN_TAG = re.compile(r'^\s*(<(\w+)\b[^>]*?\bclass=")([^"]*)(")', re.S)
+
+
+def fix_spacing(parts):
+    """Abstände zwischen den Abschnitten einer Seite absichern.
+
+    Das alte CMS stapelt Inhalte mit »Abstand: keiner« (pt-0/pb-0) und verlässt sich auf Innenabstände der
+    Elemente – hier würden sich die Inhalte dann berühren. Regeln: an jedem Farbwechsel bekommen beide Seiten
+    ihren Innenabstand zurück, bei gleicher Farbe bleibt mindestens der Stapelabstand (is-stacked), und der
+    erste Abschnitt unter Header bzw. Unternavigation bekommt Luft nach oben (pt-top).
+    """
+    info = []
+    for p in parts:
+        m = OPEN_TAG.match(p)
+        cls = m.group(3).split() if m else []
+        if "subnav" in cls:
+            info.append(None)
+            continue
+        flow = bool(m) and m.group(2) == "section" and "section" in cls
+        bg = next((c for c in cls if c in SECTION_BGS), "bg-white") if flow else "x-" + (cls[0] if cls else "block")
+        info.append({"cls": cls, "flow": flow, "bg": bg, "m": m})
+    drop = lambda c, *names: [x for x in c if x not in names]
+    prev = None
+    for it in info:
+        if it is None:
+            continue
+        c = it["cls"]
+        if it["flow"]:
+            open_top = "pt-0" in c or "is-continued" in c
+            if prev is None:
+                if open_top:
+                    c[:] = drop(c, "pt-0", "is-continued") + ["pt-top"]
+            elif prev["bg"] != it["bg"]:
+                c[:] = drop(c, "pt-0", "is-continued")
+                if prev["flow"]:
+                    prev["cls"][:] = drop(prev["cls"], "pb-0")
+            elif open_top and ("pb-0" in prev["cls"] or "page-title" in prev["cls"]):
+                c[:] = drop(c, "pt-0", "is-continued") + ["is-stacked"]
+        prev = it
+    last = next((it for it in reversed(info) if it), None)
+    if last and last["flow"]:
+        last["cls"][:] = drop(last["cls"], "pb-0")
+    out = []
+    for p, it in zip(parts, info):
+        if it and it["m"]:
+            m = it["m"]
+            p = p[:m.start(1)] + m.group(1) + " ".join(dict.fromkeys(it["cls"])) + m.group(4) + p[m.end():]
+        out.append(p)
+    return out
+
+
 def render_page(page):
     ctx = Ctx(page)
     ctx.inline = False
@@ -1510,11 +1587,12 @@ def render_page(page):
             if cat_id in SHOW_CATS and b["type"] == "productlist":
                 parts.append(showroom_strip(ctx, SHOW_CATS[cat_id]))
             parts.append(render_block(ctx, b))
-        body = "\n".join(p for p in parts if p)
+        parts = [p for p in parts if p]
         if not ctx.main_cls and not any(b["type"] in ("hero",) for b in blocks[:1]) and not any(b["type"] == "article" for b in blocks):
             # Seiten ohne Bühne bekommen einen Seitentitel, falls keiner vorhanden ist
-            if "<h1" not in body:
-                body = (f'<section class="section page-title bg-white"><div class="wrap"><h1 data-reveal>{esc(page["title"])}</h1></div></section>' + body)
+            if not any("<h1" in p for p in parts):
+                parts.insert(0, f'<section class="section page-title bg-white"><div class="wrap"><h1 data-reveal>{esc(page["title"])}</h1></div></section>')
+        body = "\n".join(fix_spacing(parts))
     title = page["title"] or "ZOLLER"
     full_title = f"{title} | ZOLLER" if "ZOLLER" not in title else title
     desc = page.get("description") or ""

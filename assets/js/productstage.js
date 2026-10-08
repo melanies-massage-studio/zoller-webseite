@@ -90,7 +90,7 @@ async function init() {
     transparent: true, depthWrite: false,
     uniforms: { map: { value: tex }, uStrength: { value: 0 } },
     vertexShader: 'varying vec2 vUv; void main(){ vUv = uv; gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0); }',
-    fragmentShader: 'uniform sampler2D map; uniform float uStrength; varying vec2 vUv; void main(){ vec4 c = texture2D(map, vec2(vUv.x, 1.0 - vUv.y)); float f = pow(vUv.y, 5.0); gl_FragColor = vec4(c.rgb, c.a * f * uStrength); #include <colorspace_fragment> }',
+    fragmentShader: 'uniform sampler2D map; uniform float uStrength; varying vec2 vUv; void main(){ vec4 c = texture2D(map, vec2(vUv.x, 1.0 - vUv.y)); float f = pow(vUv.y, 5.0); gl_FragColor = vec4(c.rgb, c.a * f * uStrength);\n#include <colorspace_fragment>\n}',
   });
   const reflection = new THREE.Mesh(reflGeo, reflMat); reflection.renderOrder = 1; pivot.add(reflection);
 

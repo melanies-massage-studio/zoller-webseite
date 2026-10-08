@@ -218,14 +218,29 @@ async function init() {
   const pointers = new Map();
   const ptr = (e) => { const r = canvas.getBoundingClientRect(); return { x: e.clientX - r.left, y: e.clientY - r.top }; };
   const vel = { x: 0, y: 0 };
+  // Liegt ein Bildschirmpunkt auf der Kugel? (projizierter Kugelradius plus etwas Rand für Marker und Finger)
+  const ctr = new THREE.Vector3();
+  const onSphere = (x, y, pad = 1.15) => {
+    ctr.set(0, 0, 0).project(camera);
+    const cx = (ctr.x * 0.5 + 0.5) * W, cy = (-ctr.y * 0.5 + 0.5) * H;
+    const r = (H / 2) / Math.tan(camera.fov * DEG / 2) / Math.sqrt(Math.max(0.05, view.dist * view.dist - 1));
+    return Math.hypot(x - cx, y - cy) < r * pad;
+  };
+  // Touch: Ein Finger auf der Kugel dreht nur den Globus – die Seite scrollt dabei nicht mit.
+  // Außerhalb der Kugel bleibt normales Scrollen erhalten, damit man an der Bühne vorbeikommt.
+  canvas.addEventListener('touchstart', (e) => {
+    const p = ptr(e.touches[0]);
+    if (e.touches.length > 1 || onSphere(p.x, p.y)) e.preventDefault();
+  }, { passive: false });
   canvas.addEventListener('pointerdown', (e) => {
     pointers.set(e.pointerId, ptr(e));
     canvas.setPointerCapture(e.pointerId);
     if (pointers.size === 2) {
       const [a, b] = [...pointers.values()]; pinch = { d: Math.hypot(a.x - b.x, a.y - b.y), dist: goal.dist }; drag = null; return;
     }
-    drag = { ...ptr(e), sx: e.clientX, sy: e.clientY, moved: false };
-    auto = false; vel.x = vel.y = 0;
+    const p = ptr(e);
+    drag = { ...p, sx: e.clientX, sy: e.clientY, moved: false, spin: e.pointerType !== 'touch' || onSphere(p.x, p.y) };
+    if (drag.spin) { auto = false; vel.x = vel.y = 0; }
   });
   canvas.addEventListener('pointermove', (e) => {
     const p = ptr(e);
@@ -238,6 +253,7 @@ async function init() {
       const k = 2.4 / H * (view.dist - 0.85) / 2.4;
       const dx = p.x - drag.x, dy = p.y - drag.y;
       if (Math.hypot(e.clientX - drag.sx, e.clientY - drag.sy) > 4) drag.moved = true;
+      if (!drag.spin) return;
       goal.ry += dx * k * 1.4; goal.rx = clamp(goal.rx + dy * k * 1.4, -1.2, 1.2);
       vel.x = dx * k * 1.4; vel.y = dy * k * 1.4; lastMove = performance.now();
       drag.x = p.x; drag.y = p.y;
@@ -246,26 +262,36 @@ async function init() {
       hoverAt(p.x, p.y);
     }
   });
-  const end = (e) => {
+  const end = (e, cancelled = false) => {
     pointers.delete(e.pointerId);
     if (pointers.size < 2) pinch = null;
     if (!drag) return;
     root.classList.remove('is-dragging');
-    if (!drag.moved) {
+    if (cancelled) {
+      // Browser hat die Geste übernommen (Seite scrollt) – kein Klick, kein Nachschwung
+    } else if (!drag.moved) {
       const p = ptr(e), m = pick(p.x, p.y, e.pointerType === 'mouse' ? 16 : 26);
       if (m) select(m.s.id); else if (selected) select(null);
-    } else if (performance.now() - lastMove < 60) {
+    } else if (drag.spin && performance.now() - lastMove < 60) {
       glide.x = vel.x; glide.y = vel.y;
     }
     drag = null;
   };
-  canvas.addEventListener('pointerup', end);
-  canvas.addEventListener('pointercancel', end);
+  canvas.addEventListener('pointerup', (e) => end(e));
+  canvas.addEventListener('pointercancel', (e) => end(e, true));
   canvas.addEventListener('pointerleave', () => { if (!drag) { hovered = null; hideTip(); canvas.style.cursor = ''; } });
-  // Mausrad zoomt nur bei Pinch-Geste (Trackpad) oder mit Strg/⌘ – normales Scrollen bleibt der Seite
+  // Mausrad zoomt nur bei Pinch-Geste (Trackpad) oder mit Strg/⌘. Seitliches Wischen auf dem Trackpad dreht
+  // den Globus; senkrechtes Scrollen bleibt immer der Seite, damit niemand auf der Bühne hängen bleibt.
   canvas.addEventListener('wheel', (e) => {
-    if (!(e.ctrlKey || e.metaKey)) return;
-    e.preventDefault(); goal.dist = clamp(goal.dist * Math.exp(e.deltaY * 0.004), 1.75, 6.5); auto = false;
+    if (e.ctrlKey || e.metaKey) {
+      e.preventDefault(); goal.dist = clamp(goal.dist * Math.exp(e.deltaY * 0.004), 1.75, 6.5); auto = false; return;
+    }
+    if (Math.abs(e.deltaX) > Math.abs(e.deltaY) * 1.2 && Math.abs(e.deltaX) > 1) {
+      const p = ptr(e);
+      if (!onSphere(p.x, p.y, 1.4)) return;
+      e.preventDefault(); auto = false; glide.x = glide.y = 0;
+      goal.ry -= e.deltaX * (e.deltaMode === 1 ? 16 : 1) * 0.0032 * (view.dist - 0.85) / 2.4;
+    }
   }, { passive: false });
   root.querySelectorAll('[data-globe-zoom]').forEach((b) => b.addEventListener('click', () => {
     goal.dist = clamp(goal.dist * (b.dataset.globeZoom === 'in' ? 0.78 : 1.28), 1.75, 6.5); auto = false;
