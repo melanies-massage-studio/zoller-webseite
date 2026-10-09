@@ -57,6 +57,25 @@
   body.classList.add('header-visible');
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
+
+  // Passen Menü und Werkzeuge nicht nebeneinander (lange Menütexte, z. B. Französisch), blenden fit-1 … fit-5
+  // nacheinander Zusätze aus (main.css) – zuletzt wandert das Menü hinter den Burger
+  const mainList = $('.mainnav__list');
+  const headerTools = $('.site-header__tools');
+  const FIT = ['fit-1', 'fit-2', 'fit-3', 'fit-4', 'fit-5'];
+  const fitHeader = () => {
+    header.classList.remove(...FIT);
+    for (const cls of FIT) {
+      const last = mainList?.lastElementChild;
+      if (!last || !last.offsetWidth) break;   // Menü steckt schon per CSS hinter dem Burger
+      if (last.getBoundingClientRect().right + 16 <= headerTools.getBoundingClientRect().left) break;
+      header.classList.add(cls);
+    }
+  };
+  let fitTimer = 0;
+  fitHeader();
+  window.addEventListener('resize', () => { clearTimeout(fitTimer); fitTimer = setTimeout(fitHeader, 60); });
+  document.fonts?.ready.then(fitHeader);
   $('[data-to-top]')?.addEventListener('click', () => scrollToY(0));
 
   /* ------------------------------------------------------------ Mega-Menü */

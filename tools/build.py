@@ -4,6 +4,7 @@ Erzeugt die statische Webseite aus content/.
 Aufruf:  python3 tools/build.py            deutsche Seite      -> docs/
          python3 tools/build.py --site ca  ZOLLER Canada (EN, FR unter /fr/) -> dist/zoller-canada/
          python3 tools/build.py --site mx  ZOLLER México (ES) -> dist/zoller-mexico/
+         python3 tools/build.py --site us  ZOLLER USA (EN, Inhalte von Kanada) -> dist/zoller-usa/
 Länderseiten: content/sites.json, Inhalte in content/sites/<sprachpfad>/, feste Texte in tools/i18n.py.
 Nur Python-Standardbibliothek nötig.
 """
@@ -18,6 +19,7 @@ import urllib.parse
 from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import flags  # noqa: E402
 import i18n  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -37,6 +39,7 @@ ALT = {}         # deutscher Pfad -> [(hreflang, absolute URL)] über alle Länd
 TR = {}          # Übersetzungen der aktuellen Sprachfassung (translations.json)
 QUERIES = {}     # alte News-Abfrage-Links (…/details?tx_news_pi1…) -> Pfad des übernommenen Artikels
 MISSING = set()  # fehlende Übersetzungen (Hinweis am Ende)
+US_PATHS = set()  # Seitenpfade der USA-Seite (Ziel für alte Links auf zoller.info/us/…)
 
 
 def _(s):
@@ -199,6 +202,8 @@ class Ctx:
             return "https:" + href
         if re.match(r"https?://(www\.)?zoller\.info(/|$)", href):
             href = re.sub(r"^https?://(www\.)?zoller\.info", "", href) or "/"
+        if "us" in SITES and re.match(r"https?://(www\.)?zoller-usa\.com(/(?!hs-fs/)|$)", href):
+            href = "/us" + re.sub(r"^https?://(www\.)?zoller-usa\.com", "", href)   # ersetzt durch die eigene USA-Seite
         if href.startswith("http"):
             return href
         if not href.startswith("/"):
@@ -238,7 +243,13 @@ class Ctx:
         if path in ALT and LANG != "de" and ("de", "de-DE") in ALT[path]:
             return SITES["de"]["url"] + ALT[path][("de", "de-DE")]   # nur auf der deutschen Seite vorhanden
         if re.match(r"/us(/|$)", original):
-            return "https://zoller-usa.com" + re.sub(r"^/us", "", original).rstrip(".") # USA: eigenständige Seite
+            # USA: eigene Länderseite mit den englischen Inhalten von Kanada
+            p = re.sub(r"^/us", "", original).rstrip(".").split("#")[0].split("?")[0].rstrip("/") or HOME
+            if SITE_ID == "us":
+                rel = "" if p == HOME or p not in PAGES else p.strip("/") + "/"
+                return (self.home + rel) or "./"
+            rel = "" if p == HOME or p not in US_PATHS else p.strip("/") + "/"
+            return SITES["us"]["url"] + rel
         return ORIGIN + original
 
     def img(self, src):
@@ -922,7 +933,7 @@ def loc_kind(name):
 
 # Webseiten der Standorte, die künftig durch die neuen Seiten ersetzt werden
 OWN_WEB = ((r"https?://(www\.)?zoller\.info(/.*)?$", "de"), (r"https?://(www\.)?zoller-canada\.com(/.*)?$", "ca"),
-           (r"https?://(www\.)?zoller-mexico\.com(/.*)?$", "mx"))
+           (r"https?://(www\.)?zoller-mexico\.com(/.*)?$", "mx"), (r"https?://(www\.)?zoller-usa\.com(/.*)?$", "us"))
 
 
 def own_web(w):
@@ -1504,14 +1515,7 @@ MEGA_INTRO = {
 }
 BOOKING = {"de": "https://myzoller.com/de/de/expert/booking", "en": "https://myzoller.com/us/en/expert/booking",
            "fr": "https://myzoller.com/int/en/expert/booking/", "es": "https://myzoller.com/int/en/expert/booking/"}
-# Kleine Flaggen für den Länderdialog (nur dort – neben dem Logo steht der Ländername)
-FLAGS = {
-    "de": '<svg class="flag" viewBox="0 0 5 3" width="33" height="20" aria-hidden="true"><path fill="#000" d="M0 0h5v1H0z"/><path fill="#d00" d="M0 1h5v1H0z"/><path fill="#ffce00" d="M0 2h5v1H0z"/></svg>',
-    "ca": ('<svg class="flag" viewBox="0 0 9600 4800" width="40" height="20" aria-hidden="true"><path fill="#d52b1e" d="M0 0h9600v4800H0z"/><path fill="#fff" d="M2400 0h4800v4800H2400z"/>'
-           '<path fill="#d52b1e" d="m4890 4430-45-863a95 95 0 0 1 111-98l859 151-116-320a65 65 0 0 1 20-73l941-762-212-99a65 65 0 0 1-34-79l186-572-542 115a65 65 0 0 1-73-38l-105-247-423 454a65 65 0 0 1-111-57l204-1052-327 189a65 65 0 0 1-91-27l-332-652-332 652a65 65 0 0 1-91 27l-327-189 204 1052a65 65 0 0 1-111 57l-423-454-105 247a65 65 0 0 1-73 38l-542-115 186 572a65 65 0 0 1-34 79l-212 99 941 762a65 65 0 0 1 20 73l-116 320 859-151a95 95 0 0 1 111 98l-45 863z"/></svg>'),
-    "mx": ('<svg class="flag" viewBox="0 0 21 12" width="35" height="20" aria-hidden="true"><path fill="#006847" d="M0 0h7v12H0z"/><path fill="#fff" d="M7 0h7v12H7z"/><path fill="#ce1126" d="M14 0h7v12h-7z"/>'
-           '<ellipse cx="10.5" cy="6" rx="1.7" ry="1.9" fill="#8c5a2b"/><path d="M8.9 7.2c.9 1 2.3 1 3.2 0" fill="none" stroke="#2e7d32" stroke-width=".45"/></svg>'),
-}
+FLAGS = flags.FLAGS   # Länder-Knopf, Länderdialog
 
 
 def mega_teaser(ctx, de_href):
@@ -1598,7 +1602,7 @@ def header_html(ctx):
   <div class="site-header__tools">
     <div class="site-header__meta">{meta}<a class="meta-link myzoller-link" href="https://myzoller.com/" target="_blank" rel="noopener" aria-label="MYZOLLER"><img src="{ctx.prefix}assets/img/myzoller.svg" alt="MYZOLLER" width="90" height="15"></a></div>
     {lang_toggle(ctx)}<button class="icon-btn" type="button" data-search-open aria-label="{_("Suche öffnen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></button>
-    <button class="icon-btn" type="button" data-lang-open aria-label="{_("Land und Sprache wählen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg></button>
+    <button class="icon-btn lang-btn" type="button" data-lang-open aria-label="{_("Land und Sprache wählen")}: {esc(LOC["name"])}, {esc(LOC["label"])}" title="{_("Land und Sprache wählen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg>{FLAGS.get(SITE["flag"], "")}</button>
     <a class="showroom-link" href="{SHOWROOM_URL}" title="{_("Alle Produkte in der 3D-Produktumgebung erleben")}">{CUBE_ICON}<span class="showroom-link__full">{_("3D-Showroom")}</span><span class="showroom-link__short">3D</span></a>
     <button class="icon-btn burger" type="button" data-burger aria-label="{_("Menü öffnen")}" aria-expanded="false"><svg class="burger__open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></svg><svg class="burger__close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
   </div>
@@ -1677,7 +1681,7 @@ def footer_html(ctx):
     </div>
     <div class="footer-bottom">
       <span>© {date.today().year} {esc(co["name"])}</span>
-      <ul>{link(_("Kontakt"), L("/unternehmen/kontakt"))}{link(_("Datenschutz"), L("/datenschutz"))}{link(_("Haftungsausschluss"), L("/haftungsausschluss"))}{link(_("Impressum"), L("/impressum"))}<li><button type="button" data-lang-open>{(SITE["flag"].upper() + " · ") if SITE["country"] else ""}{LOC["lang"].upper()}</button></li></ul>
+      <ul>{link(_("Kontakt"), L("/unternehmen/kontakt"))}{link(_("Datenschutz"), L("/datenschutz"))}{link(_("Haftungsausschluss"), L("/haftungsausschluss"))}{link(_("Impressum"), L("/impressum"))}<li><button class="lang-foot" type="button" data-lang-open aria-label="{_("Land und Sprache wählen")}: {esc(LOC["name"])}, {esc(LOC["label"])}">{FLAGS.get(SITE["flag"], "")}{(SITE["flag"].upper() + " · ") if SITE["country"] else ""}{LOC["lang"].upper()}</button></li></ul>
     </div>
   </div>
 </footer>
@@ -1703,7 +1707,7 @@ def breadcrumb(ctx):
 
 
 # Einträge der zoller.info-Länderliste, die durch eigene Länderseiten ersetzt sind
-OWN_SITE_LABELS = ("Deutschland", "Canada", "Mexiko", "Mexico", "México")
+OWN_SITE_LABELS = ("Deutschland", "Canada", "Mexiko", "Mexico", "México", "USA")
 
 
 def lang_dialog(ctx, page):
@@ -1716,9 +1720,8 @@ def lang_dialog(ctx, page):
     regions = page.get("languages") or PAGES[HOME].get("languages") or []
     cols = []
     for r in regions:
-        # nur eigenständige ZOLLER-Länderseiten, nichts mehr auf zoller.info (USA: zoller-usa.com)
-        links = [dict(l, href="https://zoller-usa.com/") if re.search(r"zoller\.info/us(/|$)", l["href"]) else l for l in r["links"]]
-        links = [l for l in links if not l["label"].startswith(OWN_SITE_LABELS) and "zoller.info" not in l["href"]]
+        # nur eigenständige ZOLLER-Länderseiten, nichts mehr auf zoller.info
+        links = [l for l in r["links"] if not l["label"].startswith(OWN_SITE_LABELS) and "zoller.info" not in l["href"]]
         if not links:
             continue
         lis = "".join(f'<li><a href="{esc(l["href"], quote=True)}"{"" if "zoller.info" in l["href"] and not l["href"].endswith(".pdf") else " target=_blank rel=noopener"}>{esc(l["label"])}</a></li>' for l in links)
@@ -1976,11 +1979,15 @@ def search_index():
 SKIP = {"/404", "/suchergebnisse", "/ihr-erfolg/detail", "/unternehmen/reports-stories/detail", "/unternehmen/medien/detail"}
 
 
-def load_pages(src):
-    """Seiten einer Sprachfassung als {pfad: seite} (src "" = deutsche Seite)."""
+def load_pages(src, overlay=""):
+    """Seiten einer Sprachfassung als {pfad: seite} (src "" = deutsche Seite). Seiten aus content/sites/<overlay>/pages/
+    ersetzen gleichnamige Seiten aus src (USA: englische Inhalte von Kanada, eigene Kontaktseite)."""
     folder = os.path.join(ROOT, "content", "sites", src, "pages") if src else os.path.join(ROOT, "content", "pages")
+    files = sorted(glob.glob(os.path.join(folder, "*.json")))
+    if overlay:
+        files += sorted(glob.glob(os.path.join(ROOT, "content", "sites", overlay, "pages", "*.json")))
     pages = {}
-    for f in sorted(glob.glob(os.path.join(folder, "*.json"))):
+    for f in files:
         p = json.load(open(f, encoding="utf-8"))
         path = p["path"].rstrip("/") or HOME
         if path in SKIP or (src and p.get("de_path") in SKIP) or re.search(r"/(details?|detalle)$", path):
@@ -1994,7 +2001,7 @@ def build_alt():
     ALT.clear()
     for sid, site in SITES.items():
         for loc in site["locales"]:
-            for path, p in load_pages(loc["src"]).items():
+            for path, p in load_pages(loc["src"], loc.get("overlay", "")).items():
                 dp = path if not loc["src"] else (p.get("de_path") or "")
                 if dp:
                     rel = (loc["dir"] + "/" if loc["dir"] else "") + ("" if path == HOME else path.strip("/") + "/")
@@ -2013,7 +2020,7 @@ def mirror_files(srcs):
         f = os.path.join(folder, "images.json")
         if os.path.exists(f):
             files.update(json.load(open(f)))
-        for pf in glob.glob(os.path.join(folder, "pages", "*.json")) + [os.path.join(folder, "nav.json")]:
+        for pf in glob.glob(os.path.join(folder, "pages", "*.json")) + glob.glob(os.path.join(folder, "nav.json")):
             txt = html.unescape(open(pf, encoding="utf-8").read().replace("\\/", "/"))
             for m in re.findall(r'(?:https?://(?:www\.)?zoller\.info)?(/(?:fileadmin|_assets|typo3temp|typo3conf)/[^"\'\s<>()\\]+)', txt):
                 files.add(m.split("#")[0])
@@ -2100,7 +2107,7 @@ def use_locale(loc):
     LOC, LANG = loc, loc["lang"]
     SHOWROOM_URL = SHOWROOM_BASE + (loc["code"].lower() + "/" if loc["src"] else "")
     PAGES.clear()
-    PAGES.update(load_pages(loc["src"]))
+    PAGES.update(load_pages(loc["src"], loc.get("overlay", "")))
     nav_file = os.path.join(ROOT, "content", "sites", loc["src"], "nav.json") if loc["src"] else os.path.join(ROOT, "content", "nav.json")
     NAV = json.load(open(nav_file, encoding="utf-8"))
     tr_file = os.path.join(ROOT, "content", "sites", loc["src"], "translations.json") if loc["src"] else ""
@@ -2111,11 +2118,13 @@ def use_locale(loc):
         for path in list(PAGES):
             PAGES[path] = translate(PAGES[path], tr)
         NAV = translate(NAV, tr)
-    # Ersetzungen innerhalb von Texten (z. B. übersetzte Markennamen zurück: »génie« -> »genius«)
-    rep_file = os.path.join(ROOT, "content", "sites", loc["src"], "replace.json") if loc["src"] else ""
-    if rep_file and os.path.exists(rep_file):
-        reps = json.load(open(rep_file, encoding="utf-8"))
-
+    # Ersetzungen innerhalb von Texten (z. B. übersetzte Markennamen zurück: »génie« -> »genius«), auch aus dem Overlay
+    reps = {}
+    for folder in (loc["src"], loc.get("overlay", "")):
+        rep_file = os.path.join(ROOT, "content", "sites", folder, "replace.json") if folder else ""
+        if rep_file and os.path.exists(rep_file):
+            reps.update(json.load(open(rep_file, encoding="utf-8")))
+    if reps:
         def sub(o):
             if isinstance(o, dict):
                 return {k: (v if k in TR_SKIP else sub(v)) for k, v in o.items()}
@@ -2141,7 +2150,7 @@ def use_locale(loc):
                 LOC_OF.setdefault(p["de_path"], path)
         for other in SITE["locales"]:
             if other is not loc and other["src"]:
-                OTHER[other["src"]] = set(load_pages(other["src"]))
+                OTHER[other["src"]] = set(load_pages(other["src"], other.get("overlay", "")))
 
         def walk(nodes):
             for n in nodes:
@@ -2179,6 +2188,8 @@ def main():
     if os.path.exists(loc_file):
         LOCATIONS = json.load(open(loc_file, encoding="utf-8"))
     build_alt()
+    if "us" in SITES:
+        US_PATHS.update(load_pages(SITES["us"]["locales"][0]["src"], SITES["us"]["locales"][0].get("overlay", "")))
     # Ausgabeverzeichnis vorbereiten (Bilder in fileadmin und das Git-Repo der Länderseite bleiben erhalten)
     os.makedirs(OUT, exist_ok=True)
     for name in os.listdir(OUT):
@@ -2191,7 +2202,7 @@ def main():
             os.remove(full)
     shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
     open(os.path.join(OUT, ".nojekyll"), "w").close()
-    mirror_files([l["src"] for l in SITE["locales"]])
+    mirror_files([l["src"] for l in SITE["locales"]] + [l["overlay"] for l in SITE["locales"] if l.get("overlay")])
     count = 0
     for i, loc in enumerate(SITE["locales"]):
         use_locale(loc)

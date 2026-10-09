@@ -178,6 +178,9 @@ hr { border: 0; border-top: 1px solid currentColor; opacity: .15; margin: 2rem 0
 .lang-toggle { display: grid; place-items: center; min-width: 40px; height: 40px; padding: 0 .55rem; border-radius: 999px; font-size: .8125rem; font-weight: 700; letter-spacing: .06em; color: rgba(255, 255, 255, .85); transition: background-color .2s, color .2s; }
 .lang-toggle:hover { background: rgba(255, 255, 255, .12); color: var(--white); }
 .mobile-nav__meta .mobile-nav__lang { font-weight: 700; color: var(--white); }
+/* Länder-Knopf: Weltkugel + Flagge des aktuellen Landes – öffnet »Land und Sprache wählen« */
+.lang-btn { width: auto; display: inline-flex; align-items: center; gap: .4rem; padding: 0 .6rem 0 .5rem; }
+.lang-btn .flag { width: auto; height: 15px; flex: none; border-radius: 2px; box-shadow: 0 0 0 1px rgba(255, 255, 255, .3); }
 .showroom-link { display: inline-flex; align-items: center; gap: .45rem; margin-left: .5rem; padding: .5rem .95rem .5rem .75rem; border-radius: 999px; background: var(--yellow); color: var(--black); font-size: .8125rem; font-weight: 500; line-height: 1; white-space: nowrap; transition: transform .35s var(--ease-out), box-shadow .35s var(--ease-out); }
 .showroom-link svg { width: 17px; height: 17px; flex: none; }
 .showroom-link:hover { transform: translateY(-1px); box-shadow: 0 8px 24px -8px rgba(240, 230, 0, .8); }
@@ -1028,6 +1031,10 @@ main .bg-black, .site-footer { overflow-x: clip; }
   .showroom-link { margin: 0 .25rem; padding: .45rem .65rem; }
   .showroom-link__full { display: none; }
   .showroom-link__short { display: inline; font-weight: 700; }
+  .site-header__tools .icon-btn:not(.lang-btn) { width: 36px; }
+  .lang-btn { gap: .3rem; padding: 0 .45rem 0 .4rem; }
+  .lang-btn > svg:first-child { width: 18px; height: 18px; }
+  .lang-btn .flag { height: 13px; }
   .subnav .btn { display: none; }
 }
 @media (max-width: 400px) {
@@ -1035,6 +1042,30 @@ main .bg-black, .site-footer { overflow-x: clip; }
   .site-header__logo--country img { width: 90px; }
   .site-header__country { padding-left: .45rem; font-size: .6875rem; letter-spacing: .04em; }
 }
+@media (max-width: 380px) {
+  .site-header__inner { gap: .75rem; }
+  .site-header__tools .icon-btn:not(.lang-btn) { width: 34px; }
+  .lang-btn { padding: 0 .35rem 0 .3rem; }
+  .showroom-link { width: 34px; height: 34px; margin: 0 .15rem; padding: 0; justify-content: center; }   /* nur der Würfel */
+  .showroom-link__short { display: none; }
+}
+@media (max-width: 340px) {
+  .site-header__country { display: none; }   /* die Flagge im Länder-Knopf zeigt das Land */
+}
+/* Kopfleiste zu voll (lange Menütexte, z. B. Französisch): main.js setzt fit-1 … fit-5 nacheinander,
+   bis Menü und Werkzeuge nebeneinander passen – zuletzt wandert das Menü hinter den Burger */
+.site-header.fit-1 .site-header__meta .meta-link:not(.myzoller-link) { display: none; }
+.site-header.fit-2 .site-header__meta, .site-header.fit-2 .site-header__tools .lang-toggle { display: none; }
+.site-header.fit-3 .showroom-link { padding-inline: .7rem .8rem; }
+.site-header.fit-3 .showroom-link__full { display: none; }
+.site-header.fit-3 .showroom-link__short { display: inline; font-weight: 700; }
+.site-header.fit-4 .site-header__inner { gap: 1rem; }
+.site-header.fit-4 .mainnav__link { padding-inline: .45rem; font-size: .8125rem; }
+.site-header.fit-4 .mainnav__link.is-active::after { left: .45rem; right: .45rem; }
+.site-header.fit-4 .lang-btn { gap: .3rem; padding: 0 .45rem 0 .4rem; }
+.site-header.fit-4 .lang-btn > svg:first-child { width: 18px; height: 18px; }
+.site-header.fit-5 .mainnav { display: none; }
+.site-header.fit-5 .burger { display: grid; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
@@ -1236,6 +1267,9 @@ p[data-words] .w.is-lit { color: inherit; }
 .footer-cta > div { display: flex; flex-wrap: wrap; }
 .footer-brand address a { color: rgba(255, 255, 255, .78); }
 .footer-bottom button { color: inherit; font-size: inherit; }
+.footer-bottom ul { margin-right: 3.75rem; }   /* Platz für den »Nach oben«-Knopf unten rechts */
+.lang-foot { display: inline-flex; align-items: center; gap: .45rem; }
+.lang-foot .flag { width: auto; height: 12px; border-radius: 2px; box-shadow: 0 0 0 1px rgba(255, 255, 255, .25); }
 .breadcrumb { padding-block: 1.25rem; }
 
 /* Hinweis-Liste */

@@ -3,11 +3,12 @@
 #
 # Aufruf:  tools/publish.sh ca            ZOLLER Canada -> github.com/mzollercreations/zoller-canada
 #          tools/publish.sh mx            ZOLLER México -> github.com/mzollercreations/zoller-mexico
+#          tools/publish.sh us            ZOLLER USA -> github.com/mzollercreations/zoller-usa
 #          tools/publish.sh ca "Nachricht" mit eigener Commit-Nachricht
 #
 # Das Ausgabeverzeichnis (dist/<repo>) ist ein Klon des Länder-Repos; build.py lässt .git, fileadmin/ und CNAME stehen.
 set -euo pipefail
-site="${1:?Länderseite angeben: ca oder mx}"
+site="${1:?Länderseite angeben: ca, mx oder us}"
 cd "$(dirname "$0")/.."
 read -r repo out < <(python3 -c "import json,sys; s=json.load(open('content/sites.json'))['$site']; print(s['repo'], s['out'])")
 owner=mzollercreations

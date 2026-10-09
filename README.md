@@ -49,7 +49,7 @@ python3 tools/fetch_images.py
 python3 tools/build.py
 ```
 
-## Länderseiten (Kanada, Mexiko)
+## Länderseiten (Kanada, Mexiko, USA)
 
 Aus diesem Repository werden zusätzlich eigene Webseiten für einzelne Länder erzeugt – gleiches Design, gleiche Technik, aber Sprache, Kontakt, Adresse, Rechtstexte, Events und News des jeweiligen Landes. Jede Länderseite liegt in einem eigenen GitHub-Repository:
 
@@ -57,11 +57,14 @@ Aus diesem Repository werden zusätzlich eigene Webseiten für einzelne Länder 
 |---|---|---|---|
 | Kanada | Englisch, Französisch (`/fr/`) | [zoller-canada](https://github.com/mzollercreations/zoller-canada) | https://mzollercreations.github.io/zoller-canada/ |
 | Mexiko | Spanisch | [zoller-mexico](https://github.com/mzollercreations/zoller-mexico) | https://mzollercreations.github.io/zoller-mexico/ |
+| USA | Englisch | [zoller-usa](https://github.com/mzollercreations/zoller-usa) | https://mzollercreations.github.io/zoller-usa/ |
 
 - **Inhalte**: die offiziellen Sprachfassungen von zoller.info (`/ca/`, `/ca-fr/`, `/mx/`) – keine eigene Übersetzung der Seiteninhalte. Jede Seite kennt über `hreflang` ihr deutsches Gegenstück; darüber springt der Länderwechsel auf dieselbe Seite im anderen Land, und 3D-Produktbühnen, Kontakt- und Datenschutz-Links werden zugeordnet.
+- **USA**: zoller.info hat keine eigene US-Fassung (`/us/` leitet auf zoller-usa.com um). Die USA-Seite nutzt deshalb die englischen Inhalte von Kanada (`"src": "ca"` in `content/sites.json`) mit eigener Flagge, Firma (ZOLLER Inc., Ann Arbor) und Formular-Adresse. Abweichende Seiten liegen im Overlay `content/sites/us/pages/` (z. B. Ansprechpartner mit den US-Standorten) und ersetzen die gleichnamige Seite von Kanada; Textersetzungen gingen in `content/sites/us/replace.json`. Alte Links auf zoller.info/us/… und zoller-usa.com zeigen auf die USA-Seite.
 - **Feste Texte** (Buttons, Menüs, Footer, Globus …): `tools/i18n.py`, Schlüssel ist der deutsche Text. Fehlende Übersetzungen meldet `build.py` am Ende.
 - **Länder, Sprachen, Adressen, Repositories**: `content/sites.json`. Ein weiteres Land = neuer Eintrag dort plus die Schritte unten.
-- **Länderwechsel**: Weltkugel im Header → „Land und Sprache wählen“ mit den Länderseiten (kleine Flaggen) und den übrigen zoller.info-Sprachen. Neben dem Logo steht der Ländername; in Kanada wechselt „FR“/„EN“ direkt die Sprache.
+- **Länderwechsel**: Knopf mit Weltkugel und Flagge des aktuellen Landes im Header (und im Footer) → „Land und Sprache wählen“ mit den Länderseiten und den übrigen ZOLLER-Länderseiten. Flaggen: `tools/flags.py` (auch für den 3D-Showroom). Neben dem Logo steht der Ländername; in Kanada wechselt „FR“/„EN“ direkt die Sprache.
+- **Header passt sich an**: Passen Menü und Werkzeuge nicht nebeneinander (lange Menütexte, z. B. Französisch), blendet `assets/js/main.js` stufenweise Zusätze aus (`fit-1` … `fit-5` in `main.css`: Meta-Links, EN/FR-Umschalter, kurzer 3D-Knopf, kleinere Menüschrift, zuletzt Burger-Menü).
 
 ```bash
 # Inhalte eines Landes holen (Sprachpfade: ca, ca-fr, mx)
@@ -80,18 +83,18 @@ python3 -m http.server 8767 --directory dist     # http://localhost:8767/zoller-
 tools/publish.sh mx
 ```
 
-Nach Änderungen an Design oder Skripten alle drei Seiten neu bauen: `python3 tools/build.py`, `tools/publish.sh ca`, `tools/publish.sh mx`.
+Nach Änderungen an Design oder Skripten alle vier Seiten neu bauen: `python3 tools/build.py`, `tools/publish.sh ca`, `tools/publish.sh mx`, `tools/publish.sh us`.
 
 ### Unabhängig von zoller.info
 
-Alle drei Seiten (Deutschland, Kanada, Mexiko) funktionieren ohne zoller.info – die alte Seite kann abgeschaltet werden:
+Alle vier Seiten (Deutschland, Kanada, Mexiko, USA) funktionieren ohne zoller.info – die alte Seite kann abgeschaltet werden:
 
 - **Dateien**: Bilder, PDFs, Videos und Icons liegen auf der jeweiligen Seite (`fileadmin/`). `build.py` übernimmt sie aus `docs/` oder lädt fehlende einmalig nach. Blätterkataloge werden durch das komplette PDF des Katalogs ersetzt (Zuordnung: `content/flipbooks.json`).
-- **Links**: Jeder Link zeigt auf die eigene Seite – Links in andere Sprachfassungen von zoller.info werden über das deutsche Gegenstück oder den Produktnamen auf die eigene Seite umgeleitet, USA-Links auf zoller-usa.com. Was es nirgends gibt (z. B. auf zoller.info schon gelöschte Stellenanzeigen), wird zu Text; `build.py` meldet solche Fälle am Ende.
+- **Links**: Jeder Link zeigt auf die eigene Seite – Links in andere Sprachfassungen von zoller.info werden über das deutsche Gegenstück oder den Produktnamen auf die eigene Seite umgeleitet, USA-Links (zoller.info/us/…, zoller-usa.com) auf die eigene USA-Seite. Was es nirgends gibt (z. B. auf zoller.info schon gelöschte Stellenanzeigen), wird zu Text; `build.py` meldet solche Fälle am Ende.
 - **News**: Alte Abfrage-Links (`…/detail?tx_news_pi1[news]=…`) sind lesbaren Artikelpfaden zugeordnet (`content/queries.json`, `content/sites/<sprachpfad>/queries.json`). Gibt es einen Artikel auf zoller.info nur in einer anderen Sprache, übernimmt `fetch_missing.py` die offizielle Übersetzung (z. B. Kanada-Englisch aus der US- oder Indien-Fassung).
 - **Formulare** (Kontakt, Newsletter, Bewerbung, Ticketcodes …) öffnen eine fertig ausgefüllte E-Mail an die Landesgesellschaft (`assets/js/main.js`); E-Mail-Adresse aus `content/sites.json`.
 - **Übersetzungen**: Was auf zoller.info in der Landessprache fehlt, steht in `content/sites/<sprachpfad>/translations.json` (Text → Übersetzung, auch für Bildtexte und Tooltips) und wird beim Bauen ersetzt.
-- **3D-Showroom**: Jede Sprachfassung verlinkt den Showroom in ihrer Sprache (`zoller-produktumgebung-3d/en-ca/`, `/fr-ca/`, `/es-mx/`, erzeugt dort mit `tools/build_locale.py`).
+- **3D-Showroom**: Jede Sprachfassung verlinkt den Showroom in ihrer Sprache (`zoller-produktumgebung-3d/en-ca/`, `/fr-ca/`, `/es-mx/`, `/en-us/`, erzeugt dort mit `tools/build_locale.py`). Auch dort wechselt ein Knopf mit Weltkugel und Flagge Land und Sprache.
 
 ## Scroll-Effekte & 3D
 

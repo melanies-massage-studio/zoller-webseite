@@ -35,5 +35,17 @@
   ],
   "company": {"name": "ZOLLER Tecnologías S. de R.L. de C.V.", "lines": ["Calle Pirineos 515, interior nave 16", "Zona Industrial Benito Juárez", "76120 Querétaro, Qro., México"],
               "phone": "+52 442 361 3423", "email": "sales@zoller-mexico.com"}
+ },
+ "us": {
+  "repo": "zoller-usa",
+  "url": "https://mzollercreations.github.io/zoller-usa/",
+  "out": "dist/zoller-usa",
+  "country": "USA",
+  "flag": "us",
+  "locales": [
+   {"lang": "en", "code": "en-US", "src": "ca", "overlay": "us", "dir": "", "label": "English", "name": "USA", "home": "/ca/accueil"}
+  ],
+  "company": {"name": "ZOLLER Inc.", "lines": ["3900 Research Park Drive", "Ann Arbor, MI 48108", "USA"],
+              "phone": "+1 734 332 4851", "email": "sales@zoller-usa.com"}
  }
 }
