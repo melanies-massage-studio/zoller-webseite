@@ -1,0 +1,437 @@
+{
+ "path": "/business-segments-1",
+ "url": "/ca/business-segments-1",
+ "title": "Business Segments",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Business Segments",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Business Segments",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/geschaeftsfelder",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/business-areas-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/domaines-dactivite-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/settori-di-attivita-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verksamhetsomraaden-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/geschaeftsfelder-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/secteurs-dactivite-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BA%8B%E6%A5%AD%E5%88%86%E9%87%8E-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%97%85-%EB%B6%84%EC%95%BC-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/business-areas-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/areas-de-negocio-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/4/csm_smartfactory_header_4a3f7f359c.webp",
+     "video": null,
+     "title": "Overview from ZOLLER: Our Expertise",
+     "kicker": "",
+     "text": "<p>We support your work</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8150",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">With our products, machines, and software, we help you speed up your processes and reduce waste.</p> <p class=\"extra-large-text\">We develop solutions tailored precisely to your challenges. Learn more here about the options our software and devices open up for you.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8151",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Presetting &amp; Measuring </h3> <h2> Save Costs and Improve Safety with Tool Presetting </h2>",
+   "body": "<p>To manufacture parts with precision, modern CNC machine tools require exact tool geometry data. With the tool presetter, you can determine the tool data outside the machine, thereby saving a significant amount of setup time. As soon as you use the tool, you can immediately import the tool data from the tool presetter. Data transfer occurs electronically, ensuring complete accuracy since typing errors and transmission errors are eliminated.</p> <p><a class=\"btn\" href=\"/ca/preset-device\">Learn more about presetting and measuring machines for tool adjustment</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_smile_header_c846e8a6b4.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8153",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Tool Management </h3> <h2> Good Reasons to Produce in a More Cost-Effective Way </h2>",
+   "body": "<ul><li>Reduce setup times: The right tool is always in the right place at the right time. Data output in controller format avoids input errors at the machine and the resulting costs.</li><li>Find Instead of Search: You always know which tools are available for which machines and where they are<br/>located.</li><li>Better organization: Planned workflows with predictable cycle times and efficient checks ensure efficient process management and, consequently, short response times. Autonomous production units can be integrated and organized.</li><li>Prevent machine downtime: All tools are always available, 24 hours a day. Using the correct tools on the machines avoids collisions and avoids tool breakage.</li><li>Guarantee quality: High system availability and transparent, stable production processes guarantee the highest quality.</li><li>Save on storage costs: You can see which tools are used and how often, and order only what is actually needed.</li><li>Maximize tool potential: Optimal cutting speeds and feeds increase tool life.</li><li>Increasing productivity: An optimized tool circulation ensures short lead times and fully utilized machines, boosting productivity and reducing manufacturing costs.</li></ul><p><a class=\"btn\" href=\"/ca/tool-management\">Cost-Effective Tool Management:</a><br/><a class=\"btn\" href=\"/ca/tool-organization\">Efficient stock management and manufacturing data management</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/8/csm_keeper_header_fc94668ac2.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8165",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Data Transfer </h3> <h2> Secure and Fast Data Transfer </h2>",
+   "body": "<p>Data exchange between individual production elements is essential for modern industrial manufacturing. ZOLLER’s software solutions ensure the reliable and fast transmission of tool data at all times—regardless of manufacturer or platform.</p> <p><a class=\"btn\" href=\"/ca/transfer-of-tool-data\">Tool Data Transfer:</a><br/><a class=\"btn\" href=\"/ca/tool-monitoring\">Optimal Tool Management and Manufacturing Organization</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/5/csm_zidCode_kombi_header_8e15ec79e7.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8164",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Inspection &amp; Measuring </h3> <h2> Measuring machines ensure precise manufacturing </h2>",
+   "body": "<p>To ensure that tools perform exactly as planned, they must themselves be manufactured with precision. With our Universal measuring machines, tools can be measured to the micrometer and checked to ensure they correspond to the requirements.</p> <p><a class=\"btn\" href=\"/ca/measuring-machines\">Greater precision thanks to measuring machines</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_genius_header_fd8701f3c0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8161",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Automation </h3> <h2> Automation Solution for Tool Measurement </h2>",
+   "body": "<p>Whether in the tool grinding shop or during the preparation, provision, and set up of tools—automating day-to-day tasks will be the answer to this challenge. ZOLLER provides the right solution for automated tool handling for every task. Depending on the requirements, the solution can lie in a closed system with additional modules, a complex automation concept or collaborative robot support in the tool room.</p> <p><a class=\"btn\" href=\"/ca/solutions/automation\">Everything you need to know about modular automation for cutting tools</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_corameasureLG_header_89e9e61ae5.webp",
+     "alt": "",
+     "w": 1428,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8162",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Tool Heat Shrink Technology </h3> <h2> Short setup times thanks to the use of a shrink-wrapping machine </h2>",
+   "body": "<p>For many drilling and milling tools, tool shrink-fitting is the fastest and, at the same time, the most precise method of clamping the tool. With an appropriate shrink station, the necessary steps can be easily carried out; a shrink station can largely automate these steps while guaranteeing process reliability through appropriate measurements.</p> <p><a class=\"btn\" href=\"/ca/shrink-the-tool\">The Advantages of Tool Shrink Fitting</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8163",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Tool Balancing Technology </h3> <h2> Balancing grinding wheels and tools? It's important—and simple! </h2>",
+   "body": "<p>Precision-balanced tools are extremely important for modern cutting machines. Unbalances in grinding wheels, tools, and tooling systems cause wear and tear or even damage to spindles and motors—and, not least, result in scrap workpieces. Regular balancing prevents downtime, ensures quality, and reduces your overall costs.</p> <p><a class=\"btn\" href=\"/ca/balancing-a-tool\">Our balancing system extends tool life</a><br/><a class=\"btn\" href=\"/ca/balancing-a-grinding-wheel\">Smoother operation and improved machining performance thanks to balanced grinding wheels</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8160",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Optimize the Tool Life of Your Tools </h2>",
+      "body": "<p>The longer the tool life of a cutting tool, the lower its cost and the more effectively it can operate. If you know the key factors that influence tool life, it’s easier to optimize it.</p> <p><a class=\"btn\" href=\"/ca/tool-life\">How to Check and Optimize Your Tool’s Tool Life</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c8166",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Optimizing Setup Time—<br/>How and Why? </h2>",
+      "body": "<p>These days, almost no machine or system manufactures just one product—they are typically reconfigured to produce different products as needed. This results in setup times during which the machine generally produces nothing.</p> <p><a class=\"btn\" href=\"/ca/setup-time-optimization\">Why optimize setup times?</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8168",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8167",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Expert Meeting</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">Make an appointment now</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ca/business-segments-1",
+ "de_path": "/geschaeftsfelder"
+}

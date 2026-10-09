@@ -1,0 +1,364 @@
+{
+ "path": "/solutions/porta-herramientas/centro-de-informacion",
+ "url": "/mx/solutions/porta-herramientas/centro-de-informacion",
+ "title": "Soluciones de herramientas: centro de información",
+ "description": "Centro de información - Soluciones de herramientas: centro de información",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/mx/solutions"
+  },
+  {
+   "label": "Porta Herramientas",
+   "href": "/mx/solutions/porta-herramientas"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/mx/solutions"
+  },
+  {
+   "label": "Porta Herramientas",
+   "href": "/mx/solutions/porta-herramientas"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions/info-pool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare/informationsbank",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas/painel-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Porta Herramientas",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/solutions/porta-herramientas",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/solutions/porta-herramientas/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/solutions/porta-herramientas/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1415",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Centro de información </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c1460",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Folletos </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_ES.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/5/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_ES_4181debc58.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Hawk-Eye-EN.pdf",
+     "name": "Sistemas de sujeción de herramientas HAWK EYE®",
+     "size": "577 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/7/csm_ZOLLER_Tooling_Solutions_Hawk-Eye-EN_3f13651cae.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Sistemas de sujeción de herramientas HAWK EYE®"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Spannzangenfutter_EN.pdf",
+     "name": "Sistemas de sujeción de herramientas ER & ER »Mini«",
+     "size": "645 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/c/csm_ZOLLER_Tooling_Solutions_Spannzangenfutter_EN_60729ce89b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Sistemas de sujeción de herramientas ER & ER »Mini«"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_ES.pdf",
+     "name": "Fabricación inteligente",
+     "size": "806 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/7/c/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_ES_815d295f1b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Fabricación inteligente"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Messtechnik/ZOLLER_Flyer_Messtechnik_4_0_FLMETE4_00_ES_07.pdf",
+     "name": "Técnica de medición 4.0",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/c/csm_cover_measuring_technology_9f9cdcff05.webp",
+      "alt": "",
+      "w": 310,
+      "h": 437
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/Zoller_flyer_tms_zidcode_fltmszc_00_es.pdf",
+     "name": "Manejo eficiente de herramientas",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/0/8/csm_Zoller_flyer_tms_zidcode_fltmszc_00_es_47cb8b1142.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Manejo eficiente de herramientas"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c1461",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Videos </h3>",
+   "body": "<p><strong>Producto / Presentación</strong></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/xmsnaIc1TvI?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – The Perfect Interface for Your Digital Manufacturing"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/lReSgNmtSEc?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions - los héroes de las herramientas"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1462",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Ahora es su turno: ¡aproveche la oportunidad! </h2>",
+   "body": "<p>Ahora la gama completa de sistemas de sujeción de herramientas está disponible en nuestra tienda en línea. Encuentre el portaherramientas perfecto de forma sencilla, rápida y cómoda, y utilice inmediatamente el gemelo digital disponible en su sistema CAM y de gestión de herramientas.</p> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/shop/tooling\" rel=\"noopener\" target=\"_blank\">Ir a la tienda de herramientas</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1459",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/solutions/porta-herramientas/centro-de-informacion",
+ "de_path": "/solutions/werkzeugaufnahmen/info-pool"
+}

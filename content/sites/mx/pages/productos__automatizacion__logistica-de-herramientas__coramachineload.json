@@ -1,0 +1,327 @@
+{
+ "path": "/productos/automatizacion/logistica-de-herramientas/coramachineload",
+ "url": "/mx/productos/automatizacion/logistica-de-herramientas/coramachineload",
+ "title": "»coraMachineLoad«",
+ "description": "»coraMachineLoad« - Manipulación precisa y puntual de las herramientas entre la logística y el almacén de máquinas.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Automatización /",
+   "href": "/mx/productos/automatizacion"
+  },
+  {
+   "label": "Logística de herramientas /",
+   "href": "/mx/productos/automatizacion/logistica-de-herramientas"
+  },
+  {
+   "label": "»coraMachineLoad«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Automatización /",
+   "href": "/mx/productos/automatizacion"
+  },
+  {
+   "label": "Logística de herramientas /",
+   "href": "/mx/productos/automatizacion/logistica-de-herramientas"
+  },
+  {
+   "label": "»coraMachineLoad«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeuglogistik/coramachineload",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-logistics/coramachineload",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/logistica-de-herramientas/coramachineload",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/logistique-des-outils/coramachineload",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/logistica-de-ferramentas/coramachineload",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/logistica-degli-utensili/coramachineload",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/verktygslogistik/coramachineload",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeuglogistik/coramachineload",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-logistics/coramachineload",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/logistique-des-outils/coramachineload",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81/coramachineload",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EB%AC%BC%EB%A5%98/coramachineload",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-logistics/coramachineload",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/logistica-de-herramientas/coramachineload",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/logistica-de-ferramentas/coramachineload",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»coraMachineLoad«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Software e integración",
+     "href": "/mx/productos/automatizacion/logistica-de-herramientas/coramachineload/software-e-integracion",
+     "current": false
+    },
+    {
+     "label": "Datos técnicos",
+     "href": "/mx/productos/automatizacion/logistica-de-herramientas/coramachineload/datos-tecnicos",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/automatizacion/logistica-de-herramientas/coramachineload/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/automatizacion/logistica-de-herramientas/coramachineload/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2598",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»coraMachineLoad«",
+   "text": "<p>Carga y descarga automatizadas de la máquina</p> <p><a class=\"btn\" href=\"/mx/empresa/contacto\">Solicitar ahora</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/9/2/csm_coraMaschineLoad_header_a7bddc72da.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c2560",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/e/csm_coraMachineLoad_info_roboter_d433b97337.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Unidad robótica cooperativa",
+     "caption": "<figcaption> <h3>Unidad robótica cooperativa</h3> <p>Unidad robótica »coraArm«: se encarga de la carga automatizada de la máquina herramienta. Las herramientas se ponen a disposición a través del sistema ZOLLER »smartPallet« y, a continuación, »coraArm« las inserta en el almacén de herramientas.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_coraMachineLoad_info_smartpallet_a3008e4cc4.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Sistema móvil »smartPallet«",
+     "caption": "<figcaption> <h3>Sistema móvil »smartPallet«</h3> <p>Sistema »smartPallet«: para el suministro de herramientas a equipos de automatización. Gracias a la innovadora tecnología de paletas, las herramientas se pueden capturar de forma fiable y, a continuación, transportar de manera manual o automatizada a los diferentes equipos.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/b/csm_coraMachineLoad_info_sicherheit_1_284eeed4a8.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Dispositivo de seguridad inteligente",
+     "caption": "<figcaption> <h3>Dispositivo de seguridad inteligente</h3> <p>Dispositivo de seguridad »coraControl«: garantiza el área de seguridad necesario durante la carga automatizada de la máquina con ayuda del escáner láser de seguridad y el interruptor de parada de emergencia. Opcionalmente, el área de trabajo se puede proteger adicionalmente o solo con una carcasa de seguridad.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2563",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automatización: sus ventajas",
+     "href": "/mx/solutions/automatizacion",
+     "caption": "<figcaption> <h3>Automatización: sus ventajas</h3> <p>Descubra cómo automatizar la preparación, la puesta a disposición, la logística y la inspección de herramientas con ZOLLER. Cree una fábrica inteligente altamente eficiente que se adapte a sus necesidades. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/automatizacion/logistica-de-herramientas/coramachineload",
+ "de_path": "/produkte/automation/werkzeuglogistik/coramachineload"
+}

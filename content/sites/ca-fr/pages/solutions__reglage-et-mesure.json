@@ -1,0 +1,450 @@
+{
+ "path": "/solutions/reglage-et-mesure",
+ "url": "/ca-fr/solutions/reglage-et-mesure",
+ "title": "Réglage et mesure",
+ "description": "Réglage et mesure",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Réglage et mesure",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Réglage et mesure",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/einstellen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/presetting-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/reglage-et-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/ajuste-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/regolazione-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/instaellning-och-maetning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/einstellen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/presetting-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/reglage-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/presetting-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/ajuste-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/c/csm_header_presetting_8b840715e8.webp",
+     "video": null,
+     "title": "Réglage &",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c622",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>En calibrant les outils en parallèle avec le temps de fonctionnement principal de la machine CNC, on gagne en efficacité. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c614",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Le réglage et la mesure en dehors de la machine CNC changent radicalement votre façon de fabriquer. Vous réduirez considérablement les temps de préparation, diminuerez les rebuts, augmenterez la durée de vie des outils et réduirez les coûts de fabrication. Autant de bonnes raisons d'opter pour les appareils de réglage et de mesure de ZOLLER. </strong></p> <p>Dans le domaine de l'usinage par enlèvement de copeaux, des données de mesure d'outils exactes sont indispensables pour garantir la fiabilité des processus et obtenir des résultats de premier ordre. Les appareils de réglage et de mesure de ZOLLER fournissent ces données avec une précision au µm près. ZOLLER va encore plus loin. L’utilisation des appareils est si simple que chaque mesure aboutit toujours à des valeurs précises, quel que soit l’opérateur. </p> <p>Régler et mesurer avec ZOLLER, c’est transférer la responsabilité du résultat de l’humain vers les appareils de mesure. Compte tenu de la pénurie de main-d’œuvre qualifiée et de la forte pression sur les coûts dans les ateliers de fabrication, confier la mesure des outils à un appareil ZOLLER est la meilleure décision à prendre. </p> <p><a class=\"btn\" href=\"/ca-fr/produits/reglage-et-mesure\">Afficher les produits</a> <a href=\"/ca-fr/calculateur-de-rentabilite\">Déterminer le potentiel d'économies</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c616",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c615",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Le temps de préparation diminue de plus de 40 % </h2>",
+   "body": "<p>En mesurant seulement cinq outils sur un appareil de réglage et de mesure ZOLLER avant de les monter sur la machine, vous réduisez le temps de réglage de plus de 40 %.</p> <p>Le réglage en parallèle du temps principal avec ZOLLER ouvre la voie à d’importantes économies. En fonction du nombre de changements d’outils nécessaires, les réductions de coûts par équipe et par machine CNC peuvent atteindre 15 000 euros par an. Selon l’appareil de réglage et de mesure choisi et sa configuration, votre investissement peut être amorti en quelques mois. </p> <p><a class=\"btn\" href=\"/ca-fr/solutions/reglage-et-mesure\">Évaluez dès maintenant votre potentiel d’économies</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c621",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Plus de données, une meilleure qualité des pièces </h2>",
+   "body": "<p class=\"large-text\">En règle générale, le système de mesure d'une machine CNC ne détecte que la longueur de l'outil. Cela ne suffit pas pour exploiter pleinement le potentiel de précision élevé d'une machine.</p> <p class=\"large-text\">Avec ZOLLER, vous obtenez des données géométriques détaillées qui permettent aux machines CNC de produire avec encore plus de précision. Une qualité optimale pour votre production. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/d/csm_presetting_01_59fab0dfc1.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c620",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Une meilleure productivité </h2>",
+   "body": "<p class=\"large-text\">Les temps d'arrêt des machines sont coûteux et inutiles. Lorsque les outils sont pré-réglés avant d'être montés sur la machine, vous pouvez démarrer plus tôt la commande suivante. Optimisez dès maintenant votre productivité grâce à un appareil de réglage et de mesure ZOLLER.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/5/csm_presetting_02_f4a2e05503.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c619",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Tirer le meilleur parti de la durée de vie </h2>",
+   "body": "<p class=\"large-text\">Grâce à un appareil de réglage et de mesure ZOLLER, vous savez, avant même le début d'un cycle de production, si un outil est encore en bon état ou non. Le réglage et la mesure vous permettent de contrôler régulièrement la qualité des arêtes de coupe. Vous évitez ainsi les changements d'outils inutiles et exploitez pleinement la durée de vie de l'outil. Le réglage et la mesure avec ZOLLER améliorent la rentabilité de votre production. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/a/csm_presetting_03_f94d19dc0f.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c618",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Potentiel d'économies évolutif par machine CNC et par an* :",
+   "value": "15 000 €",
+   "note": "* calculé sur la base de 20 changements d'outils d'une durée de 3 minutes chacun,",
+   "ftype": "zoller_count-banner",
+   "id": "c617",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Appareils de réglage et de mesure </h2>",
+   "items": [
+    {
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/smile",
+     "title": "»smile«",
+     "text": "<p>Des appareils d'entrée de gamme robustes, d'une précision de l'ordre du µm, destinés aux outils standard</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion",
+     "title": "»venturion«",
+     "text": "<p>Réglage et étalonnage d'outils d'excellente qualité, avec de nombreuses options</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-horizontaux/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>L'appareil de réglage et de mesure horizontal pour l'usinage par tournage</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1621",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Augmentation de la productivité grâce aux appareils de réglage et de mesure ZOLLER</p> <p>Le calculateur de rentabilité ZOLLER évalue le potentiel d'économies de votre entreprise.</p>",
+   "button": "<a class=\"btn\" href=\"/ca-fr/calculateur-de-rentabilite\">Évaluer dès maintenant votre potentiel d'économies</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4275",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/5/csm_zoller_system_teaser_fr_442fdf1d03.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Démarrez par une solution – Entrez dans un système.",
+     "href": "/ca-fr/le-systeme",
+     "caption": "<figcaption> <h3>Démarrez par une solution – Entrez dans un système.</h3> <p>Nos clients bénéficient d'approches globales que nous développons depuis des décennies. Le résultat : une excellente efficacité. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/solutions/reglage-et-mesure",
+ "de_path": "/solutions/einstellen-messen"
+}

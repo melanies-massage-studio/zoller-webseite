@@ -1,0 +1,544 @@
+{
+ "path": "/products/tool-heat-shrink-technology/redomatic",
+ "url": "/ca/products/tool-heat-shrink-technology/redomatic",
+ "title": "»»redomatic««",
+ "description": "»»redomatic«« - »»redomatic«« - Universal Presetting and Measuring Machine with Integrated Tool Shrink-Fit System - Shrinking and Measuring",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Heat Shrink Technology /",
+   "href": "/ca/products/tool-heat-shrink-technology"
+  },
+  {
+   "label": "»»redomatic««",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Heat Shrink Technology /",
+   "href": "/ca/products/tool-heat-shrink-technology"
+  },
+  {
+   "label": "»»redomatic««",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/redomatic",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/redomatic",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/redomatic",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/redomatic",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/redomatic",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/redomatic",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/redomatic",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/redomatic",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/redomatic",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/redomatic",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/redomatic",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/redomatic",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»»redomatic««",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Applications",
+     "href": "/ca/products/tool-heat-shrink-technology/redomatic/applications",
+     "current": false
+    },
+    {
+     "label": "Options & Accessories",
+     "href": "/ca/products/tool-heat-shrink-technology/redomatic/options-accessories",
+     "current": false
+    },
+    {
+     "label": "Technical Specifications",
+     "href": "/ca/products/tool-heat-shrink-technology/redomatic/technical-specifications",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/tool-heat-shrink-technology/redomatic/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/tool-heat-shrink-technology/redomatic/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1479",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»redomatic«",
+   "text": "<p>Universal Presetting and Measuring Machine with<br/>Integrated Tool Shrink System</p> <p><a class=\"btn\" href=\"/ca/company/contact\">Request Information Now</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/0/csm_header_redomatic_a78a94a4e3.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1478",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »actbyLight« </h3> <h2> At the end, only one thing matters—outstanding quality </h2>",
+   "body": "<p>With a »redomatic« 400« or »redomatic« 600« from ZOLLER, you’ll be able to produce more effectively with your multi-spindle machines and in your automated series production. That’s because with »redomatic«, you can be sure that tool lengths are always set correctly. The shrink-fit process developed by ZOLLER using the »masterPiece« adjustment adapter is both fast and simple.</p> <p><a class=\"btn\" href=\"/ca/company/contact\">Request</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">a 1:1 consultation with an expert</a> <a class=\"btn\" href=\"/ca/company/contact\">now</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_zoller_redomatic_positionierung_9118bc970f.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1480",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Unique operating concept ",
+    "Highest precision ",
+    "Certified safety"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1481",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Tool Heat Shrink Technology </h3> <h2> Less Energy, Maximum Profit </h2>",
+   "body": "<p>With »redomatic« from ZOLLER, you save time, reduce your electricity costs, and extend the life of your shrink fit holders thanks to the perfect interplay of electronics, software, and mechanics, combined with a well-designed, safe shrink process.</p> <p><a class=\"btn\" href=\"#c3769\">30% energy savings</a> </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/0/csm_zoller_redomatic_energieeinsparung_c7657a464d.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1482",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/0/6/csm_energieeinsparung-de_a28e5b00ba.webp",
+    "alt": "",
+    "w": 996,
+    "h": 559
+   },
+   "title": "30% energy savings",
+   "text": "<p>ZOLLER induction technology allows you to heat your shrink fit holders optimally. For you, this means: consistent heating across the entire clamping range and only for as long as necessary. This results in short heating and cooling times, short cycle times, reduces wear on the holders, and extends their lifetime.</p> <p>A particular advantage of »redomatic«—through which ZOLLER contributes to sustainable manufacturing practices—is the energy savings of up to 30% compared to the previous model. We’re especially proud of this. The heat and energy are delivered exactly where you need them to safely shrink and unshrink your tools.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3769",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Tool Heat Shrink Technology </h3> <h2> Smart Design for Maximum Efficiency </h2>",
+   "body": "<p>A smart, well-designed highlight of »the« »powerShrink« is the ZOLLER induction coil. Two windings connected in parallel within the coil can be activated separately and controlled differently depending on the clamping diameter and length. This enables optimal energy transfer to the clamping area, accelerates the heating and cooling process, and protects your tool holders.</p> <p><a class=\"btn\" href=\"#c3770\">Induction coil with »varOct« shielding system</a> <a class=\"btn\" href=\"#c3771\">Stand-alone »powerShrink« solution</a></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/1TT4LwLEbHw?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Re-inventing the induction coil"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1483",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/6/9/csm_varoct__1__2af8f2890a.webp",
+    "alt": "",
+    "w": 960,
+    "h": 1200
+   },
+   "title": "When Art Hits the Mark",
+   "text": "<p class=\"large-text\">Inspired by modern architecture and optical kinematics, ZOLLER’s Research and Development department has created a masterpiece. The ZOLLER induction coil with the »varOct« shielding system ensures maximum efficiency and ergonomics in the shrink-wrapping process.</p> <h2>8 ferrite elements</h2> <p class=\"large-text\">Ingeniously conceived. Perfectly constructed. The eight variable elements of the »varOct« coil shielding glide smoothly past one another—a design masterpiece. ZOLLER’s unique approach delivers unbeatable design and efficiency.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3770",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/c/a/csm_zoller_powershrink_v2_9191a84cdf.webp",
+    "alt": "",
+    "w": 960,
+    "h": 960
+   },
+   "title": "A Top-of-the-Line Stand-Alone Solution",
+   "text": "<p>Shrink and unshrink tools in record time while saving energy and protecting the chuck: You get all these benefits with the »powerShrink« inductive shrink system.</p> <p><a class=\"btn\" href=\"/ca/products/tool-heat-shrink-technology/powershrink\">Learn more</a></p>",
+   "ftype": "zoller_overlay",
+   "id": "c3771",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> The High-Performance Synergy </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/0/f/csm_redomatic_Infodots_v2_431a9f8198.webp",
+    "alt": "",
+    "w": 1366,
+    "h": 986
+   },
+   "spots": [
+    {
+     "x": 39.537,
+     "y": 4.582,
+     "label": "flue gas suction device",
+     "text": "<h3>flue gas suction device</h3> <h4>flue gas suction device</h4> <p>Reliably removes flue gases from the operator’s work area. The established and patented flue gas suction device above the induction coil has been expanded to include an integrated suction system inside the coil housing. The flue gases are thus suctioned directly where they are generated.</p>"
+    },
+    {
+     "x": 33.0,
+     "y": 8.864,
+     "label": "Induction coil »»varOct««",
+     "text": "<h3>Induction coil »»varOct««</h3> <h4>Smart Induction Coil with »»varOct«« shielding system</h4> <p>With automatic diameter adjustment for shaft diameters up to 32 mm for optimal heating performance in every case. The heating process is continuously monitored. The inner diameter of the »»varOct«« shielding system can be quickly and automatedly adjusted to the required diameter using a detent mechanism. Thanks to the maximum inner diameter of 45.8 mm, even tools with larger cutting edges can be simply unshrinked.</p> <p>Also available as an optional feature with a quick-change interface for rapid coil changes from 14 kVA to 22 kVA.</p>"
+    },
+    {
+     "x": 26.9,
+     "y": 25.069,
+     "label": "»»eQ«« One-Hand Control Handle",
+     "text": "<h3>»»eQ«« One-Hand Control Handle</h3> <h4>»»eQ«« (ergonomic &amp; quick) One-Hand Control Knob</h4> <p>With just one hand, you can quickly move the optic carrier simultaneously along the Z and X axes and effortlessly position it exactly where you need it. Additionally, other functions from »pilot 4.0« can be integrated into the »»eQ«’s« auxiliary button.</p>"
+    },
+    {
+     "x": 35.582,
+     "y": 36.817,
+     "label": "»»asza«« length setting system",
+     "text": "<h3>»»asza«« length setting system</h3> <h4>»»asza«« Automatic Length Limit System</h4> <p>Accurate to within 10 μm along the Z-axis for shrinking.<br/><br/><strong>Shrink length monitoring</strong>—for safe and controlled shrinking of tools with monitoring of the minimum shrink length.</p>"
+    },
+    {
+     "x": 33.033,
+     "y": 42.284,
+     "label": "»»ace«« high-precision spindle",
+     "text": "<h3>»»ace«« high-precision spindle</h3> <h4>High-Precision »Spindle »ace««</h4> <p>High-precision, universal spindle system with clamping characteristics similar to those of a machine spindle, guaranteeing μm-accurate holding and clamping of tools. The universal adapter tool post changing system allows adaptation to virtually any tool holder system.</p>"
+    },
+    {
+     "x": 52.5,
+     "y": 38.92,
+     "label": "Cooling Bells",
+     "text": "<h3>Cooling Bells</h3> <h4>Innovative cooling bells with »»coolbyLight«« user guidance</h4> <p>For a safe and simple cooling process thanks to the LED color system. Alternatively, the »redomatic 600« can be selected in an execution with standard cooling bells.</p> <p><strong>Energy manager software for the cooling unit</strong>—the cooling unit is automatically activated only when needed.</p>"
+    },
+    {
+     "x": 59.3,
+     "y": 57.064,
+     "label": "carrier system",
+     "text": "<h3>carrier system</h3> <h4>carrier system</h4> <p>For holding the heat-shrinking electronics, cooling bells, mounting rings, limit rods, and the ZOLLER »»masterPiece«« setting adapter. The display of the »»sls«« shrink-fit guidance system in the image processing software ensures quick selection of the required accessories.</p> <p><strong>The »»sls«« heat-shrink guiding system</strong> – »pilot 4.0« – guides the operator safely and quickly through the shrink-fit process using exact steps in the software.</p>"
+    },
+    {
+     "x": 68.7,
+     "y": 19.114,
+     "label": "»»pilot«« image processing technology »4.0«",
+     "text": "<h3>»»pilot«« image processing technology »4.0«</h3> <h4>IPC with »pilot 4.0« image processing software</h4> <p>The control system, consisting of an IPC, »pilot 4.0«, and a 24-inch TFT color monitor, handles all processing tasks—including adjusting, measuring, and shrinking—and ensures safe and simple operation. The monitor is adjustable in height and inclination, making the software as user-friendly as possible. The »»cockpit«« provides space for a keyboard and mouse, as well as storage for label and laser printers, a scanner, and tools such as Allen keys.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1484",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> We stand for ZOLLER Solutions </h2>",
+   "body": "<p>ZOLLER Solutions – With us, you get more than just outstanding products. You get customized system solutions for all your tools needs. To achieve this, we combine hardware, software, and services for you. Everything from a single source. Everything for your success. We call this: ZOLLER Solutions.</p> <p><a class=\"btn\" href=\"/ca/solutions\">Learn more about ZOLLER Solutions</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_zoller_redomatic_geschaeftsleitung_638859d838.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1488",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»redomatic« 400«</h4> <p>Compact and top-of-the-line. Make your selection simply and with an overview, or contact us!</p> <p><a class=\"btn\" href=\"/ca/products/tool-heat-shrink-technology/redomatic\">Inquire Now</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/9/csm_cta_redomatic400_f236af4606.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c2326",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»redomatic« 600«</h4> <p>High-Performance Synergy. Make your selection simply and with an overview, or contact us!</p> <p><a class=\"btn\" href=\"/ca/products/tool-heat-shrink-technology/redomatic\">Inquire Now</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/0/3/csm_cta_redomatic600_0cb1f5c4f1.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c2327",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2325",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Expert Meeting</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">Make an appointment now</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ca/products/tool-heat-shrink-technology/redomatic",
+ "de_path": "/produkte/schrumpftechnik/redomatic"
+}

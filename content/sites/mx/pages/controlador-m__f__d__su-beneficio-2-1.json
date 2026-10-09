@@ -1,0 +1,312 @@
+{
+ "path": "/controlador-m/f/d/su-beneficio-2-1",
+ "url": "/mx/controlador-m/f/d/su-beneficio-2-1",
+ "title": "Su beneficio",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Carrera profesional /",
+   "href": "/mx/empresa/carrera-profesional"
+  },
+  {
+   "label": "Ofertas de empleo /",
+   "href": "/mx/empresa/carrera-profesional/ofertas-de-empleo"
+  },
+  {
+   "label": "Su beneficio",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Carrera profesional /",
+   "href": "/mx/empresa/carrera-profesional"
+  },
+  {
+   "label": "Ofertas de empleo /",
+   "href": "/mx/empresa/carrera-profesional/ofertas-de-empleo"
+  },
+  {
+   "label": "Su beneficio",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/abas-erp-betreuer/-entwickler-m/w/d/ihr-benefit",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/controller-m/f/d/your-benefit-2-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/controlador-h/m/d/su-ventaja-2-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/controleur-h/f/d/votre-avantage-2-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/controlador-m/f/d/a-sua-vantagem-2-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/controllore-m/f/d/il-vostro-vantaggio-2-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/abas-erp-supporttekniker/-utvecklare-m/k/d/dina-foerdelar",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/controller-m/w/d/ihr-benefit-1-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/chargee-de-support-/-developpeureuse-abas-erp-h/f/d/votre-avantage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E6%80%A7%E5%88%A5%E4%B8%8D%E5%95%8F/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%B8%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88-1-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%84%B1%EB%B3%84-%EB%AC%B4%EA%B4%80/%EA%B3%A0%EA%B0%9D%EB%8B%98%EA%BB%98-%EB%93%9C%EB%A6%AC%EB%8A%94-%ED%98%9C%ED%83%9D-1-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/controller-m/w/d/ihr-benefit-2-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/controlador-m/f/d/su-beneficio-2-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/controlador-m/f/d/a-sua-vantagem-2-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Su beneficio",
+     "href": "/mx/controlador-m/f/d/su-beneficio-2-1",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c90969",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> ¡Únase al equipo de ZOLLER! </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90933",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>Trabajo independiente y libertad para tomar decisiones y dar rienda suelta a la creatividad dentro de un equipo comprometido.</li><li>Procesos de toma de decisiones cortos, jerarquías planas en una empresa en crecimiento con productos con futuro </li><li>Entorno de trabajo moderno</li><li>Horarios flexibles</li><li>Contrato indefinido</li><li>Vehículo de empresa, teléfono celular, tableta (dependiendo de la posición y del área de trabajo).</li><li>Ropa de trabajo si se desea</li><li>Ofertas de formación continua</li><li>Plan de pensiones de la empresa</li><li>Cafetería propia</li><li>Asistencia médica a cargo del médico de la empresa</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90915",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c90951",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Acerca de ZOLLER",
+     "href": "/mx/empresa/perfil",
+     "caption": "<figcaption> <h3>Acerca de ZOLLER</h3> <p>El nombre ZOLLER tiene una estrecha conexión con un equipo de más de 800 personas, numerosas innovaciones y la solidez de una empresa familiar.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Medios de comunicación",
+     "href": "/mx/empresa/medios-de-comunicacion",
+     "caption": "<figcaption> <h3>Medios de comunicación</h3> <p>Aquí encontrará comunicados de prensa, anuncios de productos, participaciones en ferias, reportajes de prensa de revistas especializadas y el archivo de noticias.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Informes e historias",
+     "href": "/mx/empresa/informes-e-historias",
+     "caption": "<figcaption> <h3>Informes e historias</h3> <p>¿Qué está pasando en ZOLLER? ¿Qué opinan nuestros clientes sobre el trabajo con las soluciones ZOLLER? Aquí encontrará las últimas novedades.</p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/controlador-m/f/d/su-beneficio-2-1",
+ "de_path": "/abas-erp-betreuer/-entwickler-m/w/d/ihr-benefit"
+}

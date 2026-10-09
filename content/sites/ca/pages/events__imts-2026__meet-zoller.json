@@ -1,0 +1,653 @@
+{
+ "path": "/events/imts-2026/meet-zoller",
+ "url": "/ca/events/imts-2026/meet-zoller",
+ "title": "Meet ZOLLER",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca/events/imts-2026"
+  },
+  {
+   "label": "Meet ZOLLER",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca/events/imts-2026"
+  },
+  {
+   "label": "Meet ZOLLER",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/imts-2026/meet-zoller",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/imts-2026/conozca-zoller",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/imts-2026/decouvrez-zoller",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/imts-2026/conheca-a-zoller",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/imts-2026/scopri-zoller",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/imts-2026/moet-zoller",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/imts-2026/meet-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/imts-2026/meet-zoller",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/imts-2026/decouvrez-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/imts-2026/zoller%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/imts-2026/%EC%A1%B8%EB%9F%AC%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%84%B8%EC%9A%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/imts-2026/meet-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/imts-2026/conozca-a-zoller",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/imts-2026/conheca-a-zoller",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IMTS 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Solutions",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/solutions",
+     "current": false
+    },
+    {
+     "label": "Presenters",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/presenters",
+     "current": false
+    },
+    {
+     "label": "Agenda",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/agenda",
+     "current": false
+    },
+    {
+     "label": "Hotel & Travel",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/hotel-travel",
+     "current": false
+    },
+    {
+     "label": "Register Now!",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    },
+    {
+     "label": "Download",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/download",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7441",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_csm_meet_zoller_599fe3f5ee_b8eb9cad0a.webp",
+     "video": null,
+     "title": "Meet the Experts",
+     "kicker": "",
+     "text": "<p>ZOLLER Open House &amp; Automation Summit</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7439",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Presenters and the ZOLLER Team </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/e/csm_alexander_zoller_11_1138472629.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Alexander Zoller President – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Alexander Zoller</h4> <p>As president of ZOLLER Inc. since 2004, Alexander Zoller has been a driving force at the family-owned, global technology company and was the visionary who implemented the expansion plan for the new North American headquarters and Industry 4.0 Tech Center in Ann Arbor, Michigan.</p> <p>The company has positioned itself and its customers to adapt to the manufacturing landscape of the future, where hardware, software, and automation work seamlessly together to achieve the highest efficiency in part production.</p> <p>Zoller earned his bachelor’s degree in information technology from the University of Cooperative Education in Stuttgart in 2001 and assumed the role of managing director of E.Zoller GmbH, with managerial responsibility for ZOLLER Inc., in 2004.</p>"
+    },
+    {
+     "logo": null,
+     "label": "Amit Salunkhe General Manager - ZOLLER India Pvt. Ltd.",
+     "img": null,
+     "text": "<p><strong>Introduction:</strong><br/>Amit Salunkhe is a seasoned management professional with a proven track record of driving organizational success through strategic leadership and innovative management practices. With over two decades of experience in the manufacturing and metalworking industry, he has earned a reputation as a respected figure known for strategic management and effective business growth.</p> <p><strong>Professional Background:</strong><br/>With 21 years of hands-on experience in the manufacturing and metalworking industry, Amit Salunkhe has demonstrated exceptional acumen and proficiency in navigating the complexities of the business world.</p> <p><strong>Expertise:</strong><br/>As a management expert, Amit Salunkhe specializes in business development and sales management, with a particular strength in team building. His strategic prowess has led to the successful implementation of strategies aimed at optimizing operational efficiency, fostering team collaboration, and instilling a culture of continuous improvement.</p> <p><strong>Achievements:</strong><br/>Throughout his distinguished career, Amit Salunkhe has achieved remarkable milestones, including significant business growth in tool presetting and tool inspection. His ability to build motivated teams and his outstanding contributions to the metalworking industry are widely recognized.</p> <p><strong>Industry Contributions:</strong><br/>Amit Salunkhe’s ongoing efforts to advance knowledge regarding capital expenditure (Capex) utilization, Industry 4.0 solutions, and the establishment of smart factories for the metalworking and tool manufacturing industries have earned him recognition from peers and industry stakeholders.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/b/csm_Elias_Godoy_-_1000x1000_1cbdd38eba.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Elias Godoy General Director - ZOLLER Brazil",
+     "img": null,
+     "text": "<p>Elias Godoy is a production engineer, manufacturing specialist, and executive with a proven track record in industrial, commercial, and business development. With a technical background in machining mechanics from SENAI-SP and extensive experience in the manufacturing sector, he has built his career by combining technical expertise, strategic vision, and strong performance in consultative sales.</p> <p>He currently serves as General Director of ZOLLER Brazil, leading multidisciplinary teams with a focus on sustainable growth, market expansion, and delivering results. Throughout his career, he has developed expertise in managing commercial operations, defining sales strategies, conducting high-value negotiations, building high-performance teams, and achieving ambitious targets.</p> <p>His work is characterized by his ability to turn opportunities into tangible results, connecting technology, innovation, and customer needs to drive productivity, profitability, and competitiveness. With a strong focus on performance metrics, he believes that business success is achieved through planning, disciplined execution, and continuous people development.</p> <p>Recognized for his hands-on leadership and results-oriented approach, Elias is driven by the mission of contributing to organizational growth through operational excellence, innovation, and a commercial culture focused on delivering value to customers, partners, and teams.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/3/csm_OSCAR-_3172b5af98.webp",
+      "alt": "",
+      "w": 6000,
+      "h": 4609
+     },
+     "label": "Oscar Gonzalez General Manager - ZOLLER Mexico",
+     "img": null,
+     "text": "<p>Throughout my career, I have had the privilege of working at ZOLLER Mexico—now as General Manager—where I have driven the company’s growth and consolidation. My focus has always been on continuous improvement, process optimization, and the ability to adapt to the industry’s changing demands.</p> <p>My goal has been to offer our customers cutting-edge solutions while maintaining the highest standards of quality and precision that define us. </p> <p>As a leader, I am committed to positioning ZOLLER as an industry leader, providing exceptional service and technological solutions that make a difference in our customers’ processes.</p>"
+    },
+    {
+     "logo": null,
+     "label": "Martin González Regional Manager, Southern Region - ZOLLER Mexico",
+     "img": {
+      "src": "/fileadmin/_processed_/e/7/csm_MARTIN_eb4a704c6b.webp",
+      "alt": "",
+      "w": 4464,
+      "h": 5295
+     },
+     "text": "<p>An engineer with extensive experience in B2B sales and business development. Over the past five years at Zoller, I have helped the company meet its sales targets through sales strategies aligned with financial and profitability metrics. My approach focuses on leading teams in a collaborative manner, strengthening customer relationships, and driving sustainable growth for the organization.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/7/csm_David__1000x1000_3687ab238b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "David Marquez Regional Manager, Northern Region - ZOLLER Mexico",
+     "img": null,
+     "text": "<p>An engineer with experience in industrial technologies and business development. As Sales Manager at ZOLLER, I specialize in identifying customer needs, providing expert technical advice, and supporting customers in implementing solutions that optimize their processes and enhance their competitiveness. I am committed to building strong relationships and delivering sustainable results through comprehensive, value-driven service.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Moll Director of Sales – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Dietmar Moll</h4> <p>Dietmar Moll is the director of sales at ZOLLER Inc. and holds a master's degree in engineering from the Cooperative State University of Stuttgart.</p> <p>Moll has had a long career at ZOLLER, holding a variety of international sales roles, as well as general management positions in India, Thailand, and the United States.</p> <p>Overall, he has more than 18 years of experience in the field of efficient manufacturing, with a focus on machine tool applications and helping companies understand their process capabilities through tool presetting, measurement and inspection, tool management, and automation solutions.</p> <p>His experience working with companies and partners across a variety of manufacturing segments—including aerospace, oil and gas, automotive, and mining—ensures that ZOLLER is well-positioned to address real-world part production challenges, as smart manufacturing, analytics, and Industry 4.0 give rise to a new generation of possibilities in integrated technologies and advanced manufacturing practices.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/6/csm_cody_11_66ad0bd6f8.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cody Mitchell Regional Sales Manager – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cody Mitchell</h4> <p>Cody Mitchell is a Regional Sales Manager for ZOLLER Inc.'s North and Southeast Region and has been with ZOLLER since 2012.</p> <p>Mitchell has a background in engineering and previously worked in saw blade development and geometry inspection using ZOLLER inspection equipment. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/d/csm_Dallas_-_1000x1000_37c71727ae.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dallas Sindlinger Assistant Sales Manager - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "Rita Conroy-Martin Director of Marketing & Customer Experience – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Rita Conroy-Martin</h4> <p>Rita Conroy-Martin is the director of marketing and customer experience at ZOLLER Inc. She is multilingual and has over 25 years of international professional business experience in sales and business development, marketing, and purchasing, primarily in the manufacturing sector.</p> <p>She is passionate about aligning sales and marketing amid the dramatic transformation that is rewriting the rules of how companies—both large and small—engage with prospects and customers.</p> <p>In her current role at ZOLLER Inc., she combines both traditional and emerging marketing and business development strategies to educate, engage, onboard, and promote customers and prospects to new levels of efficiency with ZOLLER Solutions.</p> <p>She is a graduate of the University of Limerick, Ireland, with a bachelor’s degree in business and German, and a master’s degree in political science from the Université Libre de Bruxelles, Belgium. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/8/csm_Felix_Kanbach_30_91a33e82e2.webp",
+      "alt": "",
+      "w": 1929,
+      "h": 1987
+     },
+     "label": "Felix Kanbach National Service Manager – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Felix Kanbach</h4> <p>Felix Kanbach is the national service manager for ZOLLER Inc. and holds a master’s degree in mechanical engineering from the University of Applied Sciences in Heilbronn, Germany.</p> <p>In his current role, Kanbach leads the after-sales, service, and application engineer teams, ensuring the consistent delivery of top-notch service and after-sales support.</p> <p>Previously, as the ZOLLER TMS Tool Management Solutions Manager, he managed the entire implementation, rollout, and training activities for the ZOLLER tool management software and hardware solutions customer base.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/2/csm_werner_lueken_v4_28_bcac49f60f.webp",
+      "alt": "",
+      "w": 711,
+      "h": 711
+     },
+     "label": "Werner Lueken Director of Tool Inspection Solutions – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Werner Lueken</h4> <p>Werner Lueken is the director of tool inspection solutions at ZOLLER Inc.</p> <p>He earned a degree in industrial design from the University of Applied Sciences in Kiel, Germany, in 1997. </p> <p>Lueken has been with ZOLLER Inc. for 23 intense years and has held many roles, always with a focus on supporting customers with their tool inspection needs.</p> <p>He is passionate about helping cutting tool manufacturers and end users solve their tool geometry challenges and provide assurance regarding tool quality, and is recognized as an »expert« in this field both in the U.S. and globally.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/f/csm_brothers_10_2e640c257f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt Brothers Industry 4.0 Tech Center Manager – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Matt Brothers</h4> <p>Matt Brother is the manager of the Industry 4.0 Technology Center at ZOLLER Inc.</p> <p>With over 20 years of experience in the inspection and manufacturing of special-form cutting tools, he brings a unique skill set to ZOLLER, particularly his expertise in the development of cutting tool inspection processes and troubleshooting.</p> <p>In the past, Brothers has worked with both Starcutter and Northern Tool. He has been with ZOLLER since 2017.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/8/csm_nelu_13_add1496942.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Nelu Bilba Manufacturing Productivity Specialist – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Nelu Bilba</h4> <p>Nelu Bilba is a manufacturing productivity specialist at ZOLLER Inc. He works with both new and existing customers to improve their manufacturing processes by recommending suitable ZOLLER solutions. He specializes in cutting tools and toolholders.</p> <p>Before joining ZOLLER Inc., he was a ZOLLER customer at companies in the U.S. and Germany. He received his technical training in Romania and Germany. After completing his advanced studies in Germany, he held various manufacturing positions ranging from prototyping to five-axis machining to cutting tool manufacturing.</p> <p>Since moving to the U.S. in 2011, Bilba has held a series of leadership positions in manufacturing, including as a department manager and a production/plant manager.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_Markus_Lewandrowski_18_78fa01f75f.webp",
+      "alt": "",
+      "w": 1536,
+      "h": 1536
+     },
+     "label": "Markus Lewandrowski R&D Manager – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Markus Lewandrowski</h4> <p>Markus Lewandrowski is the R&amp;D manager at ZOLLER Inc.</p> <p>After learning the tool and die trade and earning a degree in engineering, he moved to North America in 2002 to manage projects, including R&amp;D, product design, structural and forming studies using FEM, and more.</p> <p>His next career move was to manage a custom CNC shop that supplied aerospace parts and automotive tooling for 15 years. As a ZOLLER customer who invested in a presetter and tool management software and hardware to streamline operations, he easily implemented the AS9100 quality system.</p> <p>Lewandrowski has extensive knowledge of CNC controllers, 5-axis machining, and various CAM and simulation/verification software, and leads ZOLLER Inc.’s North American R&amp;D team.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cedric Hasenfratz North America Sales & Partnership Manager for TMS – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cedric Hasenfratz</h4> <p>Cedric Hasenfratz is the North America sales and partnership manager for the ZOLLER TMS Tool Management Solutions portfolio and is passionate about bringing efficiency solutions to the manufacturing industry.</p> <p>Prior to his position at ZOLLER, he served as the U.S. account manager for Hexagon’s Manufacturing Intelligence division in the software sales segment of the business.</p> <p>He has extensive knowledge and experience in digital tool management and process optimization for modern manufacturing. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/2/csm_maerz_08_4bd67fd665.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Georg Maerz National Sales Manager - ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Georg Maerz</h4> <p>Georg Maerz is the National Sales Manager for ZOLLER Inc. He studied engineering at the College for Mechanical Engineering in Würzburg, Germany, and completed his apprenticeship in machine tool technology in Espelkamp, Germany. He joined ZOLLER in 2010, supports customers in the machining industry, and helps them create efficient manufacturing processes. He began his career as a mold maker and was promoted to Operations Management to support the plant. In 2002, he managed the operations of a new mold-making and machining facility in the U.S. to provide better support to customers in the U.S. Throughout his career, he has gained expertise in the machine tool industry and cutting tool technology, utilizing state-of-the-art technology.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_gaether_06_10e992158f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Gaertner Sales & Application Engineer - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/a/5/csm_traxler_06_f60c5602a1.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "John Traxler Regional Sales Manager – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/6/csm_Emily_Brunnschweiler_09_5359e05568.webp",
+      "alt": "",
+      "w": 1500,
+      "h": 1500
+     },
+     "label": "Emily Brunnschweiler Regional Sales Manager - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/0/csm_bird_06_ec283afc5b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt Bird Regional Sales Manager - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_brooks_06_79f458b024.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Brooks Hay Regional Sales Manager - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/d/csm_Elissa_Aurand_o_Logo_11_18b13ebe00.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 961
+     },
+     "label": "Elissa Aurand Receptionist – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/8/csm_Brian_Morris_-_1000x1000_8f633df75d.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Brian Morris Sales Engineer - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/6/f/csm_Kevin_-_1000x1000_4898d4a125.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Kevin Bechle Sales and Applications Engineer - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/9/csm_Andreas_-_1000x1000_6c6f0f15a2.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Andreas Diel Territory Manager - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/b/csm_Zachery_Barrett_-_1000x1000_339205b541.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Zach Barrett Regional Sales Manager - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/e/csm_Clayton_Springer_o_logo_16_11847040e5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 954
+     },
+     "label": "Clayton Springer Video Production Specialist – ZOLLER INC.",
+     "img": null,
+     "text": "<h4>Clayton Springer</h4> <p>Clayton Springer is the video production specialist for the marketing department at ZOLLER Inc.</p> <p>He has experience working in sports broadcasting, live television news, and corporate marketing, producing social media content, cable TV commercials, promotional materials, product videos, and livestreams.</p> <p>He graduated from Ferris State University with a bachelor’s degree in television and digital media production.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7437",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Technology Partners </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/d/csm_anca_08_ba056273f9.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "ANCA CNC Machines CNC tool grinders, automation systems, and software",
+     "img": {
+      "src": "/fileadmin/_processed_/6/f/csm_anca_feature_07_79c77c6f85.webp",
+      "alt": "",
+      "w": 1024,
+      "h": 810
+     },
+     "text": "<h4>ANCA CNC Machines</h4> <p>ANCA is a world leader in the design and manufacture of CNC tool grinding machines, laser markers, automation solutions, motion controls, and sheet metal components.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/a/csm_SW_logo_03_e9e71f7490.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "SW Multi-spindle machining",
+     "img": null,
+     "text": "<h4>SW</h4> <p>For manufacturers seeking to reduce production costs and floor space requirements and address challenges related to labor shortages, SW offers a wide range of single- and multi-spindle CNC machines, automation, and complete system solutions. SW has a long history of supplying machinery to many industries, including those subject to ITAR and FFL regulations. Our integrable automation solutions reduce labor costs, and our multi-spindle concept maximizes available floor space.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/7/csm_PraesiDM_logo_03_e4d0a75aad.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "PraesiDM Autonomous Advanced Manufacturing",
+     "img": null,
+     "text": "<h4>PraesiDM</h4> <p>PraesiDM is an engineering-based manufacturing company that autonomously produces high-precision components for the U.S. industrial base. Our all-in-one digital suite of software tools modernizes part design and standardizes production within an intelligently connected manufacturing ecosystem. Through data capture, our machines learn and self-optimize, providing comprehensive solutions for all advanced industries.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/9/csm_Tools_United_logo_03_cd26d02611.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "ToolsUnited Tool data from leading manufacturers of cutting tools",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/2/csm_MachiningCloud-logo-Horizontal-Color_600x600px._02_63c39f7963.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "MachiningCloud CNC Tool Management Software & Data",
+     "img": null,
+     "text": "<h4>MachiningCloud</h4> <p>MachiningCloud is the premier data-driven resource revolutionizing the way manufacturers find, select, and utilize cutting tools, workholding, and machines. More than just a parts catalog, the platform provides a comprehensive and connected digital ecosystem that includes rich and standardized product data, intelligent tool selection, comprehensive feed rates and speeds, and much more.</p> <p>By bridging the gap between physical tools and the digital world, MachiningCloud helps manufacturers achieve greater efficiency, reduce costs, and improve overall productivity. It’s the essential platform for anyone looking to make smarter, data-driven decisions in their machining operations.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/0/csm_Vericut_600x600px_02_53bf10f479.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "CGTech Superior CNC Simulation and Service",
+     "img": null,
+     "text": "<h4>CGTech</h4> <p>Headquartered in Irvine, California, CGTech specializes in numerical control (NC/CNC) simulation, verification, optimization, post-processing, and analysis software for manufacturing. Since 1988, the company’s Vericut software has become the industry standard for simulating CNC machining to detect errors, potential collisions, or areas of inefficiency. Vericut enables NC programmers to reduce proof-outs, virtually eliminate errors, and optimize NC programs for faster, more efficient machining. Vericut supports a wide range of CNC machine tools and can operate as a standalone solution or be integrated with leading CAM systems. With offices in 12 countries and a global network of resellers, Vericut is committed to providing comprehensive support to its users worldwide. For more information, visit the Vericut website at <a class=\"link-arrow\" href=\"https://www.vericut.com/\" rel=\"noopener\" target=\"_blank\">vericut.com</a>.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7433",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/events/imts-2026/meet-zoller",
+ "de_path": ""
+}

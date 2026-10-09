@@ -1,0 +1,362 @@
+{
+ "path": "/balancing-a-grinding-wheel",
+ "url": "/ca/balancing-a-grinding-wheel",
+ "title": "Balancing a grinding wheel",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Balancing a grinding wheel",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Balancing a grinding wheel",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/schleifscheibe-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balancing-a-grinding-wheel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-la-meule",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-o-rebolo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciare-la-mola",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-slipskivan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/schleifscheibe-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/balancing-the-grinding-wheel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-disque-abrasif",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%A0%94%E7%A3%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%97%B0%EB%A7%88-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%A7%9E%EC%B6%94%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-grinding-wheels",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-o-rebolo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/9/c/csm_grinding_wheel_header_82a94c5c43.webp",
+     "video": null,
+     "title": "Should I balance the grinding wheel?",
+     "kicker": "",
+     "text": "<p>It's a breeze with our »»toolBalancer«« balancing system</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8000",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Our balancing system extends tool life </h2>",
+   "body": "<p class=\"extra-large-text\">Precision-balanced tools are extremely important for modern cutting machines. Unbalances in grinding wheels, tooling systems, and rotors cause wear and tear or even damage—regular balancing prevents downtime and reduces your costs.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8001",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Efficient Balancing with the ZOLLER »toolBalancer« </h2>",
+   "body": "<p>Long balancing times lead to downtime and a loss of quality. Our »toolBalancer« not only allows for high-precision balancing of tool holders, grinding wheels, and rotors—its automated measurement sequence also significantly speeds up the procedure.</p> <p>It can accommodate your current requirements as well as future developments you can’t yet anticipate: thanks to its modular design, the »toolBalancer« can be adjusted to your specific needs.</p> <p>The device can be used intuitively and effortlessly via touchscreen, keyboard, or mouse—whichever best suits your workflow. This allows you to focus on working and producing effectively and to a high standard. As a result, you’ll measurably reduce your scrap rates, machine downtime, and production costs!</p> <p><a class=\"btn\" href=\"/ca/products/tool-balancing-technology/toolbalancer\">Learn more about »toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/ca/products/tool-balancing-technology/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8002",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Higher cutting performance ",
+    "Longer tool life ",
+    "Better component quality"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c8003",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> What is wheel balancing? </h2>",
+   "body": "<p>Balancing reduces or, ideally, corrects any unbalances present in any rigid body rotating about a fixed axis. These unbalances result from uneven mass distribution within the grinding wheel; the reference point in each case is the axis of rotation of the grinding spindle. The primary goal of balancing is to perform correction of all centrifugal forces acting on the rotating spindle so that the spindle bearing is not subjected to any additional forces.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8007",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> How do unbalances develop in grinding wheels? </h2>",
+   "body": "<p>Unbalances in a grinding wheel can occur as early as during the manufacturing process; for example:</p><ul><li>slight deviations from the ideal geometric shape or a perfectly symmetrical shape due to production errors,</li><li>other manufacturing defects, or</li><li>uneven density of the grinding wheel’s structure (result: unbalanced weight distribution).</li></ul><p>Above all, however, unbalances are caused by wear and tear during the grinding process. Examples of this include:</p><ul><li>uneven abrasion during the grinding process,</li><li>pollution from chips or coolants and lubricants, and</li><li>stress and deformation caused by clamping forces, cutting forces, and centrifugal forces.</li></ul><p>Additional problems can arise from improper storage or incorrect handling of the grinding wheels.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_schleifscheiben_314b691a95.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8004",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Why balance grinding wheels? </h2>",
+   "body": "<p>The consequences of an unbalanced grinding wheel can be varied: The grinding spindle may not rotate quietly and consistently (smooth operation); an unbalance, in turn, leads to uneven wear, which can further amplify the problem. In addition, the grinding wheel’s wear or material removal rate may increase.</p> <p>As a general rule: When the tool and tool holder, taken as a unit, do not exhibit high concentricity, the centrifugal force resulting from an unbalance can have a negative effect on the spindle bearings and significantly reduce their lifetime. Tool life can also deteriorate significantly if the vibrations generated by the centrifugal force are transferred to the machine and the tool. Balanced tools therefore contribute to lower tool costs and increase productivity.</p> <p>To achieve higher machining performance and longer tool life, it is important to check the balance of the grinding wheel before every change in speed, as each spindle speed-tool combination results in a specific unbalance.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_scan_1dacd77291.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8005",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> What types of balancing systems are there? </h2>",
+   "body": "<p><strong>Essentially, there are three different balancing systems in balancing technology.</strong></p><ul><li><p>Electronic balancing: Here, the unbalance of the grinding wheel is balanced directly on the grinding spindle; the technology that corresponds to this process can either be integrated into the grinding spindle or achieved by manually shifting the balancing weights.</p></li><li><p>Balancing blocks: Two individual balancing blocks (also designated as balancing stands) are each equipped with two narrow balancing discs mounted on ball bearings. The rolling blocks are typically fastened to rails or positioned on granite plates of measuring machines.</p></li><li><p>Balancing scale: Balancing scales determine the static unbalance of grinding wheels. In this process, only one level is actually measured; the grinding wheel is considered statically balanced when its center of gravity is centered, i.e., on the axis of rotation.</p></li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8006",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Balancing Technology: Your advantages",
+     "href": "/ca/solutions/tool-balancing-technology",
+     "caption": "<figcaption> <h3>Tool Balancing Technology: Your advantages</h3> <p>Balancing is underestimated. Yet balancing leads to greater efficiency because it reduces costly tool wear and relieves the load on machine spindles. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/balancing-a-grinding-wheel",
+ "de_path": "/schleifscheibe-auswuchten"
+}

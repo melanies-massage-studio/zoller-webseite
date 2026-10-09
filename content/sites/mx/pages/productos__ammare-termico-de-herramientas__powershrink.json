@@ -1,0 +1,584 @@
+{
+ "path": "/productos/ammare-termico-de-herramientas/powershrink",
+ "url": "/mx/productos/ammare-termico-de-herramientas/powershrink",
+ "title": "»powerShrink«",
+ "description": "»powerShrink« - »powerShrink« - El sistema de retractilado con una eficiencia energética de forma óptima y la máxima seguridad. - Contraer herramientas",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Técnica de contracción de herramientas /",
+   "href": "/mx/productos/ammare-termico-de-herramientas"
+  },
+  {
+   "label": "»powerShrink«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Técnica de contracción de herramientas /",
+   "href": "/mx/productos/ammare-termico-de-herramientas"
+  },
+  {
+   "label": "»powerShrink«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/powershrink",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/powershrink",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/powershrink",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/powershrink",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/powershrink",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/powershrink",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/powershrink",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/powershrink",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/powershrink",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/powershrink",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/powershrink",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/powershrink",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»powerShrink«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "modelos",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/modelos",
+     "current": false
+    },
+    {
+     "label": "Aplicaciones",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/aplicaciones",
+     "current": false
+    },
+    {
+     "label": "Opciones y accesorios",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/opciones-y-accesorios",
+     "current": false
+    },
+    {
+     "label": "Especificaciones técnicas",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/especificaciones-tecnicas",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1130",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»powerShrink«",
+   "text": "<p>El dispositivo de retractilado con una eficiencia energética de forma<br/>óptima y la máxima seguridad</p> <p><a class=\"btn\" href=\"/mx/empresa/contacto\">Solicitar ahora</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_e8ef582118.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1078",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »actbyLight« </h3> <h2> Apostamos por el progreso inteligente </h2>",
+   "body": "<p>Contraiga y expanda herramientas en un tiempo récord, ahorrando energía y protegiendo los materiales: todas estas ventajas las obtendrá con el sistema de inducción térmico »powerShrink«. Con la serie de dispositivos »powerShrink« aumentará la eficiencia de su producción.</p> <p>»actbyLight« le guía de forma segura a través del proceso de contracción e incluye la función de bobina »shrinkbyLight«, el sistema de control LED en la bobina de inducción y la guía de usuario LED »coolbyLight« en el sistema de refrigeración.</p> <p><a class=\"btn\" href=\"/mx/empresa/contacto\">Solicitar ahora</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">Consulta con un experto 1:1</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1131",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/5/e/csm_powershrink_christian_pfau_v2_87d6322fc3.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Nuestro lema es utilizar los recursos de forma adecuada y efectiva. No dejamos nada al azar, sino que orientamos la contracción hacia una eficiencia del 100 %, algo único, innovador y sencillamente fenomenal.</p> <p><strong>Christian Pfau, director de Investigación y Desarrollo</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_toolBalancer_Christoph_Zoller2_490ea1f2a5.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">En la empresa tecnológica ZOLLER hemos enfocado nuestra experiencia y conocimientos en el desarrollo de este nuevo producto, con lo que hemos marcado un nuevo hito y completado la gama de productos ZOLLER. Típico de ZOLLER: todo de un solo proveedor.</p> <p><strong>Christoph Zoller, director general</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_toolBalancer_Alexander_Zoller2_7bc76f629f.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">La combinación perfecta entre diseño, ergonomía e inteligencia tecnológica. La solución ZOLLER con seguridad certificada para un uso eficiente de los recursos en su producción.</p> <p><strong>Alexander Zoller, director general</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c1133",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Montaje en línea eficiente",
+    "Hasta un 30 % de ahorro energético",
+    "Ahorro a largo plazo y sostenible"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1134",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Menos energía, máximo beneficio </h2>",
+   "body": "<p>Con »powerShrink« de ZOLLER ahorrará tiempo, reducirá sus costos de electricidad y protegerá sus portaherramientas térmicos gracias a la perfecta interacción entre la electrónica, el software y la mecánica, y a un proceso de contracción bien pensado y seguro para el proceso.</p> <p><a class=\"btn\" href=\"#c3518\">Ahorro energético del 30 %.</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/5/csm_zoller_powershrink_energieeinsparung_059dfb6ffa.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1135",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/c/0/csm_energieeinsparung-en_496a3b56f3.webp",
+    "alt": "",
+    "w": 996,
+    "h": 559
+   },
+   "title": "Ahorro energético del 30 %.",
+   "text": "<p>Con la tecnología de inducción de ZOLLER, calentará sus portaherramientas térmicos de forma óptima. Esto significa para usted: de manera homogénea en toda la zona de sujeción y solo durante el tiempo necesario. De este modo, obtendrá tiempos de calentamiento y de refrigeración más cortos, tiempos de ciclo más cortos, protegerá los portaherramientas y aumentará su vida útil.</p> <p>Una ventaja especial de »powerShrink«, con la que ZOLLER contribuye a un uso sostenible en la producción, es el ahorro energético de hasta un 30 % en comparación con el modelo anterior. Estamos en particular orgullosos de ello. El calor y la energía llegan exactamente donde los necesita para encajar y desencajar sus herramientas de forma segura.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3518",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Técnica de contracción </h3> <h2> Diseño inteligente para una máxima eficiencia </h2>",
+   "body": "<p>Una característica inteligente y bien pensada del »powerShrink« es la bobina de inducción ZOLLER. Dos bobinados conectados en paralelo dentro de la bobina pueden activarse por separado y controlarse de forma diferente en función del diámetro de tensado y la longitud de sujeción. Esto permite un aporte de energía de forma óptima en la zona de sujeción, acelera el proceso de calentamiento y enfriamiento y protege los portaherramientas.</p> <p><a class=\"btn\" href=\"#c3620\">Bobina con sistema de blindaje »varOct«</a> <a class=\"btn\" href=\"#c3621\">Bobina con discos de blindaje</a></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/1TT4LwLEbHw?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Re-inventing the induction coil"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1136",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/6/9/csm_varoct__1__2af8f2890a.webp",
+    "alt": "",
+    "w": 960,
+    "h": 1200
+   },
+   "title": "Cuando el arte da en el blanco",
+   "text": "<p class=\"large-text\">Inspirándose en la arquitectura moderna y la cinemática óptica, el departamento de Investigación y Desarrollo de ZOLLER ha logrado crear una obra maestra. La bobina de inducción ZOLLER con sistema de blindaje »varOct« garantiza la máxima eficiencia y ergonomía en el proceso de contracción.</p> <h2>8 elementos de ferrita</h2> <p class=\"large-text\">Una idea ingeniosa. Un diseño perfecto. Los ocho elementos variables del blindaje de bobina »varOct« se deslizan unos junto a otros al cerrar la posición: toda una experiencia de diseño. La singularidad de ZOLLER para un diseño y una eficiencia inmejorables.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3620",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/6/7/csm_abschmiermscheiben__1__49fdcf5621.webp",
+    "alt": "",
+    "w": 960,
+    "h": 1200
+   },
+   "title": "Flexibilidad en un abrir y cerrar de ojos",
+   "text": "<p class=\"large-text\">Con la bobina de inducción ZOLLER con discos de blindaje, usted opta por un proceso de contracción manual sencillo para cambios de diámetro poco frecuentes o variaciones escasas.</p> <p class=\"large-text\">Los discos con diferentes diámetros aseguran que el campo magnético de la bobina se oriente de forma óptima y lo blindan de manera adecuada. La guía para el operador »shrinkbyLight«, disponible opcionalmente, que consta de un LED de control para supervisar el diámetro y un indicador de estado de los devanados, añade seguridad adicional al proceso durante el manejo de su »powerShrink«.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3621",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »coolbyLight« </h3> <h2> Características interesantes para una refrigeración eficiente </h2>",
+   "body": "<p>Con »powerShrink« de ZOLLER, enfriará con la máxima eficiencia. Las cinco campanas de refrigeración para portaherramientas térmicos conformes con las normas, de D6 mm a D32 mm, garantizan un enfriamiento rápido y homogéneo gracias a su diseño inteligente y a la refrigeración por contacto integrada. Sus portaherramientas térmicos se protegen y se mantiene la alta precisión de concentricidad.</p> <p><a class=\"btn\" href=\"#c3519\">Campanas de refrigeración</a> <a class=\"btn\" href=\"#c3618\">Guía de campanas de refrigeración</a> <a class=\"btn\" href=\"#c3619\">ZOLLER »zStream«</a> </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/4/csm_zoller_powershrink_kuehlglocke_bd486e9fa4.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1138",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/4/e/csm_kuehlglocken_v02_ef97390524.webp",
+    "alt": "",
+    "w": 960,
+    "h": 886
+   },
+   "title": "Enfocado en la comodidad y la seguridad",
+   "text": "<p>La campana de refrigeración adecuada para cada requerimiento: elija entre la campana de refrigeración estándar o la campana de refrigeración con guía de usuario »coolbyLight« para garantizar la máxima seguridad de sus operarios. Ambas campanas de refrigeración están disponibles, según se desee, con guía libre o guía lineal mecánica.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3519",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/1/6/csm_kuehlglockenfuehrung__1__d778825dac.webp",
+    "alt": "",
+    "w": 960,
+    "h": 1200
+   },
+   "title": "Guía de campana de enfriamiento",
+   "text": "<p class=\"large-text\">¿Simplemente enganchada o guiada de forma segura? Elija entre dos variantes de guía para campanas refrigeradoras: el sencillo mecanismo de fijación o la guía lineal para una comodidad y seguridad máximas.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3618",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/f/3/csm_kuehlalternative__1__7dbb3a3cae.webp",
+    "alt": "",
+    "w": 960,
+    "h": 1200
+   },
+   "title": "La alternativa única para enfriar",
+   "text": "<p class=\"large-text\">Con el sistema de enfriamiento por aire »zStream« de ZOLLER, obtiene la máxima flexibilidad y protección al enfriar sus herramientas y portaherramientas de contracción, independientemente de su contorno o diámetro. Los filos de corte de las herramientas quedan completamente protegidos contra posibles daños. No necesita accesorios, como adaptadores de enfriamiento. Además, sus herramientas de contracción se enfrían uniformemente a lo largo de toda su longitud.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3619",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Modelos </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/0/csm_modell_powerShrink_200_181c202200.webp",
+     "alt": "",
+     "w": 955,
+     "h": 601,
+     "title": "»powerShrink 200«",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/modelos/powershrink-200",
+     "caption": "<figcaption> <h3>»powerShrink 200«</h3> <p>ZOLLER-Basic: la opción compacta para dar los primeros pasos</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_modell_powerShrink_300_9fef0a0877.webp",
+     "alt": "",
+     "w": 955,
+     "h": 601,
+     "title": "»powerShrink 300«",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/modelos/powershrink-300",
+     "caption": "<figcaption> <h3>»powerShrink 300«</h3> <p>ZOLLER-Advanced para una rutina segura</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_modell_powerShrink_400_088ae153f0.webp",
+     "alt": "",
+     "w": 955,
+     "h": 601,
+     "title": "»powerShrink 400«",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/modelos/powershrink-400",
+     "caption": "<figcaption> <h3>»powerShrink 400«</h3> <p>ZOLLER Premium para una flexibilidad total</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_modell_powerShrink_600_4c09f2aac4.webp",
+     "alt": "",
+     "w": 955,
+     "h": 601,
+     "title": "»powerShrink 600«",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/modelos/powershrink-600",
+     "caption": "<figcaption> <h3>»powerShrink 600«</h3> <p>ZOLLER-Professional: para la máxima perfección</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/b/csm_modell_powerShrink_400_11_da52878223.webp",
+     "alt": "",
+     "w": 955,
+     "h": 601,
+     "title": "»﻿﻿﻿﻿powerShrink 400 ❘ 11﻿﻿﻿﻿«",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/modelos/powershrink-400-11",
+     "caption": "<figcaption> <h3>»﻿﻿﻿﻿powerShrink 400 ❘ 11﻿﻿﻿﻿«</h3> <p>Para longitudes estándar de hasta 460 mm y herramientas modulares de hasta 1,100 mm. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c231881",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLER ha modernizado radicalmente el proceso de contraer. </h2>",
+   "body": "<p>Ha comenzado una nueva era en la tecnología de contracción. Para ello, no solo hemos rediseñado los elementos clave de los dispositivos de contracción. Hemos lanzado al mercado una generación de dispositivos que supera con creces a todas las demás soluciones. </p> <p>Gran ahorro en el consumo de energía, calentamiento con una eficiencia de casi el 100 %, enfriamiento extremadamente rápido y una guía de usuario inteligente: el encogimiento y descomprimir con ZOLLER redefine un proceso ya establecido. </p> <p>Convénzase ahora de la solución de contracción de ZOLLER. </p> <p><a class=\"btn\" href=\"/mx/solutions/tecnica-de-contraccion\">Más información sobre la técnica de contracción</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/8/csm_100_prozent_zoller_qualitaet_f6c62c9bb2.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1143",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Charla con expertos</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Agende una cita ahora</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/mx/productos/ammare-termico-de-herramientas/powershrink",
+ "de_path": "/produkte/schrumpftechnik/powershrink"
+}

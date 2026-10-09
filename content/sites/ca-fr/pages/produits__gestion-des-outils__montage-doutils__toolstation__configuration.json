@@ -1,0 +1,362 @@
+{
+ "path": "/produits/gestion-des-outils/montage-doutils/toolstation/configuration",
+ "url": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation/configuration",
+ "title": "»toolStation« – Configuration",
+ "description": "Configuration - »toolStation« – Configuration",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/ca-fr/produits/gestion-des-outils"
+  },
+  {
+   "label": "Montage d'outils /",
+   "href": "/ca-fr/produits/gestion-des-outils/montage-doutils"
+  },
+  {
+   "label": "»toolStation« /",
+   "href": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation"
+  },
+  {
+   "label": "Configuration",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/ca-fr/produits/gestion-des-outils"
+  },
+  {
+   "label": "Montage d'outils /",
+   "href": "/ca-fr/produits/gestion-des-outils/montage-doutils"
+  },
+  {
+   "label": "»toolStation« /",
+   "href": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation"
+  },
+  {
+   "label": "Configuration",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/smart-cabinets/toolstation/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-assembly/toolstation/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/montaje-de-herramienta/toolstation/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/montage-doutil/toolstation/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/montagem-de-ferramenta/toolstation/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/montaggio-utensile/toolstation/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygsmontering/toolstation/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeugmontage/toolstation/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-assembly/toolstation/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91/toolstation/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/toolstation/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-assembly/toolstation/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/montaje-de-herramienta/toolstation/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/toolstation/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolStation«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Configuration",
+     "href": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation/configuration",
+     "current": false
+    },
+    {
+     "label": "Logiciels et intégration",
+     "href": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation/logiciels-et-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3090",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Tout en un coup d'œil </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3088",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Avec les Smart Cabinets, c'est vous qui décidez : faites votre présélection et contactez notre équipe commerciale ZOLLER – nous serons ravis de vous conseiller et de configurer le modèle de votre choix.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3087",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3089",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Dimensions et structure </h2>",
+   "table": "<table> <tbody> <tr> <td> H x l x P : 2 100 x 2 450 x 1 040 mm – avec paroi arrière et deux »toolOrganizer 600« </td> </tr> <tr> <td> H x L x P : 2 100 x 2 450 x 1 040 mm – avec paroi arrière et un »toolOrganizer 600« </td> </tr> <tr> <td> H x L x P : 2 100 x 2 450 x 1 040 mm – paroi arrière simple </td> </tr> <tr> <td> H x L x P : 925 x 2 450 x 1 040 mm – sans paroi arrière, avec barre d'alimentation et deux »toolOrganizer 600« </td> </tr> <tr> <td> H x L x P : 925 x 2450 x 1040 mm – sans paroi arrière, sans barre d'alimentation et sans »toolOrganizer 600« </td> </tr> <tr> <td> H x L x P : 2 100 x 1 630 x 1 040 mm – avec paroi arrière et un »toolOrganizer 600« </td> </tr> <tr> <td> H x l x P : 925 x 1 630 x 1 040 mm – sans paroi arrière et avec un »toolOrganizer 600« </td> </tr> <tr> <td> H x L x P : 2 100 x 1 630 x 1 040 mm – paroi arrière simple </td> </tr> <tr> <td> H x L x P : 925 x 1 630 x 1 040 mm – sans paroi arrière, sans barre d'alimentation et avec un »toolOrganizer 600« </td> </tr> <tr> <td> H x L x P : 925 x 1630 x 1040 mm – sans paroi arrière, sans barre d'alimentation et sans »toolOrganizer 600« </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3086",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Commande </h2>",
+   "table": "<table> <tbody> <tr> <td> PC à écran tactile à fixer sur la paroi arrière, avec le logiciel de commande »quickPick« </td> </tr> <tr> <td> TMS Tool Management Solutions – Poste de travail </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3085",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Options </h2>",
+   "table": "<table> <tbody> <tr> <td> »toolOrganizer« avec tiroirs ou avec porte </td> </tr> <tr> <td> PC à écran tactile fixé à la paroi arrière ou avec support de table </td> </tr> <tr> <td> Kit de crochets de fixation pour suspendre les outils de montage à la paroi arrière </td> </tr> <tr> <td> Dispositif de rangement pour outils </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3081",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestion des outils : vos avantages",
+     "href": "/ca-fr/solutions/gestion-des-outils",
+     "caption": "<figcaption> <h3>Gestion des outils : vos avantages</h3> <p>Découvrez comment la gestion des outils de ZOLLER augmente immédiatement votre productivité. Grâce aux données d'outils, les processus sont plus rapides et plus sûrs, avec une protection anti-collision pour vos machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation/configuration",
+ "de_path": "/produkte/toolmanagement/smart-cabinets/toolstation/konfiguration"
+}

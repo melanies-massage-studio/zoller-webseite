@@ -1,0 +1,119 @@
+{
+ "path": "/your-success/details/ausschliesslich-strom-aus-nachhaltigen-quellen",
+ "url": "https://zoller-usa.com/company/reports-stories/detail/only-electricity-from-sustainable-sources",
+ "title": "How ZOLLER Uses Renewable Energies",
+ "description": "ZOLLER uses hydropower, solar energy, and an in-house photovoltaic system as part of its sustainability efforts.",
+ "og_image": "https://zoller-usa.com/hubfs/zoller/fileadmin/_processed_/3/a/csm_Teaser-Oekstrom_79e9c37e4f.webp",
+ "breadcrumb": [
+  {
+   "label": "Home /",
+   "href": "/"
+  },
+  {
+   "label": "Company /",
+   "href": "/company"
+  },
+  {
+   "label": "Manufacturing Reports & Stories /",
+   "href": "/company/reports-stories"
+  },
+  {
+   "label": "How ZOLLER Uses Renewable Energies",
+   "href": ""
+  },
+  {
+   "label": "Home /",
+   "href": "/"
+  },
+  {
+   "label": "Company /",
+   "href": "/company"
+  },
+  {
+   "label": "Manufacturing Reports & Stories /",
+   "href": "/company/reports-stories"
+  },
+  {
+   "label": "How ZOLLER Uses Renewable Energies",
+   "href": ""
+  }
+ ],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "article",
+   "date": "2025-07-31",
+   "date_label": "07/31/2025",
+   "tags": [
+    "Company",
+    "Sustainability"
+   ],
+   "title": "",
+   "lead": "",
+   "images": [],
+   "blocks": [],
+   "related": [],
+   "ftype": "news_newsdetail",
+   "id": "c0",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>Quando splende il sole, l'energia elettrica scorre: il grande impianto fotovoltaico sul tetto della sede di Pleidelsheim fa parte del nostro concetto di sostenibilità. </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3209",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "https://zoller-usa.com/hs-fs/hubfs/zoller/fileadmin/_processed_/e/4/csm_ZollerMediaZNU23_368c872a0b.webp?width=1020&height=654&name=csm_ZollerMediaZNU23_368c872a0b.webp",
+     "alt": "",
+     "w": 1020,
+     "h": 654
+    }
+   ],
+   "videos": [],
+   "pos": "above",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4778",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "raw",
+   "html": "<a href=\"https://zoller-usa.com/company/reports-stories\" rel=\"noopener\" target=\"_blank\"> Back to overview </a>",
+   "ftype": "news_newsdetail",
+   "id": "",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/your-success/details/ausschliesslich-strom-aus-nachhaltigen-quellen",
+ "de_path": "/unternehmen/reports-stories/detail/ausschliesslich-strom-aus-nachhaltigen-quellen"
+}

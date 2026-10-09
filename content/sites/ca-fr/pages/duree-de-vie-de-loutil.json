@@ -1,0 +1,429 @@
+{
+ "path": "/duree-de-vie-de-loutil",
+ "url": "/ca-fr/duree-de-vie-de-loutil",
+ "title": "Augmenter la durée de vie des outils – Conseils et solutions",
+ "description": "Prolongez la durée de vie de vos outils : facteurs d'usure, réaffûtage avec une précision de l'ordre du µm et surveillance des outils. Augmentez votre productivité dès maintenant !",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Durée de vie de l'outil",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Durée de vie de l'outil",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/standzeit-werkzeug",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-life",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/vida-util-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/temps-de-fonctionnement-de-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/tempo-util-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/vita-dellutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygets-livslaengd",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/standzeit-werkzeug",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-life",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/duree-de-vie-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E8%80%90%E7%94%A8%E5%B9%B4%E6%95%B0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EB%AA%85",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-life",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/vida-util-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/tempo-util-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/f/csm_standzeit_header_573a919a37.webp",
+     "video": null,
+     "title": "Augmenter la durée de vie de vos outils",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4279",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Comment prolonger la durée de vie de vos outils d'usinage </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3831",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Plus la durée de vie d'un outil d'usinage est longue, plus son coût est faible et plus il peut fonctionner efficacement. Comment peut-on donc augmenter au mieux cette durée de vie ?</p> <p>D'un point de vue strictement linguistique, la notion de « durée de vie » pour les outils d'usinage semble quelque peu contre-intuitive. En effet, elle ne décrit en aucun cas le temps pendant lequel un outil reste inutilisé, mais bien le contraire : la durée de vie désigne la durée totale pendant laquelle un outil d’usinage est utilisé (c’est-à-dire qu’il enlève effectivement de la matière) avant de devoir être remplacé. Le temps nécessaire au changement de pièce n’est donc pas pris en compte dans la durée de vie.</p> <p>Le remplacement d’un outil engendre quant à lui des coûts à plusieurs égards :</p><ul><li>il faut acheter et mettre en place un nouvel outil, puis réaffûter ou mettre au rebut l’ancien.</li><li>Le retrait de l’ancien outil (et, le cas échéant, son réaffûtage ultérieur) ainsi que la mise en place d’un nouvel outil représentent un coût en temps de travail.</li><li>Pendant le remplacement de l’outil, la machine est à l’arrêt, le processus de fabrication est interrompu : plus les remplacements sont fréquents, plus les pertes de production sont importantes.</li><li>Vous devez faire face à des coûts de stockage et d’approvisionnement accrus pour votre parc d’outils.</li></ul><p>Une durée de vie plus longue des outils permet donc de réduire les temps d’arrêt des machines et rend ainsi le travail globalement plus efficace, ce qui réduit les coûts de votre production.</p> <p>L’achat de nouveaux outils peut être évité grâce au réaffûtage des outils existants. Le réaffûtage des arêtes de coupe prolonge considérablement la durée de vie de l’outil d’usinage et permet ainsi d’économiser les coûts d’acquisition de nouveaux outils. La machine de mesure »edgeControl« s’avère ici très utile. L’appareil détecte l’usure la plus importante sur une arête de coupe. Cela permet de ne réaffûter l’outil que dans la mesure où cela est réellement nécessaire, et ce au µm près.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles\">En savoir plus sur les marques d'usure et les défauts le long de l'arête de coupe</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4254",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4253",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Quels sont les facteurs qui influencent<br/>la durée de vie ? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4257",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Le fait que la durée de vie soit limitée s'explique par de simples raisons physiques : l'usinage entraîne l'usure de l'outil, car le matériau dont il est composé est soumis à des contraintes mécaniques et subit également un échauffement.</p> <p>Il en découle logiquement les principaux facteurs qui influencent la durée de vie :</p><ul><li><p>la géométrie de l’outil, c’est-à-dire sa forme spécifique,</p></li><li><p>le matériau à partir duquel l’outil a été fabriqué,</p></li><li><p>les conditions concrètes d'usinage (notamment la vitesse de coupe, l'avance et la profondeur de coupe),</p></li><li><p>le matériau dont est constituée la pièce à usiner (le matériau d'usinage ou de coupe) et</p></li><li><p>la température ou les variations de température de l’outil.</p></li></ul><p>Ces facteurs permettent de conclure que, par exemple, des vitesses d’usinage plus faibles, une profondeur de coupe calculée avec précision, l’utilisation de liquides de refroidissement adaptés et, bien sûr, l’emploi d’outils fabriqués dans un matériau de haute qualité et adapté à la pièce à usiner peuvent, dans certains cas, prolonger considérablement la durée de vie de l’outil, car ils ralentissent son usure.</p> <p>La mise en œuvre de certaines mesures permet d’obtenir ici des améliorations notables. Parallèlement, il est essentiel de contrôler l’efficacité de ces mesures au cours de leur application au quotidien. À cet égard, il est judicieux de recourir à des technologies adaptées de surveillance et de gestion des outils.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3962",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4256",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Comment se manifeste l'usure des outils ? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4261",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>L'usure se manifeste de différentes manières sur l'outil. Fondamentalement, on distingue deux types d'usure sur un outil d'usinage : l'usure de la face de dépouille (comme son nom l'indique, sur la face de dépouille de l'outil) et l'usure par creux, qui se produit sur la face de coupe.</p> <p>La largeur de la marque d’usure et la profondeur de la cavité sont souvent utilisées comme critères pour déterminer si un outil doit être remplacé ou réaffûté, c’est-à-dire si sa durée de vie est arrivée à son terme (« critères de durée de vie »).</p> <p>Outre l’usure de la face de dépouille et l’usure par creux, il existe d’autres formes d’usure :</p><ul><li>la calamine (c’est-à-dire l’oxydation de la surface de l’outil par l’oxygène de l’air, qui peut notamment se produire à des températures élevées),</li><li>les ébréchures de l’outil et</li><li>les fissures, qui peuvent notamment apparaître sous l’effet de contraintes mécaniques et thermiques alternantes.</li></ul><p>En particulier pour l’usure des outils due à des températures élevées ou à des variations rapides de température, il est utile d’utiliser un liquide de refroidissement adapté à la situation. Cela peut prolonger considérablement la durée de vie de vos outils de précision.</p> <p>À mesure que l’usure de l’outil s’accentue, son rendement d’usinage diminue logiquement, mais surtout, à l’instar d’un couteau émoussé, la précision et la qualité de la pièce à usiner en pâtissent.</p> <h4>Une durée de vie prolongée, plus d’heures de fonctionnement</h4> <p>Prolonger la durée de vie de vos outils grâce à des mesures appropriées et au choix d’outils de haute qualité présente de nombreux avantages. Vous réduisez les temps d’arrêt des machines, optimisez les processus de fabrication, travaillez plus efficacement et utilisez vos outils de précision aussi longtemps que possible sans que la qualité de votre travail n’en pâtisse.</p> <p>Au final, cela augmente votre productivité, car le nombre d’heures de fonctionnement pendant lesquelles vous pouvez produire augmente considérablement à moyen et long terme.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3963",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4260",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Contrôle total des outils avec ZOLLER </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4262",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Grâce aux solutions de gestion d'outils TMS de ZOLLER, vous gardez toujours un œil sur vos outils. Dès la réception des marchandises, vous pouvez mesurer tous les paramètres, trier les outils défectueux et, le cas échéant, déposer une réclamation. Le logiciel ZOLLER »flash« vous permet de vérifier si les durées de vie promises par les fabricants sont bien respectées. Cela vous fait économiser de l'argent et garantit des produits de haute qualité.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/gestion-des-outils\">Une gestion des outils systématique</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3964",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4259",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/5/csm_zoller_system_teaser_fr_442fdf1d03.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Démarrez par une solution – Entrez dans un système.",
+     "href": "/ca-fr/le-systeme",
+     "caption": "<figcaption> <h3>Démarrez par une solution – Entrez dans un système.</h3> <p>Nos clients bénéficient d'approches globales que nous développons depuis des décennies. Le résultat : une excellente efficacité. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/duree-de-vie-de-loutil",
+ "de_path": "/standzeit-werkzeug"
+}

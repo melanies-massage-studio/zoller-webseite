@@ -1,0 +1,320 @@
+{
+ "path": "/events/imts-2026/top-solutions",
+ "url": "/ca/events/imts-2026/top-solutions",
+ "title": "Top Solutions",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca/events/imts-2026"
+  },
+  {
+   "label": "Top Solutions",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca/events/imts-2026"
+  },
+  {
+   "label": "Top Solutions",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/imts-2026/top-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/imts-2026/las-mejores-soluciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/imts-2026/meilleures-solutions",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/imts-2026/solucoes-de-topo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/imts-2026/soluzioni-eccellenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/imts-2026/de-baesta-loesningarna",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/imts-2026/top-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/imts-2026/top-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/imts-2026/les-meilleures-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/imts-2026/%E3%83%88%E3%83%83%E3%83%97%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/imts-2026/%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%86%94%EB%A3%A8%EC%85%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/imts-2026/top-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/imts-2026/las-mejores-soluciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/imts-2026/solucoes-de-topo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IMTS 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Solutions",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/solutions",
+     "current": false
+    },
+    {
+     "label": "Presenters",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/presenters",
+     "current": false
+    },
+    {
+     "label": "Agenda",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/agenda",
+     "current": false
+    },
+    {
+     "label": "Hotel & Travel",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/hotel-travel",
+     "current": false
+    },
+    {
+     "label": "Register Now!",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    },
+    {
+     "label": "Download",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/download",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7429",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Start with a Solution – Enter a System. </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7427",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "bento",
+   "header": "",
+   "intro": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/e/csm_teaser_presetting_1bc168b412.webp",
+      "alt": ""
+     },
+     "text": "<h2>Presetting &amp; Measuring</h2> <p>Reduce setup times<br/>by 40% or more. </p> <p><a class=\"btn\" href=\"/ca/solutions/presetting-measuring\">Learn more </a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_teaser_toolmanagement_7103509fb4.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Management</h2> <p>Tool inventory, software, error-free data<br/>transfer: get more out of<br/>your tools and tool data. </p> <p>Learn more</p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_teaser_inspection_8db5d700b8.webp",
+      "alt": ""
+     },
+     "text": "<h2>Inspection &amp; Measuring</h2> <p>Document quality and<br/>create digital twins.</p> <p><a class=\"btn\" href=\"/ca/solutions/inspection-measuring\">Learn more</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/3/csm_teaser_shrinking_f763ceca8f.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Heat Shrink Technology</h2> <p>Shrinking and unshrinking<br/>tools in record time.</p> <p><a class=\"btn\" href=\"/ca/solutions/tool-heat-shrink-technology\">Learn more</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+      "alt": ""
+     },
+     "text": "<h2>Automation</h2> <p>From tool presetting, measurement, and inspection to the complete<br/>automation of your tooling processes—ZOLLER has the solution. </p> <p><a class=\"btn\" href=\"/ca/solutions/automation\">Learn more</a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/b/csm_teaser_tooling_b7ac4272bd.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Holders</h2> <p>Tool holders with »»idChip««: the perfect<br/>interface for your digital manufacturing.</p> <p><a class=\"btn\" href=\"/ca/solutions/tool-holders\">Learn more</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/8/csm_teaser_balancing_a6279efe6e.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Balancing Technology</h2> <p>Protect spindles, ensure quality:<br/>with the best balancing machines on the market. </p> <p><a class=\"btn\" href=\"/ca/solutions/tool-balancing-technology\">Learn more</a></p>",
+     "full": false
+    }
+   ],
+   "ftype": "zoller_image-grid",
+   "id": "c7425",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "extra-small"
+   }
+  }
+ ],
+ "src_path": "/ca/events/imts-2026/top-solutions",
+ "de_path": ""
+}

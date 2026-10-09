@@ -1,0 +1,462 @@
+{
+ "path": "/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/opciones-y-accesorios",
+ "url": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/opciones-y-accesorios",
+ "title": "»hyperion«: opciones y accesorios",
+ "description": "Opciones y accesorios - »hyperion«: opciones y accesorios",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Ajuste y medición /",
+   "href": "/mx/productos/ajuste-y-medicion"
+  },
+  {
+   "label": "Aparatos horizontales /",
+   "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales"
+  },
+  {
+   "label": "»hyperion« /",
+   "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion"
+  },
+  {
+   "label": "Opciones y accesorios",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Ajuste y medición /",
+   "href": "/mx/productos/ajuste-y-medicion"
+  },
+  {
+   "label": "Aparatos horizontales /",
+   "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales"
+  },
+  {
+   "label": "»hyperion« /",
+   "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion"
+  },
+  {
+   "label": "Opciones y accesorios",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/einstellen-messen/horizontale-geraete/hyperion/optionen-zubehoer",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/presetting-measuring/horizontal-devices/hyperion/options-accessories",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/opciones-y-accesorios",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/reglage-et-mesure/appareils-horizontaux/hyperion/options-et-accessoires",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/ajuste-e-medicao/dispositivos-horizontais/hyperion/opcoes-e-acessorios",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/regolazione-e-misurazione/strumenti-orizzontali/hyperion/opzioni-e-accessori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/instaellning-och-maetning/horisontella-maskiner/hyperion/tillval-tillbehoer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/einstellen-messen/horizontale-geraete/hyperion/optionen-zubehoer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/presetting-measuring/horizontal-devices/hyperion/options-accessories",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/reglage-et-mesure/appareils-horizontaux/hyperion/options-et-accessoires",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E6%A8%AA%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%8F%E3%82%A4%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%B3/%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%ED%8F%89%ED%98%95-%EC%9E%A5%EB%B9%84/hyperion/%EC%98%B5%EC%85%98-%EB%B0%8F-%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/presetting-measuring/horizontal-devices/hyperion/options-accessories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/opciones-y-accesorios",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/ajuste-e-medicao/dispositivos-horizontais/hyperion/opcoes-e-acessorios",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»hyperion«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Aplicaciones",
+     "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/aplicaciones",
+     "current": false
+    },
+    {
+     "label": "Opciones y accesorios",
+     "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/opciones-y-accesorios",
+     "current": false
+    },
+    {
+     "label": "Datos técnicos",
+     "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/datos-tecnicos",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3358",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Opciones y <br/>accesorios </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3356",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Soporte universal y soporte antepuesto",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>El soporte universal HGH-UZ permite un cambio rápido, sencillo y con precisión de μm del soporte adicional mediante un casquillo de bola con dispositivo de cambio rápido para elementos de tracción de cualquier diseño. Está equipado con un dispositivo de bloqueo de 4 x 90° para el alojamiento posicionado de las herramientas de torneado, así como con un freno del husillo de accionamiento mecánico, y puede entregarse con autofoco y/o con transmisores de rotación.</p> <p>Hay disponibles soportes antepuestos para casi todos los portaherramientas, entre otros, para Citizen, Gildemeister, Haas, Hardinge, Hydromat, Index, Mazak, Mori-Seiki, Okuma, Star, Traub y muchos más.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/4/d/csm_option_universalaufnahme_96621c1d61.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c3390",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Base GA/GA-PP y adaptador",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>El soporte básico GA está configurado para el cambio manual de adaptadores. Se pueden entregar adaptadores para casi todas las portaherramientas diferentes y todos ellos están equipados con tensión manual de las herramientas.</p> <p>Las portaherramientas se pueden entregar para casi todos los sistemas de herramientas y máquinas, por ejemplo, para Benzinger, Comau, Dörries, Imac, Index, Mori-Seiki, Nakamura, Schütte, Star, Takisawa, Tornos, Traub y muchos más.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/9/csm_option_grundaufnahme_f42a642166.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 504
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c3392",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "medidor",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Medidor con división de 0,01 mm y sensores para herramientas de corte normales y invertidas.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/4/b/csm_option_messuhr_3b912bb883.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c3394",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Cámara de luz incidente CCD basculante y con iluminación centrada",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>El dispositivo de medición del centro de rotación con cámara de luz incidente basculante|orientable y iluminación LED centrada se pivota hacia adentro por motivos de seguridad durante las mediciones estandarizadas. Para medir los filos de las herramientas con luz incidente, la cámara se puede girar y rotar en tres posiciones. De este modo, las herramientas se pueden medir tanto por el lado frontal como por la izquierda y la derecha, dependiendo de la dirección de corte de las herramientas.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/e/c/csm_option_ccd_8bd18fa04e.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c3396",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c3388",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3357",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> »hiperión« </h2>",
+   "body": "<p>Con »hyperion 300/500/700«, dispondrá de un aparato de medición para prácticamente todos los sistemas de herramientas, lo que le permitirá estar siempre un paso por delante de la competencia.</p> <p><a class=\"btn\" href=\"/mx/empresa/contacto\" rel=\"noopener\" target=\"_blank\">Solicitar ahora</a> <a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 Consulta con expertos</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/d/csm_hyperion_cta_aef585f024.webp",
+     "alt": "",
+     "w": 1426,
+     "h": 1291
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7571",
+   "bg": "image",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Ajuste y medición: sus ventajas",
+     "href": "/mx/solutions/ajuste-y-medicion",
+     "caption": "<figcaption> <h3>Ajuste y medición: sus ventajas</h3> <p>Descubra por qué los aparatos de ajuste y medición reducen el tiempo y los costos. Los efectos son escalables y pueden generar grandes ahorros. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita.</p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion/opciones-y-accesorios",
+ "de_path": "/produkte/einstellen-messen/horizontale-geraete/hyperion/optionen-zubehoer"
+}

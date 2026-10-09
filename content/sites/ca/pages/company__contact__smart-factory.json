@@ -1,0 +1,346 @@
+{
+ "path": "/company/contact/smart-factory",
+ "url": "/ca/company/contact/smart-factory",
+ "title": "Smart Factory",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "contact /",
+   "href": "/ca/company/contact"
+  },
+  {
+   "label": "Smart Factory",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "contact /",
+   "href": "/ca/company/contact"
+  },
+  {
+   "label": "Smart Factory",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt/smart-factory",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact/smart-factory",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto/fabrica-inteligente",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact/usine-intelligente",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto/fabrica-inteligente",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto/fabbrica-intelligente",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt/smart-factory",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt/smart-factory",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us/smart-factory",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact/usine-intelligente",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%8C%A9%ED%86%A0%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us/visit-the-zoller-smart-factory",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto/fabrica-inteligente",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto/fabrica-inteligente",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/f/d/csm_smart_factory_header_a998788300.webp",
+     "video": null,
+     "title": "Right in the thick of it—",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2840",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Our Place for Your Experience </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2842",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"large-text\">At the ZOLLER Smart Factory, you’ll see the ZOLLER system and its seven solutions in action. You’ll gain insight into how you can unlock additional efficiency potential in your manufacturing through the seamless integration of hardware, software, interfaces, and automation.</p> <p class=\"large-text\">The ZOLLER Smart Factory impressively demonstrates that the path to greater productivity can be achieved in small steps. This makes it easier to plan and implement improvements to your own manufacturing processes. </p> <p class=\"large-text\">Schedule your visit to the ZOLLER Smart Factory in Pleidelsheim today. </p> <p class=\"large-text\"><a class=\"btn\" href=\"/ca/company/contact\">Schedule an appointment now</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2843",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2841",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Smart Factory – Experience It Online, Too </h2>",
+   "body": "<p class=\"large-text\">If the trip to Pleidelsheim is too far, you should still be able to experience the ZOLLER system firsthand. The one-on-one expert consultation offers you the option to schedule a personalized online appointment with our specialists. Using state-of-the-art media technology, we’ll bring the solutions from the Smart Factory right to you. We look forward to your appointment request. </p> <p class=\"large-text\"><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Schedule an appointment now</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/e/csm_smart_factory_01_55291fa71a.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 1080
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59555",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Theory and Practice in One Place: Smart Factory and Academy </h2>",
+   "body": "<p class=\"large-text\">In addition to live production operations, the ZOLLER Smart Factory houses the technical and generously equipped ZOLLER Academy in the same building. There, we regularly host training sessions and invite attendees to events covering current topics in tooling and manufacturing, as well as the ZOLLER product portfolio. </p> <p class=\"large-text\"><a class=\"btn\" href=\"/ca/events\">View Events</a></p> <p class=\"large-text\">Typical ZOLLER—everything from a single source.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/8/csm_smart_factory_02_4ea9e63266.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 1080
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59556",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Smart Factory at a Glance </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/d/csm_smart_factory_anwendungen_eb1f529f17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Demonstrate in a practical way",
+     "caption": "<figcaption> <h3>Demonstrate in a practical way</h3> <p>Milling, Turning, and Grinding</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_smart_factory_schulungen_c32f7a9cef.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Sharing Expert Knowledge",
+     "caption": "<figcaption> <h3>Sharing Expert Knowledge</h3> <p>Technological expertise from the ZOLLER experts.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_smart_factory_events_11f3b5ca26.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "On-site Events",
+     "caption": "<figcaption> <h3>On-site Events</h3> <p>Discover ZOLLER Solutions—right at our events.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2844",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/company/contact/smart-factory",
+ "de_path": "/unternehmen/kontakt/smart-factory"
+}

@@ -1,0 +1,1147 @@
+{
+ "path": "/entreprises/developpement-durable",
+ "url": "/ca-fr/entreprises/developpement-durable",
+ "title": "Développement durable",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Entreprises /",
+   "href": "/ca-fr/entreprises"
+  },
+  {
+   "label": "Développement durable",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Entreprises /",
+   "href": "/ca-fr/entreprises"
+  },
+  {
+   "label": "Développement durable",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/nachhaltigkeit",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/sustainability",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/sostenibilidad",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/durabilite",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/sustentabilidade",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/sostenibilita",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/haallbarhet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/nachhaltigkeit",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/sustainability",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/developpement-durable",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E6%80%A7",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/sustainability",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/sostenibilidad",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/sustentabilidade",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_iStock-110719870-neu_ca10e5e742.webp",
+     "title": "",
+     "kicker": "",
+     "title_html": "<h1> ZOLLER : Technologie et <br/> Engagement en faveur d'un développement plus durable </h1>",
+     "text": "",
+     "buttons": []
+    }
+   ],
+   "ftype": "zoller_hero",
+   "id": "c3202",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Avec ZOLLER, vous atteignez plus facilement vos objectifs de développement durable : <br/>vous évitez les rebuts, réduisez la consommation d'énergie et améliorez l'efficacité de vos processus. </h2>",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/5/f/csm_ZollerMediaZNU31_9bba01e5ab.webp",
+        "alt": "",
+        "w": 680,
+        "h": 328
+       }
+      ],
+      "videos": [],
+      "pos": "below",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c3196",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Le développement durable occupe une place centrale dans la philosophie d'entreprise de ZOLLER. Nous ne nous contentons pas de viser la réussite économique, mais assumons également nos responsabilités envers l'environnement et la société. L'ensemble de notre gamme, composée d'appareils de mesure de précision destinés au réglage, à la mesure et au contrôle des outils d'usinage, de logiciels, d'interfaces, de services cloud et de solutions d'automatisation des processus d'usinage, contribue à la préservation des ressources. Nous nous engageons sur le plan social et offrons des conditions de travail équitables au sein de notre entreprise. </strong></p> <p>L’intégration de pratiques durables dans nos processus commerciaux revêt une importance cruciale pour ZOLLER. Conscients que nos activités ont un impact sur l’environnement, nous misons sur des technologies préservant les ressources ainsi que sur des méthodes de production économes en énergie. Grâce à l’utilisation de matériaux respectueux de l’environnement et à l’optimisation de nos processus logistiques, nous contribuons activement à la réduction de notre empreinte écologique. De plus, nous encourageons une culture d’entreprise qui place le développement durable au cœur de nos préoccupations. Nos collaboratrices et collaborateurs sont formés et encouragés à prendre des décisions durables et à proposer des idées innovantes pour améliorer notre bilan environnemental. Nous sommes convaincus que chacun peut apporter sa contribution pour assurer la pérennité de notre entreprise. Nous considérons les 17 objectifs de développement durable de l’Agenda 2030 des Nations Unies comme le fil conducteur de notre propre action en faveur du développement durable. </p> <p>ZOLLER assume également sa responsabilité sociale. Nous soutenons les communautés locales et nous engageons en faveur de conditions de travail équitables. En respectant des normes éthiques au sein de notre chaîne d’approvisionnement, nous veillons à ce que nos entreprises partenaires adoptent elles aussi une gestion durable. Globalement, pour ZOLLER, le développement durable n’est pas seulement une tendance, mais un objectif à long terme. Nous sommes convaincus qu’une action responsable contribue non seulement à la protection de notre environnement, mais renforce également la confiance de nos clients et accroît notre compétitivité. En collaboration avec nos partenaires et nos clients, nous œuvrons à la construction d’un avenir durable – pour notre entreprise et pour les générations futures.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3193",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3199",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Axes d'action de notre <br/>stratégie de développement durable </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/b/csm_Teaser_Helene_Zoller_Garten_84c13c8545.webp",
+     "alt": "",
+     "w": 633,
+     "h": 405,
+     "title": "Jardin d'Hélène Zoller",
+     "href": "/ca-fr/votre-reussite/details?tx_news_pi1%5Bnews%5D=102&cHash=688adf40d36185750c8a94fcc0dd3ec7",
+     "caption": "<figcaption> <h3>Jardin d'Hélène Zoller</h3> <p>Un jardin de 500 mètres carrés a été aménagé pour permettre à l'équipe ZOLLER de se détendre, mais aussi pour accueillir des abeilles, des papillons et d'autres insectes.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_Teaser-Oekstrom_7a7bfecc77.webp",
+     "alt": "",
+     "w": 633,
+     "h": 405,
+     "title": "Énergies renouvelables",
+     "href": "/ca-fr/votre-reussite/details?tx_news_pi1%5Bnews%5D=103&cHash=268cf90d4659d52857e4ad53490a1a2c",
+     "caption": "<figcaption> <h3>Énergies renouvelables</h3> <p>Nous utilisons exclusivement de l'électricité issue d'énergies renouvelables. Notre installation photovoltaïque interne nous permet d'y contribuer.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_Teaser-Innovation_4f6e1229bf.webp",
+     "alt": "",
+     "w": 633,
+     "h": 405,
+     "title": "L'innovation préserve les ressources",
+     "href": "/ca-fr/votre-reussite/details?tx_news_pi1%5Bnews%5D=104&cHash=e4abd8f746192396bbcb671dc265eddb",
+     "caption": "<figcaption> <h3>L'innovation préserve les ressources </h3> <p>Nos technologies aident les sites de production à exploiter de manière optimale leurs ressources en matériaux, leurs machines et leurs outils. Cela permet de réduire les pièces manquantes et d'améliorer l'efficacité du processus.</p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3190",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h2>La diversité chez ZOLLER :<br/>une équipe composée de 24 nationalités au siège de Pleidelsheim</h2>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3184",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     },
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/3/e/csm_ZollerMediaZNU6_6a196df78d.webp",
+        "alt": "",
+        "w": 900,
+        "h": 319
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3181",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER est une entreprise innovante qui se distingue non seulement par son excellence technologique, mais aussi par son engagement fort en faveur du développement durable et de la diversité. Nous accordons une grande importance à la création d'un environnement de travail où la diversité est considérée comme une force.</strong></p> <p>Avec des collaborateurs issus de 24 nationalités différentes, le siège social de ZOLLER à Pleidelsheim promeut une culture de respect mutuel et d’échanges interculturels. Cette diversité contribue de manière significative à la créativité, à l’innovation et à la capacité à résoudre les problèmes, car elle permet la convergence de différentes perspectives. Grâce à des initiatives ciblées et à une culture d’entreprise ouverte, ZOLLER donne l’exemple en matière de responsabilité sociale et de croissance durable, tant sur le plan écologique que social. L’entreprise démontre ainsi que le développement durable peut aller de pair avec un personnel diversifié, afin de concevoir ensemble des solutions tournées vers l’avenir. </p> <p>Notre personnel international est la preuve que, chez ZOLLER Pleidelsheim, la diversité n’est pas seulement un objectif, mais une réalité vécue – une force qui nous anime au quotidien.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3178",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3187",
+   "bg": "yellow",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "goals",
+   "header": "<h2> Assurer l'avenir : <br/>nos objectifs de développement durable </h2>",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/b/csm_Picto-Co2e_721d1ec317.webp",
+      "alt": "",
+      "w": 266,
+      "h": 266
+     },
+     "value": "40 %",
+     "text": "<p>réduction des émissions de<br/>CO₂e d'ici 2030</p>",
+     "foot": "<p>Chiffres pour 2025 : 6 695,74 t CO₂e <br/>(valeur de référence pour 2024 : 8 804,24 t CO₂e)</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/9/csm_Picto-A-Liferant_9814008bc3.webp",
+      "alt": "",
+      "w": 266,
+      "h": 266
+     },
+     "value": "90 %",
+     "text": "<p>d'ici 2030, les fournisseurs de catégorie A devront<br/>provenir de la région</p>",
+     "foot": "<p>Objectif pour 2025 : 82 % des fournisseurs de catégorie A proviennent de la région<br/>(valeur de référence pour 2024 : 70 %)</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/7/3/csm_Picto-Verpackung_34054fafdb.webp",
+      "alt": "",
+      "w": 266,
+      "h": 266
+     },
+     "value": "100 %",
+     "text": "<p>D'ici 2030, nos emballages devront<br/>être recyclables</p>",
+     "foot": "<p>Objectif à la fin de 2025 : 52 % d'emballages<br/>recyclables (valeur de référence pour 2024 : 40 %)</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/5/8/csm_Picto-Social_c4bd7a7f0e.webp",
+      "alt": "",
+      "w": 266,
+      "h": 266
+     },
+     "value": "3",
+     "text": "<p>soutenir des projets<br/>sociaux d'ici 2030</p>",
+     "foot": "<p>Situation en juin 2026 : 1 projet<br/>(valeur de référence 2024 : 0 projet)</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_Picto-Kundenzufriedeneit_76a898a8fc.webp",
+      "alt": "",
+      "w": 266,
+      "h": 266
+     },
+     "value": "1,25",
+     "text": "<p>Satisfaction<br/>client d'ici 2028</p>",
+     "foot": "<p>1,29 (note scolaire) en 2025 (sur environ 1 000 personnes interrogées)<br/>(valeur de référence 2024 : 1,33)</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_Picto-Ausbildung_c82520d00b.webp",
+      "alt": "",
+      "w": 266,
+      "h": 266
+     },
+     "value": "10 %",
+     "text": "<p>Apprentis/heures par<br/>an jusqu'en 2030</p>",
+     "foot": "<p>Objectif pour 2025 : 6 % d'apprentis/heures par rapport à l'effectif total<br/>(valeur de référence pour 2024 : 5 %)</p>"
+    }
+   ],
+   "ftype": "zoller_tiles",
+   "id": "c3406",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Le développement durable selon<br/>des normes transparentes </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/9/b/csm_ZollerMediaZNU24_ea89fff9f8.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 1540
+   },
+   "spots": [
+    {
+     "x": 27.2,
+     "y": 26.9,
+     "label": "RÉFLÉCHIR",
+     "text": "<h3>RÉFLÉCHIR</h3> <figure><table><tbody><tr><td><img alt=\"\" height=\"90\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/a/csm_Picto-Kundenzufriedeneit_bfe5e0dd77.webp\" title=\"\" width=\"90\"/></td><td><strong>Détection</strong><br/><strong>précoce :</strong> quels sont les thèmes pertinents pour mon<br/>entreprise ?</td></tr><tr><td><img alt=\"\" height=\"90\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/b/csm_Picto-Co2e_9388011167.webp\" title=\"\" width=\"90\"/></td><td><strong>Philosophie</strong><br/>Quelles sont les valeurs de mon<br/>entreprise ?</td></tr><tr><td><img alt=\"\" height=\"90\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/f/csm_Picto-Ausbildung_c9a5fade81.webp\" title=\"\" width=\"90\"/></td><td><strong>Objectifs</strong><br/><strong>:</strong> Que souhaite-je atteindre et dans quels délais ?</td></tr></tbody></table></figure>"
+    },
+    {
+     "x": 72.5,
+     "y": 26.5,
+     "label": "AGIR",
+     "text": "<h3>AGIR</h3> <figure><table><tbody><tr><td><img alt=\"\" height=\"90\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/b/csm_Picto-Co2e_9388011167.webp\" title=\"\" width=\"90\"/></td><td><strong>Intégration</strong><br/>Comment intégrer le développement durable dans<br/>les processus de l'entreprise ?</td></tr><tr><td><img alt=\"\" height=\"90\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/b/csm_Picto-Co2e_9388011167.webp\" title=\"\" width=\"90\"/></td><td><strong>Formation</strong><br/>Comment former mes collaborateurs<br/>au développement durable ?</td></tr></tbody></table></figure>"
+    },
+    {
+     "x": 25.8,
+     "y": 71.0,
+     "label": "COMMUNIQUER",
+     "text": "<h3>COMMUNIQUER</h3> <figure><table><tbody><tr><td><img alt=\"\" height=\"90\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/9/csm_Picto-A-Liferant_7042a5b9bc.webp\" title=\"\" width=\"90\"/></td><td><strong>Culture</strong><br/><strong>du dialogue :</strong> que communiquons-nous, en interne et en<br/>externe, au sujet du développement durable ? </td></tr></tbody></table></figure>"
+    },
+    {
+     "x": 72.8,
+     "y": 72.0,
+     "label": "SALONS",
+     "text": "<h3>SALONS</h3> <figure><table><tbody><tr><td><img alt=\"\" height=\"90\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/a/csm_Picto-Kundenzufriedeneit_bfe5e0dd77.webp\" title=\"\" width=\"90\"/></td><td><strong>Diagnostic</strong><br/><strong>:</strong> quelle est l'efficacité de ma<br/>gestion du développement durable ?</td></tr></tbody></table></figure>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c3172",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2> Certificats </h2>",
+   "files": [
+    {
+     "href": "/fileadmin/Sustainability/PDF-Dateien/Zertifikat_ZNU_de.PDF",
+     "name": "Certificat – Norme ZNU – 2025",
+     "size": "403 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/a/2/csm_Zertifikat_ZNU_de_4fa2e4338c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Certificat – Norme ZNU – 2025"
+     }
+    },
+    {
+     "href": "/fileadmin/Sustainability/PDF-Dateien/Urkunde_Klimawin.pdf",
+     "name": "Certificat – Klimawin BW – 2025",
+     "size": "931 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/9/5/csm_Urkunde_Klimawin_efb80621f1.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Certificat – Klimawin BW – 2025"
+     }
+    },
+    {
+     "href": "/fileadmin/Sustainability/PDF-Dateien/Zertifikat_ISO_14001_2015_de.PDF",
+     "name": "Certificat – ISO 14001 – 2015",
+     "size": "414 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/4/e/csm_Zertifikat_ISO_14001_2015_de_95c0ec0ebf.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Certificat – ISO 14001 – 2015"
+     }
+    },
+    {
+     "href": "/fileadmin/Sustainability/PDF-Dateien/Urkunde_Soziales_Schwarzer_Loewe.pdf",
+     "name": "Certificat – Engagement social – « Schwarzer Löwe » 2024",
+     "size": "669 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/6/csm_Urkunde_Soziales_Schwarzer_Loewe_be94d03348.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Certificat – Engagement social – « Schwarzer Löwe » 2024"
+     }
+    },
+    {
+     "href": "/fileadmin/Sustainability/PDF-Dateien/Urkunde_Nachhaltigkeit_Schwarzer_Loewe.pdf",
+     "name": "Certificat – Développement durable – Lion noir 2024",
+     "size": "686 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/d/0/csm_Urkunde_Nachhaltigkeit_Schwarzer_Loewe_e69038277c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Certificat – Développement durable – Lion noir 2024"
+     }
+    },
+    {
+     "href": "/fileadmin/Sustainability/PDF-Dateien/Zertifikat_Oekostrom_-_2025.pdf",
+     "name": "Certificat – Électricité verte – 2025",
+     "size": "190 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_Zertifikat_Oekostrom_-_2025_d2e23ff1fb.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Certificat – Électricité verte – 2025"
+     }
+    },
+    {
+     "href": "/fileadmin/Sustainability/PDF-Dateien/SUE_5032_Zertifikat_Energie_Audit_2024_EDL-G_Zoller.pdf",
+     "name": "Certificat – Audit énergétique – 2024 EDL-G",
+     "size": "139 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/d/csm_SUE_5032_Zertifikat_Energie_Audit_2024_EDL-G_Zoller_a5262c11bc.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Certificat – Audit énergétique – 2024 EDL-G"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c3169",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Développement durable – projets réalisés<br/> </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "header",
+      "id": "c3163",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     },
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Nos activités sont mesurables, vérifiables et continues. Pour<br/>nous, le développement durable est un engagement au quotidien.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3617",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3160",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3166",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "icon_list",
+      "header": "",
+      "items": [
+       {
+        "subtitle": "Abeilles",
+        "icon": {
+         "src": "/fileadmin/_processed_/6/5/csm_ZNU_Standard-LabelUmwelt_Biodiversitaet_f7baea7281.webp",
+         "alt": "",
+         "w": 125,
+         "h": 125
+        },
+        "value": "300 000",
+        "text": "<p>Le site de ZOLLER abrite cinq colonies d'abeilles. Elles sont prises en charge par un apiculteur expérimenté. La présence des abeilles contribue à la santé des écosystèmes locaux. Les abeilles favorisent la biodiversité, non seulement en assurant elles-mêmes la pollinisation, mais aussi en attirant d'autres pollinisateurs.</p>",
+        "content": "<h3>300 000</h3>"
+       }
+      ],
+      "ftype": "zoller_icon-list",
+      "id": "c3154",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "icon_list",
+      "header": "",
+      "items": [
+       {
+        "subtitle": "Utilisation d'emballages multiples",
+        "icon": {
+         "src": "/fileadmin/_processed_/1/c/csm_ZNU_Standard-LabelUmwelt_Verpackung_bb1ff6a4c4.webp",
+         "alt": "",
+         "w": 125,
+         "h": 125
+        },
+        "value": "100 %",
+        "text": "<p>En 2024, nos articles ont été livrés dans des contenants ou emballages réutilisables. Utilisation d'emballages réutilisables (sacs en tissu) à la place des emballages en plastique. Les sacs en tissu sont plus durables et très facilement réutilisables, contrairement au papier bulle en PE.</p>",
+        "content": "<h3>100 %</h3>"
+       }
+      ],
+      "ftype": "zoller_icon-list",
+      "id": "c3151",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3157",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "icon_list",
+      "header": "",
+      "items": [
+       {
+        "subtitle": "Bureau sans papier",
+        "icon": {
+         "src": "/fileadmin/_processed_/3/8/csm_ZNU_Standard-LabelWirtschaft_Beschaffung_885b49702b.webp",
+         "alt": "",
+         "w": 125,
+         "h": 125
+        },
+        "value": "25 %",
+        "text": "<p>Grâce aux processus numériques mis en place dans ABAS et ELO, nous réduisons chaque année notre consommation de papier. En 2024, cette consommation a été réduite de 25 % par rapport au nombre d'employés.</p>",
+        "content": "<h3>25 %</h3>"
+       }
+      ],
+      "ftype": "zoller_icon-list",
+      "id": "c3145",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "icon_list",
+      "header": "",
+      "items": [
+       {
+        "subtitle": "Électricité verte",
+        "icon": {
+         "src": "/fileadmin/_processed_/c/7/csm_ZNU_Standard-LabelUmwelt_Energie_ef5508b8b2.webp",
+         "alt": "",
+         "w": 125,
+         "h": 125
+        },
+        "value": "100 %",
+        "text": "<p>Par rapport au mix électrique allemand de 2023, nous avons réduit notre consommation d'électricité en 2024. En utilisant exclusivement de l'électricité verte, nous avons évité 404 tonnes d'émissions de CO₂e.</p>",
+        "content": "<h3>100 %</h3>"
+       }
+      ],
+      "ftype": "zoller_icon-list",
+      "id": "c3142",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3148",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "icon_list",
+      "header": "",
+      "items": [
+       {
+        "subtitle": "Centres de service",
+        "icon": {
+         "src": "/fileadmin/_processed_/d/b/csm_ZNU_Standard-LabelWirtschaft_Qualitaet_0294867ef6.webp",
+         "alt": "",
+         "w": 125,
+         "h": 125
+        },
+        "value": "42",
+        "text": "<p>ZOLLER dispose de centres de service répartis dans toute l'Allemagne. Cela se traduit par des trajets courts, des temps et des coûts de déplacement réduits, une diminution des émissions et, au final, un haut niveau de satisfaction client.</p>",
+        "content": "<h3>42</h3>"
+       }
+      ],
+      "ftype": "zoller_icon-list",
+      "id": "c3136",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "icon_list",
+      "header": "",
+      "items": [
+       {
+        "subtitle": "Billes de graines",
+        "icon": {
+         "src": "/fileadmin/_processed_/7/2/csm_ZNU_Standard-LabelUmwelt_Boden_9e8d7b8f52.webp",
+         "alt": "",
+         "w": 125,
+         "h": 125
+        },
+        "value": "environ 1 750",
+        "text": "<p>Nous offrons des « seedballs » contenant des graines à nos clients et fournisseurs. Nous en avons déjà distribué environ 1 750. Les « seedballs » constituent un excellent moyen de créer des espaces verts et de favoriser la biodiversité.</p>",
+        "content": "<h3>environ 1 750</h3>"
+       }
+      ],
+      "ftype": "zoller_icon-list",
+      "id": "c3133",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3139",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "icon_list",
+   "header": "<h2> Autres projets<br/> de développement durable menés à bien </h2>",
+   "items": [
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/3/8/csm_ZNU_Standard-LabelWirtschaft_Beschaffung_885b49702b.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "98 % des pièces mécaniques proviennent du Bade-Wurtemberg",
+     "text": "",
+     "content": "<p>98 % des pièces mécaniques proviennent du Bade-Wurtemberg</p> <p>Le développement régional renforce les entreprises locales et préserve l'emploi. Des trajets de transport plus courts réduisent les émissions de CO₂e et contribuent à la protection du climat.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/c/7/csm_ZNU_Standard-LabelUmwelt_Energie_ef5508b8b2.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Installation photovoltaïque mise en place sur le bâtiment existant",
+     "text": "",
+     "content": "<p>Installation photovoltaïque mise en place sur le bâtiment existant</p> <p>Les espaces libres sont utilisés pour produire de l'énergie propre et renouvelable.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/4/d/csm_ZNU_Standard-LabelUmwelt_Abfall_575cd37648.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Envoi des devis, des commandes et des factures par e-mail",
+     "text": "",
+     "content": "<p>Envoi des devis, des commandes et des factures par e-mail</p> <p>Réduction de la consommation de papier grâce à l'envoi dématérialisé par e-mail.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/c/7/csm_ZNU_Standard-LabelUmwelt_Energie_ef5508b8b2.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Éclairage LED complet dans le nouveau bâtiment (rénovation prévue dans le bâtiment existant)",
+     "text": "",
+     "content": "<p>Éclairage LED complet dans le nouveau bâtiment (rénovation prévue dans le bâtiment existant)</p> <p>L'éclairage LED consomme nettement moins d'énergie et a une durée de vie plus longue. Les coûts d'entretien sont donc également moins élevés. De plus, les ampoules LED ne contiennent aucune substance nocive, comme le mercure, et sont entièrement recyclables.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/8/9/csm_ZNU_Standard-LabelUmwelt_Klima_f6628d2385.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Toiture végétalisée sur le nouveau bâtiment",
+     "text": "",
+     "content": "<p>Toiture végétalisée sur le nouveau bâtiment</p> <p>Une toiture végétalisée améliore l'isolation thermique et acoustique. Elle permet également de stocker l'eau de pluie. De plus, elle crée des habitats pour la faune et la flore, favorise la biodiversité et contribue à influencer positivement le climat local.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/4/d/csm_ZNU_Standard-LabelUmwelt_Abfall_575cd37648.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Tri des déchets (papier, plastique, déchets résiduels, bois, déchets électroniques et bois)",
+     "text": "",
+     "content": "<p>Tri des déchets (papier, plastique, déchets résiduels, bois, déchets électroniques et bois)</p> <p>Le tri sélectif permet de préserver des matières premières précieuses, car chaque matériau peut ainsi être recyclé et réutilisé efficacement. </p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/6/5/csm_ZNU_Standard-LabelUmwelt_Biodiversitaet_f7baea7281.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Reboisement autour du site de l'entreprise (35 arbres)",
+     "text": "",
+     "content": "<p>Reboisement autour du site de l'entreprise (35 arbres)</p> <p>Les arbres favorisent la biodiversité et améliorent la qualité de l'air en filtrant les polluants présents dans l'atmosphère. Cela permet ainsi de réduire considérablement les particules fines.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/3/a/csm_ZNU_Standard-LabelWirtschaft_Innovation_14f0f5907f.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "29 bornes de recharge pour voitures électriques destinées au personnel et aux clients (dans le parking)",
+     "text": "",
+     "content": "<p>29 bornes de recharge pour voitures électriques destinées au personnel et aux clients (dans le parking)</p> <p>L'attractivité de ZOLLER est renforcée tant auprès des clients que des collaborateurs.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/e/9/csm_ZNU_Standard-LabelSoziales_Arbeitssicherheit_6bc5adb4ea.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Utilisation de chariots élévateurs électriques",
+     "text": "",
+     "content": "<p>Utilisation de chariots élévateurs électriques</p> <p>Les chariots élévateurs électriques ne génèrent aucune émission, ce qui améliore la qualité de l'air à l'intérieur des locaux et contribue à réduire l'empreinte écologique. Leurs coûts d'exploitation sont inférieurs à ceux des chariots élévateurs au diesel ou au gaz, car ZOLLER achète de l'électricité verte et alimente également le réseau grâce à ses installations photovoltaïques. Cela réduit également les besoins en maintenance, puisqu'il n'est plus nécessaire de contrôler les bouteilles de gaz. De plus, les chariots élévateurs électriques sont nettement plus silencieux, ce qui contribue à créer un environnement de travail plus agréable.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/6/c/csm_ZNU_Standard-LabelUmwelt_Wasser_1065ecc2ee.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Détecteur de mouvement",
+     "text": "",
+     "content": "<p>Détecteur de mouvement</p> <p>L'eau et l'électricité sont utilisées de manière plus efficace, la consommation n'intervenant qu'en cas de besoin.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/7/2/csm_ZNU_Standard-LabelUmwelt_Boden_9e8d7b8f52.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Adoption du nettoyant multi-usages écologique Liquid Green pour les opérations de montage et d'entretien",
+     "text": "",
+     "content": "<p>Adoption du nettoyant multi-usages écologique Liquid Green pour les opérations de montage et d'entretien</p> <p>Les produits d'entretien écologiques ne contiennent pas de substances chimiques nocives ; ils sont composés d'ingrédients naturels qui se dégradent facilement dans l'environnement et ne laissent aucun résidu nocif. Le passage à des produits d'entretien écologiques peut également inciter d'autres personnes à adopter un comportement plus respectueux de l'environnement.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/8/9/csm_ZNU_Standard-LabelUmwelt_Klima_f6628d2385.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Les véhicules d'entreprise diesel sont progressivement remplacés par des véhicules électriques. Actuellement, il y en a 7.",
+     "text": "",
+     "content": "<p>Les véhicules d'entreprise diesel sont progressivement remplacés par des véhicules électriques. Actuellement, il y en a 7.</p> <p>Les voitures électriques ne rejettent pas de CO₂e lorsqu'elles roulent, ce qui contribue à améliorer la qualité de l'air et à réduire l'empreinte écologique. Elles constituent un investissement pérenne, car elles sont conformes aux normes environnementales de plus en plus strictes.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/8/a/csm_ZNU_Standard-LabelWirtschaft_Gerechte-Wertschoepfung_243dd92f1e.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Des offres de mise à niveau sont également proposées pour les appareils de mesure nettement plus anciens",
+     "text": "",
+     "content": "<p>Des offres de mise à niveau sont également proposées pour les appareils de mesure nettement plus anciens</p> <p>Il suffit de remplacer les composants électroniques et, le cas échéant, les composants électriques. Les pièces mécaniques peuvent être réutilisées. Cela permet d'améliorer la durabilité et de réduire la consommation d'énergie par rapport à la fabrication d'un nouvel appareil de mesure. De plus, la satisfaction des clients augmente grâce aux économies réalisées.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/3/8/csm_ZNU_Standard-LabelWirtschaft_Beschaffung_885b49702b.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "La technologie ZOLLER est synonyme de développement durable pour les clients",
+     "text": "",
+     "content": "<p>La technologie ZOLLER est synonyme de développement durable pour les clients</p> <p>Les outils peuvent être réaffûtés et réusinés de manière durable, ce qui réduit la nécessité de fabriquer de nouveaux outils. Cela permet de réduire les coûts élevés liés aux matériaux ainsi que la consommation d'énergie nécessaire à la fabrication de nouveaux outils.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/d/b/csm_ZNU_Standard-LabelWirtschaft_Qualitaet_0294867ef6.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Les instruments de mesure et de contrôle sont étalonnés au sein même de l'entreprise ZOLLER",
+     "text": "",
+     "content": "<p>Les instruments de mesure et de contrôle sont étalonnés au sein même de l'entreprise ZOLLER</p> <p>Ce système de rotation offre un fort potentiel d'économies en matière d'emballage et d'expédition. ZOLLER est un laboratoire d'étalonnage accrédité selon la norme DIN EN ISO 17025:2018 et membre du DKD.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/0/f/csm_ZNU_Standard-LabelSoziales_Gesundheit_2cd5d87b6c.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Offre de location de vélos pour les salariés",
+     "text": "",
+     "content": "<p>Offre de location de vélos pour les salariés</p> <p>Un vélo d'entreprise peut renforcer l'attractivité de ZOLLER et constituer un atout supplémentaire pour le recrutement et la fidélisation des collaborateurs. La mise à disposition d'un vélo d'entreprise bénéficie d'avantages fiscaux et a un impact positif sur les charges salariales. De plus, elle favorise une mobilité respectueuse de l'environnement et bénéfique pour la santé.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/3/1/csm_ZNU_Standard-LabelWirtschaft_Daten_b71c9104c2.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Les modes d'emploi ne sont pas disponibles sous forme imprimée, mais peuvent être téléchargés par les clients via le portail myZOLLER",
+     "text": "",
+     "content": "<p>Les modes d'emploi ne sont pas disponibles sous forme imprimée, mais peuvent être téléchargés par les clients via le portail myZOLLER</p> <p>Réduction de la consommation de papier.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/6/c/csm_ZNU_Standard-LabelUmwelt_Wasser_1065ecc2ee.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Les sachets VCI comme alternative aux huiles et graisses pour la protection contre la corrosion",
+     "text": "",
+     "content": "<p>Les sachets VCI comme alternative aux huiles et graisses pour la protection contre la corrosion</p> <p>Les sachets VCI sont réutilisables et recyclables, ce qui en fait un choix durable. Ils offrent une protection anticorrosion à long terme. Contrairement à l'huile, ils ne nécessitent aucune précaution particulière et ne laissent que peu ou pas de résidus.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/8/9/csm_ZNU_Standard-LabelUmwelt_Klima_f6628d2385.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Navette vers le salon en train et en bus (incluse dans le badge d'exposant)",
+     "text": "",
+     "content": "<p>Navette vers le salon en train et en bus (incluse dans le badge d'exposant)</p> <p>Les transports en commun réduisent les émissions de CO₂e et contribuent à diminuer la pollution atmosphérique, car ils génèrent moins de gaz à effet de serre par personne que les véhicules particuliers. Ils sont également souvent plus sûrs que les voitures particulières, car ils sont conduits par des chauffeurs professionnels et doivent respecter des normes de sécurité strictes. Cela permet également de désengorger le trafic routier.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/7/0/csm_ZNU_Standard-LabelSoziales_Kultur-der-Vielfalt_f7cf8486fb.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Jardin situé dans l'enceinte de l'entreprise, avec un mur en pierres sèches et un tas de pierres",
+     "text": "",
+     "content": "<p>Jardin situé dans l'enceinte de l'entreprise, avec un mur en pierres sèches et un tas de pierres</p> <p>Le site de l'entreprise abrite un jardin d'environ 450 mètres carrés, doté d'un mur en pierres sèches de 45 mètres de long ainsi que de plusieurs tas de pierres aménagés. Les employés peuvent passer leurs pauses dans ce jardin, ce qui contribue à réduire le stress, à favoriser le bien-être et à renforcer la détente. Le mur en pierres sèches constitue un refuge précieux pour de nombreuses espèces animales menacées. Toutes ont besoin de petites fissures dans les pentes verticales ou entre les pierres, et les tas de pierres aménagés favorisent la biodiversité.</p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/3/1/csm_ZNU_Standard-LabelWirtschaft_Daten_b71c9104c2.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Comptes rendus de salons au format numérique",
+     "text": "",
+     "content": "<p>Comptes rendus de salons au format numérique</p> <p>Créez des comptes-rendus de salons à l'aide du logiciel SnapAddy et envoyez automatiquement des e-mails de remerciement accompagnés des documents souhaités, directement depuis votre téléphone professionnel. </p>"
+    },
+    {
+     "subtitle": "",
+     "icon": {
+      "src": "/fileadmin/_processed_/4/d/csm_ZNU_Standard-LabelUmwelt_Abfall_575cd37648.webp",
+      "alt": "",
+      "w": 125,
+      "h": 125
+     },
+     "value": "Peser et mesurer les portions",
+     "text": "",
+     "content": "<p>Peser et mesurer les portions</p> <p>En pesant les portions, il est plus facile d'estimer la quantité à commander pour le déjeuner, ce qui évite de devoir jeter et éliminer des aliments.</p>"
+    }
+   ],
+   "ftype": "zoller_icon-list",
+   "id": "c3130",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/entreprises/developpement-durable",
+ "de_path": "/unternehmen/nachhaltigkeit"
+}

@@ -1,0 +1,366 @@
+{
+ "path": "/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/preguntas-frecuentes",
+ "url": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/preguntas-frecuentes",
+ "title": "»toolCart« – Preguntas frecuentes",
+ "description": "Preguntas frecuentes - »toolCart« – Preguntas frecuentes",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "Transporte de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas"
+  },
+  {
+   "label": "»toolCart« /",
+   "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart"
+  },
+  {
+   "label": "Preguntas frecuentes",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "Transporte de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas"
+  },
+  {
+   "label": "»toolCart« /",
+   "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart"
+  },
+  {
+   "label": "Preguntas frecuentes",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/smart-cabinets/toolcart/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-transportation/toolcart/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transport-des-outils/toolcart/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasporto-degli-utensili/toolcart/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygstransport/toolcart/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeugtransport/toolcart/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-transportation/toolcart/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transport-doutils/toolcart/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81/toolcart/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-transportation/toolcart/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolCart«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "configuración",
+     "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/configuracion",
+     "current": false
+    },
+    {
+     "label": "Software e integración",
+     "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/software-e-integracion",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2945",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p class=\"large-text\">Preguntas frecuentes</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2943",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "¿Se pueden controlar los Smart Cabinets también desde la red?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Sí, también se pueden controlar a través de la red.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c2940",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "¿Qué software ZOLLER TMS Tool Management Solutions necesito para controlar los Smart Cabinets?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>No es necesario disponer de ZOLLER TMS Tool Management para operar los Smart Cabinets. Puede iniciar de forma sencilla y rápida con un paquete básico para los Smart Cabinets y añadir más módulos o paquetes (BRONZE, SILVER o GOLD) cómodamente más adelante.</p> <p>Más información sobre ZOLLER TMS</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c2938",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c2942",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2944",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestión de herramientas: sus ventajas",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "caption": "<figcaption> <h3>Gestión de herramientas: sus ventajas</h3> <p>Descubra cómo la gestión de herramientas de ZOLLER aumenta su productividad inmediatamente. Con los datos de herramientas, los procesos se ejecutan de forma más rápida y segura, incluyendo protección contra colisiones para sus máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/preguntas-frecuentes",
+ "de_path": "/produkte/toolmanagement/smart-cabinets/toolcart/faq"
+}

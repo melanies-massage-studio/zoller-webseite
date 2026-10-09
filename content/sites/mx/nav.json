@@ -1,0 +1,809 @@
+{
+ "meta": [
+  {
+   "label": "Servicio",
+   "href": "/mx/empresa/contacto/persona-de-contacto"
+  },
+  {
+   "label": "Medios de comunicación",
+   "href": "/mx/empresa/medios-de-comunicacion"
+  },
+  {
+   "label": "Carrera profesional",
+   "href": "/mx/empresa/carrera-profesional"
+  }
+ ],
+ "main": [
+  {
+   "label": "El sistema",
+   "href": "/mx/el-sistema"
+  },
+  {
+   "label": "Su éxito",
+   "href": "/mx/su-exito"
+  },
+  {
+   "label": "Solutions",
+   "href": "/mx/solutions",
+   "children": [
+    {
+     "label": "¿Por qué ZOLLER Solutions?",
+     "href": "/mx/solutions"
+    },
+    {
+     "label": "Ajuste y medición",
+     "href": "/mx/solutions/ajuste-y-medicion"
+    },
+    {
+     "label": "Gestión de herramientas",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "children": [
+      {
+       "label": "Vista general",
+       "href": "/mx/solutions/gestion-de-herramientas"
+      },
+      {
+       "label": "TMS Software",
+       "href": "/mx/solutions/gestion-de-herramientas/tms-software"
+      },
+      {
+       "label": "TMS Hardware",
+       "href": "/mx/solutions/gestion-de-herramientas/tms-hardware"
+      }
+     ]
+    },
+    {
+     "label": "Comprobación y medición",
+     "href": "/mx/solutions/comprobacion-y-medicion"
+    },
+    {
+     "label": "Automatización",
+     "href": "/mx/solutions/automatizacion",
+     "children": [
+      {
+       "label": "Vista general",
+       "href": "/mx/solutions/automatizacion"
+      },
+      {
+       "label": "Logística",
+       "href": "/mx/solutions/automatizacion/logistica"
+      },
+      {
+       "label": "Preparación de herramientas",
+       "href": "/mx/solutions/automatizacion/preparacion-de-herramientas"
+      },
+      {
+       "label": "Suministro de herramientas",
+       "href": "/mx/solutions/automatizacion/suministro-de-herramientas"
+      },
+      {
+       "label": "Inspección de la herramienta",
+       "href": "/mx/solutions/automatizacion/inspeccion-de-la-herramienta"
+      }
+     ]
+    },
+    {
+     "label": "Técnica de contracción",
+     "href": "/mx/solutions/tecnica-de-contraccion"
+    },
+    {
+     "label": "Porta Herramientas",
+     "href": "/mx/solutions/porta-herramientas"
+    },
+    {
+     "label": "Tecnología De Equilibrado",
+     "href": "/mx/solutions/tecnologia-de-equilibrado"
+    },
+    {
+     "label": "Mecanizado CNC de piedra",
+     "href": "/mx/solutions/mecanizado-cnc-de-piedra"
+    }
+   ]
+  },
+  {
+   "label": "Productos",
+   "href": "/mx/productos",
+   "children": [
+    {
+     "label": "Resumen de productos",
+     "href": "/mx/productos"
+    },
+    {
+     "label": "Ajuste y medición",
+     "href": "/mx/productos/ajuste-y-medicion",
+     "children": [
+      {
+       "label": "Aparatos verticales",
+       "href": "/mx/productos/ajuste-y-medicion/aparatos-verticales",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/mx/productos/ajuste-y-medicion/aparatos-verticales/smile",
+         "claim": "Su introducción al ajuste y la medición profesionales",
+         "desc": "Los dispositivos básicos robustos y con precisión de µm para herramientas estándar.",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/mx/productos/ajuste-y-medicion/aparatos-verticales/venturion",
+         "claim": "La clase premium modular para las más altas exigencias",
+         "desc": "Excelente posición y medición de herramientas con numerosas opciones.",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Aparatos horizontales",
+       "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/mx/productos/ajuste-y-medicion/aparatos-horizontales/hyperion",
+         "claim": "El equipo versátil con enfoque en herramientas de torneado",
+         "desc": "El aparato horizontal de ajuste y medición para la fabricación de piezas torneadas.",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Soluciones de automatización",
+       "href": "/mx/productos/ajuste-y-medicion/soluciones-de-automatizacion",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/mx/productos/automatizacion/preparacion-de-herramientas/corameasure-lg",
+         "claim": "Medición automática de herramientas",
+         "desc": "Manejo económico de herramientas para ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/mx/productos/automatizacion/preparacion-de-herramientas/robobox",
+         "claim": "Automatización modular para el taller de herramientas",
+         "desc": "Hasta seis módulos para rutinas como ensamblar, limpieza, medición, contraer y más.",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "Mecanizado CNC de piedra",
+       "href": "/mx/productos/ajuste-y-medicion/mecanizado-cnc-de-piedra",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/mx/productos/ajuste-y-medicion/mecanizado-cnc-de-piedra/smile-gbo",
+         "claim": "Medir herramientas para piedra y madera",
+         "desc": "Permite una medición de altura en particular precisa gracias a su óptica de gran formato.",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/mx/productos/comprobacion-y-medicion/mecanizado-cnc-de-piedra/condress",
+         "claim": "Limpieza de superficies de rectificado con diamantes",
+         "desc": "Limpieza y recuperación de la capacidad de corte de las herramientas para el trabajo de la piedra",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "soluciones especiales",
+       "href": "/mx/productos/ajuste-y-medicion/soluciones-especiales",
+       "children": [
+        {
+         "label": "Soluciones especiales",
+         "href": "/mx/productos/ajuste-y-medicion/soluciones-especiales/soluciones-especiales",
+         "claim": "Soluciones para sus requisitos individuales"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Gestión de herramientas",
+     "href": "/mx/productos/gestion-de-herramientas",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/mx/software",
+       "children": [
+        {
+         "label": "»TMS Core«",
+         "href": "/mx/software/tms-core",
+         "claim": "Sistema modular",
+         "desc": "El punto de partida ideal para la organización digital de herramientas",
+         "img": "/fileadmin/_processed_/7/b/csm_TMSCore_product_664765c1fd.webp"
+        },
+        {
+         "label": "Add-on »z.Stock«",
+         "href": "/mx/software/add-on-zstock",
+         "claim": "Exactitud de los inventarios",
+         "desc": "Garantiza una transparencia clara en el almacén de herramientas",
+         "img": "/fileadmin/_processed_/6/a/csm_zStock_product_5160ca87bf.webp"
+        },
+        {
+         "label": "Add-on »z.CAM Integration«",
+         "href": "/mx/software/add-on-zcam-integration",
+         "claim": "Flujo de trabajo eficiente",
+         "desc": "Amplía el sistema con interfaces de alto rendimiento e integra los datos de las herramientas directamente en el flujo de trabajo",
+         "img": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_5dd5c4a531.webp"
+        },
+        {
+         "label": "Add-on »z.Resources«",
+         "href": "/mx/software/add-on-zresources",
+         "claim": "Capacidades centrales",
+         "desc": "Administra todos los recursos adicionales",
+         "img": "/fileadmin/_processed_/b/9/csm_zResources_product_2eef7f49be.webp"
+        },
+        {
+         "label": "Add-on »z.Shopfloor«",
+         "href": "/mx/software/add-on-zshopfloor",
+         "claim": "Transparencia digital",
+         "desc": "Un ciclo de herramientas continuo y eficiente directamente en el taller",
+         "img": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_ccbeaa7b22.webp"
+        },
+        {
+         "label": "Add-on »z.Connectivity«",
+         "href": "/mx/software/add-on-zconnectivity",
+         "claim": "Transferencia segura de datos",
+         "desc": "Conexión digital integrada entre la medición de herramientas, la administración de herramientas y la máquina",
+         "img": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_8dec59a214.webp"
+        },
+        {
+         "label": "Add-on »z.Integration«",
+         "href": "/mx/software/add-on-zintegration",
+         "claim": "Conectividad inteligente",
+         "desc": "Solución de gestión de herramientas independiente del fabricante para entornos de fabricación en expansión",
+         "img": "/fileadmin/_processed_/a/7/csm_zIntegration_product_5d9cbc0f19.webp"
+        }
+       ]
+      },
+      {
+       "label": "almacén de herramientas",
+       "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/twister",
+         "claim": "Armario de almacenamiento",
+         "desc": "Para componentes de herramientas y accesorios",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock",
+         "claim": "Armario de almacenamiento",
+         "desc": "Para medios de comprobación, consumibles y componentes de mayor tamaño.",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/toolorganizer",
+         "claim": "Armario de herramientas",
+         "desc": "Para herramientas de corte y piezas pequeñas",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper",
+         "claim": "Armario de herramientas",
+         "desc": "Para herramientas completas y portaherramientas",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/zstorage",
+         "claim": "Gestión del almacenamiento de herramientas",
+         "desc": "Sus artículos se entregan según el principio de una máquina expendedora.",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "Montaje de herramienta",
+       "href": "/mx/productos/gestion-de-herramientas/montaje-de-herramienta",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/mx/productos/gestion-de-herramientas/montaje-de-herramienta/ztower",
+         "claim": "Isla de montaje",
+         "desc": "Para el montaje universal de herramientas",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/mx/productos/gestion-de-herramientas/montaje-de-herramienta/toolstation",
+         "claim": "Banco de trabajo",
+         "desc": "Para un montaje de las herramientas de forma óptima",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Transporte de herramientas",
+       "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart",
+         "claim": "Carro de herramientas",
+         "desc": "Para transportar las herramientas cómodamente",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "transferencia de datos",
+       "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode",
+         "claim": "Transferir datos de herramientas sin errores",
+         "desc": "Mayor seguridad y eficiencia gracias a la sencilla gestión de los datos de herramientas",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Comprobación y medición",
+     "href": "/mx/productos/comprobacion-y-medicion",
+     "children": [
+      {
+       "label": "Máquinas de medición universales",
+       "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius",
+         "claim": "Medir y verificar herramientas de mecanizado sin contacto",
+         "desc": "Registra más de 100 parámetros con extrema precisión y ha demostrado su eficacia en más de 1000 ocasiones en todo el mundo.",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/titan",
+         "claim": "La máquina de control y medición en versión de alta gama",
+         "desc": "Para expertos que quieren saberlo todo, incluida la preparación de los filos de corte.",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/smartcheck",
+         "claim": "Ajuste, medición y control en un solo dispositivo",
+         "desc": "Los aparatos de ajuste y medición con luz incidente adicional y análisis de imagen ampliado.",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "Medición orientada a procesos",
+       "href": "/mx/productos/comprobacion-y-medicion/medicion-orientada-a-procesos",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/mx/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/pombasic",
+         "claim": "Para la inspección manual precisa en la producción",
+         "desc": "Comprobar más de 70 parámetros en la herramienta durante el proceso",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/mx/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/mmfocus",
+         "claim": "El dispositivo 2 en 1 para SKP y rugosidad superficial",
+         "desc": "Analiza topografías y crea Figs. 3D de los filos de las herramientas.",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "soluciones de automatización",
+       "href": "/mx/productos/comprobacion-y-medicion/soluciones-de-automatizacion",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2",
+         "claim": "Inspección y documentación de herramientas 24/7",
+         "desc": "Para »genius«, »3dCheck«, »threadCheck«, »titan« y »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Mecanizado CNC de piedra",
+       "href": "/mx/productos/comprobacion-y-medicion/mecanizado-cnc-de-piedra",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/mx/productos/comprobacion-y-medicion/mecanizado-cnc-de-piedra/condiaz",
+         "claim": "Medición precisa de contornos en segundos",
+         "desc": "Aparato de inspección especial para medir y comprobar herramientas de diamante para trabajar piedra.",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/mx/productos/comprobacion-y-medicion/mecanizado-cnc-de-piedra/condress",
+         "claim": "Limpieza de superficies de rectificado diamantadas",
+         "desc": "Limpieza y restauración de la capacidad de corte de las herramientas para trabajar la piedra.",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Soluciones especiales",
+       "href": "/mx/productos/comprobacion-y-medicion/soluciones-especiales",
+       "children": [
+        {
+         "label": "soluciones especiales",
+         "href": "/mx/productos/comprobacion-y-medicion/soluciones-especiales/soluciones-especiales",
+         "claim": "Soluciones para sus requisitos individuales"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Automatización",
+     "href": "/mx/productos/automatizacion",
+     "children": [
+      {
+       "label": "Logística de herramientas",
+       "href": "/mx/productos/automatizacion/logistica-de-herramientas",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/mx/productos/automatizacion/logistica-de-herramientas/coralogistic",
+         "claim": "La logística automatizada del taller de producción",
+         "desc": "Para tareas de transporte entre el almacén de herramientas, la preparación de herramientas y la máquina CNC.",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/mx/productos/automatizacion/logistica-de-herramientas/coramachineload",
+         "claim": "Carga y descarga máquinas CNC de forma totalmente automática",
+         "desc": "Manipulación precisa y puntual de las herramientas entre la logística y el almacén de máquinas.",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Preparación de herramientas",
+       "href": "/mx/productos/automatizacion/preparacion-de-herramientas",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/mx/productos/automatizacion/preparacion-de-herramientas/corameasure-lg",
+         "claim": "La medición automatizada de herramientas",
+         "desc": "Manejo económico de herramientas para ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/mx/productos/automatizacion/preparacion-de-herramientas/robobox",
+         "claim": "La automatización modular para el taller de herramientas",
+         "desc": "Hasta seis módulos para rutinas como ensamblar, limpieza, medición, contraer y más.",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/mx/productos/automatizacion/preparacion-de-herramientas/micbox",
+         "claim": "El manejo eficiente de plaquitas de corte reversibles",
+         "desc": "Se encarga de girar, voltear e recambiar las plaquitas de corte reversibles.",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "Suministro de herramientas",
+       "href": "/mx/productos/automatizacion/suministro-de-herramientas",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/mx/productos/automatizacion/suministro-de-herramientas/loadbox",
+         "claim": "El centro de herramientas inteligente",
+         "desc": "Prepara las herramientas según el pedido y las pone a disposición del departamento de logística.",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "inspección de la herramienta",
+       "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2",
+         "claim": "Inspección y documentación de herramientas 24/7",
+         "desc": "Para »genius«, »3dCheck«, »threadCheck«, »titan« y »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Marcado con láser",
+       "href": "/mx/productos/automatizacion/marcado-con-laser",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/mx/productos/automatizacion/marcado-con-laser/robomark",
+         "claim": "Sistema de marcado con láser",
+         "desc": "El marcado rápido y preciso de tus herramientas",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Técnica de contracción de herramientas",
+     "href": "/mx/productos/ammare-termico-de-herramientas",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/mx/productos/ammare-termico-de-herramientas/powershrink",
+       "claim": "Contraer herramientas",
+       "desc": "El sistema de retractilado con una eficiencia energética de forma óptima y la máxima seguridad.",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/mx/productos/ammare-termico-de-herramientas/redomatic",
+       "claim": "Contracción y medición",
+       "desc": "Aparato de ajuste y medición con sistema de contracción de herramientas integrado",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Porta Herramientas",
+     "href": "/mx/productos/porta-herramientas",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/int/en/shop/tooling",
+       "claim": "Más de 2500 portaherramientas",
+       "desc": "Opcionalmente con »idChip« para un proceso más seguro gracias a los datos de herramientas actuales. Compatible con TMS Tool Management Solutions de ZOLLER.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "Tecnología De Balanceo",
+     "href": "/mx/productos/tecnologia-de-balanceo",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer",
+       "claim": "Equilibrar herramientas",
+       "desc": "El sistema de equilibrado con tecnología de vanguardia y diseño ergonómico",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Academia",
+   "href": "/mx/academia"
+  },
+  {
+   "label": "Eventos",
+   "href": "/mx/eventos"
+  },
+  {
+   "label": "Empresa",
+   "href": "/mx/empresa",
+   "children": [
+    {
+     "label": "Mostrar vista general",
+     "href": "/mx/empresa"
+    },
+    {
+     "label": "Perfil",
+     "href": "/mx/empresa/perfil",
+     "children": [
+      {
+       "label": "Acerca de ZOLLER",
+       "href": "/mx/empresa/perfil"
+      },
+      {
+       "label": "Referencias",
+       "href": "/mx/empresa/perfil/referencias"
+      },
+      {
+       "label": "Socios",
+       "href": "/mx/empresa/perfil/socios"
+      },
+      {
+       "label": "Historia",
+       "href": "/mx/empresa/perfil/historia"
+      }
+     ]
+    },
+    {
+     "label": "Contacto",
+     "href": "/mx/empresa/contacto",
+     "children": [
+      {
+       "label": "Formulario de contacto",
+       "href": "/mx/empresa/contacto"
+      },
+      {
+       "label": "Ubicaciones",
+       "href": "/mx/empresa/contacto/ubicaciones"
+      },
+      {
+       "label": "Fábrica inteligente",
+       "href": "/mx/empresa/contacto/fabrica-inteligente"
+      },
+      {
+       "label": "Persona de contacto",
+       "href": "/mx/empresa/contacto/persona-de-contacto"
+      },
+      {
+       "label": "1:1 Charla con expertos",
+       "href": "https://myzoller.com/int/en/expert/booking"
+      },
+      {
+       "label": "Capacitación y formación",
+       "href": "/mx/empresa/contacto/capacitacion-y-formacion"
+      },
+      {
+       "label": "boletín informativo",
+       "href": "/mx/empresa/contacto/boletin-informativo"
+      }
+     ]
+    },
+    {
+     "label": "Carrera profesional",
+     "href": "/mx/empresa/carrera-profesional",
+     "children": [
+      {
+       "label": "Trabajar en ZOLLER",
+       "href": "/mx/empresa/carrera-profesional"
+      },
+      {
+       "label": "Ofertas de empleo",
+       "href": "/mx/empresa/carrera-profesional/ofertas-de-empleo"
+      }
+     ]
+    },
+    {
+     "label": "Informes e historias",
+     "href": "/mx/empresa/informes-e-historias"
+    },
+    {
+     "label": "Medios de comunicación",
+     "href": "/mx/empresa/medios-de-comunicacion"
+    },
+    {
+     "label": "Sostenibilidad",
+     "href": "/mx/empresa/sostenibilidad"
+    },
+    {
+     "label": "gestión de la calidad",
+     "href": "/mx/empresa/gestion-de-la-calidad"
+    },
+    {
+     "label": "Cumplimiento normativo",
+     "href": "/mx/empresa/cumplimiento-normativo"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Ir arriba",
+   "href": "#body"
+  },
+  {
+   "label": "El sistema",
+   "href": "/mx/el-sistema"
+  },
+  {
+   "label": "Su éxito",
+   "href": "/mx/su-exito"
+  },
+  {
+   "label": "Solutions",
+   "href": "/mx/solutions"
+  },
+  {
+   "label": "Productos",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Academia",
+   "href": "/mx/academia"
+  },
+  {
+   "label": "Eventos",
+   "href": "/mx/eventos"
+  },
+  {
+   "label": "Empresa",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Servicio",
+   "href": "/mx/empresa/contacto/persona-de-contacto"
+  },
+  {
+   "label": "Medios de comunicación",
+   "href": "/mx/empresa/medios-de-comunicacion"
+  },
+  {
+   "label": "Carrera profesional",
+   "href": "/mx/empresa/carrera-profesional"
+  },
+  {
+   "label": "Calculadora de rentabilidad",
+   "href": "/mx/calculadora-de-rentabilidad"
+  },
+  {
+   "label": "Persona de contacto",
+   "href": "/mx/empresa/contacto/persona-de-contacto"
+  },
+  {
+   "label": "Enviar correo electrónico",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "Servicio ZOLLER",
+   "href": "/mx/empresa/contacto/persona-de-contacto"
+  },
+  {
+   "label": "Actualizaciones de software",
+   "href": "/mx/actualizaciones-de-software"
+  },
+  {
+   "label": "Soporte en línea",
+   "href": "/mx/soporte-en-linea"
+  },
+  {
+   "label": "Áreas de negocio",
+   "href": "/mx/areas-de-negocio-1"
+  },
+  {
+   "label": "Suscripción al boletín informativo",
+   "href": "/mx/empresa/contacto/boletin-informativo"
+  },
+  {
+   "label": "Condiciones generales de compra",
+   "href": "/mx/condiciones-generales-de-compra"
+  },
+  {
+   "label": "Opciones de financiamiento",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollermexico"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/@zollerinc.4338"
+  },
+  {
+   "label": "Contacto",
+   "href": "/mx/empresa/contacto"
+  },
+  {
+   "label": "Protección de Datos",
+   "href": "/mx/proteccion-de-datos"
+  },
+  {
+   "label": "Exención de responsabilidad",
+   "href": "/mx/exencion-de-responsabilidad"
+  },
+  {
+   "label": "Aviso legal",
+   "href": "/mx/aviso-legal"
+  },
+  {
+   "label": "Ajustes de cookies",
+   "href": "#"
+  }
+ ]
+}

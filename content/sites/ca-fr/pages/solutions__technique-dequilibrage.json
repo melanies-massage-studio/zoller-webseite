@@ -1,0 +1,410 @@
+{
+ "path": "/solutions/technique-dequilibrage",
+ "url": "/ca-fr/solutions/technique-dequilibrage",
+ "title": "Technique d'équilibrage",
+ "description": "Technique d'équilibrage",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Technique d'équilibrage",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Technique d'équilibrage",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/wuchttechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/balancing-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/tecnologia-de-equilibrado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/technique-dimpact",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/tecnologia-de-equilibragem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tecnologia-per-la-bilanciatura-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/balanseringsteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/wuchttechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/balancing-technology",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/technique-dequilibrage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/balancing-technology",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/tecnologia-de-equilibrado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/tecnologia-de-equilibragem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/4/a/csm_header_balancing_029a95df55.webp",
+     "video": null,
+     "title": "Technique d'équilibrage",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c703",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>L'équilibrage des outils devrait faire partie des pratiques courantes. L'équilibrage permet de mieux maîtriser les risques, quel que soit le régime.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c705",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>De nombreux spécialistes de l'usinage de précision et de l'usinage par enlèvement de matière associent exclusivement l'équilibrage à des vitesses de rotation très élevées. Or, en réalité, tout outil rotatif présente un risque de déséquilibre. Les conséquences négatives peuvent être immédiates – ou n'entraîner, qu'après un certain temps, des coûts élevés et des arrêts de machine. </strong></p> <p>L'équilibrage permet d'améliorer la rentabilité, car il réduit l'usure des outils, source de coûts. Il prévient les pannes de machines coûteuses et diminue les réclamations liées à la qualité, qui font perdre beaucoup de temps. <br/>La gamme toolBalancer de ZOLLER propose une technologie d’équilibrage unique au monde. Ces appareils de conception nouvelle offrent de nombreuses innovations qui élèvent la précision, la sécurité, l’ergonomie et la facilité d’utilisation à un niveau de qualité jusqu’alors inégalé.</p> <p>Limitez les risques liés à la production. Avec ZOLLER – la technologie d’équilibrage la plus avancée du marché. </p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-dequilibrage/toolbalancer\">Voir les produits</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c706",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c704",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mesure précise grâce à un signal de capteur élevé </h2>",
+   "body": "<p>Le procédé de mesure constitue une particularité de chaque »toolBalancer«. ZOLLER utilise un adaptateur d'équilibrage spécial avec décalage central, appui en deux points et pièce de pression.</p> <p>Cette approche métrologique amplifie le signal du capteur et améliore ainsi la qualité de la mesure. Vous obtenez ainsi des résultats d'équilibrage d'une précision exceptionnelle. </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c707",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Ramenez le calme </h2>",
+   "body": "<p class=\"large-text\">Optimisez au maximum la douceur de fonctionnement grâce à des outils équilibrés. Vous réduisez ainsi les forces centrifuges dans les entraînements de vos machines CNC, évitez des interventions de maintenance inutiles et vous protégez contre les dommages au niveau des broches.</p> <p class=\"large-text\">Avec des résultats d'équilibrage inférieurs à 0,4 gmm, la technologie d'équilibrage de ZOLLER garantit en outre la productivité de vos machines. »toolBalancer« identifie même les déséquilibres les plus infimes, qui sollicitent fortement les broches ou les roulements et peuvent réduire la durée de vie des composants. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/8/csm_balancing_01_4186f932b3.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c708",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Une plus grande stabilité pendant les temps d'arrêt </h2>",
+   "body": "<p class=\"large-text\">Un équilibrage régulier grâce à la technologie de précision de ZOLLER permet de maintenir la durée de vie des outils à un niveau élevé et stable. Vous bénéficiez ainsi durablement d'une rentabilité accrue et d'un amortissement rapide de votre investissement. </p> <p class=\"large-text\">Si un outil rotatif présente ne serait-ce qu'un léger défaut de concentricité, des forces supplémentaires s'exercent sur l'arête de coupe. La durée de vie diminue, les coûts liés aux outils augmentent et les intervalles de remplacement des outils se raccourcissent. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_balancing_02_aaf3ff5460.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c709",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Des surfaces d'une qualité exceptionnelle </h2>",
+   "body": "<p class=\"large-text\">Éliminez les déséquilibres des outils et des meules, qui constituent un risque de perte de qualité. La technologie d'équilibrage de ZOLLER facilite l'obtention de surfaces qui convainquent même les secteurs les plus exigeants.</p> <p class=\"large-text\">Si les outils ne tournent pas de manière régulière, cela peut entraîner des défauts de qualité au niveau des surfaces. On soupçonne généralement les paramètres de coupe ou l'outil d'en être la cause. Or, avant même d'envisager la possibilité d'un déséquilibre, on a déjà gaspillé beaucoup de temps de fonctionnement de la machine, de matière première et de durée de vie de l'outil. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/8/csm_balancing_03_8d69d2b1ea.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c710",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Équilibre même les charges lourdes avec une grande précision",
+   "value": "30 kg",
+   "note": "Poids maximal de l'outil pour tous les modèles de la gamme d'appareils de mise en équilibre »toolBalancer«",
+   "ftype": "zoller_count-banner",
+   "id": "c711",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Technique d'équilibrage </h2>",
+   "items": [
+    {
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>Le système d'équilibrage alliant une technologie de pointe et un design ergonomique</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1640",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/5/csm_zoller_system_teaser_fr_442fdf1d03.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Démarrez par une solution – Entrez dans un système.",
+     "href": "/ca-fr/le-systeme",
+     "caption": "<figcaption> <h3>Démarrez par une solution – Entrez dans un système.</h3> <p>Nos clients bénéficient d'approches globales que nous développons depuis des décennies. Le résultat : une excellente efficacité. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/solutions/technique-dequilibrage",
+ "de_path": "/solutions/wuchttechnik"
+}

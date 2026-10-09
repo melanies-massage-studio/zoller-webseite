@@ -1,0 +1,372 @@
+{
+ "path": "/products/presetting-measuring/vertical-devices/venturion/info-pool",
+ "url": "/ca/products/presetting-measuring/vertical-devices/venturion/info-pool",
+ "title": "»»venturion«« – Info Pool",
+ "description": "Info Pool - »»venturion«« – Info Pool",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Presetting & Measuring /",
+   "href": "/ca/products/presetting-measuring"
+  },
+  {
+   "label": "Vertical Devices /",
+   "href": "/ca/products/presetting-measuring/vertical-devices"
+  },
+  {
+   "label": "»»venturion«« /",
+   "href": "/ca/products/presetting-measuring/vertical-devices/venturion"
+  },
+  {
+   "label": "Info Pool",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Presetting & Measuring /",
+   "href": "/ca/products/presetting-measuring"
+  },
+  {
+   "label": "Vertical Devices /",
+   "href": "/ca/products/presetting-measuring/vertical-devices"
+  },
+  {
+   "label": "»»venturion«« /",
+   "href": "/ca/products/presetting-measuring/vertical-devices/venturion"
+  },
+  {
+   "label": "Info Pool",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/einstellen-messen/vertikale-geraete/venturion/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/presetting-measuring/vertical-devices/venturion/info-hub",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/ajuste-y-medicion/dispositivos-verticales/venturion/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/reglage-et-mesure/appareils-verticals/venturion/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/regolazione-e-misurazione/strumenti-verticali/venturion/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/instaellning-och-maetning/vertikala-maskiner/venturion/informationsbank",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/einstellen-messen/vertikale-geraete/venturion/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/presetting-measuring/vertical-devices/venturion/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/venturion/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/presetting-measuring/vertical-devices/venturion/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ajuste-y-medicion/aparatos-verticales/venturion/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/painel-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»»venturion««",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/products/presetting-measuring/vertical-devices/venturion",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Models",
+     "href": "/ca/products/presetting-measuring/vertical-devices/venturion/models",
+     "current": false
+    },
+    {
+     "label": "Options & Accessories",
+     "href": "/ca/products/presetting-measuring/vertical-devices/venturion/options-accessories",
+     "current": false
+    },
+    {
+     "label": "Technical Specifications",
+     "href": "/ca/products/presetting-measuring/vertical-devices/venturion/technical-specifications",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/presetting-measuring/vertical-devices/venturion/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2206",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Info Pool </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c2239",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/venturion/Info-Pool/venturion_EN.pdf",
+     "name": "»venturion«",
+     "size": "5 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/9/f/csm_venturion_EN_89a3200149.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»venturion«"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_EN_07.pdf",
+     "name": "»wearCheck«",
+     "size": "366 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/8/csm_ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_EN_07_51d276b255.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»wearCheck«"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c2251",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Videos </h3>",
+   "body": "",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/SovcaQ1SEVo?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER »venturion 450« - Das Premium Einstell- und Messgerät für Werkzeuge aller Art"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/v94C7abnu8E?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Warum ist eine externe Werkzeugvoreinstellung mit ZOLLER wirtschaftlicher für Ihre Fertigung?"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2250",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Presetting & Measuring: Your Advantages",
+     "href": "/ca/solutions/presetting-measuring",
+     "caption": "<figcaption> <h3>Presetting &amp; Measuring: Your Advantages</h3> <p>Find out why presetting and measuring devices reduce time and costs. The effects are scalable and can result in high savings. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/products/presetting-measuring/vertical-devices/venturion/info-pool",
+ "de_path": "/produkte/einstellen-messen/vertikale-geraete/venturion/info-pool"
+}

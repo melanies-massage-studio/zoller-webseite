@@ -1,0 +1,566 @@
+{
+ "path": "/produits/technique-de-retraction/powershrink/faq",
+ "url": "/ca-fr/produits/technique-de-retraction/powershrink/faq",
+ "title": "»powerShrink« – FAQ",
+ "description": "FAQ - »powerShrink« – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "technique de rétraction /",
+   "href": "/ca-fr/produits/technique-de-retraction"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/ca-fr/produits/technique-de-retraction/powershrink"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "technique de rétraction /",
+   "href": "/ca-fr/produits/technique-de-retraction"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/ca-fr/produits/technique-de-retraction/powershrink"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/powershrink/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/powershrink/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/powershrink/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/powershrink/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/powershrink/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/powershrink/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/powershrink/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/powershrink/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/powershrink/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/powershrink/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/powershrink/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/powershrink/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»powerShrink«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Modèles",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/modeles",
+     "current": false
+    },
+    {
+     "label": "Applications",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/applications",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1201",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Foire aux questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1199",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "À quelle température le porte-outil est-il chauffé pendant le processus de rétraction ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Cela dépend de la géométrie du porte-outil, du diamètre de serrage et de la taille du cône. Alors que certains porte-outils standard présentent un angle de 4,5 degrés, les porte-outils élancés ont un angle de 3 degrés. Selon le type, la température utilisée pour le rétrécissement du support varie entre 150 °C et 350 °C.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1196",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quels types de matériaux de coupe peuvent être utilisés dans les mandrins à serrage par rétraction destinés au procédé de rétraction ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Acier, HSS, carbure, métaux lourds, poudres métalliques, rallonges pour mandrins à serrage par contraction.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1194",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quelle est la tolérance requise pour le diamètre de la tige de l'outil de coupe lors de l'utilisation d'un porte-outil à serrage par contraction ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La tolérance de la tige de l'outil de coupe doit être de h6 ou h5.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1192",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Est-il possible de surveiller la durée de vie du porte-outil et le nombre de cycles de rétraction de celui-ci ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Le ZOLLER »powerShrink« permet de surveiller les cycles de chauffage du porte-outil à l'aide d'un numéro d'identification unique, par exemple grâce à la technologie ZOLLER »idChip«. Chaque cycle est surveillé et enregistré dans le logiciel »pilot«.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1190",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quelles sont les durées minimale et maximale de chauffage ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Le temps de chauffage dépend de la géométrie du porte-outil et du diamètre de serrage. Pour les petits diamètres, il est de 2 à 3 secondes ; pour les grands diamètres, de 5 à 7 secondes.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1188",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quelles sont les durées minimale et maximale de refroidissement ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER propose deux types de systèmes de refroidissement : un système de refroidissement sans contact par air et des adaptateurs de refroidissement. En fonction du diamètre de l'outil, le temps de refroidissement avec les adaptateurs de refroidissement est compris entre 60 et 120 secondes. Dans le cas du refroidissement par air »Zstream«, le processus est appelé « conditionnement » : il consiste à refroidir l'ensemble du porte-outil, de la pointe jusqu'à la bride. La durée du conditionnement dépend ici du diamètre du porte-outil et est comprise entre 3 et 5 minutes.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1186",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "L'installation de l'appareil »powerShrink« nécessite-t-elle une pièce climatisée ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Il n'est pas nécessaire de disposer d'une pièce climatisée. L'appareil peut être installé dans une zone exempte de poussière du hall des machines.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1184",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Comment fonctionne le rétrécissement et quel processus se produit-il ici ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Le principe est simple. Chaque porte-outil à rétrécissement est fabriqué avec un diamètre intérieur légèrement inférieur au diamètre de la tige de l'outil de coupe. À l'aide d'un appareil à induction, la partie avant du porte-outil est rapidement chauffée afin d'agrandir le diamètre intérieur. À ce stade, l'outil de coupe peut être inséré dans le porte-outil. Le porte-outil est ensuite refroidi et son diamètre se rétrécit, ce qui exerce une force sur la tige de l'outil de coupe afin de le maintenir précisément en place.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1182",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Qu'est-ce que le refroidissement sans contact et le refroidissement par contact ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Lorsque les porte-outils sont serrés par contraction thermique sans contact direct, on parle de système de refroidissement sans contact. Cela s'effectue par exemple à l'aide d'adaptateurs de refroidissement ou d'un refroidissement à l'air.</p> <p>Lorsque les porte-outils sont refroidis à l'aide d'un liquide après avoir été chauffés, ce processus est appelé « trempe ». La durée de vie du porte-outil diminue et celui-ci rouille si l'on continue à l'utiliser en le mettant directement en contact avec des liquides. Le liquide de refroidissement s'encrasse rapidement et doit être remplacé, sinon il se dégrade, dégage une forte odeur et contient des substances nocives dangereuses pour la peau humaine.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1180",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Est-il possible d'utiliser la même machine de rétraction pour des diamètres standard compris entre 3 et 32 mm et pour des supports de rétraction à usage intensif destinés à des diamètres supérieurs à 32 mm ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Oui, c'est possible avec le ZOLLER »powerShrink 600«, sur lequel les bobines d'induction de 14 kVA et de 22 kVA peuvent être remplacées rapidement et facilement grâce à l'interface de changement rapide.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1178",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Est-il possible de régler la longueur totale de l'outil après le rétrécissement effectué avec la machine »powerShrink« ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Oui, grâce aux systèmes de réglage »eQset« et »liteSet«, il est possible de prérégler la longueur totale de l'outil sur »le« »powerShrink«.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1307",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1198",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1200",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technique de rétrécissement : ses avantages",
+     "href": "/ca-fr/solutions/technique-de-retraction",
+     "caption": "<figcaption> <h3>Technique de rétrécissement : ses avantages</h3> <p>Découvrez comment nous avons obtenu ces gains considérables en matière d'efficacité énergétique, de vitesse de traitement et d'ergonomie. Utilisez la perfection pour votre production. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/technique-de-retraction/powershrink/faq",
+ "de_path": "/produkte/schrumpftechnik/powershrink/faq"
+}

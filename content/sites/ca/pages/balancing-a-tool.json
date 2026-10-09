@@ -1,0 +1,436 @@
+{
+ "path": "/balancing-a-tool",
+ "url": "/ca/balancing-a-tool",
+ "title": "Balancing a tool",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Balancing a tool",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Balancing a tool",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "Balancing Tools Made Easy",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Unbalances in your tool quickly become a problem in several ways: They cause the tool to run out of round, put strain on the spindle and the machine, impair machining performance, and ultimately compromise the overall process reliability.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> What are the consequences of unbalance in the tool? </h2>",
+   "body": "<p>Tools that run unevenly cannot be used consistently with the precision you need for your work. The resulting vibrations not only reduce overall machining performance, but also cause defects on the workpieces—such as chatter marks—which may require rework. Unbalances in the tool thus lead to very tangible quality losses and are a hazard to the process reliability of your operations.</p> <p>Furthermore, these unbalances also reduce the lifetime of the spindle and possibly the machine—the costs associated with this quickly exceed the expenses incurred by balancing the tools more frequently.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> What does \"unbalance\" mean? </h2>",
+   "body": "<p>The term “unbalance” describes the ubiquitous phenomenon in rotating bodies whereby their mass is not distributed symmetrically about the body’s axis of rotation. There are essentially three types of unbalance:</p><ul><li>Static unbalance: Here, the center of gravity of the rotating body lies outside the axis of rotation. This can already be measured when the body is at rest.</li><li>Original unbalance: The center of gravity lies on the axis of rotation; the unbalance becomes measurable only when the object is in rotational motion.</li><li>Dynamic unbalance: The term “dynamic unbalance” encompasses the other two forms of unbalance, in any combination of static unbalance and original unbalance. This is the norm for technical rotors.</li></ul><p>Each specific form of unbalance can be corrected by adjusting the rotating body in an appropriate manner.</p> <p>During rotation, an unbalance becomes more noticeable the greater the unbalance is (linear increase) and the faster the rotational movement is (quadratic increase). The faster the rotational movement, the more important balancing becomes, and the more important it is to reduce the residual unbalance as much as possible. Balancing should therefore be systematically incorporated into the work process.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> What causes unbalances in tooling operations? </h2>",
+   "body": "<p>In rotating tooling systems, unbalance is a well-known and regular phenomenon. There are various possible options for its occurrence, for example:</p><ul><li>A tool consisting of several individual parts was not fitted correctly—for example, if the tool holder and the tool are not exactly aligned and there is a deviation from the axis of rotation.</li><li>The mass distribution of the tool was already asymmetrical during manufacturing—in this case, the manufacturer’s production tolerances must be taken into account and verified if necessary.</li><li>The rotor itself or the tool holder is asymmetrical due to its design (e.g., a clamping screw in a milling adapter [Weldon for holding]).</li></ul><p>Even with finely balanced tool holders, an unbalance can arise again due to the combination of the holders with the specific tool. It is very important to measure this unbalance and correct it if necessary.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Why is balancing tools so important? </h2>",
+   "body": "<p>During high-speed machining of workpieces with rotating tool systems, even the slightest inaccuracy or defect in precision can, under certain circumstances, become apparent very quickly and very clearly. An unbalance in the tool can cause vibrations and will certainly result in erratic operation.</p> <p>Both of these factors impair the tool’s machining accuracy and always increase the risk of defects and damage to the workpiece: surface finish deteriorates, and scrap may result. However, since your processes heavily depend on producing correctly machined end results, tools that are not precisely balanced are necessary for more extensive quality controls. Rework may also be required, and in any case, process reliability cannot be guaranteed.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Failure to balance your tires costs you money </h2>",
+   "body": "<p>This can result in delays in the manufacturing process, which in turn directly have an effect on your ability to deliver the ordered quantity on time and in the necessary quality.</p> <p>Added to this is the circumstance that tools that run unevenly can reduce the lifetime of the turning spindle—particularly due to vibrations—which is another cost factor that should not be underestimated.</p> <p>A balanced tool is therefore good for both the workpieces and the machines.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Rule of thumb: You'll often balance it, but rarely regret it! </h2>",
+   "body": "<p><strong>As a rule of thumb, therefore:</strong> <strong>It’s</strong> better to balance tools early and often than to end up paying the costs later. In general, a tool should be rebalanced whenever it is used at a different speed—because even this change can cause significant differences in how smoothly it runs.</p> <p>Regular balancing increases productivity and the quality of your work.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Balancing Tools: How Do You Do It? </h2>",
+   "body": "<p>In general, there are three options to correct or eliminate an unbalance:</p><ul><li>Add mass in a targeted manner (e.g., using additional weights)</li><li>Remove mass (e.g., by drilling hole or grinding)</li><li>Redistribute mass (e.g., using suitable rotating rings)</li></ul><p>To simplify the process specifically for tools and ensure it is carried out precisely, we recommend using a balancing machine with appropriate software. First, the tool is used in a balancing spindle and set in rotation to measure the centrifugal forces that occur.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Automatic Unbalance Compensation </h2>",
+   "body": "<p>The balancing system then uses this measurement data to calculate the required correction for the imbalance. With an advanced balancing machine, the necessary adjustments can be implemented immediately; fine balancing continues until no residual unbalance is measurable or all values fall within an acceptable tolerance range.</p> <p>In this way, the process of balancing does not even take especially long, and the unevenly distributed mass can be quickly corrected.</p> <p>A high-precision and largely automatic balancing system is also useful because it provides the option of repeated, quick and efficient rebalancing of tools with every changeover. This prevents quality losses caused by changes in requirements, speed, or materials, without compromising work speed.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Efficient Balancing with the ZOLLER »toolBalancer« </h3>",
+      "body": "<p>Precision-balanced tools, even for high-speed applications: The ZOLLER »toolBalancer« is the perfect balancing system for this. With its modular design, it can not only be adjusted to meet your specialized requirements, but also offers ample flexibility for future developments.</p> <p>This high-precision balancing system is suitable for tool holders, grinding wheels, and rotors, and guarantees measurably lower scrap rates, machine downtime, production costs, and delivery times.</p> <h3><br/>The benefits at a glance:</h3><ul><li><strong>Less wear</strong> and tear and higher machining performance thanks to highly precise balanced tools</li><li>The<strong> modular design</strong> allows for adjusting the system to meet specific requirements</li><li>The system’s <strong>intuitive operation</strong> avoids unnecessary and costly errors</li><li><strong>Convenient operation</strong> via touchscreen, keyboard, and mouse</li></ul><p><a class=\"btn\" href=\"/ca/products/tool-balancing-technology/toolbalancer\">Learn all about the options of the ZOLLER »toolBalancer«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Balancing Technology: Your advantages",
+     "href": "/ca/solutions/tool-balancing-technology",
+     "caption": "<figcaption> <h3>Tool Balancing Technology: Your advantages</h3> <p>Balancing is underestimated. Yet balancing leads to greater efficiency because it reduces costly tool wear and relieves the load on machine spindles. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/balancing-a-tool",
+ "de_path": "/werkzeug-auswuchten"
+}

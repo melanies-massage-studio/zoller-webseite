@@ -1,0 +1,526 @@
+{
+ "path": "/productos/tecnologia-de-balanceo/toolbalancer/centro-de-informacion",
+ "url": "/mx/productos/tecnologia-de-balanceo/toolbalancer/centro-de-informacion",
+ "title": "»toolBalancer« – Base de datos informativa",
+ "description": "Centro de información - »toolBalancer« – Base de datos informativa",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Tecnología De Balanceo /",
+   "href": "/mx/productos/tecnologia-de-balanceo"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer"
+  },
+  {
+   "label": "Centro de información",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Tecnología De Balanceo /",
+   "href": "/mx/productos/tecnologia-de-balanceo"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer"
+  },
+  {
+   "label": "Centro de información",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer/info-hub",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer/informationsbank",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer/painel-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Aplicaciones",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/aplicaciones",
+     "current": false
+    },
+    {
+     "label": "Opciones y accesorios",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/opciones-y-accesorios",
+     "current": false
+    },
+    {
+     "label": "Datos técnicos",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/datos-tecnicos",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1044",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Centro de información </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c1043",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Folletos </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/toolBalancer/05_info-pool/ZOLLER_Broschuere_toolBalancer_BRTOBA-00_ES.pdf",
+     "name": "»toolBalancer«",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/a/b/csm_ZOLLER_Broschuere_toolBalancer_BRTOBA-00_ES_a3fa3fb97a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»toolBalancer«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/toolBalancer/05_info-pool/Tb_toolbalancer_tbtol.01-en_web.pdf",
+     "name": "Technical Description »toolBalancer«",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/0/1/csm_Tb_toolbalancer_tbtol.01-en_web_15a1d1882c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Technical Description »toolBalancer«"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_ES.pdf",
+     "name": "Fabricación inteligente",
+     "size": "806 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/7/c/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_ES_815d295f1b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Fabricación inteligente"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Messtechnik/ZOLLER_Flyer_Messtechnik_4_0_FLMETE4_00_ES_07.pdf",
+     "name": "Tecnología de medición 4.0",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/f/csm_ZOLLER_Flyer_Messtechnik_4_0_FLMETE4_00_ES_07_b3ac1bf764.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tecnología de medición 4.0"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/toolBalancer/05_info-pool/CB_095184_0044_REV._00.pdf",
+     "name": "Certificado IEC »toolBalancer«",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/1/5/csm_CB_095184_0044_REV._00_e1e36de1da.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Certificado IEC »toolBalancer«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/toolBalancer/05_info-pool/U8_095184_0036_REV._01.pdf",
+     "name": "»Herramienta« de certificación Balancer",
+     "size": "975 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/e/2/csm_U8_095184_0036_REV._01_fddb5331a2.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»Herramienta« de certificación Balancer"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c1042",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Videos </h3>",
+   "body": "<p><strong>Producto / Presentación</strong></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/X8HApiXk_2s?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Tecnología de equilibrado ZOLLER - Presentación de dispositivos"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/jFHMzfPlotQ?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Selección de dispositivos"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/alj5JyvD8jY?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Economía y precisión - Respeto al medioambiente y sostenibilidad"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1041",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><strong>Funciones / Aplicaciones</strong></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/6FjkyxQWF-M?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Software de control ZOLLER"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/YWvp44yl5QY?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Una instrucción de seguridad muy importante"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/MG4ZPutr07c?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Proceso de cambio de adaptador ergonómico y seguro"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/DmaG1prKics?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Corrección rápida del desequilibrio mediante un diagrama de proceso guiado"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/S5XlxowUjq8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Ahorro de costes gracias a la calibración permanente"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/ae1P3wdPBfw?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Adaptador de equilibrado ZOLLER"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/OJsJhXquNX0?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Precisión de la tecnología de equilibrado ZOLLER"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/LSZpftEayLQ?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Ranura para la horquilla"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/EtpfEMo9FYk?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Armario de control ZOLLER"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/kridRM883A0?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Otros accesorios"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/YIwpEawiFpI?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Revestimiento del aparato y alojamiento"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/sbF1n1T7pR4?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "«cockpit» ZOLLER"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/c9XeQ2UDhXo?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Compartimento de adaptador ergonómico"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/go_DLpv6e2I?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Teclado de membrana ZOLLER"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iA0YuimnSnw?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Adaptador de equilibrado universal ZOLLER"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/N9AYhhg-2jE?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Husillo de alta precisión ZOLLER"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/ctfth1gkWRs?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Interior del dispositivo"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/5v9RaqVPNB0?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»toolBalancer«: Amplia área de trabajo con accesibilidad de 180°"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/AmMKbatH85k?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Cubierta de seguridad »twinPanel«"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1053",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Técnica de impacto: sus ventajas",
+     "href": "/mx/solutions/tecnologia-de-equilibrado",
+     "caption": "<figcaption> <h3>Técnica de impacto: sus ventajas</h3> <p>El equilibrado se subestima. Sin embargo, el equilibrado aumenta la rentabilidad, ya que reduce el desgaste de herramienta, que genera costos, y alivia la carga de los husillos de las máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/tecnologia-de-balanceo/toolbalancer/centro-de-informacion",
+ "de_path": "/produkte/wuchttechnik/toolbalancer/info-pool"
+}

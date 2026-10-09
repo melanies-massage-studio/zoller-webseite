@@ -1,0 +1,447 @@
+{
+ "path": "/gestion-de-herramientas",
+ "url": "/mx/gestion-de-herramientas",
+ "title": "Gestión de herramientas",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Gestión de herramientas",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Gestión de herramientas",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/tool-management",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/gestione-degli-strumenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/b/csm_toolmanagement_header_ab8ef9c82c.webp",
+     "video": null,
+     "title": "Gestión de herramientas: más que solo administración de herramientas",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8115",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">La gestión actual de herramientas tiene numerosos aspectos: se trata de la gestión de datos, almacenamiento, transporte y pedido de herramientas junto con sus piezas, pero sobre todo se trata de una cosa: procesos de trabajo efectivos y mejores.</p> <p class=\"extra-large-text\">Con un buen sistema de gestión, tendrá todas las fases del ciclo de vida de sus herramientas bajo control y podrá determinar usted mismo el nivel de detalle y complejidad con el que desea mantener la visión general.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8116",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Administración de herramientas|gestión de herramientas: almacenamiento, planificación, control </h2>",
+   "body": "<p>La administración de herramientas|gestión de herramientas consiste, por ejemplo, en registrar y administrar de forma centralizada todas las herramientas y sus componentes. De este modo, no solo obtendrá y mantendrá una visión general de sus herramientas y componentes, sino que también podrá optimizar su almacenamiento, planificar y controlar el uso de las herramientas, y realizar pedidos de nuevas herramientas y componentes justo a tiempo, en el momento adecuado.</p> <p>Con el software adecuado, obtendrá una transparencia total sobre cómo y dónde se utilizan sus herramientas, y esto a lo largo de toda la cadena de procesos. Esto también significa un mejor control de los costos, procesos de trabajo optimizados y un uso más efectivo de sus herramientas.</p> <p>La gestión de herramientas también significa que todos los datos de herramientas se administran de forma centralizada y, en el mejor de los casos, se transfieren directamente a sus sistemas CAM a través de interfaces adecuadas. Esto simplifica y acorta el proceso de preparación, y hace que la configuración de sus herramientas sea más rápida y confiable.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8117",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Software de gestión de herramientas que se adapta a sus necesidades </h2>",
+      "body": "<p>El software modular TMS Tool Management Solutions de ZOLLER ofrece todas las funciones e interfaces que puede esperar de un software moderno para la administración de herramientas|gestión de herramientas.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8119",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Perfectamente organizado",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Registre todos los componentes individuales, herramientas completas y hojas de ajuste en una base de datos centralizada.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8122",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Interfaces sin pérdidas",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Gracias a sus numerosas interfaces, puede conectar el ZOLLER-TMS a sus sistemas CAM: la transmisión digital sin errores de los datos de herramientas ahorra tiempo, preocupaciones y dinero.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8124",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Gestión de almacén",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Cada pieza yace en su lugar: con ZOLLER-TMS siempre sabrá dónde se encuentran sus componentes y herramientas. Al mismo tiempo, podrá controlar de manera eficiente su inventario.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8126",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Monitoreo de herramientas",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Reúna el control de calidad y el análisis de desgaste en un solo lugar, controle el uso de sus herramientas y genere estadísticas sobre pedidos individuales y sus costos.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8128",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Transparencia y eficacia",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Conecte su gestión|administración con los procesos de pedido para realizar siempre los pedidos que necesita en el momento exacto. Identifique los problemas en el proceso de fabricación y garantice que todo funcione sin contratiempos.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8130",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8120",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8118",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> El software de gestión de herramientas como componente central de la administración de herramientas </h2>",
+   "body": "<p>Hoy en día, la logística moderna de herramientas es en realidad impensable sin un programa de administración correspondiente. Con un programa correspondiente, se asegura el suministro de herramientas para cada operación y la tediosa búsqueda de herramientas pasa a ser cosa del pasado. En su lista de herramientas se indica dónde se encuentra cada pieza y, si lo desea, puede utilizar armarios de almacenamiento inteligentes para asegurarse de que todo esté en su lugar.</p> <h3>Datos de herramientas siempre disponibles</h3> <p>Pero la gestión de herramientas es mucho más que el simple almacenamiento de herramientas: el sistema siempre tiene a mano los datos de herramientas y los ajustes preestablecidos adecuados de las herramientas y permite una transmisión rápida y sin errores a sus sistemas de herramientas o al dispositivo de preajuste. Esto evita errores, reduce los desechos y acelera los procesos de trabajo.</p> <p>Ya se trate del uso de herramientas de corte (normalmente siempre hablamos de «herramientas de corte», pero si «herramientas de mecanizado» es mejor desde el punto de vista del SEO, también puede utilizar este término) o de aparatos de una clase de herramienta completamente diferente: Seguramente aún hay margen de mejora en su logística, hay posibilidades de optimización, tal vez en la distribución de herramientas, en el sistema de almacenamiento o en el uso de la base de datos de herramientas.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8131",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestión de herramientas: sus ventajas",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "caption": "<figcaption> <h3>Gestión de herramientas: sus ventajas</h3> <p>Descubra cómo la gestión de herramientas de ZOLLER aumenta su productividad inmediatamente. Con los datos de herramientas, los procesos se ejecutan de forma más rápida y segura, incluyendo protección contra colisiones para sus máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/gestion-de-herramientas",
+ "de_path": "/tool-management"
+}

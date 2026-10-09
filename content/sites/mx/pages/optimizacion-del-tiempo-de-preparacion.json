@@ -1,0 +1,536 @@
+{
+ "path": "/optimizacion-del-tiempo-de-preparacion",
+ "url": "/mx/optimizacion-del-tiempo-de-preparacion",
+ "title": "Optimización del tiempo de preparación",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Optimización del tiempo de preparación",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Optimización del tiempo de preparación",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ruestzeitoptimierung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/setup-time-optimization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/optimisation-du-temps-de-preparation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/ottimizzazione-dei-tempi-di-attrezzaggio",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/optimering-av-foerberedelsetiden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ruestzeitoptimierung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/setup-time-optimization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/optimisation-des-temps-de-preparation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%BA%96%E5%82%99%E6%99%82%E9%96%93%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A4%80%EB%B9%84-%EC%8B%9C%EA%B0%84-%EC%B5%9C%EC%A0%81%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/setup-time-optimization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_ruesten_header_8622b0d406.webp",
+     "video": null,
+     "title": "¿Por qué optimizar el tiempo de preparación?",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8076",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Hoy en día, casi ninguna máquina o equipo fabrica un solo producto; por lo general, se ajustan a productos diferentes según las necesidades. Esto da lugar a tiempos de preparación durante los cuales la máquina no produce nada.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8048",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Qué significa «tiempo de preparación»? </h2>",
+   "body": "<p>El tiempo de preparación es el periodo de tiempo que se tarda en cambiar la máquina o el equipo de la fabricación de un producto a otro. Si, por ejemplo, se fabrican productos unitarios, la definición de tiempo de preparación es: el tiempo que transcurre desde la última pieza del lote anterior hasta la primera pieza del nuevo lote.</p> <p>Por lo tanto, el tiempo de preparación no es en realidad un «desperdicio», pero, dado que implica, al menos en parte, tiempos de inactividad de la máquina, es evidente que unos tiempos de preparación más largos reducen la productividad y la eficacia de sus instalaciones de producción.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8049",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> ¿Cómo optimizo el tiempo de preparación? </h2>",
+      "body": "<p>Optimizar el tiempo de preparación significa, sobre todo, minimizarlo. Existen diferentes enfoques para alcanzar este objetivo.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8051",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Analizar los procesos de equipamiento",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Cualquier proceso de mejora para reducir el tiempo de preparación debe ir precedido de un análisis de los procesos de preparación: ¿qué pasos son necesarios? ¿Cuáles se están realizando actualmente y cuánto tiempo se necesita para ello? ¿En qué orden se llevan a cabo los pasos? ¿Se puede modificar este orden? ¿Qué pasos son realmente necesarios y cuáles se pueden optimizar?</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Optimizar los tamaños de lote",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Un análisis exhaustivo también debe incluir la siguiente pregunta: ¿es posible reacondicionar los equipos con menos frecuencia, es decir, reducir el número de cambios de producto? Por supuesto, los procesos de reequipamiento menos frecuentes también requieren menos tiempo y, por lo tanto, ahorran dinero. Al mismo tiempo, los costos ahorrados deben sopesarse claramente con el deseo de mantener el almacenamiento al mínimo, es decir, no provocar un exceso de producción de mercancías. Y, por supuesto, en todo esto, la utilización de la planta debe seguir siendo lo más alta posible.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Equipamiento externo",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>En el marco del tiempo de preparación, se distingue entre la preparación externa (actividades que también son posibles con el equipo en funcionamiento) y la preparación interna (para la cual el equipo debe estar parado). En este caso, naturalmente, le conviene que la preparación interna, que obliga a reducir la productividad, sea lo más corta posible.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8058",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Digitalización y automatización",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Con las máquinas modernas, la digitalización y automatización exhaustivas de los procesos de preparación son medidas decisivas. Los aparatos de preajuste de herramientas, por ejemplo, pueden determinar de antemano los datos necesarios para una máquina herramienta CNC, es decir, medir las herramientas y realizar directamente los ajustes correctos.De esta manera, el tiempo de preparación interno se reduce drásticamente y, además, la transmisión electrónica de datos evita errores en la transferencia.</p> <p>Dado que la medición externa puede realizarse en el aparato de ajuste y medición mientras la máquina sigue procesando otra tarea, se ahorra aún más tiempo: tan pronto como la máquina está lista, las herramientas pueden insertarse directamente. No es necesario prolongar innecesariamente la parada de la máquina para la medición láser.</p> <p><a class=\"btn\" href=\"/mx/productos/ajuste-y-medicion\"><strong>Medir las herramientas y realizar directamente los ajustes correctos</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Formación",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>En todas las actividades de preparación, ya sean manuales o electrónicas, externas o internas, nada supera a unos trabajadores de preparación bien formados. Si los empleados reciben una buena formación en talleres de preparación y en máquinas de entrenamiento, se cometen menos errores y se detectan las dificultades a tiempo, antes de que se produzcan pérdidas de productividad.</p> <p><a class=\"btn\" href=\"/mx/empresa/contacto/capacitacion-y-formacion\">Acerca de los cursos de formación de ZOLLER</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8062",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8052",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8050",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> ¿Cuáles son las ventajas de optimizar el tiempo de preparación? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8064",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Mayor eficiencia y productividad",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Cuanto más cortos sean los tiempos de preparación y menor sea su proporción en el tiempo de trabajo de los empleados, más tiempo podrán dedicar las máquinas a lo que en realidad deben hacer: producir. De este modo, aumentará considerablemente la productividad total de sus procesos.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8075",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Reducción de costos",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Los tiempos de preparación más cortos también reducen sus costos, no solo gracias a una mayor eficiencia, sino también a la optimización de todos los procesos interrelacionados.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8073",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Estandarización",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Un análisis exhaustivo de los tiempos de preparación y de los pasos de trabajo necesarios permite estandarizar los procesos más allá de cada equipo individual. Esto, a su vez, se puede traducir en directrices y materiales de capacitación más claros para sus empleados. Esto proporciona a los empleados una orientación y seguridad adicionales, y también facilita la transición a equipos con los que los empleados aún no están tan familiarizados.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8071",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8065",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8063",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/4/csm_zoller_system_teaser_es_85acaf2d2a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Inicie con una solución, ingrese a un sistema.",
+     "href": "/mx/el-sistema",
+     "caption": "<figcaption> <h3>Inicie con una solución, ingrese a un sistema.</h3> <p>Nuestros clientes se benefician de soluciones integrales que hemos estado desarrollando durante décadas. El resultado: una eficiencia excelente. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/optimizacion-del-tiempo-de-preparacion",
+ "de_path": "/ruestzeitoptimierung"
+}

@@ -1,0 +1,469 @@
+{
+ "path": "/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/gold-gestion-del-piso-de-planta",
+ "url": "/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/gold-gestion-del-piso-de-planta",
+ "title": "GOLD Gestión del piso de planta",
+ "description": "GOLD Gestión del piso de planta",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "GOLD Gestión del piso de planta",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "GOLD Gestión del piso de planta",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/gold-shopfloormanagement",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/gold-gestion-del-taller",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/gold-gestion-de-latelier",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/gold-gestao-do-chao-de-fabrica",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/tms-tool-management-solutions/pacchetti-software/gold-gestione-dellarea-vendita",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/tms-verktygshanteringsloesningar/programvarupaket/gold-butikschefsarbete",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/gold-shopfloormanagement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-floor-management",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/gold-gestion-des-magasins",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/tms-%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8/gold-%E5%BA%97%E8%88%97%E9%81%8B%E5%96%B6%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/tms-%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%80/gold-%EB%A7%A4%EC%9E%A5-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-floor-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/gold-gestion-del-piso-de-planta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/gold-gestao-do-chao-de-fabrica",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "STARTER Gestión de almacén",
+     "href": "/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/starter-gestion-de-almacen",
+     "current": false
+    },
+    {
+     "label": "Módulo CAD/CAM BRONZE",
+     "href": "/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/modulo-cad/cam-bronze",
+     "current": false
+    },
+    {
+     "label": "Organización operativa de SILVER",
+     "href": "/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/organizacion-operativa-de-silver",
+     "current": false
+    },
+    {
+     "label": "GOLD Gestión del piso de planta",
+     "href": "/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/gold-gestion-del-piso-de-planta",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3809",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> GOLD: para datos de herramientas, procesos e indicadores clave </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3820",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>El paquete GOLD de ZOLLER maximiza la eficiencia de su gestión de datos de herramientas. Obtendrá un control total de los costos y transparencia en su gestión de herramientas a lo largo de toda la cadena de procesos. Con estadísticas sobre herramientas y pedidos individuales, podrá controlar sus costos, evaluarlos y, de este modo, tomar siempre las decisiones correctas.</p><ul><li>Organización completa de los datos de herramientas</li><li>Control total de los costos, transparencia y eficiencia</li><li>Gestión sistemática de los órdenes de fabricación y las hojas de ajuste</li><li>Gestión integrada de la vida útil</li><li>Integración opcional en el sistema de pedidos, incluida la gestión de proveedores</li><li>Procesos fluidos en la cadena de producción</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3821",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3819",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h3> Módulos de software Paquete GOLD </h3>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/0/1/csm_Teileverwaltung_ca5997e19c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "gestión parcial Módulo de software «Gestión parcial de piezas» para una visión general de forma óptima de sus piezas y productos.",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_Teileverwaltung_ca5997e19c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>gestión parcial</h4> <p>El módulo de software Gestión parcial le ofrece una visión general de forma óptima de sus piezas y productos. Puede administrar sistemáticamente piezas individuales y componentes y documentarlos junto con las hojas de ajuste y las herramientas necesarias. Además, el módulo ofrece información posterior, como los tiempos de fabricación y el inventario actual de las herramientas necesarias.</p> <p><strong>Características:</strong></p><ul><li>Una base de datos centralizada para todos los datos de las piezas</li><li>Transparencia sobre los pasos de fabricación y las herramientas necesarias</li><li>Sencillo almacenamiento de datos</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/a/b/csm_bestellwesen_5bd977529b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "pedidos Para un sistema de pedidos práctico y confiable",
+     "img": {
+      "src": "/fileadmin/_processed_/a/b/csm_bestellwesen_5bd977529b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>pedidos</h4> <p>Con este módulo de software, se beneficiará de un sistema de pedidos práctico y fiable. Solicite solo los artículos que realmente se necesitan en la producción. Al optimizar los procesos de compra, reducirá sus costos de almacenamiento y evitará tiempos de inactividad por falta de artículos. De este modo, reducirá sus costos de herramientas y pedidos. Al enlazar la gestión de pedidos y la gestión de almacén, es posible analizar automáticamente el descenso de stock mínimo y generar propuestas de pedidos completamente automáticas.</p> <p><strong>Características:</strong></p><ul><li>Ejecución segura para el proceso de ejecución de pedidos basada en el stock mínimo o en la solicitud de pedido</li><li>Generación automatizada de solicitudes de pedido</li><li>Ahorro de tiempo y costes gracias a una organización optimizada y a la transparencia</li><li>Contabilización automática de la entrega en el centro de coste correspondiente</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/a/2/csm_auftragsverwaltung_3a2c872b5a.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "administración de pedidos La gestión de pedidos ofrece una visión general de todas las etapas de su pedido.",
+     "img": {
+      "src": "/fileadmin/_processed_/a/2/csm_auftragsverwaltung_3a2c872b5a.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Gestión de pedidos</h4> <p>Se representa todo el proceso de fabricación, desde la creación del pedido, el almacén y la preparación de herramientas, el ajuste y la medición, hasta la producción.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/6/csm_Statistik_eaac7ff788.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "módulo de estadísticas Para la evaluación gráfica y la gestión|administración de valores de medición y conjuntos de datos.",
+     "img": {
+      "src": "/fileadmin/_processed_/c/6/csm_Statistik_eaac7ff788.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Módulo de estadísticas</h4> <p>Este módulo de software se puede insertar de múltiples maneras para la evaluación gráfica y la gestión|administración de valores de medición y conjuntos de datos en un periodo de tiempo libremente seleccionable. Las estadísticas completas de medición de una herramienta se representan en una vista en árbol general e informativa.<br/>Los comprobantes de utilización de cada herramienta se asignan automáticamente en el sistema. De este modo, puede comprobar en cualquier momento los ámbitos de aplicación de las herramientas. Una lista de éxitos y fracasos permite analizar los registros del almacén y las entradas de mercancías en relación con los costos y los usos, lo que permite un análisis preciso y la optimización del inventario de herramientas.</p> <p><strong>Características:</strong></p><ul><li>Rápida visión general de los valores de medición y los procesos de medición</li><li>Verificabilidad del uso de las herramientas</li><li>Apoyo al control de calidad en el proceso de fabricación</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/c/csm_Standzeitverwaltung_54a8875f5b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "gestión de la vida útil Para la gestión de la vida útil con función estadística integrada (por ejemplo, supervisar las herramientas de forma óptima y asignar los motivos del cambio de herramientas).",
+     "img": {
+      "src": "/fileadmin/_processed_/c/c/csm_Standzeitverwaltung_54a8875f5b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>gestión de la vida útil</h4> <p>Con este módulo de software para la gestión de la vida útil con función estadística integrada, puede supervisar de forma óptima sus herramientas y asignar los motivos del recambio. También es posible realizar una configuración específica del proceso para aprovechar al máximo el tiempo de funcionamiento de la máquina. En la función estadística, la vida útil y los motivos del recambio de cada nivel de herramienta se representan de forma gráfica y se protocolizan de forma clara para obtener una vista general rápida.</p> <p><strong>Características:</strong></p><ul><li>Aprovechamiento de forma óptima del tiempo de funcionamiento de la máquina</li><li>Prevención de costosos desechos</li><li>Control total de la vida útil y de los costos</li><li>Aprovechamiento de las herramientas de forma óptima</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/f/csm_flash_004b4e5e3a.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Monitoreo de la vida útil »flash« (opcional) El software de análisis »flash« permite una administración efectiva de las herramientas y una organización económica de las herramientas de corte.",
+     "img": {
+      "src": "/fileadmin/_processed_/d/f/csm_flash_004b4e5e3a.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Monitoreo de la vida útil »flash« (opcional)</h4> <p>El software de análisis »flash« de ZOLLER permite una administración efectiva de las herramientas y una organización económica de las herramientas de corte. Mediante la comunicación con la máquina CNC, »flash« comprueba de forma regular y completamente automática la vida útil actual de las herramientas y marca su estado con colores. De este modo, las herramientas que deben renovarse debido a su vida útil pueden prepararse, montarse y preajustarse con antelación. Esto evita pérdidas de calidad, roturas de herramientas y paradas de la máquina.</p> <p><strong>Características:</strong></p><ul><li>Aprovechamiento completo del potencial de las herramientas hasta alcanzar el límite de vida útil</li><li>Sin paradas de la máquina y ahorro de tiempo gracias al cambio de herramientas «justo a tiempo».</li><li>Enorme ahorro de costos en relación con la variable «herramienta».</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/7/csm_gold_08_1d2b71da75.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Proceso de reafilado Para una gestión transparente de los procesos de reafilado",
+     "img": {
+      "src": "/fileadmin/_processed_/5/7/csm_gold_08_1d2b71da75.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Proceso de reafilado</h4> <p>Esta función del software amplía la función de almacenamiento de las soluciones TMS Tool Management Solutions de ZOLLER con el Proceso de reafilado de sus herramientas almacenadas. Aproveche las ventajas de una gestión transparente de los procesos de reafilado: se pueden imprimir albaranes y pedidos, y la interacción con el sistema de pedidos y el almacén garantiza un proceso continuo.</p> <p><strong>Características:</strong></p><ul><li>Transparencia en todo el ciclo de reafilado de herramientas</li><li>Registro de los costos de reafilado</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/0/1/csm_gold_09_c97bfc8f18.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Costo por pieza (opcional) Con este módulo, con un solo clic tendrá una vista general de la vida útil de sus herramientas, los motivos del recambio y los costos por pieza.",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_gold_09_c97bfc8f18.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Costo por pieza (opcional)</h4> <p>El análisis del CPP permite comparar los costos presupuestados y los reales por pieza y, mediante el análisis de la vida útil y los motivos del recambio, obtener información sobre la calidad de las herramientas y los procesos. El módulo CPP determina dos parámetros diferentes: el CPP presupuestado se compara con el CPP real. En el cálculo se tienen en cuenta las definiciones de la vida útil y las cantidades de las herramientas, así como los precios de compra, la cantidad y los costos de los procesos de reafilado.</p> <p><strong>Ventaja:</strong></p><ul><li>control total de los costos, transparencia y eficiencia.</li></ul>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c3825",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/mx/empresa/contacto\">Solicitar ahora</a> Comparar paquetes</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3828",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestión de herramientas: sus ventajas",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "caption": "<figcaption> <h3>Gestión de herramientas: sus ventajas</h3> <p>Descubra cómo la gestión de herramientas de ZOLLER aumenta su productividad inmediatamente. Con los datos de herramientas, los procesos se ejecutan de forma más rápida y segura, incluyendo protección contra colisiones para sus máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/gold-gestion-del-piso-de-planta",
+ "de_path": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/gold-shopfloormanagement"
+}

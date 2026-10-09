@@ -1,0 +1,406 @@
+{
+ "path": "/produits/gestion-des-outils/tms-tool-management-solutions/webtms/faq",
+ "url": "/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/webtms/faq",
+ "title": "webTMS – FAQ",
+ "description": "FAQ - webTMS – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/ca-fr/produits/gestion-des-outils"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/ca-fr/produits/gestion-des-outils"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/tms-tool-management-solutions/webtms/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tms-tool-management-solutions/webtms/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/tms-tool-management-solutions/webtms/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/tms-tool-management-solutions/webtms/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/tms-tool-management-solutions/webtms/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/tms-tool-management-solutions/webtms/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/tms-verktygshanteringsloesningar/webtms/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/tms-tool-management-solutions/webtms/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tms-tool-management-solutions/webtms/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/webtms/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/tms-%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/webtms/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/tms-%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/webtms/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tms-tool-management-solutions/webtms/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/webtms/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/tms-tool-management-solutions/webtms/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/webtms/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/webtms/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3796",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p class=\"large-text\">Foire aux questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3794",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Qu'est-ce que webTMS ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER webTMS Tool Management Solutions est la version Web de l'application de bureau TMS, qui peut être utilisée sur différents appareils. webTMS ayant été entièrement repensé, tous les modules et toutes les fonctionnalités de la version de bureau de TMS ne sont pas encore disponibles.</p> <p>Avantages d'une application Web : aucune installation n'est nécessaire sur les appareils. Tout appareil doté d'un navigateur (PC, smartphone, tablette, ordinateur portable, etc.) peut accéder immédiatement à webTMS. L'installation, la configuration et la maintenance s'effectuent uniquement sur l'appareil hôte, ce qui réduit considérablement la charge administrative.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c3791",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Qu'est-ce que webTMS StartUp Edition ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La webTMS StartUp Edition est la première version de webTMS à avoir été commercialisée. Elle est préinstallée sur tous les appareils de réglage et de mesure ainsi que sur les produits matériels TMS (»keeper«, »autolock«, »toolOrganizer«, »zTower«, »toolStation«, »cockpit«), ce qui permet aux clients d'être immédiatement opérationnels. </p> <p>Dès que l'appareil est connecté au réseau, il suffit de lancer webTMS. À partir de ce moment, le logiciel peut être utilisé sur n'importe quel appareil disposant d'un navigateur, sans installation supplémentaire.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c3915",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "La version StartUp de webTMS peut-elle également être utilisée par les clients TMS ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Cette version de webTMS n'est pas compatible avec TMS, car elle est hébergée sur l'IPC de l'appareil de réglage et de mesure ou sur un produit matériel TMS qui n'est pas conçu pour cette double utilisation. L'utilisation simultanée des deux systèmes peut entraîner des problèmes de performances et des plantages. </p> <p>Une version sur site compatible (en phase BETA), installée et hébergée sur un serveur chez le client, est en cours de développement.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c3917",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Comment installer ou configurer webTMS ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Aucune installation n'est nécessaire, car webTMS est déjà préinstallé sur l'appareil de réglage et de mesure ou sur un produit matériel TMS. Il vous suffit de créer une licence d'essai (ou de sélectionner une licence achetée) et de lancer webTMS sur l'appareil qui doit servir d'hôte. Vous pouvez également configurer la base de données, les graphiques et le chemin d'accès aux documents.</p> <p>Pour permettre l'accès depuis d'autres appareils, l'appareil de réglage et de mesure ou un produit matériel TMS doit être connecté au réseau. L'accès s'effectue via les ports standard 80 et 443.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c3921",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Comment un client peut-il acheter ou renouveler une licence ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Actuellement, les clients peuvent contacter leur interlocuteur ZOLLER pour demander un devis personnalisé. La licence est envoyée manuellement par l'équipe chargée de la mise à disposition des logiciels, mais ce processus sera automatisé à l'avenir. À l'avenir, les clients pourront utiliser MYZOLLER à cette fin. Les clients peuvent choisir entre une facturation mensuelle, semestrielle ou annuelle, avec une durée minimale d'un an.</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Prendre contact dès maintenant</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c3919",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c3793",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3795",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestion des outils : vos avantages",
+     "href": "/ca-fr/solutions/gestion-des-outils",
+     "caption": "<figcaption> <h3>Gestion des outils : vos avantages</h3> <p>Découvrez comment la gestion des outils de ZOLLER augmente immédiatement votre productivité. Grâce aux données d'outils, les processus sont plus rapides et plus sûrs, avec une protection anti-collision pour vos machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/webtms/faq",
+ "de_path": "/produkte/toolmanagement/tms-tool-management-solutions/webtms/faq"
+}

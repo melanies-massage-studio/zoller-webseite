@@ -10,6 +10,7 @@ const bars = stage ? [...stage.querySelectorAll('.stage3d__progress i')] : [];
 const readout = stage?.querySelector('[data-readout]');
 const readout2 = stage?.querySelector('[data-readout2]');
 const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+const DEC = /^(en|es-MX)/i.test(document.documentElement.lang) ? '.' : ','; // Dezimalzeichen der Seite
 
 const clamp = (v, a = 0, b = 1) => Math.min(b, Math.max(a, v));
 const smooth = (a, b, v) => { const t = clamp((v - a) / (b - a)); return t * t * (3 - 2 * t); };
@@ -283,8 +284,8 @@ async function init3D() {
     // Anzeige
     if (readout && p1 > 0.02) {
       const jitter = (Math.sin(t * 13.7) * 0.0012 + Math.sin(t * 7.1) * 0.0008);
-      readout.textContent = `Ø ${(20 + jitter * (1 - p2)).toFixed(3).replace('.', ',')} mm`;
-      readout2.textContent = `L ${(112 + (scanY - 2.45) * 0.8 * p2).toFixed(3).replace('.', ',')} mm`;
+      readout.textContent = `Ø ${(20 + jitter * (1 - p2)).toFixed(3).replace('.', DEC)} mm`;
+      readout2.textContent = `L ${(112 + (scanY - 2.45) * 0.8 * p2).toFixed(3).replace('.', DEC)} mm`;
     }
     renderer.render(scene, camera);
   }

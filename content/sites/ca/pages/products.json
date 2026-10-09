@@ -1,0 +1,438 @@
+{
+ "path": "/products",
+ "url": "/ca/products",
+ "title": "Products",
+ "description": "Products - Product Overview",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Choose Your Path to Success",
+     "kicker": "",
+     "text": "<p>Greater Efficiency with ZOLLER Solutions</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Product Overview </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions are key to your future—we help you achieve greater success. After all, manufacturing faster and more efficiently means operating more profitably, which in turn allows you to invest in the future. If economic progress is your goal, then ZOLLER is your partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Presetting & Measuring",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Tool Management",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Inspection & Measuring",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Tool Heat Shrink Technology",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Tool Holders",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Tool Balancing Technology",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "1054",
+      "label": "Outils de forage",
+      "selected": false
+     },
+     {
+      "value": "1174",
+      "label": "Fraise à capuchon",
+      "selected": false
+     },
+     {
+      "value": "1126",
+      "label": "Outils de tournage",
+      "selected": false
+     },
+     {
+      "value": "1246",
+      "label": "Outils de tournage et de débourrage",
+      "selected": false
+     },
+     {
+      "value": "1138",
+      "label": "Outils de fraisage",
+      "selected": false
+     },
+     {
+      "value": "1150",
+      "label": "Outils de perçage de précision",
+      "selected": false
+     },
+     {
+      "value": "1066",
+      "label": "Outils de filetage",
+      "selected": false
+     },
+     {
+      "value": "1198",
+      "label": "Outils haute performance",
+      "selected": false
+     },
+     {
+      "value": "1186",
+      "label": "Fraise pour vilebrequin",
+      "selected": false
+     },
+     {
+      "value": "1222",
+      "label": "Outils de précision",
+      "selected": false
+     },
+     {
+      "value": "1162",
+      "label": "Têtes de coupe planes",
+      "selected": false
+     },
+     {
+      "value": "1114",
+      "label": "Têtes de coupe planes, d'angle et de finition",
+      "selected": false
+     },
+     {
+      "value": "1078",
+      "label": "Alésoirs",
+      "selected": false
+     },
+     {
+      "value": "1270",
+      "label": "Disques abrasifs",
+      "selected": false
+     },
+     {
+      "value": "1090",
+      "label": "Lames de scie",
+      "selected": false
+     },
+     {
+      "value": "1234",
+      "label": "Outils pour le travail de la pierre",
+      "selected": false
+     },
+     {
+      "value": "1102",
+      "label": "Outils à tige",
+      "selected": false
+     },
+     {
+      "value": "1210",
+      "label": "Outils de taillage d'engrenages",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/ca/products/presetting-measuring",
+       "title": "Presetting & Measuring",
+       "text": "Reduce setup times by 40% or more.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ca/products/tool-management",
+       "title": "Tool Management",
+       "text": "Integrate processes, ensure quality, and manufacture faster.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ca/products/inspection-measuring",
+       "title": "Inspection & Measuring",
+       "text": "Document quality and create digital twins.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ca/products/automation",
+       "title": "Automation",
+       "text": "Flexible, modular automation for cutting tools.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ca/products/tool-heat-shrink-technology",
+       "title": "Tool Heat Shrink Technology",
+       "text": "Shrinking and unshrinking tools in record time.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ca/products/tool-holders",
+       "title": "Tool Holders",
+       "text": "Tool holders with »»idChip««: the perfect interface for your digital manufacturing.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ca/products/tool-balancing-technology",
+       "title": "Tool Balancing Technology",
+       "text": "Protect spindles, ensure quality: with the best balancing machines on the market.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ca/products",
+ "de_path": "/produkte"
+}

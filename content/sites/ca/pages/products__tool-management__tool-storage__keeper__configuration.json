@@ -1,0 +1,470 @@
+{
+ "path": "/products/tool-management/tool-storage/keeper/configuration",
+ "url": "/ca/products/tool-management/tool-storage/keeper/configuration",
+ "title": "»»keeper«« – Configuration",
+ "description": "configuration - »»keeper«« – Configuration",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Tool Storage /",
+   "href": "/ca/products/tool-management/tool-storage"
+  },
+  {
+   "label": "»»keeper«« /",
+   "href": "/ca/products/tool-management/tool-storage/keeper"
+  },
+  {
+   "label": "configuration",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Tool Storage /",
+   "href": "/ca/products/tool-management/tool-storage"
+  },
+  {
+   "label": "»»keeper«« /",
+   "href": "/ca/products/tool-management/tool-storage/keeper"
+  },
+  {
+   "label": "configuration",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/werkzeuglager/keeper/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-storage/keeper/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/almacen-de-herramientas/portero/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/magasin-doutils/keeper/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/magazzino-utensili/keeper/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygslager/maalvakt/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeuglager/keeper/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-storage/keeper/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/magasin-doutillage/gardien/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/keeper/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-storage/keeper/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»»keeper««",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/products/tool-management/tool-storage/keeper",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "configuration",
+     "href": "/ca/products/tool-management/tool-storage/keeper/configuration",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/ca/products/tool-management/tool-storage/keeper/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/tool-management/tool-storage/keeper/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/tool-management/tool-storage/keeper/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3071",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Everything at a Glance </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3069",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">With ZOLLER Smart Cabinets, you're in charge: Make your preselection and establish contact with our ZOLLER sales team—we'll be happy to advise you and configure the model of your choice.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3068",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3070",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Cabinet size </h2>",
+   "table": "<table> <tbody> <tr> <td> 3 drawers, H x W x D: 2000 x 1000 x 1050 mm, drawer depth 810 mm </td> </tr> <tr> <td> 5 drawers, H x W x D: 2000 x 1000 x 1050 mm, drawer depth 810 mm </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3067",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Payload </h2>",
+   "table": "<table> <tbody> <tr> <td> Max. 1,000 kg weight per vertical drawer pull-out </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3065",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> execution </h2>",
+   "table": "<table> <tbody> <tr> <td> Mechanical execution, 3 or 5 drawers </td> </tr> <tr> <td> Electronic execution, 3 or 5 drawers </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3063",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> control </h2>",
+   "table": "<table> <tbody> <tr> <td> Side-mounted panel PC </td> </tr> <tr> <td> Separate »cockpit« control unit with »quickPick« control software </td> </tr> <tr> <td> TMS Tool Management Solutions – workstation </td> </tr> <tr> <td> ZOLLER presetting and measuring machines – with Smart Cabinets software module </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3064",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Classification </h2>",
+   "table": "<table> <tbody> <tr> <td> The default is 6 tool frames per drawer </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3072",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Tool Inserts – SK Version </h2>",
+   "table": "<table> <tbody> <tr> <td> SK 30, Size S, Width 72 mm, max. 14 per frame </td> </tr> <tr> <td> SK 40, Size S, Width 72 mm, max. 14 per frame </td> </tr> <tr> <td> SK 50, Size L, Width 95 mm, max. 8 per frame </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3073",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Tool Inserts – HSK Version </h2>",
+   "table": "<table> <tbody> <tr> <td> HSK 25, 32, Size S, width 72 mm, max. 14 per frame </td> </tr> <tr> <td> HSK 40, Size S, width 72 mm, max. 14 per frame </td> </tr> <tr> <td> HSK 50, size S, width 72 mm, max. 14 per frame </td> </tr> <tr> <td> HSK 63, size S or L, width 72 or 95 mm, max. 14 or 8 per frame </td> </tr> <tr> <td> HSK 80, size L, width 95 mm, max. 8 per frame </td> </tr> <tr> <td> HSK 100, size L, width 95 mm, max. 8 per frame </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3079",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Tool Inserts – VDI Version </h2>",
+   "table": "<table> <tbody> <tr> <td> VDI 30, Size S, width 72 mm, max. 14 per frame </td> </tr> <tr> <td> VDI 40, Size S, width 72 mm, max. 14 per frame </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3076",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Tool Inserts – PSC Version </h2>",
+   "table": "<table> <tbody> <tr> <td> PSC 40, Size S, width 72 mm, max. 14 per frame </td> </tr> <tr> <td> PSC 50, Size S, width 72 mm, max. 14 per frame </td> </tr> <tr> <td> PSC 63, Size S, width 72 mm, max. 14 per frame </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3074",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Tool Inserts – Blank Version </h2>",
+   "table": "<table> <tbody> <tr> <td> B58, width 58 mm, max. 8 per frame </td> </tr> <tr> <td> B75, width 75 mm, max. 8 per frame </td> </tr> <tr> <td> B120, width 120 mm, max. 8 per frame </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3077",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Tool Inserts – Adapter Tool Post Version </h2>",
+   "table": "<table> <tbody> <tr> <td> D 78 VSH Size 1, width 95 mm, max. 8 per frame </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3078",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Tool Inserts – Wooden Inserts Version </h2>",
+   "table": "<table> <tbody> <tr> <td> Wooden insert/blank, width 328 mm, max. 2 per frame </td> </tr> <tr> <td> D 42 14 drill holes, width 328 mm, max. 2 per frame </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3075",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data - including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/products/tool-management/tool-storage/keeper/configuration",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/keeper/konfiguration"
+}

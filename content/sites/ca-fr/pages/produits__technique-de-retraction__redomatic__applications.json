@@ -1,0 +1,514 @@
+{
+ "path": "/produits/technique-de-retraction/redomatic/applications",
+ "url": "/ca-fr/produits/technique-de-retraction/redomatic/applications",
+ "title": "»redomatic« – Applications",
+ "description": "Applications - »redomatic« – Applications",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "technique de rétraction /",
+   "href": "/ca-fr/produits/technique-de-retraction"
+  },
+  {
+   "label": "»redomatic« /",
+   "href": "/ca-fr/produits/technique-de-retraction/redomatic"
+  },
+  {
+   "label": "Applications",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "technique de rétraction /",
+   "href": "/ca-fr/produits/technique-de-retraction"
+  },
+  {
+   "label": "»redomatic« /",
+   "href": "/ca-fr/produits/technique-de-retraction/redomatic"
+  },
+  {
+   "label": "Applications",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/redomatic/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/redomatic/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/redomatic/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/redomatic/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/redomatic/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/redomatic/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/redomatic/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/redomatic/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/redomatic/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/redomatic/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/redomatic/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/redomatic/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/redomatic/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/redomatic/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/redomatic/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»redomatic«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Applications",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/applications",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1311",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Atteindre son objectif en toute sécurité et efficacement </h1>",
+      "body": "<p><strong>Avec le ZOLLER »redomatic«, les outils de rétraction sont rapidement prêts à l'emploi. Le logiciel de traitement d'images »pilot 4.0«, l'unité d'alimentation et la surveillance permanente des étapes de travail facilitent un travail rapide et fiable.</strong></p> <p>La technologie du »redomatic« garantit des temps de traitement extrêmement courts. Même un opérateur inexpérimenté peut y parvenir après une brève formation. Sur l'unité d'alimentation, tous les composants ont leur emplacement attitré. Le logiciel de traitement d'images »pilot 4.0« guide l'opérateur à travers toutes les étapes de travail et contrôle de nombreux processus de manière entièrement automatique. Pour chaque étape, le logiciel indique le composant nécessaire et affiche à l'écran son emplacement sur l'unité d'appoint. »redomatic« est la solution idéale pour le réglage, la mesure et le rétrécissement à longueur précise des outils.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c2455",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/f/e/csm_arbeitsschritte_01_56189371c3.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Utilisation d'un mandrin à contraction</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/9/f/csm_arbeitsschritte_02_f0e852418a.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Mise en place de l'adaptateur de réglage »masterPiece« et de l'outil</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/e/0/csm_arbeitsschritte_03_9c555c9979.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Réglage automatique de la butée de longueur en fonction de la longueur nominale de l'outil</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/6/0/csm_arbeitsschritte_04_56622be11e.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Retirer l'outil et l'adaptateur de réglage »masterPiece«</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/4/4/csm_arbeitsschritte_05_af3d1c1ceb.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>La bobine d'induction se met en place, le processus de chauffage démarre</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/f/csm_arbeitsschritte_06_414dad1170.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Utiliser l'outil</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/5/2/csm_arbeitsschritte_07_378ca02c77.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Réfrigération</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/8/b/csm_arbeitsschritte_08_e6986c99cc.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>mesure de contrôle</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2456",
+      "bg": "white",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2454",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »redomatic 600« MST </h3> <h2> Rétrécissement automatisé d'outils avec une précision de 10 μm </h2>",
+   "body": "<p><strong>Avec un »redomatic 600« MST de ZOLLER, vous tirez pleinement parti des avantages de vos porte-outils MST et améliorez ainsi l'efficacité de votre production. </strong></p> <p>En effet, avec »le redomatic 600« MST, vous avez la certitude que les longueurs d’outils sont toujours réglées avec précision. Le processus de rétraction développé par ZOLLER à l’aide de l’adaptateur de réglage »masterPiece« est à la fois rapide et simple. L'interaction parfaite entre la mécanique, la pneumatique, l'électronique et le logiciel, ainsi que la surveillance continue des paramètres et les procédures de mesure automatiques, vous garantissent une sécurité de processus maximale.</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/redomatic/Info-Pool/ZOLLER_Broschuere_redomaticMST_BRREDMST_00_DE.pdf\" rel=\"noopener\" target=\"_blank\" title=\"Broschüre »redomatic&amp;nbsp;600«&amp;nbsp;MST\">Brochure »redomatic 600« MST</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/a/csm_redomatic600MTI_teaser_bf6f5aa8a3.webp",
+     "alt": "",
+     "w": 1239,
+     "h": 901
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4285",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> »pilot 4.0« reste toujours sur la voie du succès </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c2462",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>»pilot 4.0« est la solution logicielle complète et exhaustive destinée à tous les appareils de réglage et de mesure ZOLLER. L'interface graphique intuitive guide les utilisateurs rapidement et en toute sécurité vers un résultat de mesure précis. »pilot 4.0« est ainsi si simple à utiliser que même les tâches de mesure complexes sont immédiatement menées à bien. Parallèlement, les fonctionnalités du logiciel sont si complètes qu’il existe une solution pour chaque besoin. Ce n’est pas un hasard si »pilot 4.0« est considéré comme la référence mondiale inégalée en matière de réglage, de mesure et de contrôle des outils.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c3218",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3217",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/c/1/csm_pilot4_Infodots_v2_15394ce304.webp",
+    "alt": "",
+    "w": 1190,
+    "h": 763
+   },
+   "spots": [
+    {
+     "x": 85.117,
+     "y": 40.618,
+     "label": "Informations spécifiques aux outils",
+     "text": "<h3>Informations spécifiques aux outils</h3>"
+    },
+    {
+     "x": 51.246,
+     "y": 31.693,
+     "label": "Gestion des adaptateurs",
+     "text": "<h3>Gestion des adaptateurs</h3> <ul><li>Désignation de l'outil pour l'identification individuelle</li><li>Valeurs de consigne avec indications de tolérance</li></ul>"
+    },
+    {
+     "x": 41.496,
+     "y": 67.849,
+     "label": "Formes de découpe",
+     "text": "<h3>Formes de découpe</h3> <p>Formes de tranchants détectées automatiquement</p>"
+    },
+    {
+     "x": 78.226,
+     "y": 79.519,
+     "label": "Boutons de fonction",
+     "text": "<h3>Boutons de fonction</h3> <p>Avec des icônes explicites</p>"
+    },
+    {
+     "x": 16.716,
+     "y": 27.002,
+     "label": "Image en direct de la lame",
+     "text": "<h3>Image en direct de la lame</h3> <ul><li>Réticule dynamique</li><li>Indication d'angle avec axe de référence sélectionnable</li></ul>"
+    },
+    {
+     "x": 14.883,
+     "y": 65.217,
+     "label": "Informations actuelles sur la position",
+     "text": "<h3>Informations actuelles sur la position</h3> <ul><li>Coordonnées actuelles des axes</li><li>Forme de coupe actuellement active</li></ul>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c2464",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technique de rétrécissement : ses avantages",
+     "href": "/ca-fr/solutions/technique-de-retraction",
+     "caption": "<figcaption> <h3>Technique de rétrécissement : ses avantages</h3> <p>Découvrez comment nous avons obtenu ces gains considérables en matière d'efficacité énergétique, de vitesse de traitement et d'ergonomie. Utilisez la perfection pour votre production. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/technique-de-retraction/redomatic/applications",
+ "de_path": "/produkte/schrumpftechnik/redomatic/anwendungen"
+}

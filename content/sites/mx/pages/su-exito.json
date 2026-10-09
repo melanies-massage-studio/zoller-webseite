@@ -1,0 +1,333 @@
+{
+ "path": "/su-exito",
+ "url": "/mx/su-exito",
+ "title": "Su éxito",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Su éxito",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Su éxito",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ihr-erfolg",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/your-success",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/su-exito",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/votre-succes",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/o-seu-sucesso",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/il-vostro-successo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/din-framgaang",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ihr-erfolg",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/your-success",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/votre-reussite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%9A%86%E6%A7%98%E3%81%AE%E6%88%90%E5%8A%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/your-success",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/su-exito",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/o-seu-sucesso",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/c/csm_header_ihr_erfolg_d81e1c7794.webp",
+     "video": null,
+     "title": "El éxito comienza con una decisión",
+     "kicker": "",
+     "text": "<p>Muchos clientes de todo el mundo ya se han decidido por ZOLLER.<br/>Descubra cómo se han beneficiado sus procesos de fabricación.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c613",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¡Ya está abierta la convocatoria para el concurso «Toolroom of the Year» de ZOLLER! </h2>",
+   "body": "<p>¡Gana un viaje a Alemania para participar en nuestro tour VIP para clientes, paquetes de eficiencia y vales de regalo para que su Toolroom brille aún más!</p> <p><a class=\"btn\" href=\"/mx/eventos/taller-de-herramientas-del-ano-2026\">Más información</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/4/csm_toty_teaser_9b97fd60a7.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 600
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c30157",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> «¡Ya no hay más tiempos de inactividad en las máquinas!» </h2>",
+   "body": "<p>Jeremy St. Pierre, experto en fabricación<br/>de GKN Aerospace</p> <p><a class=\"btn\" href=\"/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2\">Más información sobre »roboSet 2«</a></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/1cOACnZU8f8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "GKN Aerospace - ZOLLER Solutions I Erfolgreicher Einsatz in der Werkzeugschleiferei"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c612",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Más historias de éxito </h3>",
+   "articles": [
+    {
+     "href": "/mx/su-exito/detalle/optimizacion-del-mecanizado-de-piezas-con-zoller-zidcode",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_Picture1_7352fbd5cf.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Gestión de herramientas"
+     ],
+     "title": "Optimización del mecanizado de piezas con ZOLLER »zidCode«",
+     "teaser": "",
+     "date": ""
+    },
+    {
+     "href": "/mx/su-exito/detalle/grupo-dmp-egile-apuesta-por-la-automatizacion-y-la-gestion-inteligente-de-herramientas-con-zoller",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_blog_heading_0c4bd7cc2a.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Gestión de herramientas"
+     ],
+     "title": "Grupo DMP EGILE apuesta por la automatización y la gestión inteligente de herramientas con ZOLLER",
+     "teaser": "Grupo DMP EGILE comparte su experiencia con la incorporación de un sistema de medición y gestión de herramientas de ZOLLER (TMS).",
+     "date": ""
+    },
+    {
+     "href": "/mx/su-exito/detalle/asi-de-eficiente-puede-ser-genius-a-la-hora-de-reducir-costos",
+     "img": {
+      "src": "/fileadmin/_processed_/3/7/csm_genius_drabkansai_teaserimg_19001de27f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Comprobación y medición"
+     ],
+     "title": "Así de eficiente puede ser »genius« a la hora de reducir costos",
+     "teaser": "La medición precisa de los discos abrasivos reduce el tiempo de preparación en más de un 60 %.",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c787",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/mx/empresa/informes-e-historias?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&amp;cHash=a66df74004d8f7d852aedf42cdc02852\">Ver todas las historias de éxito</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3993",
+   "bg": "lightgray",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Aumento de la productividad gracias a los aparatos de ajuste y medición de ZOLLER</p> <p>La calculadora de rentabilidad de ZOLLER calcula el potencial de ahorro del funcionamiento normal de su empresa.</p>",
+   "button": "<a class=\"btn\" href=\"/mx/calculadora-de-rentabilidad\">Calcular ahora el potencial de ahorro</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4274",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/su-exito",
+ "de_path": "/ihr-erfolg"
+}

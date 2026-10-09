@@ -1,0 +1,408 @@
+{
+ "path": "/company/quality-management",
+ "url": "/ca/company/quality-management",
+ "title": "quality management",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "quality management",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "quality management",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/qualitaetsmanagement",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/quality-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/gestion-de-la-calidad",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/gestion-de-la-qualite",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/gestao-de-qualidade",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/gestione-della-qualita",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kvalitetsledning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/qualitaetsmanagement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/quality-management",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/gestion-de-la-qualite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/quality-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/gestion-de-la-calidad",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/gestao-de-qualidade",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Quality has its value—especially for our customers </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3274",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>The name ZOLLER is synonymous with quality and precision worldwide. And for good reason. We use exclusively high-quality materials and brand-name components—the best prerequisites for exact results. And with ZOLLER’s sophisticated software, this precision is achieved in every production environment regardless of the user—thanks to simple machine control and a high degree of automation.</p> <p>All of this ensures that the processes in your production run smoothly. It ensures that you deliver top quality—including complete documentation—to your customers on time.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3275",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3273",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Take Advantage of ZOLLER On-Site Calibrations </h2>",
+   "body": "<p>Following accreditation by the German Accreditation Body (DAkkS), ZOLLER has been the only manufacturer of presetting and measuring machines since May 2020 to hold competence in accordance with DIN EN ISO/IEC 17025:2018 to to perform on-site calibrations in the area of dimensional measurements for coordinate measuring technology using ZOLLER presetting and measuring machines.</p> <p>Calibration of presetting and measuring machines in accordance with DIN EN ISO/IEC 17025:2018 is a key factor in ensuring the high quality of end products.</p> <p><strong>Take advantage of ZOLLER’s on-site calibration to enjoy the following benefits:</strong></p><ul><li>Your measuring machine remains on-site and is available at all times</li><li>Measured values are entered under the usual ambient conditions at your site</li><li>Traceable calibration in accordance with DIN EN ISO/IEC 17025:2018, which can only be ensured by an Accredited calibration laboratory</li><li>International recognition of the accredited service and measurement results</li></ul><p><a class=\"btn\" href=\"mailto:serviceplanung@zoller-d.com?subject=Termin%20f%C3%BCr%20Vor-Ort-Kalibrierung%20vereinbaren&amp;body=Bitte%20rufen%20Sie%20mich%20an%3A%0AVorname%3A%20%0AName%3A%20%0AFirma%3A%20%0ATel.-Nr.%3A\" title=\"Zur Serviceplanung\"><strong>Schedule an on-site calibration</strong></a></p> <p>You are also welcome to contact Mr. Timo Metsch by phone: +49 7144 8970-392</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/6/csm_genius_versprechen_v2_a210dd8875.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c3272",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> The future is coming. There's no safety in doubting that. </h2>",
+   "body": "<p>ZOLLER is committed to delivering premium products and excellent service. Along with innovation and service, quality is a cornerstone of our corporate identity. We underscore our commitment to quality and our associated quality and environmental policies through certifications to ISO 9001, ISO 14001, and VDA 6.4, as well as through an energy audit in accordance with DIN EN 16247-1.</p> <p>How does this benefit you? Verifiably tested and certified electrical and mechanical safety, as well as monitoring of production. And the peace of mind that comes from knowing ZOLLER devices deliver on their promises—not only to millions of satisfied customers but also to external testing institutes.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/3/csm_pombasic_versprechen_b4a087dd41.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c3266",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Downloads </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/ISO_9001_2015-DE.pdf",
+     "name": "ISO 9001 Certificate",
+     "size": "700 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/f/csm_ISO_9001_2015-DE_92c05b8dd7.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ISO 9001 Certificate"
+     }
+    },
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/VDA_6_4_2017-DE.pdf",
+     "name": "VDA 6.4 Certificate",
+     "size": "381 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/9/csm_VDA_6_4_2017-DE_1611456a94.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "VDA 6.4 Certificate"
+     }
+    },
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/Zertifikat_ISO_14001_2015_DE.pdf",
+     "name": "ISO 14001 Certificate",
+     "size": "414 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/8/csm_Zertifikat_ISO_14001_2015_DE_667aa7458a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ISO 14001 Certificate"
+     }
+    },
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/tuev-sued.pdf",
+     "name": "TÜV Süd Certificate",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/1/7/csm_tuev-sued_e7d8553ccd.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "TÜV Süd Certificate"
+     }
+    },
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/Akkreditierungsurkunde-Zertifikat-DIN-17025-ZOLLER-DE-2020.pdf",
+     "name": "DAkkS Certificate DIN 17025",
+     "size": "1,000 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/f/csm_Akkreditierungsurkunde-Zertifikat-DIN-17025-ZOLLER-DE-2020_f9c2e8daca.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "DAkkS Certificate DIN 17025"
+     }
+    },
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/Zertifikat_Energie_Audit_DIN_EN_16247-1_DE.pdf",
+     "name": "Energy Audit",
+     "size": "139 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/6/csm_Zertifikat_Energie_Audit_DIN_EN_16247-1_DE_5d1aa2b84c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Energy Audit"
+     }
+    },
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/Zertifikat_Oekostrom-2025.pdf",
+     "name": "Green Electricity Certificate",
+     "size": "190 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/d/csm_Zertifikat_Oekostrom-2025_531fced6c2.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Green Electricity Certificate"
+     }
+    },
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/ZOLLER_Unternehmenspolitik_DE.pdf",
+     "name": "ZOLLER Corporate Policy",
+     "size": "39 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/2/csm_ZOLLER_Unternehmenspolitik_DE_53b2cd3c8c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Corporate Policy"
+     }
+    },
+    {
+     "href": "/fileadmin/01_Pages/Company/Quality_Management/Downloads/ZOLLER_Akkreditierungsurkunde_D-K-18994-01-00.pdf",
+     "name": "ZOLLER Certificate of Accreditation",
+     "size": "3 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/a/6/csm_ZOLLER_Akkreditierungsurkunde_D-K-18994-01-00_a8f2a7e1e5.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Certificate of Accreditation"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c3265",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/company/quality-management",
+ "de_path": "/unternehmen/qualitaetsmanagement"
+}

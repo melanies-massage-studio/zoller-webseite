@@ -1,0 +1,533 @@
+{
+ "path": "/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module",
+ "url": "/ca/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module",
+ "title": "BRONZE CAD/CAM module",
+ "description": "BRONZE CAD/CAM module",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "BRONZE CAD/CAM module",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "BRONZE CAD/CAM module",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/bronze-cad-cam-modul",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/modulo-cad/cam-bronze",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/modules-dao/fao-bronze",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/modulo-cad/cam-bronze",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/tms-tool-management-solutions/pacchetti-software/modulo-cad/cam-bronze",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/tms-verktygshanteringsloesningar/programvarupaket/bronze-cad/cam-modul",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/bronze-cad/cam-modul",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/module-cad/cam-bronze",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/tms-%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8/bronze-cad/cam%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/tms-%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%80/bronze-cad/cam-%EB%AA%A8%EB%93%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/modulo-cad/cam-bronze",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/modulo-cad/cam-bronze",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "STARTER Stock Management",
+     "href": "/ca/products/tool-management/tms-tool-management-solutions/software-packages/starter-stock-management",
+     "current": false
+    },
+    {
+     "label": "BRONZE CAD/CAM module",
+     "href": "/ca/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module",
+     "current": false
+    },
+    {
+     "label": "SILVER Operational Organization",
+     "href": "/ca/products/tool-management/tms-tool-management-solutions/software-packages/silver-operational-organization",
+     "current": false
+    },
+    {
+     "label": "GOLD Store Management",
+     "href": "/ca/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-management",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3804",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> BRONZE: Additional Efficiency with CAM Interfaces </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3811",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>The BRONZE package’s feature set enhances tool management with interfaces to CAD/CAM systems. In addition to the cost-effective management of individual components, complete tools, setup sheets, and accessories, you can use CAD and CAM data throughout the workflow. Optimize the CAM-to-Part process chain with tool data. </p><ul><li>One-time data entry in the central tool database, z.One</li><li>Setup sheets and setup plans with unique tool definitions and part graphics</li><li>Time savings in CAM and setup processes thanks to clear component and tool definitions</li><li>Automatic generation of envelope contours</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3814",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3810",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h3> BRONZE Package Software Modules </h3>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/5/csm_einzelkomponenten_156d7d1aa0.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Management of Individual Components Modules for Adding Your Individual Components",
+     "img": {
+      "src": "/fileadmin/_processed_/b/5/csm_einzelkomponenten_156d7d1aa0.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Individual Component Management</h4> <p>The software module for the detailed system configuration of individual components creates a future-proof IoT foundation for tool management.</p> <p><strong>System Detail Data Creation:</strong></p><ul><li>DIN 4000/4003/ISO 13399 Parameterization</li><li>Technology Data (Cross-Section Values)</li><li>Graphic Component Representation</li><li>2D and 3D generation in accordance with DIN 4000 and ISO 13399</li><li>Import of 2D formats: DXF/DWG/BMP/TIF/JPG/GIF/PNG</li><li>Import of 3D formats: STEP/STL</li><li>Detailed data (e.g., cutting material)</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/2/csm_Verwaltung_von_Komplettwerkzeugen_80ccbe08c8.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Management of Complete Tool Sets The Tool Data Management function ensures the smooth provision of all tools required in the production process.",
+     "img": {
+      "src": "/fileadmin/_processed_/4/2/csm_Verwaltung_von_Komplettwerkzeugen_80ccbe08c8.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Management of Complete Tools</h4> <p>Based on the individual components, the “Tool Data Management” function provides graphic and parametric tool assembly in accordance with the real tools available. In addition, correct tool assembly is ensured in accordance with the parts list/component definition.</p> <p><strong>This module offers a wide range of options:</strong></p><ul><li>Management of accessories and parts lists</li><li>Creation of utilization records for individual<br/>components and complete tools</li><li>Supported 2D formats: DXF/DWG/BMP/TIF/JPG/GIF/PNG</li><li>Supported 3D formats: STEP/STL</li><li>Automatic generation of drawings from individual<br/>components in the parts list (DXF with connection points)</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/c/csm_Verwaltung_von_Einrichteblaettern_5c9fce0b99.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Management of Setup Sheets Simple Management and Forwarding of Setup Sheets",
+     "img": {
+      "src": "/fileadmin/_processed_/f/c/csm_Verwaltung_von_Einrichteblaettern_5c9fce0b99.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Management of Setup Sheets</h4> <p>Setup sheets provide the user with a list of information and resources required for an order. These can be forwarded directly to the store, the CAD/CAM workstation, or the machine and used there.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/8/csm_import_cac7b6867f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Data Import/Export Platform-independent import and export of your data in XML format to and from the ZOLLER tool database, z.One",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_import_cac7b6867f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Data Import/Export</h4> <p>Import and export of tools, individual components, setup sheets, accessories, machine data, and more between individual ZOLLER products. Using import filters, data can be imported or exported via post-processors, regardless of the platform.</p> <p><strong>Your benefits:</strong></p><ul><li>Optional integration with third-party systems</li><li>process reliability</li><li>Simple and fast manipulation thanks to simple structures</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/8/csm_import_cac7b6867f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Importing Tool Data from a Catalog Imports tool data from many well-known manufacturers (e.g., CIMSOURCE and GTDE) and can thus quickly provide 2D/3D graphics, article characteristics, and technology data",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_import_cac7b6867f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Catalog Import of Tool Data</h4> <p>Imports tool data from many well-known manufacturers and cloud-based service providers (e.g., CIMSOURCE and GTDE), enabling the rapid provision of 2D/3D graphics, article characteristics, and technology data. The tool data can be supplemented at any time and made immediately available via export. Using the web service, third-party applications can access the shared database and, for example, import newly compiled setup sheets.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/3/csm_Sachmerkmalleiste_DIN4000_39b7d5a425.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Product Characteristics Bar According to DIN 4000 Standard-Compliant Definition of Your Individual Components",
+     "img": {
+      "src": "/fileadmin/_processed_/1/3/csm_Sachmerkmalleiste_DIN4000_39b7d5a425.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Property Bar According to DIN 4000</h4> <p>Using the complete DIN 4000 attribute bar structure, you can define your individual components in accordance with the standard. This guarantees a seamless exchange of information with third-party systems such as CAD/CAM and NC simulation systems. This uniform, standardized database forms the basis for automatic tool data import.</p> <p><strong>Your benefits:</strong></p><ul><li>Time savings through automatic tool data import</li><li>Process reliability through error prevention</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/5/csm_Technologiedaten_c58b0162ef.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "label": "Technology Data and Article Characteristics Centralized and intelligent management of technology data and article characteristics for your individual components and complete tools",
+     "img": {
+      "src": "/fileadmin/_processed_/c/5/csm_Technologiedaten_c58b0162ef.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 645
+     },
+     "text": "<h4>Technology Data and Article Characteristics</h4> <p>The Technology Data and Article Characteristics module serves for the centralized and intelligent management of individual components and complete tools.<br/>It allows you to catalog your tools in a practical manner, optimize their usage, and store cutting parameters. Maintaining a single database saves time and money.</p> <p><strong>Your benefits:</strong></p><ul><li>Safety through consistent data usage</li><li>Time and cost savings by maintaining just one database</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/f/csm_bronze_11_6d4f866187.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Automatic Generation of Envelope Contours Automatically generate 2D drawings and 3D contours",
+     "img": {
+      "src": "/fileadmin/_processed_/3/f/csm_bronze_11_6d4f866187.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Automatic Generation of Envelope Contours from Article Characteristics</h4> <p>Thanks to the geometric article characteristics structure based on DIN 4000, 2D drawings and 3D contours can be automatically generated from the article characteristics entered or imported into ZOLLER tool management. Changes to your tools (e.g., protruding length) are automatically reflected in the drawings. The 3D contours can be exported and made available to CAD/CAM and simulation systems for collision detection.</p> <p><strong>Your benefits:</strong></p><ul><li>Fast and reliable tool assembly based on the tool drawing</li><li>Collision checking</li><li>Time savings and process reliability</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/0/5/csm_bronze_12_1d53a93b0a.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Integration of a Measuring Machine Take full advantage of all the functionalities of the TMS Tool Management Solutions software packages on your ZOLLER device as well",
+     "img": {
+      "src": "/fileadmin/_processed_/0/5/csm_bronze_12_1d53a93b0a.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Integration of a Measuring Machine</h4> <p>The BRONZE package includes the integration of a ZOLLER presetting and measuring machine. This allows you to use all the functionalities of the TMS Tool Management Solutions software packages on your ZOLLER device.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/5/csm_bronze_13_22dab839bd.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "USB camera Enter photos of tools right at the workplace",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_bronze_13_22dab839bd.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>USB Camera</h4> <p>The ZOLLER USB camera is quick and simple to use and enters tool photos directly at the workplace with freely selectable image crops.</p> <p><strong>Your benefits:</strong></p><ul><li>Time savings through quick and simple documentation of the tool inventory</li><li>Visualization is possible at all workstations</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/9/csm_bronze_06_bd9bd67a9c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Importing Data from the Cloud Import your tool data into the z.One tool database with a single click",
+     "img": {
+      "src": "/fileadmin/_processed_/c/9/csm_bronze_06_bd9bd67a9c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Cloud Import Options</h4> <p>Importing your tool data into TMS Tool Management Solutions takes just one click thanks to the import option from cloud providers such as ToolsUnited, NOVO, Machining Cloud, Hoffmann, EWS, and others. Depending on which system you use, you can import not only 2D/3D graphics, article characteristics, and technology data for individual components, but also entire assembly groups.</p> <p><strong>Your benefits:</strong></p><ul><li>Importing instead of typing</li><li>Maximum process reliability</li><li>Maximum productivity</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/d/csm_bronze_14_39235b022e.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "label": "Web Service Communicating with HTTP-based network interfaces",
+     "img": {
+      "src": "/fileadmin/_processed_/d/d/csm_bronze_14_39235b022e.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 694
+     },
+     "text": "<h4>Web Service</h4> <p>The ZOLLER-WebService serves as the communication tool between the ZOLLER database and all network interfaces via HTTP!</p> <p><strong>Your benefits:</strong></p><ul><li>Increased efficiency through fast and customized access to tool data</li><li>Centralized tool data management—no more duplicate data storage necessary</li><li>A single master database, no redundant information, and no maintenance effort</li></ul>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c3813",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/ca/company/contact\">Request</a> a Quote <a class=\"btn\" href=\"/ca/company/contact\">Now:</a> Package Comparison</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3826",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data - including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module",
+ "de_path": "/produkte/toolmanagement/tms-tool-management-solutions/softwarepakete/bronze-cad-cam-modul"
+}

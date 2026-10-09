@@ -1,0 +1,463 @@
+{
+ "path": "/unternehmen/reports-stories/tag/anwenderbericht",
+ "url": "/unternehmen/reports-stories/tag/anwenderbericht",
+ "title": "Reports & Stories",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories/tag/anwenderbericht",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories/tag/user-report",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias/tag/informe-del-usuario",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits/tag/rapport-dutilisateur",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias/tag/relatorio-do-utilizador",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie/tag/relazione-dellutente",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser/tag/anwenderbericht",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories/tag/anwenderbericht",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories/tag/user-report",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles/tag/anwenderbericht",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/tag/anwenderbericht",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC/tag/anwenderbericht",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories/tag/user-report",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias/tag/informe-del-usuario",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias/tag/relatorio-do-utilizador",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Reports &amp; Stories </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3213",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "taglist",
+   "tags": [
+    {
+     "label": "Einstellen & Messen",
+     "href": "/unternehmen/reports-stories/tag/einstellen-messen"
+    },
+    {
+     "label": "Event",
+     "href": "/unternehmen/reports-stories/tag/event-1"
+    },
+    {
+     "label": "Automation",
+     "href": "/unternehmen/reports-stories/tag/automation"
+    },
+    {
+     "label": "Nachhaltigkeit",
+     "href": "/unternehmen/reports-stories/tag/nachhaltigkeit"
+    },
+    {
+     "label": "Wuchttechnik",
+     "href": "/unternehmen/reports-stories/tag/wuchttechnik"
+    },
+    {
+     "label": "Schrumpftechnik",
+     "href": "/unternehmen/reports-stories/tag/schrumpftechnik"
+    },
+    {
+     "label": "Toolmanagement",
+     "href": "/unternehmen/reports-stories/tag/toolmanagement"
+    },
+    {
+     "label": "Prüfen & Messen",
+     "href": "/unternehmen/reports-stories/tag/pruefen-messen"
+    },
+    {
+     "label": "Anwenderbericht",
+     "href": "/unternehmen/reports-stories/tag/anwenderbericht"
+    },
+    {
+     "label": "Pressemitteilung",
+     "href": "/unternehmen/reports-stories/tag/pressemitteilung"
+    }
+   ],
+   "ftype": "news_taglist",
+   "id": "c3330",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "",
+   "articles": [
+    {
+     "href": "/unternehmen/reports-stories/detail/so-effizient-kann-genius-kosten-senken",
+     "img": {
+      "src": "/fileadmin/_processed_/3/7/csm_genius_drabkansai_teaserimg_19001de27f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Prüfen & Messen"
+     ],
+     "title": "So effizient kann »genius« Kosten senken",
+     "teaser": "Präzises Vermessen von Schleifscheiben reduziert Rüstzeit um über 60 Prozent.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/venturion-verbessert-die-produktivitaet",
+     "img": {
+      "src": "/fileadmin/_processed_/9/2/csm_ituwa_teaserimg_3cd1d73a8a.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Einstellen & Messen"
+     ],
+     "title": "»venturion« verbessert die Produktivität",
+     "teaser": "Ituwa Kogyo aus Japan gewinnt pro Tag und Maschine 20 Minuten mehr Laufzeit.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/verrundung-von-schneidkanten-verifizieren-und-dokumentieren",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_Schuhmacher_teaserimg_863d6147d6.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Prüfen & Messen"
+     ],
+     "title": "Verrundung von Schneidkanten verifizieren und dokumentieren",
+     "teaser": "Schnell, einfach und zuverlässig messen",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/wirtschaftlich-in-serien-messen-mit-roboset-2",
+     "img": {
+      "src": "/fileadmin/_processed_/9/5/csm_mauth_teaserimg_5533c78968.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Automation"
+     ],
+     "title": "Wirtschaftlich in Serien messen mit »roboSet 2«",
+     "teaser": "Mehr Wettbewerbsfähigkeit für Mauth durch automatisierte Werkzeuginspektion.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/mit-smile-zu-mehr-effizienz-und-hoeherer-qualitaet",
+     "img": {
+      "src": "/fileadmin/_processed_/3/6/csm_fivestraight_teaserimg_0da79bf681.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Einstellen & Messen"
+     ],
+     "title": "Mit »smile« zu mehr Effizienz und höherer Qualität",
+     "teaser": "Five Straight aus Japan steigert die Werkzeugstandzeit um das 1,5fache.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/venturion-erhoeht-genauigkeit-und-prozesssicherheit",
+     "img": {
+      "src": "/fileadmin/_processed_/f/5/csm_korin_teaserimg_28a95a40d5.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Einstellen & Messen"
+     ],
+     "title": "»venturion« erhöht Genauigkeit und Prozesssicherheit",
+     "teaser": "Deutliche Zeitersparnis bedeutet mehr Effizienz",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/sicher-und-schnell-zum-perfekten-sonderwerkzeug",
+     "img": {
+      "src": "/fileadmin/_processed_/5/2/csm_Nikolaus_Grinding_teaserimg_5a236b4071.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Prüfen & Messen"
+     ],
+     "title": "Sicher und schnell zum perfekten Sonderwerkzeug",
+     "teaser": "Nikolaus setzt auf präzise ZOLLER-Messtechnik",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/mmfocus-messen-mit-hoechster-praezision",
+     "img": {
+      "src": "/fileadmin/_processed_/1/4/csm_WEMA_teaserimg_6a166ec368.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Prüfen & Messen"
+     ],
+     "title": "»mμFocus« – Messen mit höchster Präzision",
+     "teaser": "Mehr Effizienz in der Werkzeugproduktion",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/mit-smile-420-zu-1-mio-usd-umsatzplus",
+     "img": {
+      "src": "/fileadmin/_processed_/a/c/csm_content_img_02_0c6cd77d5f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Einstellen & Messen"
+     ],
+     "title": "Mit »smile 420« zu 1 Mio. USD Umsatzplus",
+     "teaser": "ProCam Services LLC: Einstell- und Messgerät optimiert Arbeitsabläufe und spart viel Zeit.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/effizienter-fertigen-dank-korrekter-werkzeugdaten",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_lidu_teaserimg_12b9c6a225.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Toolmanagement"
+     ],
+     "title": "Effizienter fertigen dank korrekter Werkzeugdaten",
+     "teaser": "LIDU Maschinenbau verkürzt mit ZOLLER Durchlaufzeiten und erhöht Flexibilität",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/rautiefen-flaechig-zu-messen-optimiert-zerspanungswerkzeuge",
+     "img": {
+      "src": "/fileadmin/_processed_/c/3/csm_hufschmied_teaserimg_b413107b89.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Prüfen & Messen"
+     ],
+     "title": "Rautiefen flächig zu messen, optimiert Zerspanungswerkzeuge",
+     "teaser": "Hufschmied erzielt optimale Messergebnisse mit ZOLLER",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/mit-dem-team-boxenstopp-zum-perfekten-ergebnis",
+     "img": {
+      "src": "/fileadmin/_processed_/4/5/csm_Lauble_teaserimg_2fedde3a58.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Toolmanagement"
+     ],
+     "title": "Mit dem Team Boxenstopp zum perfekten Ergebnis",
+     "teaser": "Lauble optimiert Drehfertigung mit ZOLLER",
+     "date": ""
+    }
+   ],
+   "pages": [
+    {
+     "label": "1",
+     "href": "",
+     "current": true
+    },
+    {
+     "label": "2",
+     "href": "/unternehmen/reports-stories/tag/anwenderbericht?tx_news_pi1%5BcurrentPage%5D=2&cHash=1f198acfde2896b42791df057ec73f64",
+     "current": false
+    }
+   ],
+   "ftype": "news_pi1",
+   "id": "c557",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  }
+ ]
+}

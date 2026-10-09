@@ -1,0 +1,385 @@
+{
+ "path": "/shrink-the-tool",
+ "url": "/ca/shrink-the-tool",
+ "title": "Shrink the tool",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Shrink the tool",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Shrink the tool",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-schrumpfen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-shrinkage",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/contraer-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fretter-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/retrair-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/calettare-lutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/krympning-av-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-schrumpfen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/retrecissement-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%8E%E7%B8%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EC%B6%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/shrink-tool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/contraer-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/retrair-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/1/b/csm_shrinking_header_4f2b52f126.webp",
+     "video": null,
+     "title": "Quick Tool Change with a Shrink Tool",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4381",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>With a good heat-shrink tool, you can change tools quickly, simply, and reliably using various tool holders. Here, we’ll explain in more detail how this works and what benefits it offers.</strong></h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4035",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>What happens during tool shrink fitting?</h4> <p>Shrinking a tool does not mean that the size of the tool itself is reduced. Instead, the tool holder—into which, for example, a drill or cutting tool is inserted—is heated briefly, precisely, and consistently so that it expands.</p> <p>This creates enough space in the tool holder to use the tool. As it cools, the material of the holder contracts consistently on all sides. This ensures that the tool is clamped with high rigidity, maximum clamping force, and proper centering.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4388",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Why are specialized shrink fit holders needed?</h4> <p>Specialized tool holders—known as shrink fit holders—are usually used for shrinking. They are specifically designed to retain their shape despite repeated heating and cooling cycles. For example, they contain no moving parts, ensuring that their balance grade is maintained; it is also important that the concentricity of the shrink fit holder is very high, because otherwise even a very precisely centered tool will be of no use.</p> <p>Compared to conventional chucks, shrink fit holders have the minor disadvantage that a separate chuck with the appropriate diameter is required for each shaft diameter. However, this is offset by the significantly higher concentricity, which is of great importance for high-quality machined workpieces.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4387",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>What is a shrink-fit machine, and how does it work?</h4> <p>A shrink-fit machine heats the shrink fit holder—the tool holder—consistently and quickly using inductive current (i.e., via a magnetic field). With the appropriate supplies and measuring devices, it not only ensures that the new tool is precisely centered when it is used, but it can also ensure the proper length accuracy and measure—and, if necessary, correct—this before the check of the shrink fit holder. Appropriate sensors also prevent the shrink fit holder or the tool from overheating.</p> <p>Automated Tool Heat Shrink Technology ensures, for example, that the overhang length and all other parameters important for machining the workpieces are automatically measured and correctly set—while still making the tool available again in the shortest possible time. This results in short setup times and low overall costs.</p> <p>High-quality shrink-fit devices also feature their own cooling unit, in which the shrink fit holder is cooled with a consistent level of cooling. Contact cooling is used, for example, while some devices also employ water cooling. This cooling system, which corresponds to safety standards, also eliminates the danger of burns, which are possible if the heated tool holder is accidentally touched.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4382",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Adjust, Shrink, and Measure—the Fully Automatic All-in-One Solution </h2>",
+   "body": "<p>With ZOLLER »redomatic«,« shrinking your tools is a stress-free and fully automatic process. Our all-in-one solution for setting up, shrinking, and measuring tools—with all processes automated within a single workflow—features 4-axis CNC control, autofocus, a tool turret, an induction coil, a Tailstock, and a cooling system.</p> <h4><br/>Safe, economical, and precise</h4> <p>With the patented automatic length stop system »(»asza«)«, it offers the option of shrinking-fitting tools to their target length in a simple, quick, and exact manner, with accuracy within at least +/- 10 µm.</p> <p>ZOLLER »redomatic« supplies only as much energy as is absolutely necessary when heating the tool chucks, thereby also protecting your chucks; the heat-shrink guiding system we designed and the patented flue gas suction device ensure greater safety for your employees.</p> <p><a class=\"btn\" href=\"/ca/solutions/tool-heat-shrink-technology\">Learn everything about our successful shrink-fitting solution here</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4040",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> What are the advantages of (to) shrink and unshrink? </h2>",
+   "body": "<p>(To) shrink and (to) unshrink tools offers a number of advantages:</p><ul><li>It is possible to center the tool before the shrink process, which prevents misalignment and ensures high concentricity.</li><li>The tool is held with consistent clamping forces in the shrink fit holder.</li><li>Specialized chucks provide high balance quality and do not deform even after numerous heat-shrink processes.</li><li>With a high-quality shrink-fit device and a suitable shrink-fit holder, the heating and cooling processes take less than a minute.</li><li>For high speeds and tools with long overhangs, no other clamping method allows for similarly precise tool utilization.</li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4039",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Everything in One Place</h3> <p>With our ZOLLER »powerShrink« shrink station, you have everything you need for a quick heat-shrink process in one place. Thanks to its modular design, you can easily adjust the workplace to your needs and requirements.</p> <p>The station is universally compatible with all HSS and carbide tools ranging from 3 to 32 mm in diameter and is also suitable for extremely long tools.</p> <p><a class=\"btn\" href=\"/ca/products/tool-heat-shrink-technology/powershrink\">Learn more about the ZOLLER »powerShrink« shrink station</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c4038",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4036",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Heat Shrink Technology: Your Advantages",
+     "href": "/ca/solutions/tool-heat-shrink-technology",
+     "caption": "<figcaption> <h3>Tool Heat Shrink Technology: Your Advantages</h3> <p>Read how we have achieved significant increases in energy efficiency, process speed and ergonomics. Use perfection for your production. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/shrink-the-tool",
+ "de_path": "/werkzeug-schrumpfen"
+}

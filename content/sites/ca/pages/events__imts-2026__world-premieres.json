@@ -1,0 +1,559 @@
+{
+ "path": "/events/imts-2026/world-premieres",
+ "url": "/ca/events/imts-2026/world-premieres",
+ "title": "World Premieres",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca/events/imts-2026"
+  },
+  {
+   "label": "World Premieres",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca/events/imts-2026"
+  },
+  {
+   "label": "World Premieres",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/imts-2026/vaerldspremiaerer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/imts-2026/micbox",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/imts-2026/premieres-mondiales",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IMTS 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Solutions",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/solutions",
+     "current": false
+    },
+    {
+     "label": "Presenters",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/presenters",
+     "current": false
+    },
+    {
+     "label": "Agenda",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/agenda",
+     "current": false
+    },
+    {
+     "label": "Hotel & Travel",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/hotel-travel",
+     "current": false
+    },
+    {
+     "label": "Register Now!",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    },
+    {
+     "label": "Download",
+     "href": "/ca/events/technology-days-and-smart-manufacturing-summit/download",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c99812",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»micBox«",
+   "text": "<p>Efficient Indexable Insert Changer</p> <p><a class=\"btn\" href=\"/ca/company/contact\">Request Information Now</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/4/4/csm_micbox_header_852f2d46f4.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c99814",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> We stand for smart progress </h2>",
+   "body": "<p>The »micBox« is ZOLLER’s fully automatic system for mounting, rotating, flipping, and exchanging indexable inserts on milling cutters—it operates without human intervention and thus ensures absolute process reliability. Processes that previously required time-consuming manual labor can now be executed with precision and without errors, making the »micBox« a game-changer in your manufacturing operations.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/8fJHOJgAAHA?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER »micBox« – Vollautomatischer Wendeschneidplatten-Wechsler"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c99816",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> System Solution in Detail </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/c/4/csm_micBox_info_3a0fe484f7.webp",
+    "alt": "",
+    "w": 1476,
+    "h": 866
+   },
+   "spots": [
+    {
+     "x": 10.983,
+     "y": 44.136,
+     "label": "Multiple Gripper Magazine",
+     "text": "<h3>Multiple Gripper Magazine</h3> <h4>Gripper Magazine – </h4> <p>which can store up to six grippers for different indexable inserts.</p>"
+    },
+    {
+     "x": 24.277,
+     "y": 26.858,
+     "label": "Agile 6-axis robot",
+     "text": "<h3>Agile 6-axis robot</h3> <h4>6-axis robot – </h4> <p>from Fanuc, which is used to precisely exchange the indexable inserts and torquing tools.</p>"
+    },
+    {
+     "x": 47.451,
+     "y": 11.907,
+     "label": "Integrated magazine for indexable inserts",
+     "text": "<h3>Integrated magazine for indexable inserts</h3> <h4>Magazine for indexable cutting inserts – </h4> <p>offers sufficient space. The two magazines inside the »»micBox«« can be filled in different ways.</p>"
+    },
+    {
+     "x": 61.009,
+     "y": 37.869,
+     "label": "Integrated Lubrication Unit",
+     "text": "<h3>Integrated Lubrication Unit</h3> <h4>Lubrication Unit – </h4> <p>for screws features a specialized grease and guarantees that the screws can be simply released using the screw unit.</p>"
+    },
+    {
+     "x": 54.598,
+     "y": 50.045,
+     "label": "Moving Rotation and Tilting Unit",
+     "text": "<h3>Moving Rotation and Tilting Unit</h3> <h4>Rotation and Tilting Unit – </h4> <p>the 6-axis robot fills the unit with indexable inserts. This process of using the 6-axis robot to insert the indexable inserts into the turning and indexing unit ensures that the inserts are properly reoriented. The screw magazine ensures that a new screw is always used for the tool as needed.</p>"
+    },
+    {
+     "x": 54.808,
+     "y": 64.548,
+     "label": "Efficient Screwing Unit",
+     "text": "<h3>Efficient Screwing Unit</h3> <h4>Screwdriving unit – </h4> <p>with an integrated vacuum gripper, fitted to the robot, which consistently ensures precise screw exchange and torquing at the correct torque.</p>"
+    },
+    {
+     "x": 38.886,
+     "y": 66.338,
+     "label": "High-Precision Universal Spindle",
+     "text": "<h3>High-Precision Universal Spindle</h3> <h4>Universal Spindle – </h4> <p>allows for holding tools weighing up to 20 kg and also enables tools to be precisely positioned during rotation.</p>"
+    },
+    {
+     "x": 18.129,
+     "y": 76.992,
+     "label": "Powerful Control Software",
+     "text": "<h3>Powerful Control Software</h3> <h4>control software – </h4> <p>ensures full operation of the »micBox«. The software can be displayed on additional external screens.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c99818",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> FAQ </h2>",
+      "body": "<p class=\"large-text\">Frequently Asked Questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c99824",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "What advantages does the ZOLLER »micBox« offer over manual assembly of cutter heads?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The fully automated processes, which operate independently of operator’s personnel, ensure the highest level of process reliability. An additional, invaluable advantage is end-to-end traceability. Furthermore, continuous production enables a significant increase in efficiency as well as substantial cost savings—crucial economic advantages for the future.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c99842",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "How can you track the exchange of indexable inserts in the »micBox«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The software and the database function with associated tool IDs document, for each tool, how many times an indexable insert or screw has been used.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c99838",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What are the maximum tool holder sizes that can be recorded in a »micBox«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>With the ZOLLER spindle, the »micBox« can accommodate tools up to HSK 125.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c99834",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Is the screwdriving unit monitored additionally, and can the torque be adjusted variably in a »micBox«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The screwdriving unit fitted on the robot monitors the torque every time a screw is tightened. Depending on the screw, cutter head, and indexable insert, the torque can be adjusted up to 7 Nm (maximum 10 Nm).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c99830",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c99826",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c99822",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Broschuere_Automation_BRAUTOM-00_DE.pdf",
+     "name": "Automation",
+     "size": "5 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/c/csm_ZOLLER_Broschuere_Automation_BRAUTOM-00_DE_5d8f569b78.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Automation"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Broschuere_micBox_BRMICBOX_00_DE.pdf",
+     "name": "»»micBox««",
+     "size": "3 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/6/csm_ZOLLER_Broschuere_micBox_BRMICBOX_00_DE_3b44f2b9d7.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»»micBox««"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_Automation_cora_FLAUTOCORA_00_DE.pdf",
+     "name": "Automation cora – Presetting & Measuring",
+     "size": "919 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/d/csm_ZOLLER_Flyer_Automation_cora_FLAUTOCORA_00_DE_582ae3c3de.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Automation cora – Presetting & Measuring"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_DE_02.pdf",
+     "name": "»wearCheck«",
+     "size": "482 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/8/csm_ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_DE_02_3e84e742ad.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»wearCheck«"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c99844",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Register now </h2>",
+   "body": "<p>Registration for the ZOLLER Open House &amp; Automation Summit is now open!</p> <p><a href=\"https://myzoller.com/us/en/live/detail/1391\" rel=\"noopener\" target=\"_blank\">Register now!</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c99820",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/events/imts-2026/world-premieres",
+ "de_path": ""
+}

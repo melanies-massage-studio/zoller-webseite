@@ -1,0 +1,653 @@
+{
+ "path": "/evenements/imts-2026/decouvrez-zoller",
+ "url": "/ca-fr/evenements/imts-2026/decouvrez-zoller",
+ "title": "Découvrez ZOLLER",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca-fr/evenements/imts-2026"
+  },
+  {
+   "label": "Découvrez ZOLLER",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca-fr/evenements/imts-2026"
+  },
+  {
+   "label": "Découvrez ZOLLER",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/imts-2026/meet-zoller",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/imts-2026/conozca-zoller",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/imts-2026/decouvrez-zoller",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/imts-2026/conheca-a-zoller",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/imts-2026/scopri-zoller",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/imts-2026/moet-zoller",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/imts-2026/meet-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/imts-2026/meet-zoller",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/imts-2026/decouvrez-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/imts-2026/zoller%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/imts-2026/%EC%A1%B8%EB%9F%AC%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%84%B8%EC%9A%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/imts-2026/meet-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/imts-2026/conozca-a-zoller",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/imts-2026/conheca-a-zoller",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IMTS 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Solutions",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/solutions",
+     "current": false
+    },
+    {
+     "label": "Intervenants",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/intervenants",
+     "current": false
+    },
+    {
+     "label": "Ordre du jour",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/ordre-du-jour",
+     "current": false
+    },
+    {
+     "label": "Hôtellerie et voyages",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/hotellerie-et-voyages",
+     "current": false
+    },
+    {
+     "label": "Inscrivez-vous dès maintenant !",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    },
+    {
+     "label": "Télécharger",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/telecharger",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7441",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_csm_meet_zoller_599fe3f5ee_b8eb9cad0a.webp",
+     "video": null,
+     "title": "Rencontrez les experts",
+     "kicker": "",
+     "text": "<p>Journée portes ouvertes ZOLLER &amp; Sommet de l'automatisation</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7439",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Intervenants et équipe ZOLLER </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/e/csm_alexander_zoller_11_1138472629.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Alexander Zoller Président – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Alexander Zoller</h4> <p>Président de ZOLLER Inc. depuis 2004, Alexander Zoller est l'un des moteurs de cette entreprise technologique familiale d'envergure mondiale. C'est lui qui, en tant que visionnaire, a mis en œuvre le plan d'expansion visant la création du nouveau siège social nord-américain et du centre technologique « Industrie 4.0 » à Ann Arbor, dans le Michigan.</p> <p>L’entreprise s’est positionnée, tout comme ses clients, pour s’adapter à la réalité industrielle de demain, où le matériel, les logiciels et l’automatisation fonctionnent en parfaite harmonie afin d’atteindre une efficacité maximale dans la production de pièces.</p> <p>Alexander Zoller a obtenu sa licence en technologies de l'information à l'Université de formation en alternance de Stuttgart en 2001, puis a pris les fonctions de directeur général d'E.Zoller GmbH, avec la responsabilité de la gestion de ZOLLER Inc., en 2004.</p>"
+    },
+    {
+     "logo": null,
+     "label": "Amit Salunkhe Directeur général - ZOLLER India Pvt. Ltd.",
+     "img": null,
+     "text": "<p><strong>Introduction :</strong><br/>Amit Salunkhe est un professionnel chevronné de la gestion qui a fait ses preuves en matière de réussite organisationnelle grâce à un leadership stratégique et à des pratiques de gestion innovantes. Fort de plus de deux décennies d'expérience dans le secteur de l'industrie manufacturière et de la métallurgie, il s'est forgé une réputation de figure respectée, reconnue pour ses compétences en gestion stratégique et sa capacité à assurer une croissance efficace de l'entreprise.</p> <p><strong>Parcours professionnel :</strong><br/>Fort de 21 ans d’expérience de terrain dans le secteur de l’industrie manufacturière et de la métallurgie, Amit Salunkhe a fait preuve d’un sens aigu des affaires et d’une grande maîtrise pour naviguer dans les complexités du monde des affaires.</p> <p><strong>Expertise :</strong><br/>En tant qu’expert en gestion, Amit Salunkhe est spécialisé dans le développement commercial et la gestion des ventes, avec un atout unique en matière de consolidation d’équipe. Ses compétences stratégiques ont permis la mise en œuvre réussie de stratégies visant à optimiser l’efficacité opérationnelle, à favoriser la collaboration au sein des équipes et à instaurer une culture d’amélioration continue.</p> <p><strong>Réalisations :</strong><br/>Tout au long de sa brillante carrière, Amit Salunkhe a franchi des étapes remarquables, notamment en générant une croissance significative de l’activité dans les domaines du préréglage et de l’inspection des outils. Sa capacité à constituer des équipes motivées et ses contributions exceptionnelles à l’industrie métallurgique sont largement reconnues.</p> <p><strong>Contributions au secteur :</strong><br/>Les efforts constants d’Amit Salunkhe en faveur de la transformation des connaissances relatives à l’utilisation des dépenses d’investissement (Capex), aux solutions de l’Industrie 4.0 et à la mise en place d’usines intelligentes pour l’industrie de la métallurgie et de la fabrication d’outils lui ont valu la reconnaissance de ses pairs et des acteurs du secteur.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/b/csm_Elias_Godoy_-_1000x1000_1cbdd38eba.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Elias Godoy Directeur général - ZOLLER Brésil",
+     "img": null,
+     "text": "<p>Elias Godoy est ingénieur de production, spécialiste de la fabrication et cadre supérieur, fort d'une solide expérience dans les domaines de l'industrie, du commerce et du développement commercial. Fort d'une formation technique en mécanique d'usinage obtenue au SENAI-SP et d'une vaste expérience dans le secteur de la fabrication, il a bâti sa carrière en alliant expertise technique, vision stratégique et excellents résultats dans la vente consultative.</p> <p>Il occupe actuellement le poste de directeur général de ZOLLER Brésil, où il dirige des équipes pluridisciplinaires en mettant l’accent sur la croissance durable, l’expansion du marché et la génération de résultats. Tout au long de sa carrière, il a développé une expertise dans la gestion des opérations commerciales, la définition de stratégies de vente, la conduite de négociations à forte valeur ajoutée, la constitution d’équipes hautement performantes et la réalisation d’objectifs ambitieux.</p> <p>Son travail se caractérise par sa capacité à transformer les opportunités en résultats concrets, en associant technologie, innovation et besoins des clients afin de stimuler la productivité, la rentabilité et la compétitivité. Accordant une grande importance aux indicateurs de performance, il est convaincu que la réussite d’une entreprise passe par la planification, une exécution rigoureuse et le développement continu des ressources humaines.</p> <p>Reconnu pour son leadership de terrain et son approche axée sur les résultats, Elias est animé par la mission de contribuer à la croissance de l’organisation grâce à l’excellence opérationnelle, à l’innovation et à une culture commerciale axée sur la création de valeur pour les clients, les partenaires et les équipes.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/3/csm_OSCAR-_3172b5af98.webp",
+      "alt": "",
+      "w": 6000,
+      "h": 4609
+     },
+     "label": "Oscar Gonzalez Directeur général - ZOLLER Mexique",
+     "img": null,
+     "text": "<p>Tout au long de ma carrière, j'ai eu le privilège de travailler chez ZOLLER Mexico, où j'occupe aujourd'hui le poste de directeur général, et où j'ai contribué à la croissance et à la consolidation de l'entreprise. Je me suis toujours attaché à l'amélioration continue, à l'optimisation des processus et à la capacité à s'adapter aux exigences changeantes du secteur.</p> <p>Mon objectif a toujours été d’offrir à nos clients des solutions de pointe tout en respectant les normes de qualité et de précision les plus élevées qui font notre réputation. </p> <p>En tant que dirigeant, je m'engage à positionner ZOLLER comme un leader du secteur, en proposant un service exceptionnel et des solutions technologiques qui font la différence dans les processus de nos clients.</p>"
+    },
+    {
+     "logo": null,
+     "label": "Martin González Responsable régional, région Sud - ZOLLER Mexique",
+     "img": {
+      "src": "/fileadmin/_processed_/e/7/csm_MARTIN_eb4a704c6b.webp",
+      "alt": "",
+      "w": 4464,
+      "h": 5295
+     },
+     "text": "<p>Ingénieur doté d'une vaste expérience dans la vente B2B et le développement commercial. Au cours des cinq dernières années passées chez Zoller, j'ai aidé l'entreprise à atteindre ses objectifs de vente grâce à des stratégies commerciales alignées sur les indicateurs financiers et de rentabilité. Mon approche consiste à diriger les équipes dans un esprit de collaboration, à renforcer les relations avec les clients et à favoriser une croissance durable pour l'entreprise.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/7/csm_David__1000x1000_3687ab238b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "David Marquez Responsable régional, région Nord - ZOLLER Mexique",
+     "img": null,
+     "text": "<p>Ingénieur expérimenté dans les technologies industrielles et le développement commercial. En tant que responsable commercial chez ZOLLER, je me consacre à l'identification des besoins des clients, à la fourniture de conseils techniques spécialisés et à l'accompagnement de ces derniers dans la mise en œuvre de solutions visant à optimiser leurs processus et à renforcer leur compétitivité. Je m'engage à établir des relations solides et à obtenir des résultats durables grâce à un service complet et axé sur la valeur ajoutée.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Moll Directeur des ventes – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Dietmar Moll</h4> <p>Dietmar Moll est directeur commercial chez ZOLLER Inc. et titulaire d'un master en ingénierie de l'Université coopérative d'État de Stuttgart.</p> <p>M. Moll mène une longue carrière chez ZOLLER, au cours de laquelle il a occupé de nombreux postes à l'international dans le domaine commercial, ainsi que des fonctions de direction générale en Inde, en Thaïlande et aux États-Unis.</p> <p>Au total, il possède plus de 18 ans d’expérience dans le domaine de la fabrication efficace, avec une spécialisation dans les applications de machines-outils et dans l’accompagnement des entreprises pour leur permettre de mieux comprendre leurs capacités de processus grâce à des solutions de préréglage d’outils, de mesure et d’inspection, de gestion des outils et d’automatisation.</p> <p>Son expérience de collaboration avec des entreprises et des partenaires issus de divers secteurs industriels, notamment l’aérospatiale, le pétrole et le gaz, l’automobile et l’exploitation minière, garantit que ZOLLER est en phase avec les défis concrets de la production de pièces, alors que la fabrication intelligente, l’analyse de données et l’Industrie 4.0 ouvrent la voie à une nouvelle génération de possibilités en matière de technologies intégrées et de pratiques de fabrication avancées.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/6/csm_cody_11_66ad0bd6f8.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cody Mitchell Responsable commercial régional – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cody Mitchell</h4> <p>Cody Mitchell est directeur commercial régional pour les régions Nord et Sud-Est chez ZOLLER Inc. Il travaille chez ZOLLER depuis 2012.</p> <p>Issu d'une formation d'ingénieur, M. Mitchell a auparavant travaillé dans le développement de lames de scie et le contrôle géométrique à l'aide des équipements d'inspection ZOLLER. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/d/csm_Dallas_-_1000x1000_37c71727ae.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dallas Sindlinger Responsable adjoint des ventes - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "Rita Conroy-Martin Directeur du marketing et de l'expérience client – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Rita Conroy-Martin</h4> <p>Rita Conroy-Martin est directrice du marketing et de l'expérience client chez ZOLLER Inc. Polyglotte, elle possède plus de 25 ans d'expérience professionnelle internationale dans les domaines de la vente et du développement commercial, du marketing et des achats, principalement dans le secteur industriel.</p> <p>Elle se passionne pour l'alignement des ventes et du marketing dans le contexte d'une transformation radicale qui redéfinit les règles régissant la manière dont les entreprises, grandes ou petites, interagissent avec leurs prospects et leurs clients.</p> <p>Dans le cadre de ses fonctions actuelles chez ZOLLER Inc., elle combine des stratégies traditionnelles et émergentes de marketing et de développement commercial afin d’informer, d’impliquer, d’accompagner et de faire progresser les clients et prospects vers de nouveaux niveaux d’efficacité grâce aux solutions ZOLLER.</p> <p>Elle est diplômée de l'université de Limerick, en Irlande, où elle a obtenu une licence en commerce et en allemand, ainsi que d'un master en sciences politiques de l'Université Libre de Bruxelles, en Belgique. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/8/csm_Felix_Kanbach_30_91a33e82e2.webp",
+      "alt": "",
+      "w": 1929,
+      "h": 1987
+     },
+     "label": "Felix Kanbach Responsable du service national – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Felix Kanbach</h4> <p>Felix Kanbach est responsable national du service après-vente chez ZOLLER Inc. Il est titulaire d'un master en génie mécanique de l'Université des sciences appliquées de Heilbronn, en Allemagne.</p> <p>Dans le cadre de ses fonctions actuelles, M. Kanbach dirige les équipes chargées du service après-vente, de l'assistance technique et de l'ingénierie d'application, veillant ainsi à la prestation constante d'un service et d'un soutien après-vente de premier ordre.</p> <p>Auparavant, en tant que responsable des solutions de gestion d'outils (TMS) chez ZOLLER, il gérait l'ensemble des activités de mise en œuvre, de déploiement et de formation pour la clientèle utilisant les solutions logicielles et matérielles de gestion d'outils de ZOLLER.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/2/csm_werner_lueken_v4_28_bcac49f60f.webp",
+      "alt": "",
+      "w": 711,
+      "h": 711
+     },
+     "label": "Werner Lueken Directeur des solutions d'inspection d'outils – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Werner Lueken</h4> <p>Werner Lueken est directeur des solutions d'inspection d'outils chez ZOLLER Inc.</p> <p>Il a obtenu en 1997 un diplôme d'ingénieur en conception industrielle à l'Université des sciences appliquées de Kiel, en Allemagne. </p> <p>M. Lueken travaille chez ZOLLER Inc. depuis 23 années intenses et a occupé de nombreuses fonctions, toujours dans le but d’accompagner les clients dans leurs besoins en matière d’inspection d’outils.</p> <p>Il se consacre avec passion à aider les fabricants d'outils de coupe et les utilisateurs finaux à résoudre leurs problèmes liés à la géométrie des outils et à leur apporter une garantie quant à la qualité de ces derniers. Il est reconnu comme un expert dans ce domaine, tant aux États-Unis qu'à l'échelle mondiale.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/f/csm_brothers_10_2e640c257f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt Brothers Responsable du centre technologique Industrie 4.0 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Matt Brothers</h4> <p>Matt Brother est responsable du centre technologique Industrie 4.0 chez ZOLLER Inc.</p> <p>Fort de plus de 20 ans d’expérience dans le contrôle et la fabrication d’outils de coupe de forme spéciale, il apporte à ZOLLER un ensemble de compétences unique, notamment grâce à sa spécialisation dans le développement de processus de contrôle des outils de coupe et le dépannage.</p> <p>Par le passé, M. Brothers a travaillé chez Starcutter et Northern Tool. Il est chez ZOLLER depuis 2017.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/8/csm_nelu_13_add1496942.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Nelu Bilba Spécialiste en productivité industrielle – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Nelu Bilba</h4> <p>Nelu Bilba est spécialiste de la productivité industrielle chez ZOLLER Inc. Il travaille avec les clients, nouveaux et existants, afin d'améliorer leurs processus de fabrication, en leur proposant des solutions ZOLLER adaptées. Il est spécialiste des outils de coupe et des porte-outils.</p> <p>Avant d’être embauché chez ZOLLER Inc., il était client de ZOLLER au sein d’entreprises aux États-Unis et en Allemagne. Il a suivi sa formation technique en Roumanie et en Allemagne. Après avoir poursuivi ses études en Allemagne, il a occupé divers postes dans le domaine de la fabrication, allant du prototypage à l’usinage à cinq axes, en passant par la fabrication d’outils de coupe.</p> <p>Depuis son installation aux États-Unis en 2011, Bilba a occupé une série de postes de direction dans le domaine de la fabrication, notamment en tant que chef de service et directeur de production/d'usine.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_Markus_Lewandrowski_18_78fa01f75f.webp",
+      "alt": "",
+      "w": 1536,
+      "h": 1536
+     },
+     "label": "Markus Lewandrowski Responsable R&D – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Markus Lewandrowski</h4> <p>Markus Lewandrowski est responsable de la R&amp;D chez ZOLLER Inc.</p> <p>Après avoir suivi une formation d’outilleur-mouliste et obtenu un diplôme d’ingénieur, il s’est installé en Amérique du Nord en 2002 pour diriger des projets, notamment dans les domaines de la R&amp;D, de la conception de produits, des études structurelles et de formage à l’aide de la méthode des éléments finis (FEM), etc.</p> <p>La suite de sa carrière l’a conduit à diriger pendant 15 ans un atelier CNC sur mesure spécialisé dans la fourniture de pièces aérospatiales et d’outillage automobile. En tant que client de ZOLLER ayant investi dans un préselecteur ainsi que dans des logiciels et du matériel de gestion d’outils pour rationaliser ses opérations, il a facilement mis en œuvre le système qualité AS9100.</p> <p>M. Lewandrowski possède une connaissance approfondie des commandes CNC, de l’usinage 5 axes et de divers logiciels de FAO et de simulation/vérification ; il dirige l’équipe de R&amp;D nord-américaine de ZOLLER Inc.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cédric Hasenfratz Responsable des ventes et des partenariats pour l'Amérique du Nord (TMS) – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cédric Hasenfratz</h4> <p>Cedric Hasenfratz est responsable des ventes et des partenariats pour l'Amérique du Nord au sein de la gamme ZOLLER TMS Tool Management Solutions. Il se consacre avec passion à la mise en œuvre de solutions d'efficacité dans le secteur de la fabrication.</p> <p>Avant de rejoindre ZOLLER, il occupait le poste de responsable de compte pour les États-Unis au sein de la division Manufacturing Intelligence d'Hexagon, dans le secteur de la vente de logiciels.</p> <p>Il possède une connaissance approfondie et une grande expérience de la gestion numérique des outils et de l'optimisation des processus pour l'industrie manufacturière moderne. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/2/csm_maerz_08_4bd67fd665.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Georg Maerz Responsable commercial national - ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Georg Maerz</h4> <p>Georg Maerz est directeur commercial national chez ZOLLER Inc. Il a suivi des études d'ingénierie à l'École supérieure d'ingénierie mécanique de Wurtzbourg, en Allemagne, et a effectué son apprentissage en technologie des machines-outils à Espelkamp, en Allemagne. Il a rejoint ZOLLER en 2010, où il accompagne les clients du secteur de l'usinage et les aide à mettre en place des processus de fabrication efficaces. Il a débuté sa carrière en tant que mouliste avant d'être promu au poste de responsable des opérations pour soutenir l'usine. En 2002, il a dirigé les opérations d'un nouveau site de fabrication de moules et d'usinage aux États-Unis afin d'offrir un meilleur accompagnement aux clients américains. Au cours de sa carrière, il a acquis une expertise dans le secteur des machines-outils et dans la technologie des outils de coupe, en s'appuyant sur des technologies de pointe.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_gaether_06_10e992158f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Gaertner Ingénieur commercial et d'application - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/a/5/csm_traxler_06_f60c5602a1.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "John Traxler Responsable commercial régional – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/6/csm_Emily_Brunnschweiler_09_5359e05568.webp",
+      "alt": "",
+      "w": 1500,
+      "h": 1500
+     },
+     "label": "Emily Brunnschweiler Responsable commercial régional - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/0/csm_bird_06_ec283afc5b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt Bird Responsable commercial régional - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_brooks_06_79f458b024.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Brooks Hay Responsable commercial régional - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/d/csm_Elissa_Aurand_o_Logo_11_18b13ebe00.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 961
+     },
+     "label": "Elissa Aurand Réceptionniste – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/8/csm_Brian_Morris_-_1000x1000_8f633df75d.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Brian Morris Ingénieur commercial - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/6/f/csm_Kevin_-_1000x1000_4898d4a125.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Kevin Bechle Ingénieur commercial et d'applications - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/9/csm_Andreas_-_1000x1000_6c6f0f15a2.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Andreas Diel Responsable régional - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/b/csm_Zachery_Barrett_-_1000x1000_339205b541.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Zach Barrett Responsable commercial régional - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/e/csm_Clayton_Springer_o_logo_16_11847040e5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 954
+     },
+     "label": "Clayton Springer Spécialiste en production vidéo – ZOLLER INC.",
+     "img": null,
+     "text": "<h4>Clayton Springer</h4> <p>Clayton Springer est le spécialiste de la production vidéo au sein du service marketing de ZOLLER Inc.</p> <p>Il possède une expérience dans le domaine de la retransmission sportive, du journalisme télévisé en direct et du marketing d'entreprise. Il produit notamment du contenu pour les réseaux sociaux, des publicités pour la télévision par câble, du matériel promotionnel, des vidéos de produits et des diffusions en direct.</p> <p>Il est titulaire d'une licence en production télévisuelle et médias numériques de l'université Ferris State.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7437",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Partenaires technologiques </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/d/csm_anca_08_ba056273f9.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "Machines CNC ANCA Affûteuses d'outils CNC, systèmes d'automatisation et logiciels",
+     "img": {
+      "src": "/fileadmin/_processed_/6/f/csm_anca_feature_07_79c77c6f85.webp",
+      "alt": "",
+      "w": 1024,
+      "h": 810
+     },
+     "text": "<h4>Machines CNC ANCA</h4> <p>ANCA est un leader mondial dans la conception et la fabrication de rectifieuses d'outils à commande numérique, de marqueurs laser, de solutions d'automatisation, de systèmes de commande de mouvement et de composants en tôle.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/a/csm_SW_logo_03_e9e71f7490.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "SW Usinage multibroches",
+     "img": null,
+     "text": "<h4>SW</h4> <p>Pour les fabricants qui souhaitent réduire leurs coûts de production et leur encombrement au sol, tout en relevant les défis liés à la pénurie de main-d'œuvre, SW propose une large gamme de machines CNC à un ou plusieurs broches, des solutions d'automatisation et des systèmes complets. SW fournit depuis longtemps des machines à de nombreux secteurs industriels, notamment dans le cadre des réglementations ITAR et FFL. Nos solutions d'automatisation intégrables réduisent les coûts de main-d'œuvre, et notre concept multibroches permet d'optimiser l'espace au sol disponible.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/7/csm_PraesiDM_logo_03_e4d0a75aad.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "PraesiDM Fabrication avancée autonome",
+     "img": null,
+     "text": "<h4>PraesiDM</h4> <p>PraesiDM est une entreprise de fabrication axée sur l'ingénierie qui produit de manière autonome des composants de haute précision pour le secteur industriel américain. Notre suite logicielle numérique tout-en-un modernise la conception des pièces et normalise la production au sein d’un écosystème de fabrication intelligemment connecté. Grâce à la collecte de données, nos machines apprennent et s’optimisent de manière autonome, offrant ainsi des solutions complètes pour toutes les industries de pointe.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/9/csm_Tools_United_logo_03_cd26d02611.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "ToolsUnited Données sur les outils provenant des principaux fabricants d'outils de coupe",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/2/csm_MachiningCloud-logo-Horizontal-Color_600x600px._02_63c39f7963.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "MachiningCloud Logiciel de gestion d'outils CNC et données",
+     "img": null,
+     "text": "<h4>MachiningCloud</h4> <p>MachiningCloud est la ressource de référence axée sur les données qui révolutionne la manière dont les fabricants recherchent, sélectionnent et utilisent les outils de coupe, les systèmes de serrage et les machines. Bien plus qu'un simple catalogue de pièces, cette plateforme offre un écosystème numérique complet et interconnecté comprenant des données produit riches et normalisées, une sélection intelligente d'outils, des données complètes sur les avances et les vitesses de coupe, et bien plus encore.</p> <p>En comblant le fossé entre les outils physiques et le monde numérique, MachiningCloud aide les fabricants à gagner en efficacité, à réduire leurs coûts et à améliorer leur productivité globale. C'est la plateforme incontournable pour tous ceux qui souhaitent prendre des décisions plus éclairées et fondées sur les données dans le cadre de leurs opérations d'usinage.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/0/csm_Vericut_600x600px_02_53bf10f479.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "CGTech Simulation CNC et service de qualité supérieure",
+     "img": null,
+     "text": "<h4>CGTech</h4> <p>Basée à Irvine, en Californie, CGTech est spécialisée dans les logiciels de simulation, de vérification, d’optimisation, de post-traitement et d’analyse pour l’usinage à commande numérique (NC/CNC). Depuis 1988, le logiciel Vericut de la société est devenu la référence du secteur pour la simulation de l'usinage CNC, permettant de détecter les erreurs, les collisions potentielles ou les zones d'inefficacité. Vericut permet aux programmeurs CN de réduire les essais de validation, d'éliminer pratiquement toutes les erreurs et d'optimiser les programmes CN pour un usinage plus rapide et plus efficace. Vericut prend en charge une large gamme de machines-outils CNC et peut fonctionner comme solution autonome ou être intégré aux principaux systèmes de FAO. Avec des bureaux dans 12 pays et un réseau mondial de revendeurs, Vericut s'engage à fournir une assistance complète à ses utilisateurs partout dans le monde. Pour plus d'informations, rendez-vous sur le site Web de Vericut à l'adresse <a class=\"link-arrow\" href=\"https://www.vericut.com/\" rel=\"noopener\" target=\"_blank\">vericut.com</a>.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7433",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/imts-2026/decouvrez-zoller",
+ "de_path": ""
+}

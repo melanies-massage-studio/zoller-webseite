@@ -1,0 +1,354 @@
+{
+ "path": "/solutions/mecanizado-cnc-de-piedra",
+ "url": "/mx/solutions/mecanizado-cnc-de-piedra",
+ "title": "Mecanizado CNC de piedra",
+ "description": "Mecanizado CNC de piedra",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/mx/solutions"
+  },
+  {
+   "label": "Mecanizado CNC de piedra",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/mx/solutions"
+  },
+  {
+   "label": "Mecanizado CNC de piedra",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/cnc-steinbearbeitung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/stone-cnc-machining",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/mecanizado-cnc-de-piedra",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/usinage-de-pierre-par-cnc",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/processamento-de-pedra-cnc",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/lavorazione-della-pietra-cnc",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/cnc-bearbetning-av-sten",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/cnc-steinbearbeitung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/stone-cnc-machining",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/usinage-de-la-pierre-par-cnc",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/stone-cnc-machining",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/mecanizado-cnc-de-piedra",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/processamento-de-pedra-cnc",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/0/csm_header_cnc_steinbearbeitung_5057b88b46.webp",
+     "video": null,
+     "title": "Mecanizado de piedra CNC",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c30133",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Quien sea capaz de crear el contorno perfecto en un tiempo más corto, ganará la competencia. ¡Empecemos! </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c30115",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>La fabricación de contornos precisos en losas de piedra requiere mucho tiempo, ya que las herramientas de diamante deben rectificarse de manera regular. Sin embargo, ahí es precisamente donde yace el potencial para optimizar los procesos. ZOLLER cuenta con las tecnologías adecuadas para reducir de manera significativa el tiempo necesario para obtener resultados perfectos mediante la medición, la inspección y la limpieza de herramientas. </strong></p> <p>Normalmente, las herramientas de diamante se reacondicionan después de 150 a 200 metros de trabajo con piedra. Esto supone a menudo una pérdida de varias horas de valioso tiempo de producción por máquina y turno. Conocer con exactitud el estado de las herramientas permite reducir este enorme gasto de tiempo y garantizar una mayor capacidad de producción. </p> <p>Con los equipos de precisión de ZOLLER, obtendrá información completa y precisa al micrómetro sobre el estado de las herramientas. Conocerá los valores de numerosas Geometrías de la herramienta y registrará con exactitud los contornos. Con los datos obtenidos, podrá optimizar parámetros del proceso como, por ejemplo, la medida de arranque. De este modo, se abre el camino hacia una calidad de filo perfecta, una larga vida útil de las herramientas y un tiempo de funcionamiento de la máquina considerablemente mayor. Ventajas inigualables frente a la competencia. </p> <p><a class=\"btn\" href=\"/mx/productos/comprobacion-y-medicion/mecanizado-cnc-de-piedra\">Mostrar productos</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c30106",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c30124",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Preparar herramientas de piedra en serie </h2>",
+   "body": "<p>Todas las herramientas, desde el esmerilado de grano grueso hasta el pulido fino, se registran sucesivamente en un único proceso; los contornos se comparan automáticamente y las desviaciones se muestran de inmediato. Los equipos ZOLLER optimizan los valores de medición y corrección entre sí y también pueden encargarse de la transferencia automatizada de datos directamente al control CNC, sin necesidad de volver a configurar. De este modo, todo el juego de herramientas encaja a la perfección y tanto el tiempo de preparación como el tiempo de inactividad de la máquina se reducen considerablemente. Los perfiles fabricados: ¡simplemente excelentes!</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/0/csm_cnc_steinbearbeitung_01_fa256afb63.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c30088",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Ajuste, medición, comprobación y limpieza de herramientas de diamante </h2>",
+   "items": [
+    {
+     "href": "/mx/productos/ajuste-y-medicion/mecanizado-cnc-de-piedra/smile-gbo",
+     "title": "»smile | GBO«",
+     "text": "<p>Permite una medición de altura en particular precisa gracias a su óptica de gran formato.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_ab539499c1.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/mx/productos/comprobacion-y-medicion/mecanizado-cnc-de-piedra/condiaz",
+     "title": "»conDiaZ«",
+     "text": "<p>Aparato de inspección especial para medir y comprobar herramientas de diamante para trabajar piedra.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_66ae2d253b.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/mx/productos/comprobacion-y-medicion/mecanizado-cnc-de-piedra/condress",
+     "title": "»conDress«",
+     "text": "<p>Limpieza y restauración de la capacidad de corte de las herramientas para trabajar la piedra.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_conDress_preview_e519dedb34.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c30052",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/4/csm_zoller_system_teaser_es_85acaf2d2a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Inicie con una solución, ingrese a un sistema.",
+     "href": "/mx/el-sistema",
+     "caption": "<figcaption> <h3>Inicie con una solución, ingrese a un sistema.</h3> <p>Nuestros clientes se benefician de soluciones integrales que hemos estado desarrollando durante décadas. El resultado: una eficiencia excelente. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/solutions/mecanizado-cnc-de-piedra",
+ "de_path": "/solutions/cnc-steinbearbeitung"
+}

@@ -1,0 +1,278 @@
+{
+ "path": "/empresa/informes-e-historias/tag/event-1",
+ "url": "/mx/empresa/informes-e-historias/tag/event-1",
+ "title": "Informes e historias",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Informes e historias",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Informes e historias",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories/tag/event-1",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories/tag/event-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories/tag/event-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles/tag/event-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories/tag/event-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias/tag/event-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias/tag/event-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Informes e historias </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3213",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "taglist",
+   "tags": [
+    {
+     "label": "Event",
+     "href": "/mx/empresa/informes-e-historias/tag/event-1"
+    },
+    {
+     "label": "Automation",
+     "href": "/mx/empresa/informes-e-historias/tag/automation"
+    }
+   ],
+   "ftype": "news_taglist",
+   "id": "c3330",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "",
+   "articles": [
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/zoller-destaca-en-la-imts-2026",
+     "img": {
+      "src": "/fileadmin/_processed_/9/8/csm_Team_ZOLLER_at_IMTS_4d2a8942d2.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Event"
+     ],
+     "title": "ZOLLER destaca en la IMTS 2026",
+     "teaser": "ZOLLER destaca en la IMTS 2026 con una nueva tecnología de automatización revolucionaria para la fábrica inteligente.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/default-b05699786d81db9fd2d922cd61185589",
+     "img": {
+      "src": "/fileadmin/_processed_/9/0/csm_Collins_e18fd94a22.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Empresa",
+      "Event"
+     ],
+     "title": "El premio «Toolroom of the Year» de ZOLLER reconoce a los innovadores del sector en la IMTS",
+     "teaser": "¿Tienes lo que hace falta para ser coronado como el Toolroom of the Year de ZOLLER? Descubre quiénes son nuestros ganadores de 2026 y cómo están creando talleres de herramientas de primer nivel.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/80-anos-de-zoller-mirando-hacia-el-futuro",
+     "img": {
+      "src": "/fileadmin/_processed_/d/d/csm_interview_emo_x-technik_teaserimg_1bca8d87d2.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Event"
+     ],
+     "title": "80 años de ZOLLER: mirando hacia el futuro",
+     "teaser": "En el marco de la EMO 2025, Christoph Zoller conversó con el ingeniero Robert Fraunberger, editor jefe de la revista especializada x-technik Fertigungstechnik.",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_pi1",
+   "id": "c557",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/empresa/informes-e-historias/tag/event-1",
+ "de_path": "/unternehmen/reports-stories/tag/event-1"
+}

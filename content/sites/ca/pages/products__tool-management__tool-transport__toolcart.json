@@ -1,0 +1,327 @@
+{
+ "path": "/products/tool-management/tool-transport/toolcart",
+ "url": "/ca/products/tool-management/tool-transport/toolcart",
+ "title": "»toolCart«",
+ "description": "»toolCart« - For convenient tool transport - tool cart",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Tool Transport /",
+   "href": "/ca/products/tool-management/tool-transport"
+  },
+  {
+   "label": "»toolCart«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Tool Transport /",
+   "href": "/ca/products/tool-management/tool-transport"
+  },
+  {
+   "label": "»toolCart«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/smart-cabinets/toolcart",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-transportation/toolcart",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transport-des-outils/toolcart",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasporto-degli-utensili/toolcart",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygstransport/toolcart",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeugtransport/toolcart",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-transportation/toolcart",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transport-doutils/toolcart",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81/toolcart",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-transportation/toolcart",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolCart«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "configuration",
+     "href": "/ca/products/tool-management/tool-transport/toolcart/configuration",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/ca/products/tool-management/tool-transport/toolcart/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/tool-management/tool-transport/toolcart/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/tool-management/tool-transport/toolcart/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3014",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»toolCart«",
+   "text": "<p>For convenient tool transport</p> <p><a class=\"btn\" href=\"/ca/company/contact\">Request more information now</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/4/3/csm_toolCart_header_1d36565969.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c3008",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/6/csm_Infolayer_toolCart_lochraster_4391f1bb0e.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Sturdy Tool Cradle",
+     "caption": "<figcaption> <h3>Sturdy Tool Cradle</h3> <p>Tool cradles – can be universally fastened to the grid on the side walls and are suitable for complete tool sets of different sizes. Thanks to its load-bearing capacity, the »toolCart 750« can transport a total load of up to 250 kg despite its low weight. Thanks to assembly hook sets, important accessories such as an oil can or gloves can be securely secured to the flexible assembly grid.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/5/csm_Infolayer_toolCart_rahmen_88fd5333c1.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Flexible Applications",
+     "caption": "<figcaption> <h3>Flexible Applications</h3> <p>Inserts – allow for the organized holding of complete tools of different sizes. Thanks to the Y-shape of the tool inserts, you can transport even more tools per frame in »the« »toolCart 750« in a space-saving manner, e.g., HSK 63.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/c/csm_Infolayer_toolCart_griff_f662d3dac9.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Ergonomic handle",
+     "caption": "<figcaption> <h3>Ergonomic handle</h3> <p>Handle – an extremely sturdy and functional type of equipment for the »toolCart«. It allows tools and adapters to be transported safely and conveniently throughout the production facility.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3053",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data - including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/products/tool-management/tool-transport/toolcart",
+ "de_path": "/produkte/toolmanagement/smart-cabinets/toolcart"
+}

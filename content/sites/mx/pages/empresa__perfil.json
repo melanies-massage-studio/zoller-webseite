@@ -1,0 +1,347 @@
+{
+ "path": "/empresa/perfil",
+ "url": "/mx/empresa/perfil",
+ "title": "Perfil",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Perfil",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Perfil",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/perfil",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/profil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/perfil",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/profilo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/profile",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/5/csm_header_zoller_profile_d86d616a1c.webp",
+     "video": null,
+     "title": "ZOLLER: innovadora, con los pies en la tierra y abierta al mundo",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c732",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>El nombre ZOLLER tiene una estrecha conexión con un equipo de más de 800 personas, numerosas innovaciones y la solidez de una empresa familiar.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c718",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Precisión excepcional, manejo sencillo y alta calidad: estas características definen nuestros productos y motivan nuestras acciones. La base de todo ello son nuestros más de 800 empleados|operarios|trabajadores en 62 países. Representan una diversidad en particular de capacidades, ideas, formas de pensar y enfoques, culturas e idiomas. El valor de esta diversidad para la cultura empresarial y el potencial de desarrollo no puede subestimarse. </strong></p> <p>Nos consideramos una empresa familiar cosmopolita y afín a la tecnología. Nuestras raíces yacen en el carácter tradicional de las medianas empresas, y nuestro crecimiento se basa en la interacción, la innovación y la voluntad de impulsar el progreso.</p> <p>ZOLLER está presente allí donde el mecanizado, la fabricación de herramientas y el afilado de herramientas son factores económicos importantes. Ofrecemos un sistema único en el mundo que combina la técnica de medición|metrología, la tecnología de inspección, la gestión de herramientas, el software y la automatización. Este sistema hace que cualquier proceso de fabricación sea más eficiente. </p> <p>Los clientes de ZOLLER provienen de todos los sectores en los que los procesos de mecanizado y las herramientas de corte contribuyen de manera significativa a la creación de valor. Entre ellos se encuentran, por ejemplo, la automoción, la aeronáutica y la astronáutica, la tecnología médica, la ingeniería mecánica, la construcción de plantas y la fabricación de moldes.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c719",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c717",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/c/csm_christoph_zoller_f1f81f2503.webp",
+     "alt": "",
+     "w": 633,
+     "h": 558,
+     "title": "Christoph Zoller",
+     "caption": "<figcaption> <h3>Christoph Zoller</h3> <p>Director general<br/> E. ZOLLER GmbH &amp; Co. KG</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/1/csm_eberhard_zoller_ba7fd2e3c1.webp",
+     "alt": "",
+     "w": 633,
+     "h": 558,
+     "title": "Eberhard Zoller",
+     "caption": "<figcaption> <h3>Eberhard Zoller</h3> <p>Director general<br/> E. ZOLLER GmbH &amp; Co. KG</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/8/csm_alexander_zoller_30a3192a79.webp",
+     "alt": "",
+     "w": 633,
+     "h": 558,
+     "title": "Alexander Zoller",
+     "caption": "<figcaption> <h3>Alexander Zoller</h3> <p>Director general<br/> E. ZOLLER GmbH &amp; Co. KG</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1129",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_teaser_map_c7d5eb53c3.webp",
+    "alt": ""
+   },
+   "text": "<h3>A su servicio en todo el mundo</h3> <p><a class=\"btn\" href=\"/mx/empresa/contacto/ubicaciones\">Buscar ubicación</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c789",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/f/csm_teaser_media_0b667ef36d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Medios de comunicación",
+     "href": "/mx/empresa/medios-de-comunicacion",
+     "caption": "<figcaption> <h3>Medios de comunicación</h3> <p>Aquí encontrará comunicados de prensa, anuncios de productos, participaciones en ferias, reportajes de prensa de revistas especializadas y el <br/> archivo de noticias.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/d/csm_teaser_career_83100f9fea.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Carrera profesional",
+     "href": "/mx/empresa/carrera-profesional",
+     "caption": "<figcaption> <h3>Carrera profesional</h3> <p>Nadie conoce el futuro con precisión. Pero si desea contribuir a él, ZOLLER es la empresa adecuada. Únase ahora al equipo del progreso.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_teaser_newsletter_2d25c4cefc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "boletín informativo",
+     "href": "/mx/empresa/contacto/boletin-informativo",
+     "caption": "<figcaption> <h3>boletín informativo</h3> <p>En el boletín informativo de ZOLLER «Insights into progress» presentamos temas importantes del sector. Informamos sobre productos, casos de éxito y fechas. Inicie sesión ahora.</p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2847",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/empresa/perfil",
+ "de_path": "/unternehmen/profil"
+}

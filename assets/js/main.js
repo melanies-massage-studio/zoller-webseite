@@ -5,6 +5,8 @@
   const doc = document.documentElement;
   const body = document.body;
   const ROOT = body.dataset.root || './';
+  // Übersetzungen der Länderseiten (window.ZI18N, deutscher Text als Schlüssel)
+  const T = (s) => (window.ZI18N && window.ZI18N[s]) || s;
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const hasGSAP = !!(window.gsap && window.ScrollTrigger) && !reduced;
   const $ = (s, c = document) => c.querySelector(s);
@@ -94,7 +96,7 @@
   let index = null;
   const loadIndex = async () => {
     if (index) return index;
-    try { index = await fetch(ROOT + 'assets/search-index.json').then(r => r.json()); } catch (e) { index = []; }
+    try { index = await fetch(ROOT + (body.dataset.index || 'assets/search-index.json')).then(r => r.json()); } catch (e) { index = []; }
     return index;
   };
   const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[»«„“"]/g, '');
@@ -102,7 +104,7 @@
     const idx = await loadIndex();
     const terms = norm(q).split(/\s+/).filter(t => t.length > 1);
     list.innerHTML = '';
-    if (!terms.length) { if (hint) hint.textContent = 'Produkte, Lösungen, Downloads, Stories …'; return; }
+    if (!terms.length) { if (hint) hint.textContent = T('Produkte, Lösungen, Downloads, Stories …'); return; }
     const res = [];
     for (const p of idx) {
       const t = norm(p.t), x = norm(p.x + ' ' + p.d);
@@ -115,8 +117,8 @@
       if (ok) res.push([score - p.u.split('/').length * 0.3, p]);
     }
     res.sort((a, b) => b[0] - a[0]);
-    if (hint) hint.textContent = res.length ? `${res.length} Treffer` : 'Keine Treffer – versuchen Sie einen anderen Begriff.';
-    const sec = { produkte: 'Produkte', solutions: 'Solutions', unternehmen: 'Unternehmen', 'ihr-erfolg': 'Ihr Erfolg', events: 'Events', academy: 'Academy', start: 'Start' };
+    if (hint) hint.textContent = res.length ? `${res.length} ${T('Treffer')}` : T('Keine Treffer – versuchen Sie einen anderen Begriff.');
+    const sec = { produkte: T('Produkte'), solutions: T('Solutions'), unternehmen: T('Unternehmen'), 'ihr-erfolg': T('Ihr Erfolg'), events: T('Events'), academy: T('Academy'), start: T('Start') };
     list.innerHTML = res.slice(0, 40).map(([, p]) =>
       `<li><a href="${ROOT}${p.u}"><small>${sec[p.s] || p.s.replace(/-/g, ' ')}</small>${escapeHtml(p.t)}<small>${escapeHtml(p.d.slice(0, 140))}</small></a></li>`).join('');
   };
@@ -164,7 +166,7 @@
     consent.style.backgroundSize = 'cover';
     consent.style.backgroundPosition = 'center';
     el.addEventListener('click', () => {
-      el.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0" title="YouTube-Video" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+      el.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0" title="${T('YouTube-Video')}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
     }, { once: true });
   });
 
@@ -219,17 +221,20 @@
   });
 
   /* ---------------------------------------------------------- Zahlen zählen */
+  // Zahlenformat der Seite: de/fr 1.000 bzw. 1 000 und 0,4 · en/es-MX 1,000 und 0.4
+  const numLocale = document.documentElement.lang || 'de-DE';
+  const dotDecimal = /^(en|es-MX)/i.test(numLocale);
   const parseCount = (txt) => {
-    const m = txt.match(/(\d{1,3}(?:[.\s]\d{3})+|\d+(?:[.,]\d+)?)/);
+    const m = txt.match(dotDecimal ? /(\d{1,3}(?:[,\s\u00a0\u202f]\d{3})+|\d+(?:[.,]\d+)?)/ : /(\d{1,3}(?:[.\s\u00a0\u202f]\d{3})+|\d+(?:[.,]\d+)?)/);
     if (!m) return null;
     const raw = m[1];
-    const thousands = /\d[.\s]\d{3}(\D|$)/.test(raw) && !/,/.test(raw);
+    const thousands = (dotDecimal ? /\d[,\s\u00a0\u202f]\d{3}(\D|$)/ : /\d[.\s\u00a0\u202f]\d{3}(\D|$)/).test(raw) && !raw.includes(dotDecimal ? '.' : ',');
     const decimals = !thousands && /[.,]/.test(raw) ? raw.split(/[.,]/)[1].length : 0;
-    const value = parseFloat(thousands ? raw.replace(/[.\s]/g, '') : raw.replace(',', '.'));
-    return { raw, value, decimals, thousands, sep: raw.includes(',') ? ',' : '.', before: txt.slice(0, m.index), after: txt.slice(m.index + raw.length) };
+    const value = parseFloat(thousands ? raw.replace(/[.,\s\u00a0\u202f]/g, '') : raw.replace(',', '.'));
+    return { raw, value, decimals, thousands, locale: numLocale, sep: raw.includes(',') ? ',' : '.', before: txt.slice(0, m.index), after: txt.slice(m.index + raw.length) };
   };
   const fmt = (v, c) => {
-    if (c.thousands) return Math.round(v).toLocaleString('de-DE');
+    if (c.thousands) return Math.round(v).toLocaleString(c.locale);
     return c.decimals ? v.toFixed(c.decimals).replace('.', c.sep) : String(Math.round(v));
   };
   const counters = $$('[data-count]');
@@ -401,13 +406,13 @@
         const ok = (!r || el.dataset.region === r) && (!c || el.dataset.country === c) && (!s || norm(el.dataset.text).includes(s));
         el.hidden = !ok; if (ok) n++;
       });
-      count.textContent = `${n} ${n === 1 ? 'Standort' : 'Standorte'}`;
+      count.textContent = `${n} ${n === 1 ? T('Standort') : T('Standorte')}`;
       if (hasGSAP) ScrollTrigger.refresh();
     };
     reg.addEventListener('change', () => {
       const r = reg.value;
       const valid = new Set(cards.filter(el => !r || el.dataset.region === r).map(el => el.dataset.country));
-      cty.innerHTML = '<option value="">Alle Länder</option>' + allCountries.filter(x => valid.has(x)).map(x => `<option>${x}</option>`).join('');
+      cty.innerHTML = `<option value="">${T('Alle Länder')}</option>` + allCountries.filter(x => valid.has(x)).map(x => `<option>${x}</option>`).join('');
       apply();
     });
     cty.addEventListener('change', apply);
@@ -458,7 +463,7 @@
       for (const f of fields) {
         const v = parseFloat(f.value);
         if (f.value === '' || isNaN(v) || v < 0) {
-          if (warn) alert(root.querySelector('#economy-hidden-field')?.value || 'Bitte alle Felder ausfüllen.');
+          if (warn) alert(root.querySelector('#economy-hidden-field')?.value || T('Bitte alle Felder ausfüllen.'));
           return;
         }
         d[f.name] = v;
@@ -479,6 +484,29 @@
     cur?.addEventListener('change', () => { updateCurrency(); calc(false); });
     fields.forEach(f => f.addEventListener('change', () => calc(false)));
     $$('input.number-only', root).forEach(i => i.addEventListener('input', () => { i.value = i.value.replace(/[^0-9.]/g, ''); }));
+  });
+
+  /* ------------------------------------------- Formulare: fertige E-Mail statt Server (statische Seite) */
+  $$('form[data-mailto]').forEach(form => {
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (form.reportValidity && !form.reportValidity()) return;
+      const lines = [], files = [];
+      form.querySelectorAll('input, select, textarea').forEach(el => {
+        if (!el.name || ['submit', 'button', 'hidden', 'password', 'reset'].includes(el.type)) return;
+        if ((el.type === 'checkbox' || el.type === 'radio') && !el.checked) return;
+        if (el.type === 'file') { [...el.files].forEach(f => files.push(f.name)); return; }
+        const lab = (el.id && form.querySelector(`label[for="${CSS.escape(el.id)}"]`)) || el.closest('label');
+        const label = ((lab && lab.textContent) || el.placeholder || el.name).replace(/\s+/g, ' ').replace(/\*/g, '').trim();
+        const val = el.tagName === 'SELECT' ? (el.options[el.selectedIndex] || {}).text : (el.type === 'checkbox' ? '✓' : el.value);
+        if (val) lines.push(`${label}: ${val}`);
+      });
+      if (files.length) lines.push('', `${T('Bitte hängen Sie Ihre Dateien an diese E-Mail an:')} ${files.join(', ')}`);
+      location.href = `mailto:${form.dataset.mailto}?subject=${encodeURIComponent(form.dataset.subject || document.title)}&body=${encodeURIComponent(lines.join('\n'))}`;
+      let note = form.querySelector('.form-sent');
+      if (!note) { note = document.createElement('p'); note.className = 'form-sent form-note'; note.setAttribute('role', 'status'); form.append(note); }
+      note.textContent = T('Ihr E-Mail-Programm öffnet sich mit der fertigen Nachricht – bitte dort absenden.');
+    });
   });
 
   /* ------------------------------------------------- Defekte Bilder ausblenden */

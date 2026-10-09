@@ -1,0 +1,530 @@
+{
+ "path": "/products/tool-management/data-transfer/zidcode/info-pool",
+ "url": "/ca/products/tool-management/data-transfer/zidcode/info-pool",
+ "title": "»»zidCode«« – Info Pool",
+ "description": "Info Pool - »»zidCode«« – Info Pool",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Data Transfer /",
+   "href": "/ca/products/tool-management/data-transfer"
+  },
+  {
+   "label": "»»zidCode«« /",
+   "href": "/ca/products/tool-management/data-transfer/zidcode"
+  },
+  {
+   "label": "Info Pool",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Data Transfer /",
+   "href": "/ca/products/tool-management/data-transfer"
+  },
+  {
+   "label": "»»zidCode«« /",
+   "href": "/ca/products/tool-management/data-transfer/zidcode"
+  },
+  {
+   "label": "Info Pool",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/zidcode/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/data-transfer/zidcode/info-hub",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasferimento-dei-dati/zidcode/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/dataoeverfoering/zidcode/informationsbank",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/datentransfer/zidcode/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/data-transfer/zidcode/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/data-transfer/zidcode/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/painel-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»»zidCode««",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/products/tool-management/data-transfer/zidcode",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»»zidCode« 4.0«",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/zidcode-40",
+     "current": false
+    },
+    {
+     "label": "»»zidCode««",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/zidcode",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c837",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Info Pool </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c836",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/zidCode1_EN_07.pdf",
+     "name": "»zidCode«",
+     "size": "388 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/0/a/csm_zidCode1_EN_07_d3daf1190e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»zidCode«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13.pdf",
+     "name": "Efficient tool handling",
+     "size": "1,000 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13_58cf71a344.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient tool handling"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Messtechnik/ZOLLER_Flyer_Messtechnik_4_0_FLMETE4_00_EN_03.pdf",
+     "name": "Measuring Technology 4.0",
+     "size": "4 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/c/csm_cover_measuring_technology_9f9cdcff05.webp",
+      "alt": "",
+      "w": 310,
+      "h": 437
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/Zoller_fl_zidcode_fanuc_en_8708224.pdf",
+     "name": "Direct transmission via network cable into FANUC controls",
+     "size": "424 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/0/csm_Zoller_fl_zidcode_fanuc_en_8708224_91e90a2d50.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Direct transmission via network cable into FANUC controls"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/Fl_zidcode_makino_8708268_v04_en.pdf",
+     "name": "»z.DMI« Technology for MAKINO with »zidCode 4.0«",
+     "size": "649 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/9/0/csm_Fl_zidcode_makino_8708268_v04_en_e0a61fa17c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»z.DMI« Technology for MAKINO with »zidCode 4.0«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/Fl_zidcode_fanuc_8708266_v01_en.pdf",
+     "name": "»z.DMI« Technology for FANUC with »zidCode 4.0«",
+     "size": "651 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/a/csm_Fl_zidcode_fanuc_8708266_v01_en_4b34116102.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»z.DMI« Technology for FANUC with »zidCode 4.0«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/FL_zidCode_MATSUURA_8708267_V01_EN.pdf",
+     "name": "»z.DMI« Technology for MATSUURA with »zidCode 4.0«",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/b/csm_FL_zidCode_MATSUURA_8708267_V01_EN_8d53912e88.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»z.DMI« Technology for MATSUURA with »zidCode 4.0«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/Fl_zidcode_mazak_8708272_v02_en.pdf",
+     "name": "»z.DMI« Technology for MAZAK with »zidCode 4.0«",
+     "size": "610 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/4/csm_Fl_zidcode_mazak_8708272_v02_en_0a13bf98ba.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»z.DMI« Technology for MAZAK with »zidCode 4.0«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode4/zDMI/Zoller_fl_zidcode_heidenhain_8708257_v04_en.pdf",
+     "name": "»z.DMI« Technology for HEIDENHAIN with »zidCode 4.0«",
+     "size": "596 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/d/csm_Zoller_fl_zidcode_heidenhain_8708257_v04_en_29b6e08589.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»z.DMI« Technology for HEIDENHAIN with »zidCode 4.0«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode4/zDMI/Zoller_fl_zidcode_siemens_8708263_v03_en.pdf",
+     "name": "»z.DMI« Technology for SIEMENS with »zidCode 4.0«",
+     "size": "606 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/f/csm_Zoller_fl_zidcode_siemens_8708263_v03_en_6eb201c13a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»z.DMI« Technology for SIEMENS with »zidCode 4.0«"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/Zoller_fl_zidcode_modul_p4_8708250_v01_en.pdf",
+     "name": "»zidCode« module for »pilot 4.0«",
+     "size": "943 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/e/6/csm_Zoller_fl_zidcode_modul_p4_8708250_v01_en_0aa6bf1cce.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»zidCode« module for »pilot 4.0«"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c835",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Videos </h3>",
+   "body": "",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/Q2hjoit3OHE?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Werkzeugidentifikation und Datenübertragung:  »zidCode« (ZOLLER-Identifikationscode)"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/9P3_hKy3Lpc?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Wie hilft mir »zidCode 4.0« meine Werkzeuge einfach zu finden? — ZOLLER »zidCode 4.0«"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/e_OJF9EZf0c?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»Z.ac!« Werkzeuglisten per Knopfdruck: Der NC-Programm-Interpreter im Einsatz"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/A8af4mDEQgs?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»zidCode 4.0« mit »z.DMI«-Technologie für Siemens"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/EJhkn_foSYE?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»zidCode 4.0« mit »z.DMI«-Technologie für Matsuura"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/PeCgmBZfrLc?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»zidCode 4.0« mit »z.DMI«-Technologie für Makino"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/aSgdHKc2Js8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»zidCode 4.0« mit »z.DMI«-Technologie für Heidenhain"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c834",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data - including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/1/csm_teaser_kontakt_e9808d5a35.webp",
+    "alt": ""
+   },
+   "text": "<h3>Contact us</h3> <p><a class=\"btn\" href=\"/ca/company/contact/contact-person\">Find a contact person</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c781",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ca/products/tool-management/data-transfer/zidcode/info-pool",
+ "de_path": "/produkte/toolmanagement/zidcode/info-pool"
+}

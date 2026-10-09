@@ -1,0 +1,633 @@
+{
+ "path": "/produits/technique-dequilibrage/toolbalancer/faq",
+ "url": "/ca-fr/produits/technique-dequilibrage/toolbalancer/faq",
+ "title": "»toolBalancer« – FAQ",
+ "description": "FAQ - »toolBalancer« – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Technique d'équilibrage /",
+   "href": "/ca-fr/produits/technique-dequilibrage"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Technique d'équilibrage /",
+   "href": "/ca-fr/produits/technique-dequilibrage"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Applications",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/applications",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1050",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Foire aux questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Pourquoi »le toolBalancer« de ZOLLER est-il plus précis que les systèmes d'équilibrage de la concurrence ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>C'est grâce au décalage central lors de la mesure que le »toolBalancer« offre une précision exceptionnelle. Cet avantage se fait sentir pour tous les outils, mais surtout pour les petits outils UGV.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1034",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Je dispose déjà d'un système d'équilibrage. Puis-je utiliser mon adaptateur d'équilibrage avec le ZOLLER toolBalancer ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Oui, c'est possible. La particularité de la broche du »toolBalancer« réside dans son caractère universel. Vous pouvez y insérer aussi bien des adaptateurs d'équilibrage ZOLLER que des adaptateurs d'autres fabricants.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1032",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Le ZOLLER toolBal»ancer« est-il facile à entretenir ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La facilité d'entretien constitue la principale différence par rapport aux autres équilibreuses disponibles sur le marché. À commencer par le capot de sécurité »twinPanel« de »la« »toolBalancer«. Si une pièce se détache pendant l'équilibrage ou si la vitre s'use en raison d'un contact avec de l'huile, il n'est pas nécessaire de remplacer immédiatement l'ensemble du capot. Celui-ci est composé de deux vitres. Vous pouvez ainsi ne remplacer que la vitre intérieure. C'est pourquoi nous l'appelons « vitre sacrificielle ». De plus, vous bénéficiez d’un accès aisé à la broche et tous les composants électroniques sont installés avec soin et en toute sécurité dans l’armoire électrique, garantissant ainsi un fonctionnement sans faille. La position de l’armoire électrique, des entraînements et des capteurs offre une accessibilité optimale lors des opérations de maintenance et d’entretien.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1030",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "En quoi le »toolBalancer« se distingue-t-il des systèmes d'équilibrage proposés par la concurrence ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Le »toolBalancer« est un tout nouveau produit qui bénéficie d'une technologie de pointe ainsi que d'un design amélioré et plus ergonomique. Il en résulte une grande précision, une utilisation simple et une sécurité certifiée.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1028",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "En quoi consiste exactement le processus de correction du déséquilibre ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Dans cette vidéo, nous vous expliquons en détail comment se déroule le processus de correction du déséquilibre du »toolBalancer«.</p>",
+          "images": [],
+          "videos": [
+           {
+            "kind": "iframe",
+            "src": "https://www.youtube-nocookie.com/embed/L-ZgiVWrb5g?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+            "title": "»toolBalancer«: Schnelle Unwuchtkorrektur durch geführten Prozessablauf"
+           }
+          ],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1064",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Je souhaiterais bénéficier d'un conseil personnalisé. Quelles sont les possibilités ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Chez ZOLLER, vous trouverez toute une gamme de services vous permettant de vous informer de manière personnalisée sur un produit. Par exemple, l'entretien individuel avec un expert dans notre showroom virtuel. Nous pouvons également échanger via Microsoft Teams ou par téléphone. Vous pouvez également venir nous rendre visite dans notre Smart Factory.</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demander dès maintenant</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1024",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Pourquoi a-t-on besoin d'un »toolBalancer« ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Un ensemble d'outils équilibré garantit une durée de vie plus longue des outils, des vibrations réduites, une vitesse de rotation de la broche plus élevée, une meilleure finition de surface des pièces et, surtout, une durée de vie plus longue de la broche.</p> <p>Le déséquilibre d'un ensemble d'outils génère des forces centrifuges excessives susceptibles d'endommager les roulements de la broche. Ces dommages réduisent la durée de vie de la broche et peuvent entraîner des temps d'arrêt imprévus et coûteux.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1022",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Lorsque l'on utilise des porte-outils équilibrés de type G2.5 à 25 000 tr/min, faut-il encore équilibrer l'ensemble de l'outillage après le montage des outils de coupe/plaquettes ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Les outils de coupe sont parfois asymétriques, par exemple en raison de méplats sur la tige (surface Weldon). Les outils de coupe profilés peuvent présenter une répartition asymétrique du poids. Lorsque de tels outils de coupe sont montés dans un porte-outil équilibré, cela entraîne un déséquilibre de l'ensemble d'outils. Les pinces de serrage, les écrous de serrage, les vis de butée, les puces de données, etc. contribuent également au déséquilibre de l'ensemble d'outils. Dès que ces autres composants sont ajoutés à l'ensemble porte-outil, il peut s'avérer nécessaire de rééquilibrer le porte-outil afin de respecter les spécifications d'équilibrage ISO.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1020",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Disposez-vous d'un adaptateur permettant de serrer des fraises-perceuses, par exemple pour les fraises à bois et les outils dont les diamètres de tige varient, destinés aux outils de profilage ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER propose des adaptateurs spéciaux pour le serrage de fraises-perceuses et d'outils dotés de tiges de différents diamètres.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1018",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Qu'est-ce qu'un déséquilibre dans un plan (statique) et un déséquilibre dans deux plans (dynamique) ? Comment déterminer quelle méthode utiliser pour équilibrer l'ensemble d'outils ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La règle empirique suivante peut servir de référence pour déterminer si le porte-outil doit être équilibré de manière « statique » ou « dynamique » :</p> <p>Statique : l'équilibrage dans un plan s'applique aux porte-outils dont la vitesse de rotation en service est inférieure à 20 000 tr/min et dont la longueur totale est inférieure au double du diamètre maximal du porte-outil.</p> <p>Dynamique : 2 L'équilibrage dynamique s'applique aux porte-outils dont la vitesse de rotation en service est supérieure à 20 000 tr/min, ou lorsque la longueur totale du porte-outil est supérieure au double du diamètre maximal du porte-outil.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1016",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Que signifient les notations G1, G 2,5 et G 6,3, et dans quels cas s'appliquent-elles ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La lettre G désigne la classe de qualité d'équilibrage. Les machines CNC, les entraînements de machines-outils et l'industrie de l'outillage utilisent la classe G2,5 pour les outils de finition, la classe G6,3 pour les outils d'ébauche et la classe G1 pour les meules.</p> <p>Il s'agit des classes de qualité définies par la norme DIN ISO 1940-1.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1066",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quelles sont les différentes méthodes d'équilibrage existantes ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Dans le domaine de l'équilibrage, il existe trois méthodes pour compenser le déséquilibre : </p> <p>ajout de matière par vissage ;<br/>enlèvement de matière par perçage ou fraisage<br/>; déplacement de matière à l'aide de bagues d'équilibrage.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1068",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Si la vitesse de rotation n'est que de 2 000 tr/min, faut-il quand même l'équilibrer ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Si la broche ne tourne qu'à 2 000 tr/min en raison de vibrations et de bruits de coupe, cela est dû à l'utilisation d'un ensemble d'outils non équilibré. Lorsque les outils sont équilibrés, il est possible d'utiliser des vitesses de rotation et des avances plus élevées, ce qui permet d'améliorer la rentabilité.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1070",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Que signifie l'unité « gmm » ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>C'est l'unité utilisée pour mesurer le déséquilibre. Le déséquilibre est dû à une masse en rotation située en dehors de l'axe de rotation. Le déséquilibre est exprimé comme le produit de cette masse par la distance par rapport à l'axe de rotation, par exemple en grammes-millimètres (gmm) ou en kilogrammes-mètres (kgm).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1072",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1036",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1038",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technique d'impact : vos avantages",
+     "href": "/ca-fr/solutions/technique-dequilibrage",
+     "caption": "<figcaption> <h3>Technique d'impact : vos avantages</h3> <p>L'équilibrage est sous-estimé. Pourtant, l'équilibrage permet d'améliorer la rentabilité, car il réduit l'usure d'outil coûteuse et soulage les broches des machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/technique-dequilibrage/toolbalancer/faq",
+ "de_path": "/produkte/wuchttechnik/toolbalancer/faq"
+}

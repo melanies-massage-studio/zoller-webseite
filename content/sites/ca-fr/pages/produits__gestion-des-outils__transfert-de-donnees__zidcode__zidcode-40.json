@@ -1,0 +1,589 @@
+{
+ "path": "/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode-40",
+ "url": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode-40",
+ "title": "»zidCode 4.0«",
+ "description": "»zidCode 4.0« - »zidCode 4.0«",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/ca-fr/produits/gestion-des-outils"
+  },
+  {
+   "label": "Transfert de données /",
+   "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees"
+  },
+  {
+   "label": "»zidCode« /",
+   "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode"
+  },
+  {
+   "label": "»zidCode 4.0«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/ca-fr/produits/gestion-des-outils"
+  },
+  {
+   "label": "Transfert de données /",
+   "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees"
+  },
+  {
+   "label": "»zidCode« /",
+   "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode"
+  },
+  {
+   "label": "»zidCode 4.0«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/zidcode/zidcode-40",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/data-transfer/zidcode/zidcode-40",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasferimento-dei-dati/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/dataoeverfoering/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/datentransfer/zidcode/zidcode-40",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/data-transfer/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode-40",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/data-transfer/zidcode/zidcode-40",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/zidcode-40",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/zidcode-40",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»zidCode«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»zidCode 4.0«",
+     "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode-40",
+     "current": false
+    },
+    {
+     "label": "»zidCode«",
+     "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode",
+     "current": false
+    },
+    {
+     "label": "Logiciels et intégration",
+     "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/logiciels-et-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c841",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> »zidCode 4.0« – L'Internet des outils </h1>",
+   "body": "<p>L'acronyme IoT désigne généralement l'« Internet des objets ». Nous aimerions l'appeler « Internet des outils », car la plateforme IoT »﻿zidCode 4.0﻿« vous permet de connecter vos outils d'usinage aux processus de votre chaîne de production. Grâce à ses nombreux formats de sortie, »﻿zidCode 4.0﻿« est compatible avec de nombreuses commandes numériques.</p> <p>Avec »﻿zidCode 4.0﻿«, vous disposez de tous les moyens nécessaires pour rendre les données relatives aux outils, telles que leur durée de vie, accessibles à tous les niveaux de la production et pour enregistrer numériquement l’ensemble du cycle de vie d’un outil.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/aSgdHKc2Js8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "»zidCode 4.0« mit »z.DMI«-Technologie für Heidenhain"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c971",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Technologie »z.DMI« </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3756",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4><strong>Pour une production efficace</strong></h4> <p>La technologie »z.DMI« de ZOLLER permet le transfert direct des données d'outils vers la mémoire d'outils de la commande de la machine, puis vers la base de données z.One.</p><ul><li>Utilisation simple grâce à des processus automatisés</li><li>Fiabilité des processus grâce à la centralisation des données</li><li>Réduction des coûts grâce à la gestion des données de durée de vie</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3757",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3755",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/b/csm_logo_makino_%E2%80%93_1_006d250c98.webp",
+      "alt": "",
+      "w": 533,
+      "h": 300
+     },
+     "label": "",
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_overlay_makino_eac4b40b11.webp",
+      "alt": "",
+      "w": 992,
+      "h": 720
+     },
+     "text": "<h4>Technologie »z.DMI« pour MAKINO</h4> <p>Grâce à la technologie ZOLLER Direct-Machine-Interface (»z.DMI«) pour les commandes MAKINO, les données sont transférées directement vers la commande, supprimées, puis retransférées vers la base de données ZOLLER »z.One«. Les données d'outils sont ainsi transparentes et disponibles partout.</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/zidCode4/zDMI/Fl_zidcode_makino_8708268_v04_de.pdf\">Conditions préalables (PDF)</a> <a class=\"btn\" href=\"https://www.youtube.com/watch?v=PeCgmBZfrLc\" rel=\"noopener\" target=\"_blank\">Regarder la vidéo explicative (YouTube)</a></p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/b/csm_logo_fanuc_%E2%80%93_1_1bda65c6d1.webp",
+      "alt": "",
+      "w": 533,
+      "h": 300
+     },
+     "label": "",
+     "img": {
+      "src": "/fileadmin/_processed_/f/2/csm_overlay_fanuc_a53673f7ce.webp",
+      "alt": "",
+      "w": 992,
+      "h": 720
+     },
+     "text": "<h4>Technologie »z.DMI« pour FANUC</h4> <p>Grâce à la technologie ZOLLER Direct-Machine-Interface (»z.DMI«) pour les commandes FANUC, les données sont transférées directement vers la commande, supprimées, puis retransférées vers la base de données ZOLLER »z.One«. Les données d'outils sont ainsi transparentes et disponibles partout.</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/zidCode4/zDMI/Fl_zidcode_fanuc_8708266_v01_de.pdf\" rel=\"noopener\" target=\"_blank\">Conditions préalables (PDF)</a> </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/5/csm_logo_heidenhain_%E2%80%93_1_6474c86d99.webp",
+      "alt": "",
+      "w": 533,
+      "h": 300
+     },
+     "label": "",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_overlay_heidenhain_fb619a8716.webp",
+      "alt": "",
+      "w": 992,
+      "h": 720
+     },
+     "text": "<h4>Technologie »z.DMI« pour HEIDENHAIN</h4> <p>Grâce à la technologie ZOLLER Direct-Machine-Interface (»z.DMI«) pour les commandes HEIDENHAIN, les données sont transférées directement vers la commande, supprimées, puis retransférées vers la base de données ZOLLER »z.One«. Les données d'outils sont ainsi transparentes et disponibles partout.</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/zidCode4/zDMI/Zoller_fl_zidcode_heidenhain_8708257_v04_de.pdf\" rel=\"noopener\" target=\"_blank\">Conditions préalables (PDF)</a> <a class=\"btn\" href=\"https://www.youtube.com/watch?v=aSgdHKc2Js8\" rel=\"noopener\" target=\"_blank\">Regarder la vidéo explicative (YouTube)</a></p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/c/csm_logo_matsuura_%E2%80%93_1_e6e0113867.webp",
+      "alt": "",
+      "w": 533,
+      "h": 300
+     },
+     "label": "",
+     "img": {
+      "src": "/fileadmin/_processed_/8/b/csm_overlay_matsuura_2d764a4c22.webp",
+      "alt": "",
+      "w": 992,
+      "h": 720
+     },
+     "text": "<h4>Technologie »z.DMI« pour MATSUURA</h4> <p>Grâce à la technologie ZOLLER Direct-Machine-Interface (»z.DMI«) pour les commandes MATSUURA, les données sont transférées directement vers la commande, supprimées, puis renvoyées vers la base de données ZOLLER »z.One«. Les données d'outils sont ainsi transparentes et disponibles partout.</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/zidCode4/zDMI/FL_zidCode_MATSUURA_8708267_V01_DE.pdf\" rel=\"noopener\" target=\"_blank\">Conditions préalables (PDF)</a> <a class=\"btn\" href=\"https://www.youtube.com/watch?v=EJhkn_foSYE\" rel=\"noopener\" target=\"_blank\">Regarder la vidéo explicative (YouTube)</a></p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/2/csm_logo_mazak_%E2%80%93_1_d711343131.webp",
+      "alt": "",
+      "w": 533,
+      "h": 300
+     },
+     "label": "",
+     "img": {
+      "src": "/fileadmin/_processed_/4/9/csm_overlay_mazak_8e8eecc149.webp",
+      "alt": "",
+      "w": 992,
+      "h": 720
+     },
+     "text": "<h4>Technologie »z.DMI« pour MAZAK</h4> <p>Grâce à la technologie ZOLLER Direct-Machine-Interface (»z.DMI«) pour les commandes MAZAK, les données sont transférées directement vers la commande, supprimées, puis retransférées vers la base de données ZOLLER »z.One«. Les données d'outils sont ainsi transparentes et disponibles partout.</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/zidCode4/zDMI/Fl_zidcode_mazak_8708272_v02_de.pdf\" rel=\"noopener\" target=\"_blank\">Conditions préalables (PDF)</a></p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/1/csm_logo_siemens_%E2%80%93_1_66605fb937.webp",
+      "alt": "",
+      "w": 533,
+      "h": 300
+     },
+     "label": "",
+     "img": {
+      "src": "/fileadmin/_processed_/0/f/csm_overlay_siemens_68dc7da2d8.webp",
+      "alt": "",
+      "w": 992,
+      "h": 720
+     },
+     "text": "<h4>Technologie »z.DMI« pour SIEMENS</h4> <p>Grâce à la technologie ZOLLER Direct-Machine-Interface (»z.DMI«) pour les commandes SIEMENS, les données sont transférées directement vers la commande, supprimées, puis retransférées vers la base de données ZOLLER »z.One«. Les données d'outils sont ainsi transparentes et disponibles partout.</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/zidCode4/zDMI/Zoller_fl_zidcode_siemens_8708263_v03_de.pdf\" rel=\"noopener\" target=\"_blank\">Conditions préalables (PDF)</a> <a class=\"btn\" href=\"https://www.youtube.com/watch?v=A8af4mDEQgs\" rel=\"noopener\" target=\"_blank\">Regarder la vidéo explicative (YouTube)</a></p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/e/8/csm_logo_okuma_%E2%80%93_1_e6441ebc0d.webp",
+      "alt": "",
+      "w": 533,
+      "h": 300
+     },
+     "label": "",
+     "img": null,
+     "text": "<h4>Technologie »z.DMI« pour OKUMA</h4> <p>Grâce à la technologie ZOLLER Direct-Machine-Interface (»z.DMI«) pour les commandes OKUMA, les données sont transférées directement vers la commande, supprimées, puis renvoyées vers la base de données ZOLLER »z.One«. Les données d'outils sont ainsi transparentes et disponibles partout.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c978",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Prêt pour l'automatisation </h2>",
+   "body": "<p>Comme »zidCode 4.0« vous permet de gérer de manière fiable et dynamique les données d'outils, vous êtes parfaitement préparé à de nombreuses évolutions techniques.</p> <p>»zidCode 4.0« constitue par exemple la base idéale pour intégrer rapidement, ultérieurement, les solutions d'automatisation de ZOLLER dans votre production. Avec ZOLLER, vous restez à la pointe de la technologie.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/hYMzu_QFJko?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Automatisierung der Werkzeugvorbereitung mit »cora« und »zidCode 4.0«"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c972",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Réduire au minimum les temps de recherche </h2>",
+   "body": "<p>Retrouvez facilement vos outils grâce à »zidCode 4.0«.</p> <p>Le conseil de nos experts de la ZOLLER Smart Factory : »zidCode 4.0« est la plateforme de communication connectée qui, dans un processus fermé, collecte, gère et met à disposition les données d'outils. Rapidement et facilement.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/9P3_hKy3Lpc?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Wie hilft mir »zidCode 4.0« meine Werkzeuge einfach zu finden? — ZOLLER »zidCode 4.0«"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c973",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Équipement </h2>",
+   "body": "<figure><table><tbody><tr><td>Lecteur de codes-barres 1D/2D par machine CNC</td></tr><tr><td>Unité »zidCode 4.0« avec suite logicielle »zidCode 4.0« incluse</td></tr><tr><td>Clé USB (documentation, mode d'emploi, vidéos de formation)</td></tr><tr><td>Kit de câbles (Ethernet, câble d'alimentation)</td></tr><tr><td>Module logiciel »zidCode« à installer sur un appareil de réglage et de mesure ZOLLER existant</td></tr><tr><td>Services Windows à installer sur un serveur ou un PC : ZOLLER-WebService et »zidCode-Service«</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Conditions préalables </h2>",
+   "body": "<figure><table><tbody><tr><td>Machines CNC dotées d'une connexion réseau et d'une alimentation électrique directement sur la machine</td></tr><tr><td>Appareil de réglage et de mesure ZOLLER avec traitement d'images « »pilot 4.0 »« à partir de la version 1.18.7</td></tr><tr><td>Post-processeur dans »pilot 4.0«</td></tr><tr><td>Marquage des porte-outils avec ZOLLER »idLabel« ou ZOLLER »idChip«</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c975",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Matériel </h2>",
+   "body": "<figure><table><tbody><tr><td>»idLabelPrinter« pour l'impression des »idLabels«</td></tr><tr><td>Étiquettes idLabel, lot de 1 000 pièces</td></tr><tr><td>ZOLLER »idChip«</td></tr><tr><td>Scanner sans fil</td></tr><tr><td>Technologie »zidCode 4.0« dans un boîtier »zidCode«</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c976",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Logiciel </h2>",
+   "body": "<figure><table><tbody><tr><td>Technologie ZOLLER »z.DMI« (OKUMA, MAKINO, FANUC, HEIDENHAIN, Matsuura, Mazak, SIEMENS)</td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c977",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestion des outils : vos avantages",
+     "href": "/ca-fr/solutions/gestion-des-outils",
+     "caption": "<figcaption> <h3>Gestion des outils : vos avantages</h3> <p>Découvrez comment la gestion des outils de ZOLLER augmente immédiatement votre productivité. Grâce aux données d'outils, les processus sont plus rapides et plus sûrs, avec une protection anti-collision pour vos machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode-40",
+ "de_path": "/produkte/toolmanagement/zidcode/zidcode-40"
+}

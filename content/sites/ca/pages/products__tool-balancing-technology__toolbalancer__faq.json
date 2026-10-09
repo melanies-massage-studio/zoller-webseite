@@ -1,0 +1,633 @@
+{
+ "path": "/products/tool-balancing-technology/toolbalancer/faq",
+ "url": "/ca/products/tool-balancing-technology/toolbalancer/faq",
+ "title": "»»toolBalancer«« – FAQ",
+ "description": "FAQ - »»toolBalancer«« – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Balancing Technology /",
+   "href": "/ca/products/tool-balancing-technology"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/ca/products/tool-balancing-technology/toolbalancer"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Balancing Technology /",
+   "href": "/ca/products/tool-balancing-technology"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/ca/products/tool-balancing-technology/toolbalancer"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/products/tool-balancing-technology/toolbalancer",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Applications",
+     "href": "/ca/products/tool-balancing-technology/toolbalancer/applications",
+     "current": false
+    },
+    {
+     "label": "Options & Accessories",
+     "href": "/ca/products/tool-balancing-technology/toolbalancer/options-accessories",
+     "current": false
+    },
+    {
+     "label": "Technical Specifications",
+     "href": "/ca/products/tool-balancing-technology/toolbalancer/technical-specifications",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/tool-balancing-technology/toolbalancer/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/tool-balancing-technology/toolbalancer/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1050",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Frequently Asked Questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Why is the ZOLLER »toolBalancer« more exact than competing balancing systems?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The »toolBalancer« is so exceptionally accurate because of the center offset during measurement. This advantage applies to every tool—but especially to smaller HSC tools.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1034",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "I already have a balancing system. Can I use my balance adapter with the ZOLLER »toolBalancer«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Yes, you can. What makes the »toolBalancer's« spindle especially versatile is its ability to accommodate both ZOLLER balance adapters and adapters from other manufacturers. You can use them in the spindle.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1032",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Is the ZOLLER »toolBalancer« easy to service?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ease of use is the main difference compared to other balancing machines on the market. Starting with the »toolBalancer«’s »twinPanel« safety cover. If a part releases during balancing or the panel deteriorates due to contact with oil, you don’t have to replace the entire cover right away. The cover is designed with two panels, so you can exchange just the inner panel. That’s why we call it the “sacrificial panel.” Furthermore, you have simple access to the spindle, and all electronic components are carefully and securely installed in the control cabinet to ensure trouble-free operation. The positioning of the control cabinet, the drives, and the sensors ensures optimal accessibility for maintenance and service work.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1030",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "How does the »toolBalancer« differ from competing balancing systems?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The »toolBalancer« is a newly developed product that features more advanced technology and a superior, more ergonomic design. This results in high precision, simple operation, and certified safety.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1028",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What is the exact nature of the unbalance correction process?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>In this video, we'll show you exactly how the »toolBalancer«'s« unbalance correction process works.</p>",
+          "images": [],
+          "videos": [
+           {
+            "kind": "iframe",
+            "src": "https://www.youtube-nocookie.com/embed/L-ZgiVWrb5g?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+            "title": "»toolBalancer«: Schnelle Unwuchtkorrektur durch geführten Prozessablauf"
+           }
+          ],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1064",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "I'd like a personalized consultation. What options are possible?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>At ZOLLER, you’ll find a range of options for learning more about a specific product. For example, a one-on-one consultation with an expert in our virtual showroom. We’d also be happy to exchange information via Microsoft Teams or by phone. Or you can stop by our Smart Factory.</p> <p><a class=\"btn\" href=\"/ca/company/contact\">Inquire now</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1024",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Why is a »toolBalancer« needed?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A balanced tool assembly ensures a longer tool lifetime, low vibration, higher spindle speed, better surface finish on parts, and, above all, a longer spindle lifetime.</p> <p>Unbalance in a tool assembly generates excessive centrifugal forces that can damage the spindle bearings. Such damage reduces the spindle’s lifetime and can lead to costly unplanned downtime.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1022",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "When using balanced tool holders of type G2.5 at 25,000 rpm, does the entire tool assembly still need to be balanced after the cutting tools/inserts have been assembled?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Cutting tools are sometimes asymmetrical, for example, due to flattening of the shaft (Weldon surface). Profile cutting tools may have an asymmetrical weight distribution. When such cutting tools are fitted in a balanced tool holder, this results in an unbalance in the tool assembly. Collet chucks, clamping nuts, stop screws, data chips, etc., also contribute to the unbalance of the tool assembly. Once these other components are added to the tool holder assembly, the tool holder may need to be rebalanced to correspond to ISO balancing specifications.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1020",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Do you have an adapter for clamping drill bits, such as wood cutters and tools with different shank sizes for profiling tools?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER offers specialized adapters for clamping drill-milling cutters and tools with different shank sizes.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1018",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What is single-plane (static) unbalance and two-plane (dynamic) unbalance? How can we determine which method we should use for balancing the tool assembly?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The following rule of thumb can serve as a guide for determining whether the tool holder should be balanced \"statically\" or \"dynamically\":</p> <p>Static: 1 Balancing on the level applies to tool holders with an operating speed of less than 20,000 rpm and where the total length of the holder is less than twice the maximum diameter of the tool holder.</p> <p>Dynamic: 2 Dynamic balancing applies to tool holders with an operating speed of more than 20,000 rpm, or when the total length of the holder is more than twice the maximum diameter of the tool holder.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1016",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What are G1, G 2.5, and G 6.3, and where are they applicable?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>\"G\" indicates the balance grade. CNC machines, machine tool drives, and the tool industry have usage of G2.5 for finishing tools, G6.3 for roughing tools, and G1 for grinding wheels.</p> <p>These are the quality grades according to DIN ISO 1940-1.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1066",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What are the different balancing methods?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>In balancing technology, there are three methods for correcting unbalance: </p> <p>Adding material using the screw method;<br/>removing material by drilling or milling<br/>; and shifting material using unbalance rings.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1068",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "If the speed is only 2,000 rpm, does it still need to be balanced?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>If the spindle is running at only 2,000 rpm because of vibrations and cutting noise, this lies with the usage of an unbalanced tool setup. When the tools are balanced, higher speeds and feeds can be used, thereby increasing profitability.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1070",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What does the unit gmm mean?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>This is the unit used to measure unbalance. Unbalance is caused by a rotating mass located off-center from the axis of rotation. Unbalance is expressed as the product of this mass and the distance from the axis of rotation, e.g., in gram-millimeters (gmm) or kilogram-meters (kgm).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1072",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1036",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1038",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Balancing Technology: Your advantages",
+     "href": "/ca/solutions/tool-balancing-technology",
+     "caption": "<figcaption> <h3>Tool Balancing Technology: Your advantages</h3> <p>Balancing is underestimated. Yet balancing leads to greater efficiency because it reduces costly tool wear and relieves the load on machine spindles. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/products/tool-balancing-technology/toolbalancer/faq",
+ "de_path": "/produkte/wuchttechnik/toolbalancer/faq"
+}

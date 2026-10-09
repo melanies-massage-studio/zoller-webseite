@@ -1,0 +1,438 @@
+{
+ "path": "/productos",
+ "url": "/mx/productos",
+ "title": "Productos",
+ "description": "Productos - Resumen de productos",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Elija su camino hacia el éxito",
+     "kicker": "",
+     "text": "<p>Mayor eficiencia con las soluciones ZOLLER</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Resumen de productos </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>Las soluciones de ZOLLER son sinónimo de futuro: le ayudamos a alcanzar el éxito. Porque quien fabrica de forma más rápida y eficiente, trabaja de manera más rentable y puede invertir en el futuro. Si su objetivo es el progreso económico, ZOLLER es su socio ideal.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Ajuste y medición",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Gestión de herramientas",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Comprobación y medición",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatización",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Técnica de contracción de herramientas",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Porta Herramientas",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Tecnología De Balanceo",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "163",
+      "label": "herramientas de perforación",
+      "selected": false
+     },
+     {
+      "value": "169",
+      "label": "Fresa de corona",
+      "selected": false
+     },
+     {
+      "value": "175",
+      "label": "Herramientas de torneado",
+      "selected": false
+     },
+     {
+      "value": "181",
+      "label": "Herramientas de torneado/desbaste",
+      "selected": false
+     },
+     {
+      "value": "188",
+      "label": "herramientas de fresado",
+      "selected": false
+     },
+     {
+      "value": "195",
+      "label": "Herramientas de taladrado de precisión",
+      "selected": false
+     },
+     {
+      "value": "202",
+      "label": "Herramientas roscadoras",
+      "selected": false
+     },
+     {
+      "value": "209",
+      "label": "Herramientas de alto rendimiento",
+      "selected": false
+     },
+     {
+      "value": "216",
+      "label": "Fresa para cigüeñales",
+      "selected": false
+     },
+     {
+      "value": "223",
+      "label": "Herramientas de precisión",
+      "selected": false
+     },
+     {
+      "value": "230",
+      "label": "Fresa de planear",
+      "selected": false
+     },
+     {
+      "value": "237",
+      "label": "Portacuchillas planos, angulares y lisos",
+      "selected": false
+     },
+     {
+      "value": "244",
+      "label": "Escariadores",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Muelas|disco abrasivo",
+      "selected": false
+     },
+     {
+      "value": "258",
+      "label": "Hojas de sierra",
+      "selected": false
+     },
+     {
+      "value": "265",
+      "label": "Herramientas para trabajar la piedra",
+      "selected": false
+     },
+     {
+      "value": "272",
+      "label": "Herramientas con mango",
+      "selected": false
+     },
+     {
+      "value": "279",
+      "label": "Herramienta de tallado de engranajes",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/mx/productos/ajuste-y-medicion",
+       "title": "Ajuste y medición",
+       "text": "Reduzca los tiempos de preparación en un 40 % o más.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/mx/productos/gestion-de-herramientas",
+       "title": "Gestión de herramientas",
+       "text": "Interconectar procesos, garantizar la calidad y fabricar más rápido.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/mx/productos/comprobacion-y-medicion",
+       "title": "Comprobación y medición",
+       "text": "Documente la calidad y cree gemelos digitales digitales.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/mx/productos/automatizacion",
+       "title": "Automatización",
+       "text": "Automatización flexible y modular para herramientas de corte.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/mx/productos/ammare-termico-de-herramientas",
+       "title": "Técnica de contracción de herramientas",
+       "text": "Contracción y expansión de herramientas en tiempo récord.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/mx/productos/porta-herramientas",
+       "title": "Porta Herramientas",
+       "text": "Portaherramientas con »idChip« como interfaz perfecta para su producción digital.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/mx/productos/tecnologia-de-balanceo",
+       "title": "Tecnología De Balanceo",
+       "text": "Proteja los husillos y asegure la calidad con las mejores balanceadoras del mercado.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/mx/productos",
+ "de_path": "/produkte"
+}

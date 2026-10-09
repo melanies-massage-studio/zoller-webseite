@@ -1,0 +1,553 @@
+{
+ "path": "/software/add-on-zstock",
+ "url": "/mx/software/add-on-zstock",
+ "title": "Add-on »z.Stock«",
+ "description": "Add-on »z.Stock« - Garantiza una transparencia clara en el almacén de herramientas - Exactitud de los inventarios",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "Software /",
+   "href": "/mx/software"
+  },
+  {
+   "label": "Add-on »z.Stock«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "Software /",
+   "href": "/mx/software"
+  },
+  {
+   "label": "Add-on »z.Stock«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zstock",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-zstock",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zstock",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zstock",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-zstock",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zstock",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zstock",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/mx/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/mx/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/mx/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/mx/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/mx/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/mx/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/mx/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164285",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Exactos stocks </h3> <h1> Add-on »z.Stock« </h1>",
+   "body": "<p>ZOLLER TMS, con el <strong>complemento »z.Stock,«</strong> garantiza una transparencia total en el almacén de herramientas: la gestión de ubicaciones en 3D indica todos los stocks de forma realista, mientras que el control de circulación hace los stocks y los lugares de uso visibles en todo momento. Los proveedores, los precios y las cantidades de pedido se administran de forma centralizada, se generan automáticamente propuestas de pedido y estos se envían por correo electrónico. Las herramientas que llegan se registran y se realizan inspecciones digitales. Todos los datos de herramientas, las ubicaciones de almacenamiento y los stocks están disponibles inmediatamente, lo que permite una gestión de herramientas eficiente, segura y totalmente digital.</p> <p><a class=\"btn\" href=\"/mx/empresa/contacto\">Solicitar ahora</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">Consulta con expertos 1:1</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/a/csm_zStock_product_60e02db310.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164371",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Trazabilidad completa de cada herramienta ",
+    "Análisis rápido del consumo, la frecuencia de uso y la circulación ",
+    "Reducción de los costes de material gracias a la optimización de los stocks"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164316",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.Stock« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Navegador web </td> <td class=\"text-center\"> Escritorio </td> </tr> <tr> <td> Gestión de almacenes en 3D </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> quickPick </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Gestión de pedidos </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Estadística de artículos </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Servicio de informes </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Sustitución/Reparación </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Interfaz de almacén </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> Interfaz ERP </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164320",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● Básico ⦿ opcional <strong>―</strong> no disponible </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164422",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Gestión en 3D de la ubicación de todos los componentes de un solo vistazo</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/8/csm_TMS_quickPick_7ee2feddc3.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>»»quickPick«« como interfaz de almacén para todos los componentes y pedidos</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/e/csm_TMS_bestellwesen_aa5257b0b4.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Pedidos, incluida la gestión de niveles mínimos de existencias</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/d/csm_TMS_statistik_22f89f9625.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Estadística de artículos para evaluar y administrar conjuntos de datos</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164322",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.Stock« </h3> <h2> Seguridad en la planificación </h2>",
+   "body": "<p class=\"large-text\">El complemento garantiza una transparencia total desde la recepción de la mercancía hasta su utilización: la base para una gestión de compras basada en datos objetivos.</p> <p class=\"large-text\">El complemento garantiza la máxima fiabilidad gracias a un stock actualizado en tiempo real y evita las paradas de producción.</p> <p class=\"large-text\">El complemento permite la trazabilidad de cada herramienta para realizar análisis específicos del consumo.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_zStock_benefit_ES_dcaed1237b.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164323",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "»»quickPick««",
+     "caption": "<figcaption> <h3>»»quickPick««</h3> <p>Manejo sencillo de las existencias con »»quickPick««</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/2/csm_zStock_Feature_02_cc003bd0b2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "ZOLLER Smart Cabinets",
+     "caption": "<figcaption> <h3>ZOLLER Smart Cabinets</h3> <p>ZOLLER Smart Cabinets para el almacenamiento de herramientas</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164373",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Vista general del hardware opcional de ZOLLER para el complemento »z.Stock« </h2>",
+   "items": [
+    {
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Para herramientas de corte y piezas pequeñas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper",
+     "title": "»keeper«",
+     "text": "<p>Para herramientas completas y portaherramientas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/twister",
+     "title": "»twister«",
+     "text": "<p>Para componentes de herramientas y accesorios</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Para medios de comprobación, consumibles y componentes de mayor tamaño.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/mx/productos/gestion-de-herramientas/montaje-de-herramienta/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Para un montaje de las herramientas de forma óptima</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/mx/productos/gestion-de-herramientas/montaje-de-herramienta/ztower",
+     "title": "»zTower«",
+     "text": "<p>Para el montaje universal de herramientas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>Para transportar las herramientas cómodamente</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»highTower«",
+     "text": "<p>»highTower« garantiza un almacenamiento estructurado de herramientas y procesos eficientes</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164324",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestión de herramientas: sus ventajas",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "caption": "<figcaption> <h3>Gestión de herramientas: sus ventajas</h3> <p>Descubra cómo la gestión de herramientas de ZOLLER aumenta su productividad de inmediato. Con los datos de herramientas, los procesos se ejecutan más rápido y de manera más segura, incluyendo protección contra choques para sus máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/software/add-on-zstock",
+ "de_path": "/produkte/toolmanagement/software/add-on-zstock"
+}

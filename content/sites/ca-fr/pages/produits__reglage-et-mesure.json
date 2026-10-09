@@ -1,0 +1,399 @@
+{
+ "path": "/produits/reglage-et-mesure",
+ "url": "/ca-fr/produits/reglage-et-mesure",
+ "title": "Réglage et mesure",
+ "description": "Réglage et mesure - Réduisez les temps de préparation de 40 % et plus.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Réglage et mesure",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Réglage et mesure",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/einstellen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/presetting-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/reglage-et-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/ajuste-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/regolazione-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/instaellning-och-maetning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/einstellen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/presetting-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/reglage-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/presetting-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/ajuste-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Présentation des produits </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>Les solutions ZOLLER sont la clé de votre avenir : nous vous aidons à mieux réussir. En effet, une production plus rapide et plus efficace permet de travailler de manière plus rentable, ce qui vous donne les moyens d'investir dans l'avenir. Si votre objectif est de progresser sur le plan économique, ZOLLER est le partenaire qu'il vous faut.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Réglage et mesure",
+      "selected": true
+     },
+     {
+      "value": "251",
+      "label": "Gestion des outils",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Contrôle et mesure",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatisation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "technique de rétraction",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Porte-outils",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Technique d'équilibrage",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "264",
+      "label": "Appareils verticaux",
+      "selected": false
+     },
+     {
+      "value": "263",
+      "label": "Appareils horizontaux",
+      "selected": false
+     },
+     {
+      "value": "551",
+      "label": "Solutions d'automatisation",
+      "selected": false
+     },
+     {
+      "value": "6367",
+      "label": "Usinage de la pierre par CNC",
+      "selected": false
+     },
+     {
+      "value": "262",
+      "label": "Solutions sur mesure",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "Appareils verticaux",
+     "items": [
+      {
+       "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/smile",
+       "title": "»smile«",
+       "text": "Des appareils d'entrée de gamme robustes, d'une précision de l'ordre du µm, destinés aux outils standard",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion",
+       "title": "»venturion«",
+       "text": "Réglage et étalonnage d'outils d'excellente qualité, avec de nombreuses options",
+       "img": {
+        "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Appareils horizontaux",
+     "items": [
+      {
+       "href": "/ca-fr/produits/reglage-et-mesure/appareils-horizontaux/hyperion",
+       "title": "»hyperion«",
+       "text": "L'appareil de réglage et de mesure horizontal pour l'usinage par tournage",
+       "img": {
+        "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+        "alt": "zoller hyperion",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Solutions d'automatisation",
+     "items": [
+      {
+       "href": "/ca-fr/produits/automatisation/preparation-des-outils/corameasure-lg",
+       "title": "»coraMeasure LG«",
+       "text": "Gestion économique des outils pour ZOLLER »venturion«",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ca-fr/produits/automatisation/preparation-des-outils/robobox",
+       "title": "»roboBox«",
+       "text": "Jusqu'à six modules pour des opérations telles que le montage, le nettoyage, la mesure, le rétrécissement et bien d'autres encore",
+       "img": {
+        "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Usinage de la pierre par CNC",
+     "items": [
+      {
+       "href": "/ca-fr/produits/reglage-et-mesure/usinage-de-la-pierre-par-cnc/smile-gbo",
+       "title": "»smile | GBO«",
+       "text": "Permet une mesure de la hauteur particulièrement précise grâce à un système optique à grand champ",
+       "img": {
+        "src": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_ab539499c1.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ca-fr/produits/controle-et-mesure/usinage-de-la-pierre-par-cnc/condress",
+       "title": "»conDress«",
+       "text": "Nettoyage et restauration de la capacité de coupe des outils destinés au travail de la pierre",
+       "img": {
+        "src": "/fileadmin/_processed_/8/5/csm_conDress_preview_e519dedb34.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Solutions sur mesure",
+     "items": [
+      {
+       "href": "/ca-fr/produits/reglage-et-mesure/solutions-sur-mesure/solutions-sur-mesure",
+       "title": "Solutions sur mesure",
+       "text": "Découvrez ici notre gamme de solutions adaptées à vos besoins",
+       "img": null,
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ca-fr/produits/reglage-et-mesure",
+ "de_path": "/produkte/einstellen-messen"
+}

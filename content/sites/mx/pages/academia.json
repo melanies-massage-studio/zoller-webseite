@@ -1,0 +1,346 @@
+{
+ "path": "/academia",
+ "url": "/mx/academia",
+ "title": "Academia",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Academia",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Academia",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/academy",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/academy",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/academia",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/academie",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/academia",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/accademia",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/akademin",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/academy",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/academy",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/academie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/academy",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/academia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/academia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/9/csm_myzoller_academy_header_42676cb222.webp",
+     "video": null,
+     "title": "ACADEMIA",
+     "kicker": "",
+     "text": "<p>El centro de expertos 24/7</p>",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3100",
+   "bg": "lightgray",
+   "space": {
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>¿Desea sacar el máximo partido a sus máquinas?</strong></h4> <p class=\"large-text\">Nuestra academia está disponible las 24 horas del día, los 7 días de la semana, y está repleta de ejemplos prácticos, consejos sobre productos y conocimientos especializados. De este modo, ayudamos a todos, desde aprendices hasta empleados|operarios|trabajadores con experiencia, a lograr una mayor calidad, una mayor eficiencia y menores costos con ZOLLER.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8251",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "academy",
+   "filters": {
+    "Categoría": [
+     "Evento",
+     "producto",
+     "Entrenamiento"
+    ],
+    "Solución": [
+     "automatización",
+     "Ajustar y medir|medición",
+     "Comprobación y medición",
+     "técnica de contracción",
+     "Técnica de impacto",
+     "gestión de herramientas",
+     "Portaherramientas"
+    ],
+    "Buscar": []
+   },
+   "items": [
+    {
+     "href": "https://www.youtube.com/watch?v=Zm9QbScocWM",
+     "img": {
+      "src": "/fileadmin/_processed_/e/8/csm_ZOLLER_Postprocessor_2d8b071c52.png",
+      "alt": "ZOLLER_Postprocessor.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER Postprocessor"
+     },
+     "title": "ZOLLER Postprocessor",
+     "text": "<a href=\"https://www.youtube.com/watch?v=Zm9QbScocWM\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_Postprocessor.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/8/csm_ZOLLER_Postprocessor_2d8b071c52.png\" title=\"ZOLLER Postprocessor\" width=\"1280\"/> </a> Wed., 30. September 2026 <h3> <a href=\"https://www.youtube.com/watch?v=Zm9QbScocWM\" rel=\"noopener\" target=\"_blank\">ZOLLER Postprocessor</a> </h3> gestión de herramientas"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=9XSRYGuCWIM",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_ZOLLER__toolBalancer_1000____Precise_balancing_of_tools_up_to_1_000_mm_in_length_2a9e6794c1.png",
+      "alt": "ZOLLER__toolBalancer_1000____Precise_balancing_of_tools_up_to_1_000_mm_in_length.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER »toolBalancer 1000« | Precise balancing of tools up to 1,000 mm in length"
+     },
+     "title": "ZOLLER »toolBalancer 1000« | Precise balancing of tools up to 1,000 mm in length",
+     "text": "<a href=\"https://www.youtube.com/watch?v=9XSRYGuCWIM\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER__toolBalancer_1000____Precise_balancing_of_tools_up_to_1_000_mm_in_length.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/e/csm_ZOLLER__toolBalancer_1000____Precise_balancing_of_tools_up_to_1_000_mm_in_length_2a9e6794c1.png\" title=\"ZOLLER »toolBalancer 1000« | Precise balancing of tools up to 1,000 mm in length\" width=\"1280\"/> </a> Wed., 30. September 2026 <h3> <a href=\"https://www.youtube.com/watch?v=9XSRYGuCWIM\" rel=\"noopener\" target=\"_blank\">ZOLLER »toolBalancer 1000« | Precise balancing of tools up to 1,000 mm in length</a> </h3> producto Técnica de impacto"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=v7yrgEjMXV0",
+     "img": {
+      "src": "/fileadmin/_processed_/4/2/csm_Thank_you_AMB_2026_%E2%80%93_ZOLLER_innovations__highlights___new_products_c5dbb7639c.png",
+      "alt": "Thank_you_AMB_2026_–_ZOLLER_innovations__highlights___new_products.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "Thank you AMB 2026 – ZOLLER innovations, highlights & new products"
+     },
+     "title": "Thank you AMB 2026 – ZOLLER innovations, highlights & new products",
+     "text": "<a href=\"https://www.youtube.com/watch?v=v7yrgEjMXV0\" rel=\"noopener\" target=\"_blank\"> <img alt=\"Thank_you_AMB_2026_–_ZOLLER_innovations__highlights___new_products.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/2/csm_Thank_you_AMB_2026_%E2%80%93_ZOLLER_innovations__highlights___new_products_c5dbb7639c.png\" title=\"Thank you AMB 2026 – ZOLLER innovations, highlights &amp; new products\" width=\"1280\"/> </a> Wed., 30. September 2026 <h3> <a href=\"https://www.youtube.com/watch?v=v7yrgEjMXV0\" rel=\"noopener\" target=\"_blank\">Thank you AMB 2026 – ZOLLER innovations, highlights &amp; new products</a> </h3> Evento"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=Dlj-SmiJrY8",
+     "img": {
+      "src": "/fileadmin/_processed_/6/1/csm_ZOLLER__coraVarion_micBox__-_Automation_for_Indexable_Insert_Change__Tool_Setting_and_Measurement_808db89d64.png",
+      "alt": "ZOLLER__coraVarion_micBox__-_Automation_for_Indexable_Insert_Change__Tool_Setting_and_Measurement.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER »coraVarion/micBox« - Automation for Indexable Insert Change, Tool Setting and Measurement"
+     },
+     "title": "ZOLLER »coraVarion/micBox« - Automation for Indexable Insert Change, Tool Setting and Measurement",
+     "text": "<a href=\"https://www.youtube.com/watch?v=Dlj-SmiJrY8\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER__coraVarion_micBox__-_Automation_for_Indexable_Insert_Change__Tool_Setting_and_Measurement.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/1/csm_ZOLLER__coraVarion_micBox__-_Automation_for_Indexable_Insert_Change__Tool_Setting_and_Measurement_808db89d64.png\" title=\"ZOLLER »coraVarion/micBox« - Automation for Indexable Insert Change, Tool Setting and Measurement\" width=\"1280\"/> </a> Thu., 20. August 2026 <h3> <a href=\"https://www.youtube.com/watch?v=Dlj-SmiJrY8\" rel=\"noopener\" target=\"_blank\">ZOLLER »coraVarion/micBox« - Automation for Indexable Insert Change, Tool Setting and Measurement</a> </h3> producto automatización"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=-gm1l2tYYQs",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_GARR_TOOL_case_study_0f5dc00450.png",
+      "alt": "GARR_TOOL_case_study.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "GARR TOOL case study"
+     },
+     "title": "GARR TOOL case study",
+     "text": "<a href=\"https://www.youtube.com/watch?v=-gm1l2tYYQs\" rel=\"noopener\" target=\"_blank\"> <img alt=\"GARR_TOOL_case_study.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/7/csm_GARR_TOOL_case_study_0f5dc00450.png\" title=\"GARR TOOL case study\" width=\"1280\"/> </a> Mon., 16. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=-gm1l2tYYQs\" rel=\"noopener\" target=\"_blank\">GARR TOOL case study</a> </h3> Comprobación y medición"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=4gr5J09jVME",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_ZOLLER___GKN_Aerospace__How_to_bring_tool_grinding__regrinding_in-house_ad2e27ffcc.png",
+      "alt": "ZOLLER___GKN_Aerospace__How_to_bring_tool_grinding__regrinding_in-house.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER + GKN Aerospace: How to bring tool grinding, regrinding in-house"
+     },
+     "title": "ZOLLER + GKN Aerospace: How to bring tool grinding, regrinding in-house",
+     "text": "<a href=\"https://www.youtube.com/watch?v=4gr5J09jVME\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER___GKN_Aerospace__How_to_bring_tool_grinding__regrinding_in-house.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_ZOLLER___GKN_Aerospace__How_to_bring_tool_grinding__regrinding_in-house_ad2e27ffcc.png\" title=\"ZOLLER + GKN Aerospace: How to bring tool grinding, regrinding in-house\" width=\"1280\"/> </a> Mon., 19. January 2026 <h3> <a href=\"https://www.youtube.com/watch?v=4gr5J09jVME\" rel=\"noopener\" target=\"_blank\">ZOLLER + GKN Aerospace: How to bring tool grinding, regrinding in-house</a> </h3>"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=vfkGmok9MPQ",
+     "img": {
+      "src": "/fileadmin/_processed_/3/1/csm_Why_ZOLLER_tool_management_is_fundamental_for_Eagle_Manufacturing_62e917907b.png",
+      "alt": "Why_ZOLLER_tool_management_is_fundamental_for_Eagle_Manufacturing.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "Why ZOLLER tool management is fundamental for Eagle Manufacturing"
+     },
+     "title": "Why ZOLLER tool management is fundamental for Eagle Manufacturing",
+     "text": "<a href=\"https://www.youtube.com/watch?v=vfkGmok9MPQ\" rel=\"noopener\" target=\"_blank\"> <img alt=\"Why_ZOLLER_tool_management_is_fundamental_for_Eagle_Manufacturing.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/1/csm_Why_ZOLLER_tool_management_is_fundamental_for_Eagle_Manufacturing_62e917907b.png\" title=\"Why ZOLLER tool management is fundamental for Eagle Manufacturing\" width=\"1280\"/> </a> Mon., 19. January 2026 <h3> <a href=\"https://www.youtube.com/watch?v=vfkGmok9MPQ\" rel=\"noopener\" target=\"_blank\">Why ZOLLER tool management is fundamental for Eagle Manufacturing</a> </h3>"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=XKyUIhfuDfo",
+     "img": {
+      "src": "/fileadmin/_processed_/8/2/csm_How_tool_presetting_transformed_ProCam_Services_machine_shop_d940afef3e.png",
+      "alt": "How_tool_presetting_transformed_ProCam_Services_machine_shop.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "How tool presetting transformed ProCam Services machine shop"
+     },
+     "title": "How tool presetting transformed ProCam Services machine shop",
+     "text": "<a href=\"https://www.youtube.com/watch?v=XKyUIhfuDfo\" rel=\"noopener\" target=\"_blank\"> <img alt=\"How_tool_presetting_transformed_ProCam_Services_machine_shop.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/2/csm_How_tool_presetting_transformed_ProCam_Services_machine_shop_d940afef3e.png\" title=\"How tool presetting transformed ProCam Services machine shop\" width=\"1280\"/> </a> Mon., 19. January 2026 <h3> <a href=\"https://www.youtube.com/watch?v=XKyUIhfuDfo\" rel=\"noopener\" target=\"_blank\">How tool presetting transformed ProCam Services machine shop</a> </h3> Ajustar y medir|medición"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=B6RAjwE9MfM",
+     "img": {
+      "src": "/fileadmin/_processed_/9/8/csm_Establishing_wobble_compensation_on_ZOLLER__genius__inspection_solution___Tip_of_the_Week_87e18bbc01.png",
+      "alt": "Establishing_wobble_compensation_on_ZOLLER__genius__inspection_solution___Tip_of_the_Week.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "Establishing wobble compensation on ZOLLER »genius« inspection solution | Tip of the Week"
+     },
+     "title": "Establishing wobble compensation on ZOLLER »genius« inspection solution | Tip of the Week",
+     "text": "<a href=\"https://www.youtube.com/watch?v=B6RAjwE9MfM\" rel=\"noopener\" target=\"_blank\"> <img alt=\"Establishing_wobble_compensation_on_ZOLLER__genius__inspection_solution___Tip_of_the_Week.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/8/csm_Establishing_wobble_compensation_on_ZOLLER__genius__inspection_solution___Tip_of_the_Week_87e18bbc01.png\" title=\"Establishing wobble compensation on ZOLLER »genius« inspection solution | Tip of the Week\" width=\"1280\"/> </a> Mon., 19. January 2026 <h3> <a href=\"https://www.youtube.com/watch?v=B6RAjwE9MfM\" rel=\"noopener\" target=\"_blank\">Establishing wobble compensation on ZOLLER »genius« inspection solution | Tip of the Week</a> </h3> Entrenamiento Comprobación y medición"
+    }
+   ],
+   "raw": "",
+   "ftype": "zoller_academy",
+   "id": "c3097",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/academia",
+ "de_path": "/academy"
+}

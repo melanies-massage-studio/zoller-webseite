@@ -1,0 +1,344 @@
+{
+ "path": "/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/reamcheck",
+ "url": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/reamcheck",
+ "title": "»reamCheck«",
+ "description": "»reamCheck« - L'expert en outils à réglage précis",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Réglage et mesure /",
+   "href": "/ca-fr/produits/reglage-et-mesure"
+  },
+  {
+   "label": "Appareils verticaux /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux"
+  },
+  {
+   "label": "»venturion« /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion"
+  },
+  {
+   "label": "Modèles /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles"
+  },
+  {
+   "label": "»reamCheck«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Réglage et mesure /",
+   "href": "/ca-fr/produits/reglage-et-mesure"
+  },
+  {
+   "label": "Appareils verticaux /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux"
+  },
+  {
+   "label": "»venturion« /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion"
+  },
+  {
+   "label": "Modèles /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles"
+  },
+  {
+   "label": "»reamCheck«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/reamcheck",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/presetting-measuring/vertical-devices/venturion/models/reamcheck",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/ajuste-y-medicion/dispositivos-verticales/venturion/modelos/reamcheck",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/reglage-et-mesure/appareils-verticals/venturion/modeles/reamcheck",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/reamcheck",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/regolazione-e-misurazione/strumenti-verticali/venturion/modelli/reamcheck",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/instaellning-och-maetning/vertikala-maskiner/venturion/modeller/reamcheck",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/reamcheck",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/presetting-measuring/vertical-devices/venturion/models/reamcheck",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/reamcheck",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3/%E3%83%A2%E3%83%87%E3%83%AB/reamcheck",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/venturion/%EB%AA%A8%EB%8D%B8/reamcheck",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/presetting-measuring/vertical-devices/venturion/models/reamcheck",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ajuste-y-medicion/aparatos-verticales/venturion/modelos/reamcheck",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/reamcheck",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Modèles",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»reamCheck«",
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/reamcheck",
+     "current": false
+    },
+    {
+     "label": "»torquematic«",
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/torquematic",
+     "current": false
+    },
+    {
+     "label": "»tribos«",
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/tribos",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3422",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Réglage et mesure avec »reamCheck« </h1>",
+   "body": "<p>Avec »reamCheck,« vous pouvez régler des outils d’usinage complets, tels que les alésoirs longs et les outils d’alésage de précision, de manière entièrement automatique, rapide, avec une grande répétabilité et indépendamment de l’opérateur. La mesure de contrôle intégrée vous offre la sécurité souhaitée. </p> <p>La contre-poupée s’abaisse facilement à l’aide de la poignée de commande et maintient avec précision en position les outils longs et fins, avec une force d’appui définie. Grâce à la technologie ZOLLER d’exception, vous effectuez toutes les étapes en toute simplicité et avec une fiabilité absolue du processus. Que vous préfériez utiliser une méthode de mesure tactile lors du réglage ou vous fier à la technologie éprouvée de traitement d’images »« pilot »« de ZOLLER, c’est à vous de choisir. </p> <p>Une chose est sûre : on ne peut pas faire mieux !</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demandez dès maintenant</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/3/csm_reamcheck_detail_f4a6271a9a.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c3429",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/6/csm_reamcheck_duo_188a50fd30.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Palpeur de mesure électronique « duo »",
+     "caption": "<figcaption> <h3>Palpeur de mesure électronique « duo »</h3> <p>Pour le réglage et la mesure simultanés des diamètres et des coniques, par exemple sur des alésoirs fonctionnant selon le principe de la surcote. Les palpeurs sont magnétiques et peuvent être fixés selon les besoins.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/f/csm_reamcheck_cnc_steuerung_c04de8e0a9.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Automatique, à commande numérique (CNC)",
+     "caption": "<figcaption> <h3>Automatique, à commande numérique (CNC)</h3> <p>Mesure rapide et à commande numérique de la concentricité ou de la planéité<br/> sur les têtes de coupe ou les fraises CAP.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/8/csm_reamcheck_messprogramme_6fff996f91.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Sélection du programme de mesure",
+     "caption": "<figcaption> <h3>Sélection du programme de mesure</h3> <p>Large choix de programmes de mesure dans »pilot,« avec une boîte de dialogue de saisie photoréaliste pour une utilisation simple et une définition fiable des cotes de consigne.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3434",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Réglage et mesure : vos avantages",
+     "href": "/ca-fr/solutions/reglage-et-mesure",
+     "caption": "<figcaption> <h3>Réglage et mesure : vos avantages</h3> <p>Découvrez pourquoi les bancs de réglage et de mesure réduisent le temps et les coûts. Les effets sont modulables et peuvent générer des économies importantes. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant.</p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/reamcheck",
+ "de_path": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/reamcheck"
+}

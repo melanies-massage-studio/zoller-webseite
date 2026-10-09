@@ -1,0 +1,544 @@
+{
+ "path": "/products/tool-management/data-transfer/zidcode/faq",
+ "url": "/ca/products/tool-management/data-transfer/zidcode/faq",
+ "title": "»»zidCode«« – FAQ",
+ "description": "FAQ - »»zidCode«« – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Data Transfer /",
+   "href": "/ca/products/tool-management/data-transfer"
+  },
+  {
+   "label": "»»zidCode«« /",
+   "href": "/ca/products/tool-management/data-transfer/zidcode"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Data Transfer /",
+   "href": "/ca/products/tool-management/data-transfer"
+  },
+  {
+   "label": "»»zidCode«« /",
+   "href": "/ca/products/tool-management/data-transfer/zidcode"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/zidcode/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/data-transfer/zidcode/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasferimento-dei-dati/zidcode/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/dataoeverfoering/zidcode/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/datentransfer/zidcode/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/data-transfer/zidcode/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/data-transfer/zidcode/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»»zidCode««",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/products/tool-management/data-transfer/zidcode",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»»zidCode« 4.0«",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/zidcode-40",
+     "current": false
+    },
+    {
+     "label": "»»zidCode««",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/zidcode",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/tool-management/data-transfer/zidcode/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c840",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Frequently Asked Questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c844",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "What stipulations must my ZOLLER measuring and presetting machine meet?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>Your ZOLLER presetting and measuring machine requires one of the following »pilot« device software versions: »pilot 4.0«, »pilot 3.0« or »pilot 2 mT« version 1.15.0.0 or later, or »pilot 1.0« version 1.15.13.0 or later, and a label printer.</p> <p>»zidCode 4.0«:<br/>Your ZOLLER presetting and measuring machine requires »pilot 4.0« device software version 1.18.23 or higher, a network connection, and a post-processor with the appropriate output format to transfer your tool data wirelessly to your machine tool. </p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c853",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What stipulations must my CNC machine meet?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>USB cable for keyboard simulation or USB flash drive for simulation + serial (RS-232) or Ethernet for data transfer. Stipulations for machines with FANUC controls: CNC machine with an available network connection (no network switch), FANUC control with FOCAS interface, control types: 30i / 31i / Oi-F / 32i</p> <p>»zidCode 4.0«:<br/>Your CNC machine must be network-capable. A network connection and power connection must be provided on the machine for »zidCode 4.0«. Either the CNC machine must be integrated into the production network, or a free network port must be available.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c851",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "How long does the installation take?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>We estimate about one hour per machine. In addition, one day is required for training and, if necessary, one day for an update of the ZOLLER presetting and measuring machine.</p> <p>»zidCode 4.0«:<br/>About half a day per machine. In addition, one to two days are required for training and, if necessary, one day for updating the ZOLLER presetting and measuring machine.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c849",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Which model is right for my production?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>If you don’t want to work via a network. With »zidCode«, you can eliminate typing errors at the machine. Machine operators scan the code, and the tool data is transmitted correctly to the machine control. </p> <p>»zidCode« 4.0«:<br/>If you want to or are able to work via a network and want to benefit from even greater efficiency in the production process. »zidCode« 4.0« offers an even broader range of capabilities in terms of networking, process optimization, and efficiency improvements. </p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c847",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "How do I establish a connection for my CNC machine?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>Simply connect it directly to the machine via USB, serial, or network cable. Proper configuration ensures that »zidCode« functions correctly.</p> <p>»zidCode 4.0«:<br/>For this, the machine should be on the same network as the »zidCode 4.«0 unit and your ZOLLER presetting and measuring machine. A network connection to the production network on the CNC machine is required for this. If the machine is on a isolated network, »zidCode 4.0« should also be able to communicate with two networks using an optional extension.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c855",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "How do I perform fastening of »zidCode« and »zidCode 4.0« on my CNC machine?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The monitor for both versions—»zidCode« and »zidCode 4.0«—is fastened to your machine tool using very strong magnets. No drill holes, minimal effort, and fixed installation—even during operation. »zidCode 4.0« is also available on a stand so you can perform the installation next to your machine.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c857",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Do I need my own power connection?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>If you're using USB, then no. If you're using Ethernet or a serial port, then yes. If the power supply provided via USB is not sufficient (older cables on older machines), an external power supply can be ordered as an optional addition.</p> <p>»zidCode 4.0«:<br/>Yes, always.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c859",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What stipulations must my tool holders meet?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>None. The corresponding QR code for data transfer is printed on a label at the ZOLLER presetting and measuring machine. You can either clip these labels onto your tool holders using our ZOLLER Tooltag holders or affix the labels directly to the tool. </p> <p>»zidCode« 4.0«:<br/>All tool holders must be labeled with a unique 2D code. ZOLLER offers the reliable »idLabel« or »idChip« solutions for permanent tool marking. The code is used to identify your tool holder, and the corresponding data is removed from the network. Alternatively, the tool holder can also be marked with a 2D code via laser marking.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c861",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "I already have a screen on my CNC machine. Can I use the »zidCode 4.0« software on it?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Yes, you can! We also offer the »zidCode 4.0« solution without a touchscreen. The »zidCode 4.0« application is web-based and can be used on any screen size. Instead of the »zidCode 4.0« housing, you’ll receive the »zidCode« housing, which includes a scanner.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+            "alt": "",
+            "w": 1920,
+            "h": 1690
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c864",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c845",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c843",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data - including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/1/csm_teaser_kontakt_e9808d5a35.webp",
+    "alt": ""
+   },
+   "text": "<h3>Contact us</h3> <p><a class=\"btn\" href=\"/ca/company/contact/contact-person\">Find a contact person</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c781",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ca/products/tool-management/data-transfer/zidcode/faq",
+ "de_path": "/produkte/toolmanagement/zidcode/faq"
+}

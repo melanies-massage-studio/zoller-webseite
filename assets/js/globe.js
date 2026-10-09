@@ -16,11 +16,15 @@ const damp = (a, b, k, dt) => a + (b - a) * (1 - Math.exp(-k * dt));
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const norm = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 const YELLOW = new THREE.Color('#f0e600'), WHITE = new THREE.Color('#ffffff');
-const KIND = { hq: 'Stammhaus', nl: 'Niederlassung', vt: 'Vertretung' };
+// Übersetzungen der Länderseiten (window.ZI18N, deutscher Text als Schlüssel)
+const T = (s) => (window.ZI18N && window.ZI18N[s]) || s;
+const KIND = { hq: T('Stammhaus'), nl: T('Niederlassung'), vt: T('Vertretung') };
 const REGIONS = {
   'Europa': [50, 12, 2.6], 'Asien': [24, 102, 3.6], 'Nordamerika': [38, -96, 3.3],
   'Südamerika': [-18, -62, 3.4], 'Afrika': [2, 22, 3.6], 'Australien & Neuseeland': [-30, 140, 3.4],
 };
+// Regionsnamen der Seite (übersetzt) -> Kameraposition
+if (root && root.dataset.regions) Object.entries(JSON.parse(root.dataset.regions)).forEach(([k, v]) => { REGIONS[k] = REGIONS[v]; });
 
 if (root) init().catch((e) => { console.warn('Standortglobus deaktiviert:', e); root.classList.add('is-static'); });
 
@@ -328,23 +332,23 @@ async function init() {
     const tel = s.tel.map((v) => `<a href="tel:${esc(v.replace(/[^0-9+]/g, ''))}">${esc(v)}</a>`).join('<br>');
     const mail = s.mail.map((v) => `<a href="mailto:${esc(v)}">${esc(v)}</a>`).join('<br>');
     const links = [
-      ...s.web.map((w) => `<a class="btn" href="${esc(w)}" target="_blank" rel="noopener">Website</a>`),
-      ...s.map.map((w) => `<a class="btn btn--ghost" href="${esc(w)}" target="_blank" rel="noopener">Route planen</a>`),
+      ...s.web.map((w) => `<a class="btn" href="${esc(w)}" target="_blank" rel="noopener">${T('Website')}</a>`),
+      ...s.map.map((w) => `<a class="btn btn--ghost" href="${esc(w)}" target="_blank" rel="noopener">${T('Route planen')}</a>`),
     ].join('');
     const nb = near(s).map(([o, d]) => `<li><button type="button" data-goto="${o.id}"><i class="dot dot--${o.k}"></i><span>${esc(o.n)}<small>${esc(city(o))} · ${Math.round(d / 10) * 10} km</small></span></button></li>`).join('');
-    return `<button type="button" class="globe__close" data-close aria-label="Schließen"></button>
+    return `<button type="button" class="globe__close" data-close aria-label="${T('Schließen')}"></button>
       <span class="globe__badge globe__badge--${s.k}">${KIND[s.k]}</span>
       <span class="globe__region">${esc(s.r)}</span>
       <h2>${esc(s.n)}</h2>
       <p class="globe__addr">${s.a.map(esc).join('<br>')}</p>
       <dl class="globe__facts">
-        ${tel ? `<div><dt>Telefon</dt><dd>${tel}</dd></div>` : ''}
-        ${s.fax.length ? `<div><dt>Fax</dt><dd>${s.fax.map(esc).join('<br>')}</dd></div>` : ''}
-        ${mail ? `<div><dt>E-Mail</dt><dd>${mail}</dd></div>` : ''}
-        <div><dt>Zuständig für</dt><dd class="globe__chips">${s.c.map((c) => `<span>${esc(c)}</span>`).join('')}</dd></div>
+        ${tel ? `<div><dt>${T('Telefon')}</dt><dd>${tel}</dd></div>` : ''}
+        ${s.fax.length ? `<div><dt>${T('Fax')}</dt><dd>${s.fax.map(esc).join('<br>')}</dd></div>` : ''}
+        ${mail ? `<div><dt>${T('E-Mail')}</dt><dd>${mail}</dd></div>` : ''}
+        <div><dt>${T('Zuständig für')}</dt><dd class="globe__chips">${s.c.map((c) => `<span>${esc(c)}</span>`).join('')}</dd></div>
       </dl>
       <div class="globe__actions">${links}</div>
-      ${nb ? `<div class="globe__near"><h3>In der Nähe</h3><ul>${nb}</ul></div>` : ''}`;
+      ${nb ? `<div class="globe__near"><h3>${T('In der Nähe')}</h3><ul>${nb}</ul></div>` : ''}`;
   }
   function select(id) {
     const s = id ? byId[id] : null;
@@ -394,7 +398,7 @@ async function init() {
   let hits = [], active = -1;
   const renderHits = () => {
     results.innerHTML = hits.map((s, i) => `<li><button type="button" data-goto="${s.id}" class="${i === active ? 'is-active' : ''}"><i class="dot dot--${s.k}"></i><span>${esc(s.n)}<small>${esc(city(s))}</small></span></button></li>`).join('')
-      || '<li class="is-empty">Kein Standort gefunden</li>';
+      || `<li class="is-empty">${T('Kein Standort gefunden')}</li>`;
     results.hidden = !input.value.trim();
   };
   input.addEventListener('input', () => {
@@ -420,7 +424,7 @@ async function init() {
 
   // HQ-Beschriftung (HTML) folgt dem Stammhaus
   const hqLabel = document.createElement('div');
-  hqLabel.className = 'globe__hqlabel'; hqLabel.innerHTML = '<b>Pleidelsheim</b><span>Stammhaus</span>';
+  hqLabel.className = 'globe__hqlabel'; hqLabel.innerHTML = `<b>Pleidelsheim</b><span>${T('Stammhaus')}</span>`;
   root.appendChild(hqLabel);
 
   // ------------------------------------------------------------------ Loop

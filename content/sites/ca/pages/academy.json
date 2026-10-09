@@ -1,0 +1,346 @@
+{
+ "path": "/academy",
+ "url": "/ca/academy",
+ "title": "Academy",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Academy",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Academy",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/academy",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/academy",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/academia",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/academie",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/academia",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/accademia",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/akademin",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/academy",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/academy",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/academie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/academy",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/academia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/academia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/9/csm_myzoller_academy_header_42676cb222.webp",
+     "video": null,
+     "title": "ACADEMY",
+     "kicker": "",
+     "text": "<p>The 24/7 Expert Center</p>",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3100",
+   "bg": "lightgray",
+   "space": {
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>Would you like to get the most out of your machines?</strong></h4> <p class=\"large-text\">Our Academy is available around the clock (24/7) and packed with practical examples, product tips, and expert knowledge—this is how we help everyone, from trainees to experienced employees, achieve higher quality, greater efficiency, and low costs with ZOLLER.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8251",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "academy",
+   "filters": {
+    "Catégorie": [
+     "Événement",
+     "Produit",
+     "Entraînement"
+    ],
+    "Solution": [
+     "Automatisation",
+     "Réglage et mesure",
+     "Contrôle et mesure",
+     "technique de rétraction",
+     "Technique d'équilibrage",
+     "Gestion des outils",
+     "Porte-outils"
+    ],
+    "Search": []
+   },
+   "items": [
+    {
+     "href": "https://www.youtube.com/watch?v=Yk-cPVbRLKY",
+     "img": {
+      "src": "/fileadmin/_processed_/1/5/csm_ZOLLER__coraVarion_micBox__-_Vollautomatische_Montage__Pr%C3%BCfung___Vermessung_von_Wendeschneidplatten_78182a31a2.png",
+      "alt": "ZOLLER__coraVarion_micBox__-_Vollautomatische_Montage__Prüfung___Vermessung_von_Wendeschneidplatten.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER »coraVarion/micBox« - Vollautomatische Montage, Prüfung & Vermessung von Wendeschneidplatten"
+     },
+     "title": "ZOLLER »coraVarion/micBox« - Vollautomatische Montage, Prüfung & Vermessung von Wendeschneidplatten",
+     "text": "<a href=\"https://www.youtube.com/watch?v=Yk-cPVbRLKY\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER__coraVarion_micBox__-_Vollautomatische_Montage__Prüfung___Vermessung_von_Wendeschneidplatten.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/5/csm_ZOLLER__coraVarion_micBox__-_Vollautomatische_Montage__Pr%C3%BCfung___Vermessung_von_Wendeschneidplatten_78182a31a2.png\" title=\"ZOLLER »coraVarion/micBox« - Vollautomatische Montage, Prüfung &amp; Vermessung von Wendeschneidplatten\" width=\"1280\"/> </a> Wed., 30. September 2026 <h3> <a href=\"https://www.youtube.com/watch?v=Yk-cPVbRLKY\" rel=\"noopener\" target=\"_blank\">ZOLLER »coraVarion/micBox« - Vollautomatische Montage, Prüfung &amp; Vermessung von Wendeschneidplatten</a> </h3> Produit Automatisation"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=Ghn3TEVq0Sw",
+     "img": {
+      "src": "/fileadmin/_processed_/5/3/csm_ZOLLER-Postprozessor_9b6b216127.png",
+      "alt": "ZOLLER-Postprozessor.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER-Postprozessor"
+     },
+     "title": "ZOLLER-Postprozessor",
+     "text": "<a href=\"https://www.youtube.com/watch?v=Ghn3TEVq0Sw\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER-Postprozessor.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/3/csm_ZOLLER-Postprozessor_9b6b216127.png\" title=\"ZOLLER-Postprozessor\" width=\"1280\"/> </a> Wed., 30. September 2026 <h3> <a href=\"https://www.youtube.com/watch?v=Ghn3TEVq0Sw\" rel=\"noopener\" target=\"_blank\">ZOLLER-Postprozessor</a> </h3> Gestion des outils"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=mwKtwcn4CxQ",
+     "img": {
+      "src": "/fileadmin/_processed_/5/0/csm_Vielen_Dank_AMB_2026_%E2%80%93_ZOLLER_Innovationen__Highlights___Neuheiten_9dd09edf4a.png",
+      "alt": "Vielen_Dank_AMB_2026_–_ZOLLER_Innovationen__Highlights___Neuheiten.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "Vielen Dank AMB 2026 – ZOLLER Innovationen, Highlights & Neuheiten"
+     },
+     "title": "Vielen Dank AMB 2026 – ZOLLER Innovationen, Highlights & Neuheiten",
+     "text": "<a href=\"https://www.youtube.com/watch?v=mwKtwcn4CxQ\" rel=\"noopener\" target=\"_blank\"> <img alt=\"Vielen_Dank_AMB_2026_–_ZOLLER_Innovationen__Highlights___Neuheiten.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/0/csm_Vielen_Dank_AMB_2026_%E2%80%93_ZOLLER_Innovationen__Highlights___Neuheiten_9dd09edf4a.png\" title=\"Vielen Dank AMB 2026 – ZOLLER Innovationen, Highlights &amp; Neuheiten\" width=\"1280\"/> </a> Wed., 30. September 2026 <h3> <a href=\"https://www.youtube.com/watch?v=mwKtwcn4CxQ\" rel=\"noopener\" target=\"_blank\">Vielen Dank AMB 2026 – ZOLLER Innovationen, Highlights &amp; Neuheiten</a> </h3> Événement"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=Dz8xOyFIgfg",
+     "img": {
+      "src": "/fileadmin/_processed_/d/7/csm_ZOLLER__toolBalancer_1000____Werkzeuge_pr%C3%A4zise_auswuchten_bis_1.000_mm_L%C3%A4nge_9a149d8580.png",
+      "alt": "ZOLLER__toolBalancer_1000____Werkzeuge_präzise_auswuchten_bis_1.000_mm_Länge.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER »toolBalancer 1000« | Werkzeuge präzise auswuchten bis 1.000 mm Länge"
+     },
+     "title": "ZOLLER »toolBalancer 1000« | Werkzeuge präzise auswuchten bis 1.000 mm Länge",
+     "text": "<a href=\"https://www.youtube.com/watch?v=Dz8xOyFIgfg\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER__toolBalancer_1000____Werkzeuge_präzise_auswuchten_bis_1.000_mm_Länge.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/7/csm_ZOLLER__toolBalancer_1000____Werkzeuge_pr%C3%A4zise_auswuchten_bis_1.000_mm_L%C3%A4nge_9a149d8580.png\" title=\"ZOLLER »toolBalancer 1000« | Werkzeuge präzise auswuchten bis 1.000 mm Länge\" width=\"1280\"/> </a> Wed., 30. September 2026 <h3> <a href=\"https://www.youtube.com/watch?v=Dz8xOyFIgfg\" rel=\"noopener\" target=\"_blank\">ZOLLER »toolBalancer 1000« | Werkzeuge präzise auswuchten bis 1.000 mm Länge</a> </h3> Produit Technique d'équilibrage"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=YeEI5shNeSw",
+     "img": {
+      "src": "/fileadmin/_processed_/4/9/csm_Effizienter_Werkzeug-Workflow_mit_ZOLLER__coraMeasure_LG_____coraMachineLoad__90f56ddeba.png",
+      "alt": "Effizienter_Werkzeug-Workflow_mit_ZOLLER__coraMeasure_LG_____coraMachineLoad_.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "Effizienter Werkzeug-Workflow mit ZOLLER »coraMeasure LG« & »coraMachineLoad«"
+     },
+     "title": "Effizienter Werkzeug-Workflow mit ZOLLER »coraMeasure LG« & »coraMachineLoad«",
+     "text": "<a href=\"https://www.youtube.com/watch?v=YeEI5shNeSw\" rel=\"noopener\" target=\"_blank\"> <img alt=\"Effizienter_Werkzeug-Workflow_mit_ZOLLER__coraMeasure_LG_____coraMachineLoad_.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/9/csm_Effizienter_Werkzeug-Workflow_mit_ZOLLER__coraMeasure_LG_____coraMachineLoad__90f56ddeba.png\" title=\"Effizienter Werkzeug-Workflow mit ZOLLER »coraMeasure LG« &amp; »coraMachineLoad«\" width=\"1280\"/> </a> Thu., 25. June 2026 <h3> <a href=\"https://www.youtube.com/watch?v=YeEI5shNeSw\" rel=\"noopener\" target=\"_blank\">Effizienter Werkzeug-Workflow mit ZOLLER »coraMeasure LG« &amp; »coraMachineLoad«</a> </h3> Produit Automatisation"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=AJaFOq9ptaE",
+     "img": {
+      "src": "/fileadmin/_processed_/9/d/csm_Vielen_Dank_GrindingHub_2026_048245c2cf.png",
+      "alt": "Vielen_Dank_GrindingHub_2026.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "Vielen Dank GrindingHub 2026"
+     },
+     "title": "Vielen Dank GrindingHub 2026",
+     "text": "<a href=\"https://www.youtube.com/watch?v=AJaFOq9ptaE\" rel=\"noopener\" target=\"_blank\"> <img alt=\"Vielen_Dank_GrindingHub_2026.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/d/csm_Vielen_Dank_GrindingHub_2026_048245c2cf.png\" title=\"Vielen Dank GrindingHub 2026\" width=\"1280\"/> </a> Wed., 10. June 2026 <h3> <a href=\"https://www.youtube.com/watch?v=AJaFOq9ptaE\" rel=\"noopener\" target=\"_blank\">Vielen Dank GrindingHub 2026</a> </h3> Événement"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=zj8g7glRcRE",
+     "img": {
+      "src": "/fileadmin/_processed_/d/b/csm__zidCode_4.0__mit__z.DMI_-Technologie_f%C3%BCr_FANUC_2147648b8b.png",
+      "alt": "_zidCode_4.0__mit__z.DMI_-Technologie_für_FANUC.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "»zidCode 4.0« mit »z.DMI«-Technologie für FANUC"
+     },
+     "title": "»zidCode 4.0« mit »z.DMI«-Technologie für FANUC",
+     "text": "<a href=\"https://www.youtube.com/watch?v=zj8g7glRcRE\" rel=\"noopener\" target=\"_blank\"> <img alt=\"_zidCode_4.0__mit__z.DMI_-Technologie_für_FANUC.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/b/csm__zidCode_4.0__mit__z.DMI_-Technologie_f%C3%BCr_FANUC_2147648b8b.png\" title=\"»zidCode 4.0« mit »z.DMI«-Technologie für FANUC\" width=\"1280\"/> </a> Wed., 10. June 2026 <h3> <a href=\"https://www.youtube.com/watch?v=zj8g7glRcRE\" rel=\"noopener\" target=\"_blank\">»zidCode 4.0« mit »z.DMI«-Technologie für FANUC</a> </h3> Entraînement Gestion des outils"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=tFhIc-aVfmw",
+     "img": {
+      "src": "/fileadmin/_processed_/e/3/csm_Danke_f%C3%BCr_2_unvergessliche_ZOLLER_80_Tage_%E2%80%93_Open_House__ZOLLER_80er_Party__Jubil%C3%A4umsfeier_c13be91151.png",
+      "alt": "Danke_für_2_unvergessliche_ZOLLER_80_Tage_–_Open_House__ZOLLER_80er_Party__Jubiläumsfeier.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "Open House, ZOLLER 80er Party, Jubiläumsfeier"
+     },
+     "title": "Open House, ZOLLER 80er Party, Jubiläumsfeier",
+     "text": "<a href=\"https://www.youtube.com/watch?v=tFhIc-aVfmw\" rel=\"noopener\" target=\"_blank\"> <img alt=\"Danke_für_2_unvergessliche_ZOLLER_80_Tage_–_Open_House__ZOLLER_80er_Party__Jubiläumsfeier.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/3/csm_Danke_f%C3%BCr_2_unvergessliche_ZOLLER_80_Tage_%E2%80%93_Open_House__ZOLLER_80er_Party__Jubil%C3%A4umsfeier_c13be91151.png\" title=\"Open House, ZOLLER 80er Party, Jubiläumsfeier\" width=\"1280\"/> </a> Wed., 26. November 2025 <h3> <a href=\"https://www.youtube.com/watch?v=tFhIc-aVfmw\" rel=\"noopener\" target=\"_blank\">Open House, ZOLLER 80er Party, Jubiläumsfeier</a> </h3> Événement"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=iaV2Il_Gqn8",
+     "img": {
+      "src": "/fileadmin/_processed_/a/8/csm_ZOLLER_Tooling_Solutions_%E2%80%93_die_perfekte_Schnittstelle_f%C3%BCr_Ihre_digitale_Fertigung_c745571dcd.png",
+      "alt": "ZOLLER_Tooling_Solutions_–_die_perfekte_Schnittstelle_für_Ihre_digitale_Fertigung.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+     },
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung",
+     "text": "<a href=\"https://www.youtube.com/watch?v=iaV2Il_Gqn8\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_Tooling_Solutions_–_die_perfekte_Schnittstelle_für_Ihre_digitale_Fertigung.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/8/csm_ZOLLER_Tooling_Solutions_%E2%80%93_die_perfekte_Schnittstelle_f%C3%BCr_Ihre_digitale_Fertigung_c745571dcd.png\" title=\"ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung\" width=\"1280\"/> </a> Mon., 03. November 2025 <h3> <a href=\"https://www.youtube.com/watch?v=iaV2Il_Gqn8\" rel=\"noopener\" target=\"_blank\">ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung</a> </h3> Produit Porte-outils"
+    }
+   ],
+   "raw": "",
+   "ftype": "zoller_academy",
+   "id": "c3097",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/academy",
+ "de_path": "/academy"
+}

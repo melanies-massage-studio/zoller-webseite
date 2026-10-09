@@ -1,0 +1,544 @@
+{
+ "path": "/produits/technique-de-retraction/redomatic",
+ "url": "/ca-fr/produits/technique-de-retraction/redomatic",
+ "title": "»redomatic«",
+ "description": "»redomatic« - »redomatic« - Appareil universel de réglage et de mesure avec système de serrage d'outils intégré - Rétrécissement et mesure",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "technique de rétraction /",
+   "href": "/ca-fr/produits/technique-de-retraction"
+  },
+  {
+   "label": "»redomatic«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "technique de rétraction /",
+   "href": "/ca-fr/produits/technique-de-retraction"
+  },
+  {
+   "label": "»redomatic«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/redomatic",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/redomatic",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/redomatic",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/redomatic",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/redomatic",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/redomatic",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/redomatic",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/redomatic",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/redomatic",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/redomatic",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/redomatic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/redomatic",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/redomatic",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»redomatic«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Applications",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/applications",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1479",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»redomatic«",
+   "text": "<p>Appareil universel de réglage et de mesure avec système de serrage d'outils<br/>intégré</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demander dès maintenant</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/0/csm_header_redomatic_a78a94a4e3.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1478",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »actbyLight« </h3> <h2> Au final, une seule chose compte : une qualité exceptionnelle </h2>",
+   "body": "<p>Avec un »redomatic 400« ou »un redomatic 600« de ZOLLER, vous optimiserez la production sur vos machines multibroches et dans votre production en série automatisée. En effet, avec »redomatic«, vous avez la certitude que les longueurs d’outils sont toujours réglées correctement. Le processus de rétraction développé par ZOLLER à l’aide de l’adaptateur de réglage »masterPiece« est à la fois rapide et simple.</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demandez dès maintenant</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">un entretien individuel avec un expert</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_zoller_redomatic_positionierung_9118bc970f.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1480",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Concept d'utilisation unique ",
+    "Précision maximale ",
+    "Sécurité certifiée"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1481",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> technique de rétraction </h3> <h2> Moins d'énergie, un rendement maximal </h2>",
+   "body": "<p>Avec »redomatic« de ZOLLER, vous gagnez du temps, réduisez vos coûts d'électricité et préservez vos mandrins à serrage par rétrécissement grâce à une interaction parfaite entre l'électronique, le logiciel et la mécanique, ainsi qu'à un processus de rétrécissement bien pensé et sûr.</p> <p><a class=\"btn\" href=\"#c3769\">Économie d'énergie de 30 % </a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/0/csm_zoller_redomatic_energieeinsparung_c7657a464d.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1482",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/0/6/csm_energieeinsparung-de_a28e5b00ba.webp",
+    "alt": "",
+    "w": 996,
+    "h": 559
+   },
+   "title": "Une économie d'énergie de 30 %",
+   "text": "<p>La technologie à induction ZOLLER vous permet de chauffer vos mandrins à serrage par contraction de manière optimale. Pour vous, cela signifie : un chauffage homogène sur toute la plage de serrage et uniquement pendant la durée nécessaire. Vous bénéficiez ainsi de temps de chauffage et de refroidissement plus courts, de temps de cycle réduits, tout en préservant les mandrins et en prolongeant leur durée de vie.</p> <p>L’un des avantages particuliers de »redomatic«, grâce auquel ZOLLER contribue à une utilisation durable dans la production, est l’économie d’énergie pouvant atteindre 30 % par rapport au modèle précédent. Nous en sommes particulièrement fiers. La chaleur et l’énergie sont acheminées exactement là où vous en avez besoin pour rétracter et étirer vos outils en toute sécurité.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3769",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> technique de rétraction </h3> <h2> Une conception intelligente pour une efficacité maximale </h2>",
+   "body": "<p>La bobine d'induction ZOLLER constitue l'un des atouts intelligents et bien pensés du »powerShrink«. Deux enroulements montés en parallèle à l'intérieur de la bobine peuvent être activés séparément et commandés différemment en fonction du diamètre et de la longueur de la pièce à serrer. Cela permet un apport d'énergie optimal dans la zone de serrage, accélère les processus de chauffage et de refroidissement et préserve vos porte-outils.</p> <p><a class=\"btn\" href=\"#c3770\">Bobine d'induction avec système de blindage »varOct«</a> <a class=\"btn\" href=\"#c3771\">Solution autonome »powerShrink«</a></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/1TT4LwLEbHw?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Re-inventing the induction coil"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1483",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/6/9/csm_varoct__1__2af8f2890a.webp",
+    "alt": "",
+    "w": 960,
+    "h": 1200
+   },
+   "title": "Quand l'art fait mouche",
+   "text": "<p class=\"large-text\">Inspiré par l'architecture moderne et la cinématique optique, le département Recherche et Développement de ZOLLER a réalisé un véritable chef-d'œuvre. La bobine d'induction ZOLLER équipée du système de blindage »varOct« garantit une efficacité et une ergonomie optimales lors du processus de rétraction.</p> <h2>8 éléments en ferrite</h2> <p class=\"large-text\">Une idée géniale. Une conception parfaite. Les huit éléments variables du blindage de bobine »varOct« glissent les uns contre les autres sans se toucher – une véritable prouesse de conception. Le caractère unique de ZOLLER pour un design et une efficacité imbattables.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3770",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/c/a/csm_zoller_powershrink_v2_9191a84cdf.webp",
+    "alt": "",
+    "w": 960,
+    "h": 960
+   },
+   "title": "Une solution autonome haut de gamme",
+   "text": "<p>Mettre en place et retirer des outils en un temps record, tout en économisant de l'énergie et en préservant le mandrin : le système de rétraction par induction »powerShrink« vous offre tous ces avantages.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-de-retraction/powershrink\">En savoir plus</a></p>",
+   "ftype": "zoller_overlay",
+   "id": "c3771",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Une synergie haute performance </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/0/f/csm_redomatic_Infodots_v2_431a9f8198.webp",
+    "alt": "",
+    "w": 1366,
+    "h": 986
+   },
+   "spots": [
+    {
+     "x": 39.537,
+     "y": 4.582,
+     "label": "Aspiration des gaz de combustion",
+     "text": "<h3>Aspiration des gaz de combustion</h3> <h4>Aspiration des fumées</h4> <p>Élimine efficacement les fumées de la zone de travail de l'opérateur. Le système d'aspiration des fumées, éprouvé et breveté, situé au-dessus de la bobine d'induction, a été complété par un système d'aspiration intégré à l'intérieur du boîtier de la bobine. Les gaz de combustion sont ainsi aspirés directement à l'endroit où ils se forment.</p>"
+    },
+    {
+     "x": 33.0,
+     "y": 8.864,
+     "label": "Bobine d'induction »varOct«",
+     "text": "<h3>Bobine d'induction »varOct«</h3> <h4>Bobine d'induction intelligente avec système de blindage »varOct«</h4> <p>Avec réglage automatique du diamètre jusqu’à un diamètre de tige maximal de 32 mm pour une puissance de chauffage optimale dans chaque cas. Le processus de chauffage est surveillé en continu. Le diamètre intérieur du système de blindage »varOct« peut être réglé rapidement et automatiquement sur le diamètre souhaité à l’aide d’un système à crans. Grâce à son diamètre intérieur maximal de 45,8 mm, il est également possible de retirer facilement par rétraction des outils présentant un diamètre de tranchant plus important.</p> <p>Également disponible en option avec une interface de changement rapide permettant de passer rapidement d’une bobine de 14 kVA à une bobine de 22 kVA.</p>"
+    },
+    {
+     "x": 26.9,
+     "y": 25.069,
+     "label": "Poignée à une main »eQ«",
+     "text": "<h3>Poignée à une main »eQ«</h3> <h4>Poignée de commande à une main »eQ« (ergonomic &amp; quick)</h4> <p>D'une seule main, il est possible de déplacer rapidement le support optique simultanément dans les axes Z et X et de le positionner très facilement à l'endroit souhaité. De plus, d'autres fonctions de »pilot 4.0« peuvent être intégrées au bouton supplémentaire de »l'eQ«.</p>"
+    },
+    {
+     "x": 35.582,
+     "y": 36.817,
+     "label": "Système de butée longitudinale »asza«",
+     "text": "<h3>Système de butée longitudinale »asza«</h3> <h4>Système automatique de butée de longueur »asza«</h4> <p>Précision inférieure à 10 μm sur l'axe Z pour le rétrécissement.<br/><br/><strong>Surveillance de la longueur de rétrécissement</strong> – pour un rétrécissement sûr et contrôlé des outils avec surveillance de la longueur minimale de rétrécissement.</p>"
+    },
+    {
+     "x": 33.033,
+     "y": 42.284,
+     "label": "Broche haute précision »ace«",
+     "text": "<h3>Broche haute précision »ace«</h3> <h4>Broche haute précision »ace«</h4> <p>Système de broche universel de haute précision, offrant un comportement de serrage similaire à celui d'une broche de machine-outil, garantissant un logement et un serrage des outils au micromètre près. Le système universel de changement de porte-outils permet une adaptation à pratiquement tous les systèmes de porte-outils.</p>"
+    },
+    {
+     "x": 52.5,
+     "y": 38.92,
+     "label": "Cloche de refroidissement",
+     "text": "<h3>Cloche de refroidissement</h3> <h4>Cloche de refroidissement innovante avec guidage de l'opérateur »« coolbyLight »«</h4> <p>Pour un processus de refroidissement sûr et facile à gérer grâce au système de couleurs des LED. Il est également possible d'opter pour la version avec les cloches de refroidissement standard sur le modèle »redomatic 600«.</p> <p><strong>Logiciel « Cooling Manager » pour l'unité de refroidissement</strong> : celle-ci ne s'active automatiquement qu'en cas de besoin.</p>"
+    },
+    {
+     "x": 59.3,
+     "y": 57.064,
+     "label": "Meuble d'appoint",
+     "text": "<h3>Meuble d'appoint</h3> <h4>Unité d'appoint</h4> <p>Destinée à accueillir le système électronique de rétraction, les cloches de refroidissement, les bagues de fixation, les barres de butée et l’adaptateur de réglage ZOLLER »masterPiece«. L’affichage du système de guidage de rétraction »sls« dans le logiciel de traitement d’images permet une sélection rapide des accessoires nécessaires.</p> <p><strong>Le système de guidage de rétraction »sls«</strong> – »pilot 4.0« guide l’opérateur de manière sûre et rapide tout au long du processus de rétraction grâce à des étapes de travail définies avec précision dans le logiciel.</p>"
+    },
+    {
+     "x": 68.7,
+     "y": 19.114,
+     "label": "Logiciel de traitement d'images »pilot 4.0«",
+     "text": "<h3>Logiciel de traitement d'images »pilot 4.0«</h3> <h4>IPC équipé du logiciel de traitement d'images »pilot 4.0«</h4> <p>Le système de commande, composé d'un IPC, de »pilot 4.0« et d'un écran couleur TFT 24 pouces, prend en charge toutes les tâches d'usinage liées au réglage, à la mesure et au rétrécissement, et garantit une utilisation simple et sûre. L'écran est réglable en hauteur et en inclinaison, ce qui rend l'utilisation du logiciel extrêmement confortable. Le »cockpit« offre de la place pour un clavier et une souris, ainsi que des rangements pour les imprimantes d'étiquettes et laser, un scanner et des outils tels que des clés Allen.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1484",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nous incarnons les solutions ZOLLER </h2>",
+   "body": "<p>ZOLLER Solutions – Chez nous, vous obtenez bien plus que des produits d'exception. Vous bénéficiez de solutions système sur mesure pour tous vos outils. Pour cela, nous combinons pour vous matériel, logiciels et services. Tout d'une seule source. Tout pour votre réussite. C'est ce que nous appelons : ZOLLER Solutions.</p> <p><a class=\"btn\" href=\"/ca-fr/solutions\">En savoir plus sur ZOLLER Solutions</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_zoller_redomatic_geschaeftsleitung_638859d838.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1488",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»redomatic 400«</h4> <p>Le haut de gamme compact. Faites votre choix en toute simplicité et en toute transparence, ou contactez-nous !</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-de-retraction/redomatic\">Demander des informations dès maintenant</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/9/csm_cta_redomatic400_f236af4606.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c2326",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»redomatic 600«</h4> <p>Une combinaison haute performance. Faites votre choix en toute simplicité et en toute transparence, ou contactez-nous !</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-de-retraction/redomatic\">Demandez des informations dès maintenant</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/0/3/csm_cta_redomatic600_0cb1f5c4f1.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c2327",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2325",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Entretien individuel avec un expert</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Prendre rendez-vous maintenant</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ca-fr/produits/technique-de-retraction/redomatic",
+ "de_path": "/produkte/schrumpftechnik/redomatic"
+}

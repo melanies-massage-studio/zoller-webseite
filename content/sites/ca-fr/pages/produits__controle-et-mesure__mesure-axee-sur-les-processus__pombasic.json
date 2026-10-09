@@ -1,0 +1,568 @@
+{
+ "path": "/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic",
+ "url": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic",
+ "title": "»pomBasic«",
+ "description": "»pomBasic« - »pomBasic« - Contrôler plus de 70 paramètres sur l'outil en temps réel - Pour une inspection manuelle précise en production",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Contrôle et mesure /",
+   "href": "/ca-fr/produits/controle-et-mesure"
+  },
+  {
+   "label": "Mesure axée sur les processus /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus"
+  },
+  {
+   "label": "»pomBasic«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Contrôle et mesure /",
+   "href": "/ca-fr/produits/controle-et-mesure"
+  },
+  {
+   "label": "Mesure axée sur les processus /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus"
+  },
+  {
+   "label": "»pomBasic«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen/prozessorientertes-messen/pombasic",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring/process-oriented-measurement/pombasic",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/pombasic",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer/mesure-orientee-processus/pombasic",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/pombasic",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione/misurazione-orientata-al-processo/pombasic",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta/processorienterad-maetning/pombasic",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen/prozessorientiertes-messen/pombasic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring/process-oriented-measurement/pombasic",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E9%87%8D%E8%A6%96%E3%81%AE%E6%B8%AC%E5%AE%9A/pombasic",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95/pombasic",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring/process-oriented-measurement/pombasic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/pombasic",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/pombasic",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»pomBasic«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Modèles",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/modeles",
+     "current": false
+    },
+    {
+     "label": "Logiciels et intégration",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/logiciels-et-integration",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1604",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»pomBasic«",
+   "text": "<p>Solutions compactes axées sur les processus<br/>pour l'inspection des outils</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demander dès maintenant</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/c/9/csm_pomBasic_header_e15bc565eb.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1608",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nous sommes les garants d'un progrès intelligent </h2>",
+   "body": "<p><strong>Vous souhaitez accélérer vos processus de travail ? Alors optez pour la solution rapide en matière de mesure et de contrôle d'outils. La série »pomBasic« de ZOLLER constitue la solution idéale pour une préparation et une fabrication bien pensées et économiquement optimisées d'outils de précision.</strong></p> <p>Évitez les allers-retours inutiles vers la salle de mesure : profitez de processus efficaces et de résultats précis en un temps record. Grâce à leurs dimensions compactes, les appareils d’inspection »pomBasic« de ZOLLER peuvent être installés n’importe où dans l’atelier de production – par exemple juste à côté de la rectifieuse CNC, à la réception des marchandises ou au point de distribution des outils.</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demandez dès maintenant</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">un entretien individuel avec un expert</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/3/csm_Smart-fortschritt_f5aa67f87d.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2174",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>L'étalonnage des appareils de mesure sur site à l'aide d'échantillons d'essai certifiés et d'étalons de référence constitue un élément essentiel de l'assurance qualité de la société E. ZOLLER GmbH &amp; Co. KG : cela nous permet de garantir des résultats de mesure fiables et la haute précision de vos produits, conformément aux normes en vigueur.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/6/csm_zertifizierung_pombasic_de_b409deb1f7.webp",
+     "alt": "",
+     "w": 1699,
+     "h": 539
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c3624",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Techniques de contrôle et de mesure compactes ",
+    "Interface utilisateur conviviale ",
+    "Sécurité certifiée"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c2175",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> La compacité dans les détails </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/5/a/csm_pomBasic_update_infodots_149a443d10.webp",
+    "alt": "",
+    "w": 1213,
+    "h": 1259
+   },
+   "spots": [
+    {
+     "x": 32.584,
+     "y": 7.482,
+     "label": "Logiciel »pomSoft 2«",
+     "text": "<h3>Logiciel »pomSoft 2«</h3> <h4>Logiciel »pomSoft 2«</h4> <p>Le logiciel »pomSoft 2« est intuitif, clair et permet aux opérateurs d'effectuer des mesures fiables. L'écran couleur TFT de 32 pouces répond aux normes industrielles et séduit par son intégration directe à l'appareil.</p>"
+    },
+    {
+     "x": 50.415,
+     "y": 31.388,
+     "label": "caméra à lumière incidente",
+     "text": "<h3>caméra à lumière incidente</h3> <h4>Caméra à éclairage incident</h4> <p>Caméra à éclairage incident – dont l'axe peut être réglé manuellement avec précision ou, en option, par commande numérique (CNC), selon l'application. Selon le modèle, il est possible de choisir entre une caméra couleur avec zoom optique, une caméra monochrome à ouverture fixe ou une caméra monochrome avec zoom optique pour l'inspection de micro-outils.</p>"
+    },
+    {
+     "x": 29.213,
+     "y": 31.812,
+     "label": "Éclairage d'appoint",
+     "text": "<h3>Éclairage d'appoint</h3> <h4>Éclairage d'appoint</h4> <p>Éclairage d'appoint – permet la mesure par transmission dans la zone périphérique. Il est ainsi possible de mesurer les contours extérieurs, les longueurs de marches, les angles de pointe et bien plus encore.</p>"
+    },
+    {
+     "x": 25.11,
+     "y": 48.141,
+     "label": "Support pour souris et clavier",
+     "text": "<h3>Support pour souris et clavier</h3> <h4>Rangement pour souris et clavier</h4> <p>Support pour souris et clavier : il s'agit d'un tiroir coulissant peu encombrant, placé de manière ergonomique sous la table.</p>"
+    },
+    {
+     "x": 26.282,
+     "y": 69.976,
+     "label": "Imprimante laser couleur",
+     "text": "<h3>Imprimante laser couleur</h3> <h4>Imprimante laser couleur</h4> <p>Imprimante laser couleur – idéale pour l'impression de procès-verbaux et de listes, elle trouve parfaitement sa place dans ce meuble pratique à placer sous le bureau.</p>"
+    },
+    {
+     "x": 73.913,
+     "y": 14.588,
+     "label": "Support pour dessins",
+     "text": "<h3>Support pour dessins</h3> <h4>Support pour plans</h4> <p>Support pour plans – idéal pour fixer des plans à proximité immédiate de la zone de mesure. L'articulation à rotule magnétique permet un positionnement flexible et optimal pour l'opérateur ou l'opératrice. Grâce aux aimants, les plans peuvent être facilement fixés et rapidement remplacés.</p>"
+    },
+    {
+     "x": 63.361,
+     "y": 29.082,
+     "label": "Réglage manuel de précision",
+     "text": "<h3>Réglage manuel de précision</h3> <h4>Réglage manuel de précision des axes X et Y</h4> <p>Réglage manuel de précision des axes X et Y – précis et sans jeu de retour, il est donc idéal pour la mesure des outils axée sur les processus.</p>"
+    },
+    {
+     "x": 44.895,
+     "y": 30.071,
+     "label": "»pomLightTube«",
+     "text": "<h3>»pomLightTube«</h3> <h4>Éclairage d'appoint »pomLightTube«</h4> <p>Éclairage d'appoint »pomLightTube« – grâce à son tunnel d'éclairage à LED, il assure un éclairage à fort contraste du tranchant de l'outil en lumière incidente. De plus, un éclairage ponctuel peut être installé en option afin d'éclairer parfaitement les géométries cachées de l'outil.</p>"
+    },
+    {
+     "x": 64.875,
+     "y": 55.153,
+     "label": "Rangement pour documents et accessoires",
+     "text": "<h3>Rangement pour documents et accessoires</h3> <h4>Rangement pour documents et accessoires</h4> <p>Compartiment de rangement pour documents et accessoires – situé sous la table, il offre un espace de rangement suffisant et un accès pratique à vos documents et accessoires.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c2176",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Inspection automatique à l'aide de la fonction macro </h2>",
+      "body": "<p><strong>Vous avez des tâches de mesure répétitives et souhaitez les réaliser efficacement ? Là encore, ZOLLER vous propose la solution idéale : grâce à la fonction macro, vous pouvez enregistrer vos mesures répétitives de manière simple et fiable.</strong></p> <p>Un simple clic sur votre programme macro enregistré suffit pour que le processus de mesure se déroule automatiquement : simple, rapide et convivial.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c2177",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/a/9/csm_Schritt00_0319269c56.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Affichage du programme de macros actuellement chargé pour un démarrage rapide du programme</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/c/3/csm_automatisch_Schritt01_7bb335debe.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>1. Démarrage du programme</strong> avec affichage de l'image de référence</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/6/8/csm_automatisch_Schritt02_ba1dc35005.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>2. Positionnement</strong> de l'outil à mesurer par rapport à l'image de référence</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/a/2/csm_automatisch_Schritt03_b8ddc745f8.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>3. Mesure automatique</strong> des paramètres définis</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/4/7/csm_automatisch_Schritt04_1f2c9bc94e.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>4. Aperçu</strong> de tous les résultats de mesure obtenus, avec leurs tolérances</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2179",
+      "bg": "lightgray",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2178",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mesurer les lames de scie dent par dent </h2>",
+   "body": "<p>Le porte-lame élargit le champ d'application de »pomBasic«. Il permet de serrer des lames de scie d'un diamètre compris entre 150 mm et 600 mm à l'aide de bagues de réduction adaptées.</p> <p><a class=\"btn\" href=\"#c3763\">Traitement d'images »pomSoft 2«</a> <a class=\"btn\" href=\"/fileadmin/02_Products/pomBasic/ZOLLER_Broschuere_pomBasic_Schwenktisch_DE.pdf\" rel=\"noopener\" target=\"_blank\">Table pivotante ZOLLER</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/1/csm_Zahn-um-zahn_1286053bea.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1992
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2180",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/9/4/csm_Zahn-um-zahn-radialaxial_2_933480ecf5.webp",
+    "alt": "",
+    "w": 996,
+    "h": 889
+   },
+   "title": "»pomSoft 2«",
+   "text": "<p>Le logiciel de traitement d'images »pomSoft 2« permet de déterminer, en lumière incidente, une multitude de paramètres et de géométries au niveau des dents des lames de scie, tant dans le sens axial que radial.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3763",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> La vérification des faits concernant les outils </h2>",
+   "body": "<p>»Le pomBasic« de ZOLLER est simple, rapide et sûr à utiliser : trois atouts imbattables qui ne pourraient être plus justes. Mais sa conception constitue également la base de mesures précises au µm près : la disposition des axes linéaires et le guidage de câbles intégré, ainsi que l’ergonomie et la longévité qui en découlent, sont uniques sur le marché.</p> <p>La solution ZOLLER « Contrôle et mesure » prouve ce que beaucoup affirment : la qualité. </p> <p><a class=\"btn\" href=\"/ca-fr/solutions/controle-et-mesure\">En savoir plus sur le contrôle et la mesure</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/3/csm_pombasic_versprechen_b4a087dd41.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2181",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Une inspection des outils pensée dans les moindres détails </h2>",
+   "body": "<p>Des procédures de mesure guidées par un assistant, des rapports de contrôle complets générés d'un simple clic et la gestion spécifique à chaque outil de tous les paramètres dans la base de données centrale d'outils ZOLLER « z.One » garantissent à tout moment des processus de fabrication efficaces et une qualité traçable.</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demandez dès maintenant</a> <a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">un entretien individuel avec un expert</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_d99311c8eb.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 858
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2182",
+   "bg": "image",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic",
+ "de_path": "/produkte/pruefen-messen/prozessorientertes-messen/pombasic"
+}

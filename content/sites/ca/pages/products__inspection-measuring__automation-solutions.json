@@ -1,0 +1,301 @@
+{
+ "path": "/products/inspection-measuring/automation-solutions",
+ "url": "/ca/products/inspection-measuring/automation-solutions",
+ "title": "Automation Solutions",
+ "description": "Automation Solutions",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Inspection & Measuring /",
+   "href": "/ca/products/inspection-measuring"
+  },
+  {
+   "label": "Automation Solutions",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Inspection & Measuring /",
+   "href": "/ca/products/inspection-measuring"
+  },
+  {
+   "label": "Automation Solutions",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen/automationsloesungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring/automation-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion/soluciones-de-automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer/solutions-dautomatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao/solucoes-de-automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione/soluzioni-di-automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta/automatiseringsloesningar",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen/automationsloesungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring/automation-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure/solutions-dautomatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%9E%90%EB%8F%99%ED%99%94-%EC%86%94%EB%A3%A8%EC%85%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring/automation-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion/soluciones-de-automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao/solucoes-de-automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Product Overview </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions are key to your future—we help you achieve greater success. After all, manufacturing faster and more efficiently means operating more profitably, which in turn allows you to invest in the future. If economic progress is your goal, then ZOLLER is your partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Presetting & Measuring",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Tool Management",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Inspection & Measuring",
+      "selected": true
+     },
+     {
+      "value": "253",
+      "label": "Automation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Tool Heat Shrink Technology",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Tool Holders",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Tool Balancing Technology",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "258",
+      "label": "Universal measuring machine",
+      "selected": false
+     },
+     {
+      "value": "257",
+      "label": "Process-Oriented Measurement",
+      "selected": false
+     },
+     {
+      "value": "419",
+      "label": "Automation Solutions",
+      "selected": true
+     },
+     {
+      "value": "3924",
+      "label": "CNC Stone Machining",
+      "selected": false
+     },
+     {
+      "value": "420",
+      "label": "Custom Solutions",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/ca/products/automation/tool-inspection/roboset-2",
+       "title": "»»roboSet 2««",
+       "text": "Tool Handling for »genius«, »3dCheck«, »»threadCheck««, »titan,« and »edgeControl«",
+       "img": {
+        "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ca/products/inspection-measuring/automation-solutions",
+ "de_path": "/produkte/pruefen-messen/automationsloesungen"
+}

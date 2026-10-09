@@ -1,0 +1,480 @@
+{
+ "path": "/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/hotellerie-et-voyages",
+ "url": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/hotellerie-et-voyages",
+ "title": "Hôtellerie et voyages",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "Journées de la technologie et Sommet sur la fabrication intelligente /",
+   "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente"
+  },
+  {
+   "label": "Hôtellerie et voyages",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "Journées de la technologie et Sommet sur la fabrication intelligente /",
+   "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente"
+  },
+  {
+   "label": "Hôtellerie et voyages",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/technology-days-and-smart-manufacturing-summit/hotel-travel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/dias-de-la-tecnologia-y-cumbre-sobre-fabricacion-inteligente/hotel-y-viajes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/journees-technologiques-et-sommet-sur-la-fabrication-intelligente/hotel-et-voyage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/dias-da-tecnologia-e-cimeira-sobre-fabrico-inteligente/hotel-e-viagens",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/giornate-della-tecnologia-e-vertice-sulla-produzione-intelligente/hotel-e-viaggi",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/teknikdagar-och-smart-manufacturing-summit/hotell-resor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/technology-days-and-smart-manufacturing-summit/hotel-travel",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/hotellerie-et-voyages",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA%E3%81%8A%E3%82%88%E3%81%B3%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88/%E3%83%9B%E3%83%86%E3%83%AB%E6%97%85%E8%A1%8C",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80-%EB%8D%B0%EC%9D%B4-%EB%B0%8F-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A0%9C%EC%A1%B0-%EC%84%9C%EB%B0%8B/%ED%98%B8%ED%85%94-%EB%B0%8F-%EC%97%AC%ED%96%89",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/technology-days-and-smart-manufacturing-summit/hotel-travel",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/hotel-y-viajes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/dias-da-tecnologia-e-cimeira-sobre-fabrico-inteligente/hotel-e-viagens",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Journées de la technologie et Sommet sur la fabrication intelligente",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Solutions",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/solutions",
+     "current": false
+    },
+    {
+     "label": "Intervenants",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/intervenants",
+     "current": false
+    },
+    {
+     "label": "Ordre du jour",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/ordre-du-jour",
+     "current": false
+    },
+    {
+     "label": "Hôtellerie et voyages",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/hotellerie-et-voyages",
+     "current": false
+    },
+    {
+     "label": "Inscrivez-vous dès maintenant !",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    },
+    {
+     "label": "Télécharger",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/telecharger",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4808",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "video": null,
+     "title": "Hôtellerie et voyages",
+     "kicker": "",
+     "text": "<p>Informations sur l'arrivée, l'hébergement et les activités touristiques</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4827",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Comment puis-je m'y rendre ? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4893",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Notre adresse",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER Inc.<br/>3900 Research Park Drive<br/>Ann Arbor, MI 48108</p> <p><a class=\"btn\" href=\"https://www.google.de/maps/dir//Zoller+Inc.,+3900+Research+Park+Dr,+Ann+Arbor,+MI+48108,+Vereinigte+Staaten/@42.2351206,-83.8031319,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x883caff23c528fd5:0xc1e8e30653f327c4!2m2!1d-83.7335066!2d42.2351325\" rel=\"noopener\" target=\"_blank\">Itinéraire sur Google Maps</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c4934",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Depuis l'aéroport",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>L'aéroport le plus proche de ZOLLER Inc. est l'aéroport métropolitain de Détroit-Wayne County (DTW), situé à environ 30 minutes de notre siège social nord-américain.</p> <p>Nous pouvons organiser votre transfert depuis et vers nos locaux afin de rendre votre voyage aussi fluide et efficace que possible.</p> <p><a class=\"btn\" href=\"https://www.metroairport.com/\" rel=\"noopener\" target=\"_blank\"><strong>Site web de DTW</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c7344",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Hôtel",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Nous disposons d'un contingent de chambres au Staybridge Suites. Vous pouvez y accéder via le lien ci-dessous. Cet hôtel se trouve à moins de 5 minutes de notre siège social et une navette gratuite assure la liaison entre l'hôtel et nos locaux. L'Holiday Inn se trouve également à proximité. </p> <p><a class=\"btn\" href=\"https://www.staybridge.com/redirect?path=asearch&amp;brandCode=SB&amp;localeCode=en®ionCode=1&amp;hotelCode=arbsb&amp;checkInDate=05&amp;checkInMonthYear=042025&amp;checkOutDate=09&amp;checkOutMonthYear=042025&amp;rateCode=IL0ZR&amp;_PMID=99801505&amp;GPC=ZOH&amp;cn=no&amp;viewfullsite=true\" rel=\"noopener\" target=\"_blank\"><strong>Réservez dès maintenant – Staybridge Suites</strong></a> Rés<a class=\"btn\" href=\"https://www.ihg.com/holidayinnexpress/hotels/us/en/ann-arbor/arbrp/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-ARBRP\" rel=\"noopener\" target=\"_blank\"><strong>ervez</strong></a><br/><a class=\"btn\" href=\"https://www.ihg.com/holidayinnexpress/hotels/us/en/ann-arbor/arbrp/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-ARBRP\" rel=\"noopener\" target=\"_blank\"><strong>dès maintenant – Holiday Inn</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c7348",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ann Arbor",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ann Arbor offre à la fois les attraits d'une grande ville et des espaces naturels dotés de sentiers panoramiques à explorer. Nous serons ravis d'organiser un programme d'activités pour les conjoints et partenaires à l'occasion de la journée portes ouvertes ! Envoyez un e-mail à <a class=\"link-arrow\" href=\"mailto:marketing@zoller-usa.com\"><strong>marketing@zoller-usa.com</strong></a> pour vous inscrire !</p> <p><a class=\"btn\" href=\"https://www.annarbor.org/\" rel=\"noopener\" target=\"_blank\"><strong>Informations touristiques</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c7352",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c4932",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4828",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "slider",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/6/csm_zoller_ann_arbor_travel_0a3397_7e2e5e13c2.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zoller_ann_arbor_travel_3e5d7b_48139e52d5.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/7/5/csm_zoller_ann_arbor_travel_42d81b_605665103d.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/0/csm_zoller_ann_arbor_travel_64a7e3_461ca1100b.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/5/csm_zoller_ann_arbor_travel_3395a8_48cb9b726a.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/6/csm_zoller_ann_arbor_travel_9751ff_19eada4ace.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/f/csm_zoller_ann_arbor_travel_528564_75afa908a3.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/e/csm_zoller_ann_arbor_travel_661203_b696525b22.webp",
+      "alt": ""
+     },
+     "head": "",
+     "text": ""
+    }
+   ],
+   "ftype": "zoller_slider",
+   "id": "c7354",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Les places sont limitées ! </h2>",
+   "body": "<p>Nous avons hâte de vous retrouver lors de notre journée portes ouvertes et de notre sommet sur l'automatisation 2026 !</p> <p><a href=\"https://myzoller.com/us/en/live/detail/1391\" rel=\"noopener\" target=\"_blank\">Inscrivez-vous dès maintenant !</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c7355",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/hotellerie-et-voyages",
+ "de_path": ""
+}

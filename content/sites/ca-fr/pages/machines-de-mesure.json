@@ -1,0 +1,290 @@
+{
+ "path": "/machines-de-mesure",
+ "url": "/ca-fr/machines-de-mesure",
+ "title": "Machines de mesure",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Machines de mesure",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Machines de mesure",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/messmaschinen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/measuring-machines",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/machines-de-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/maquinas-de-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/macchine-di-misura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/maetmaskiner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/messmaschinen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/machines-de-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%B8%AC%E5%AE%9A%E6%A9%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%B8%A1%EC%A0%95%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/measuring-machines",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/maquinas-de-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/7/csm_messung_header_416ff4c8b2.webp",
+     "video": null,
+     "title": "Une plus grande précision",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8018",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Les appareils de mesure et de contrôle sont tout aussi importants que les logiciels qui les accompagnent </h2>",
+   "body": "<p class=\"extra-large-text\">Pour que les outils remplissent exactement la fonction pour laquelle ils ont été conçus et fabriqués, ils doivent eux-mêmes être fabriqués avec précision. Nos machines de mesure universelles permettent de mesurer les outils au micromètre près et de vérifier s'ils répondent aux exigences.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8019",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mesures dans le système de coordonnées </h2>",
+   "body": "<p>Les points de palpage mesurés sont attribués, par les machines de mesure, à un système de mesure linéaire spécifique, le long d'un axe de déplacement donné. Le logiciel de mesure traite ensuite ces informations et les attribue à des points spécifiques dans l'ensemble du système de coordonnées.</p> <p>À partir des coordonnées ainsi déterminées, le logiciel de la machine de mesure par coordonnées (MMC) calcule ensuite les valeurs des grandeurs non mesurées directement – par exemple les longueurs, les angles, les distances entre deux points de mesure, etc.</p> <p>Les points de mesure (valeurs réelles) déterminés dans le système de mesure de coordonnées (en anglais « Coordinate Measuring System ») sont enfin comparés aux valeurs issues des spécifications, c’est-à-dire par exemple des plans de l’outil (valeurs de consigne). Si celles-ci ne correspondent pas, c’est-à-dire s’il existe des écarts de mesure – qu’ils soient dus à des défauts de fabrication ou à l’usure –, il est alors possible de prendre les mesures appropriées en conséquence.</p> <h4>Que sont <strong>les machines de mesure 3D</strong> ?</h4> <p>On désigne généralement par « machines de mesure 3D » les machines capables de mesurer, en un temps relativement court – idéalement en temps réel –, les dimensions tridimensionnelles d’un objet à mesurer. Grâce à l’utilisation de caméras linéaires compactes ou de caméras à matrice, ces machines de contrôle peuvent parfois même être portables, ou du moins transportables. Toutefois, les MMT portables sont généralement un peu moins précises que les machines de contrôle classiques.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_inspection-and-measuring_02_68ae6129c7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8020",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Technique de mesure par coordonnées </h2>",
+   "body": "<p>De nombreux appareils de mesure fonctionnent selon ce qu'on appelle la technique de mesure par coordonnées. L'appareil de mesure (dont la désignation complète est alors « machine à mesurer tridimensionnelle », MMT) enregistre, à l'aide d'un capteur adapté, les coordonnées exactes des points situés à la surface de la pièce.</p> <p>Dans la plupart des cas, le système de coordonnées est parallèle aux axes de déplacement orthogonaux des systèmes de mesure par coordonnées.</p> <h4><strong>Palpage sans contact</strong></h4> <p>La mesure sans contact, quant à elle, utilise des caméras, des capteurs à triangulation laser et d’autres méthodes, faisant appel, par exemple, à des capteurs optiques ou électriques. Le processus de mesure s'effectue donc ici sans qu'un palpeur n'entre en contact avec la pièce. Dans certains cas, cela peut accélérer considérablement le processus de mesure.</p> <h4><strong>Palpage tactile</strong></h4> <p>Pour la palpage tactile (mécanique) des pièces, on utilise des palpeurs ou des pointes de palpage ; on distingue généralement les systèmes à seuil (qui ne peuvent distinguer que l’état de repos et le contact) et les systèmes de mesure (capables de mesurer des écarts dans une plage étroite).</p> <h4><strong>Multicapteurs</strong></h4> <p>Les machines de mesure de coordonnées multicapteurs combinent différentes méthodes de palpage afin non seulement d’obtenir des résultats particulièrement précis, mais aussi de proposer une méthode de mesure particulièrement adaptée à chaque exigence.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_optik_8e5c836a3b.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8024",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Contrôler et mesurer : vos avantages",
+     "href": "/ca-fr/solutions/controle-et-mesure",
+     "caption": "<figcaption> <h3>Contrôler et mesurer : vos avantages</h3> <p>Découvrez tout ce qui est possible avec ZOLLER en matière de contrôle d'outil. Contrôles proches du processus ou analyses haut de gamme, jusqu'au SKP, à la rugosité et à la création de jumeaux numériques.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/machines-de-mesure",
+ "de_path": "/messmaschinen"
+}

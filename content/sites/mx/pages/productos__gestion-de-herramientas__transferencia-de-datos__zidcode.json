@@ -1,0 +1,408 @@
+{
+ "path": "/productos/gestion-de-herramientas/transferencia-de-datos/zidcode",
+ "url": "/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode",
+ "title": "»zidCode«",
+ "description": "»zidCode« - Mayor seguridad y eficiencia gracias a la sencilla gestión de los datos de herramientas - Transferir datos de herramientas sin errores",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "transferencia de datos /",
+   "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos"
+  },
+  {
+   "label": "»zidCode«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "transferencia de datos /",
+   "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos"
+  },
+  {
+   "label": "»zidCode«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/zidcode",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/data-transfer/zidcode",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transferencia-de-datos/zidcode",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transfert-de-donnees/zidcode",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasferimento-dei-dati/zidcode",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/dataoeverfoering/zidcode",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/datentransfer/zidcode",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/data-transfer/zidcode",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/data-transfer/zidcode",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»zidCode«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "»zidCode 4.0«",
+     "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/zidcode-40",
+     "current": false
+    },
+    {
+     "label": "»zidCode«",
+     "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/zidcode",
+     "current": false
+    },
+    {
+     "label": "Software e integración",
+     "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/software-e-integracion",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c839",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»zidCode«",
+   "text": "<p>Mayor seguridad y eficiencia<br/>gracias a la sencilla gestión de los datos de herramientas</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/zidcode\" rel=\"noopener\" target=\"_blank\">Comprar ahora</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/8/5/csm_zidCode_kombi_header_708905c200.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c965",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Apostamos por el progreso inteligente </h2>",
+   "body": "<p>El manejo automatizado de datos de ZOLLER hace los procesos sencillos y más seguros. Tan pronto como se identifica una herramienta mediante escaneo, los datos de herramientas correspondientes se transfieren sin errores al sistema de control CNC. Para que se puedan fabricar piezas de primera clase.</p> <p>Elija su solución inteligente de ZOLLER para el manejo perfecto de los datos de herramientas: »zidCode« o »zidCode 4.0«.</p> <p><a class=\"btn\" href=\"/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/zidcode\">»zidCode«</a> <a class=\"btn\" href=\"/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/zidcode-40\">»zidCode 4.0«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_zidcode_intro_2d62127d21.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c963",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/5/7/csm_zidCode_slider_1af9b576c4.webp",
+      "alt": ""
+     },
+     "text": "<h2>»zidCode«</h2> <p class=\"large-text\"><strong>Para producciones sin red propia. La introducción rápida a la transferencia digital y sin errores de datos de herramientas.</strong></p> <p class=\"large-text\">Con »zidCode«, los factores decisivos para el éxito estarán disponibles rápidamente. Ganará en seguridad y tiempo, y facilitará a sus empleados|operarios|trabajadores la transferencia de datos a la máquina.</p>",
+     "right": false,
+     "quote": false,
+     "dark": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/b/csm_zidCode4_slider_e9ce590696.webp",
+      "alt": ""
+     },
+     "text": "<h2>»zidCode 4.0«</h2> <p class=\"large-text\"><strong>Para producciones con red propia. Abre opciones adicionales para una mayor eficiencia con sus datos de herramientas.</strong></p> <p class=\"large-text\">Con »zidCode 4.0«, sentará las bases para obtener una imagen precisa del rendimiento de las herramientas en su producción mediante otras herramientas de software de ZOLLER, incluso en tiempo real. De este modo, aumentará la transparencia y la seguridad de los procesos en la planificación de herramientas.</p>",
+     "right": false,
+     "quote": false,
+     "dark": false
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c964",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Sencillo manejo gracias a los procesos automatizados.",
+    "Seguridad para el proceso gracias a la centralización de los datos.",
+    "Ahorro de costos gracias a la trazabilidad."
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c960",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Manejo eficiente de herramientas </h2>",
+   "body": "<p>Con ZOLLER, podrá utilizar sus datos de herramientas de forma continua, desde la preparación del trabajo hasta la máquina CNC. Aumentará la eficiencia en el manejo de herramientas, conectará en red los subprocesos y aumentará la seguridad del proceso con la transferencia automatizada de datos. Digitalice su producción con las TMS Tool Management Solutions de ZOLLER: interfaces, software, identificación de herramientas y transferencia de datos con »zidCode 4.0«.</p> <p><a class=\"btn\" href=\"/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/software-e-integracion\">Más información sobre software e integración</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/b/csm_schunk_tms_2edc1e99a4.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c962",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Servicios: excelencia en todas las líneas </h2>",
+   "body": "<p>Con la adquisición de ZOLLER »zidCode« o »zidCode 4.0«, ha optado por una inversión sostenible. Con el servicio de ZOLLER y nuestra oferta de formación, aseguramos el mejor uso posible de su identificación de herramientas. Puede confiar en todo momento en nuestra rápida capacidad de respuesta.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/b/csm_meeting_room_c497291118.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c961",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestión de herramientas: sus ventajas",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "caption": "<figcaption> <h3>Gestión de herramientas: sus ventajas</h3> <p>Descubra cómo la gestión de herramientas de ZOLLER aumenta su productividad inmediatamente. Con los datos de herramientas, los procesos se ejecutan de forma más rápida y segura, incluyendo protección contra colisiones para sus máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode",
+ "de_path": "/produkte/toolmanagement/zidcode"
+}

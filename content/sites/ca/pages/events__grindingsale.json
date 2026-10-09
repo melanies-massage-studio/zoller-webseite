@@ -1,0 +1,268 @@
+{
+ "path": "/events/grindingsale",
+ "url": "/ca/events/grindingsale",
+ "title": "GrindingSale",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "GrindingSale",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "GrindingSale",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events/grindingsale",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/grindingsale",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/grindingsale",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/grindingsale",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/grindingsale",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/grindingsale",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/%EA%B7%B8%EB%9D%BC%EC%9D%B8%EB%94%A9%EC%84%B8%EC%9D%BC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/6/csm_header_grindingsales_1586d4ea9c.webp",
+     "video": null,
+     "title": "GrindingSale",
+     "kicker": "",
+     "text": "<p>Select your GrindingSale favorites here to enjoy the<br/>best deals during GrindingHub 2026.</p>",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c46684",
+   "bg": "yellow",
+   "space": {}
+  },
+  {
+   "type": "bento",
+   "header": "",
+   "intro": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/0/csm_sales_teaser_produkte_438ed733f0.webp",
+      "alt": ""
+     },
+     "text": "<h2>Devices</h2> <p>Quotes for six of the µm-accurate measuring<br/>machines for tool testing and inspection.</p> <p><a class=\"btn\" href=\"/ca/events/grindingsale/request-a-quote\">Request a quote</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/8/csm_sales_teaser_spannmittel_4294ee15df.webp",
+      "alt": ""
+     },
+     "text": "<h2>Clamping devices</h2> <p>Everything you need for a safe connection to the tool: clamping devices from ZOLLER. </p> <p><a class=\"btn\" href=\"/ca/events/grindingsale/request-a-quote\">Request a quote</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/6/2/csm_sales_teaser_software_ee2586d1ea.webp",
+      "alt": ""
+     },
+     "text": "<h2>Software</h2> <p>Your Leap Forward: Software Solutions</p> <p><a class=\"btn\" href=\"/ca/events/grindingsale/request-a-quote\">Request a Quote</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/3/csm_sales_teaser_service_12dd32dacf.webp",
+      "alt": ""
+     },
+     "text": "<h2>Service</h2> <p>Quotes for training, calibration, and maintenance contracts.</p> <p><a class=\"btn\" href=\"/ca/events/grindingsale/request-a-quote\">Request a Quote</a></p>",
+     "full": false
+    }
+   ],
+   "ftype": "zoller_image-grid",
+   "id": "c52711",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Experience ZOLLER at GrindingHub </h2>",
+   "body": "<p>Visit ZOLLER’s Toolroom at <strong>Booth 10B60 in Hall 10.</strong><br/>There, we’ll show you how measuring technology, software, and automation work together in a modular way to ensure that processes between the tool storage system and the CNC grinding machine remain competitive. Talk to our experts about your challenges.</p> <p><a class=\"btn\" href=\"/ca/events/grindinghub-2026\">Learn more</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/7/csm_grindinghub_teaser2_a6fd90f52d.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000,
+     "href": "/ca/events/grindinghub-2026"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c46688",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/events/grindingsale",
+ "de_path": "/events/grindingsale"
+}

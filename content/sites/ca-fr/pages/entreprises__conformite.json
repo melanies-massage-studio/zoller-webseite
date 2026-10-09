@@ -1,0 +1,281 @@
+{
+ "path": "/entreprises/conformite",
+ "url": "/ca-fr/entreprises/conformite",
+ "title": "Conformité",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Entreprises /",
+   "href": "/ca-fr/entreprises"
+  },
+  {
+   "label": "Conformité",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Entreprises /",
+   "href": "/ca-fr/entreprises"
+  },
+  {
+   "label": "Conformité",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/compliance",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/compliance-codes-of-conduct",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/cumplimiento-normativo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/conformite",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/conformidade",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/conformita",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/efterlevnad",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/compliance",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/compliance-codes-of-conduct",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/conformite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EA%B7%9C%EC%A0%95-%EC%A4%80%EC%88%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/compliance-codes-of-conduct",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/cumplimiento-normativo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/conformidade",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Aucune exception aux règles </h1>",
+      "body": "<p class=\"large-text\">Une conduite irréprochable sur le plan éthique et conforme à la loi fait partie intégrante de notre culture d'entreprise. Cela vaut tant à l'égard de nos clients, partenaires commerciaux et associés qu'à l'égard de nos collaboratrices et collaborateurs et entre eux. Tout ce qui relève de cette conduite est résumé dans le code de conduite suivant :</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c779",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4><strong>Code de conduite</strong></h4> <p>ZOLLER et ses filiales considèrent donc qu’une conduite éthiquement irréprochable et conforme à la loi fait partie intégrante de leur culture d’entreprise. Cela vaut aussi bien vis-à-vis des clients, des partenaires commerciaux et des associés que vis-à-vis des collaboratrices et collaborateurs et entre eux. </p> <p><a class=\"btn\" href=\"/fileadmin/01_Pages/Company/Compliance/CoC_f%C3%BCr_MA_DE.pdf\" rel=\"noopener\" target=\"_blank\">Télécharger le code de conduite</a></p> <h4><strong>Code de conduite pour les partenaires commerciaux</strong></h4> <p>Nos partenaires commerciaux contribuent de manière décisive à notre succès. C’est pourquoi une conception commune de la conduite éthique et conforme à la loi constitue le fondement de nos relations commerciales. Les exigences et principes du « Code de conduite pour les partenaires commerciaux » ci-dessous constituent donc un élément essentiel de la collaboration entre ZOLLER et nos partenaires commerciaux. </p> <p><a class=\"btn\" href=\"/fileadmin/01_Pages/Company/Compliance/CoC_f%C3%BCr_Gesch%C3%A4ftspartner_DE.pdf\" rel=\"noopener\" target=\"_blank\">Télécharger le Code de conduite pour les partenaires commerciaux</a></p> <h4><strong>Système d’alerte chez ZOLLER</strong></h4> <p>Un dispositif interne de signalement a été mis en place à l'intention des collaborateurs de ZOLLER, leur permettant de nous signaler, en toute confidentialité et, s'ils le souhaitent, de manière anonyme, d'éventuelles violations de la conformité. Veuillez adresser votre signalement au médiateur :</p> <p>Maître Jochen Bernhard<br/>Menold, cabinet d’avocats Bezler Rechtsanwälte, conseillers fiscaux et commissaires aux comptes, société en nom collectif à responsabilité limitée (Partnerschaft mbB<br/>) E-mail : <a class=\"link-arrow\" href=\"mailto:ZOLLER@menoldbezler.de\">ZOLLER@menoldbezler.de</a><br/>Téléphone : (0711) 860 40 611<br/>Adresse postale : Stresemannstraße 79,<br/>70191 Stuttgart </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4169",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c755",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Nous ne faisons aucune exception aux règles </h2>",
+      "body": "<p class=\"large-text\">Agir de manière éthique et conforme à la loi fait partie intégrante de notre culture d'entreprise. Cela vaut tant pour nos clients que pour nos partenaires commerciaux, nos actionnaires et nos collaborateurs. </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26285",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4><strong>Code de conduite</strong></h4> <p>Le Code de conduite de ZOLLER et de ses filiales est disponible ici :</p> <p><a class=\"btn\" href=\"/fileadmin/01_Pages/Company/Compliance/CoC_f%C3%BCr_MA_EN.pdf\" rel=\"noopener\" target=\"_blank\">Télécharger le Code de conduite</a></p> <h4><strong>Code de conduite pour les partenaires commerciaux</strong></h4> <p>Nos partenaires commerciaux contribuent de manière significative à notre succès. C'est pourquoi une conception commune de la conduite éthique et conforme à la loi constitue le fondement de nos relations commerciales. Les exigences et les principes du « Code de conduite pour les partenaires commerciaux » ci-dessous constituent un élément essentiel de la coopération entre ZOLLER et nos partenaires commerciaux.</p> <p><a class=\"btn\" href=\"/fileadmin/01_Pages/Company/Compliance/CoC_f%C3%BCr_Gesch%C3%A4ftspartner_EN.pdf\" rel=\"noopener\" target=\"_blank\">Télécharger le Code de conduite pour les partenaires commerciaux</a></p> <h4><strong>Système d'alerte chez ZOLLER</strong></h4> <p>Un service interne de signalement a été mis en place à l'intention des collaborateurs de ZOLLER ; vous pouvez l'utiliser pour nous signaler de manière confidentielle et, si vous le souhaitez, de manière anonyme, d'éventuelles violations des règles de conformité. Veuillez adresser votre signalement au médiateur :</p> <p>Maître Jochen Bernhard<br/>Menold, cabinet Bezler Rechtsanwälte Steuerberater Wirtschaftsprüfer Partnerschaft mbB<br/>E-mail : ZOLLER@menoldbezler.de<br/>Téléphone : (0711) 860 40 611<br/>Adresse postale : Stresemannstraße 79,<br/>70191 Stuttgart</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26277",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26253",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/entreprises/conformite",
+ "de_path": "/unternehmen/compliance"
+}

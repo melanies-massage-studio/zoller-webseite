@@ -1,0 +1,506 @@
+{
+ "path": "/productos/automatizacion/marcado-con-laser/robomark/aplicaciones",
+ "url": "/mx/productos/automatizacion/marcado-con-laser/robomark/aplicaciones",
+ "title": "»roboMark« – Aplicaciones",
+ "description": "Aplicaciones - »roboMark« – Aplicaciones",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Automatización /",
+   "href": "/mx/productos/automatizacion"
+  },
+  {
+   "label": "Marcado con láser /",
+   "href": "/mx/productos/automatizacion/marcado-con-laser"
+  },
+  {
+   "label": "»roboMark« /",
+   "href": "/mx/productos/automatizacion/marcado-con-laser/robomark"
+  },
+  {
+   "label": "Aplicaciones",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Automatización /",
+   "href": "/mx/productos/automatizacion"
+  },
+  {
+   "label": "Marcado con láser /",
+   "href": "/mx/productos/automatizacion/marcado-con-laser"
+  },
+  {
+   "label": "»roboMark« /",
+   "href": "/mx/productos/automatizacion/marcado-con-laser/robomark"
+  },
+  {
+   "label": "Aplicaciones",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/laserbeschriftung/robomark/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/laser-marking/robomark/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/marcado-por-laser/robomark/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/marquage-laser/robomark/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/marcacao-a-laser/robomark/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/marcatura-laser/robomark/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/lasermaerkning/robomark/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/laserbeschriftung/robomark/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/laser-marking/robomark/applications",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/marquage-laser/robomark/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0/robomark/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EB%A0%88%EC%9D%B4%EC%A0%80-%EB%A7%88%ED%82%B9/robomark/%EC%9D%91%EC%9A%A9-%EB%B6%84%EC%95%BC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/laser-marking/robomark/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/marcado-con-laser/robomark/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/marcacao-a-laser/robomark/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»roboMark«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/automatizacion/marcado-con-laser/robomark",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Aplicaciones",
+     "href": "/mx/productos/automatizacion/marcado-con-laser/robomark/aplicaciones",
+     "current": false
+    },
+    {
+     "label": "Software e integración",
+     "href": "/mx/productos/automatizacion/marcado-con-laser/robomark/software-e-integracion",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/automatizacion/marcado-con-laser/robomark/preguntas-frecuentes",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c232775",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Funcionalidad </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c232727",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "robot",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>El software de prevención de colisiones integrado protege el equipo de forma fiable contra colisiones. La pinza doble permite una carga y descarga rápidas, reduce los tiempos secundarios y aumenta la productividad. La indicación clara de todos los estados de las pinzas garantiza una alta seguridad para el proceso. Gracias a la compatibilidad con diversos sistemas de palés (p. ej., Rollomatic, ZOLLER), el equipo se puede integrar de forma flexible. Tras el etiquetado, las herramientas se cargan de forma automática directamente en los palés.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c232655",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Gestión de palés",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Antes de que la solución de automatización »roboMark« pueda iniciar su proceso de trabajo, el usuario únicamente tiene que definir la configuración de las herramientas a través de la Gestión de palets en el software de control. Gracias al sistema multipalé (ocho palés de forma estándar, e incluso nueve de forma opcional), es posible procesar y documentar grandes cantidades de piezas de forma completamente automática. En general, una gestión de palés bien organizada contribuye de manera significativa a la optimización de los procesos, aporta flexibilidad para manipular lotes de diferentes tamaños y ayuda a realizar el movimiento de la mercancía de forma más eficiente y sostenible.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/c/csm_roboset2_palettenmanagement_abdb9924a8.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c232559",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Cámara para la supervisión de procesos",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Gracias a una cámara integrada, opcional, el personal de servicio de ZOLLER puede subsanar cualquier irregularidad posible de forma más rápida y precisa.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/7/csm_roboset2_kamera_c390857aa8.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c232511",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "»roboClean«",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>En la limpieza previa del filo de la herramienta »roboClean«, los filos de las herramientas de vástago previamente limpiadas se limpian de forma completamente automática mediante un baño de ultrasonidos. De este modo, las herramientas se desengrasan y se eliminan los restos de polvo, con el fin de crear las condiciones óptimas para el posterior mecanizado por láser. A continuación, unas boquillas de aire se encargan de secar las herramientas con vástago.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/e/b/csm_roboset2_roboclean_3f8cc2b8bb.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c232463",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Detección de soldaduras – Opcional",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Dentro del equipo se lleva a cabo una detección de soldaduras automática y sin contacto de la herramienta Weldon. La herramienta se orienta de manera adecuada para que el robot pueda capturarla con seguridad y se pueda realizar el marcado con »roboMark« en la posición adecuada.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/8/csm_roboset2_weldon_13796999e5.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c232367",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Gama de productos de la comisión",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Almacén para herramientas que han entrado en estado de fallo durante el proceso.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c233394",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Reconocimiento de códigos QR",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>En el reconocimiento automático de herramientas, un escáner integrado escanea códigos QR, códigos DataMatrix, etc. Gracias a la interfaz con ZOLLER TMS Tool Management Solutions, se puede tener acceso a toda la información de las herramientas escaneadas y también es posible enlazar con puestos de trabajo externos (por ejemplo, con el Contador de rebobinado).</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/e/d/csm_roboset2_qrcode_c4865ddc90.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c232319",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c232703",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c232751",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automatización: sus ventajas",
+     "href": "/mx/solutions/automatizacion",
+     "caption": "<figcaption> <h3>Automatización: sus ventajas</h3> <p>Descubra cómo automatizar la preparación, la puesta a disposición, la logística y la inspección de herramientas con ZOLLER. Cree una fábrica inteligente altamente eficiente que se adapte a sus necesidades. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/automatizacion/marcado-con-laser/robomark/aplicaciones",
+ "de_path": "/produkte/automation/laserbeschriftung/robomark/anwendungen"
+}

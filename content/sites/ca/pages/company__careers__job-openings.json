@@ -1,0 +1,302 @@
+{
+ "path": "/company/careers/job-openings",
+ "url": "/ca/company/careers/job-openings",
+ "title": "Job Openings",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Job Openings",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Job Openings",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere/stellenangebote",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/careers/job-openings",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/carrera-profesional/ofertas-de-empleo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/carriere/offres-demploi",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/carreira/ofertas-de-emprego",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/carriera/offerte-di-lavoro",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer/lediga-tjaenster",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere/stellenangebote",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere/offres-demploi",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/career/stellenangebote",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/carrera-profesional/ofertas-de-empleo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/carreira/ofertas-de-emprego",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Careers",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/company/careers",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Working at ZOLLER",
+     "href": "/ca/company/careers",
+     "current": false
+    },
+    {
+     "label": "Job Openings",
+     "href": "/ca/company/careers/job-openings",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/company/careers/faq",
+     "current": false
+    },
+    {
+     "label": "Application",
+     "href": "/ca/company/careers/application",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c26231",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Job Openings </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26233",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>IT Systems</h4><figure><table><tbody><tr><td><p><a class=\"link-arrow\" href=\"/ca/abas-erp-person-responsible-for-support/development-m/f/d\" rel=\"noopener\" target=\"_blank\">abas ERP person responsible for support/developer (m/f/d)</a></p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p><a class=\"link-arrow\" href=\"/ca/it-administrator-m/f/d\" rel=\"noopener\" target=\"_blank\">IT Administrator (m/f/d) – IT Infrastructure &amp; Support</a></p></td></tr></tbody></table></figure> <h4>Electrical Design</h4><figure><table><tbody><tr><td><p><a class=\"link-arrow\" href=\"/ca/plc-programmer-m/f/d\" rel=\"noopener\" target=\"_blank\">PLC Programmer (m/f/d)</a></p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p>Mechatronics Engineer (m/f/d)</p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p>Electrical Design Engineer (m/f/d)</p></td></tr></tbody></table></figure> <h4>Finance &amp; Controlling</h4><figure><table><tbody><tr><td><p><a class=\"link-arrow\" href=\"/controller-m/w/d\" rel=\"noopener\" target=\"_blank\">Controller (m/f/d)</a></p></td></tr></tbody></table></figure> <h4>Project Management Office &amp; Automation</h4><figure><table><tbody><tr><td><p>Service Team Leader – Automation (m/f/d)</p></td></tr></tbody></table></figure> <h4>Service</h4><figure><table><tbody><tr><td><p>Technical Employees, In-House Service (m/f/d)</p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p>Service Technician (m/f/d)</p></td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26236",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "About ZOLLER",
+     "href": "/ca/company/profile",
+     "caption": "<figcaption> <h3>About ZOLLER</h3> <p>Closely associated with the name ZOLLER are a team of over 800 people, numerous innovations, and the down-to-earth nature of a family-owned company.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Media",
+     "href": "/ca/company/media",
+     "caption": "<figcaption> <h3>Media</h3> <p>Here you will find press releases, product announcements, trade fair appearances, press reports from trade magazines, and the news archive.<br/> News archive.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Reports & Stories",
+     "href": "/ca/company/reports-stories",
+     "caption": "<figcaption> <h3>Reports &amp; Stories</h3> <p>What's happening at ZOLLER, and what are our customers saying about working with ZOLLER solutions? You can find the latest updates here.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/company/careers/job-openings",
+ "de_path": "/unternehmen/karriere/stellenangebote"
+}

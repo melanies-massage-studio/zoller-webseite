@@ -1,0 +1,559 @@
+{
+ "path": "/evenements/imts-2026/premieres-mondiales",
+ "url": "/ca-fr/evenements/imts-2026/premieres-mondiales",
+ "title": "Premières mondiales",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca-fr/evenements/imts-2026"
+  },
+  {
+   "label": "Premières mondiales",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/ca-fr/evenements/imts-2026"
+  },
+  {
+   "label": "Premières mondiales",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/imts-2026/vaerldspremiaerer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/imts-2026/micbox",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/imts-2026/premieres-mondiales",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IMTS 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Solutions",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/solutions",
+     "current": false
+    },
+    {
+     "label": "Intervenants",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/intervenants",
+     "current": false
+    },
+    {
+     "label": "Ordre du jour",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/ordre-du-jour",
+     "current": false
+    },
+    {
+     "label": "Hôtellerie et voyages",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/hotellerie-et-voyages",
+     "current": false
+    },
+    {
+     "label": "Inscrivez-vous dès maintenant !",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    },
+    {
+     "label": "Télécharger",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/telecharger",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c99812",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»micBox«",
+   "text": "<p>Changeur de plaquettes amovibles efficace</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demander dès maintenant</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/4/4/csm_micbox_header_852f2d46f4.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c99814",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nous sommes les garants d'un progrès intelligent </h2>",
+   "body": "<p>La »micBox« est le système ZOLLER entièrement automatisé destiné au montage, à la rotation, au retournement et au remplacement des plaquettes amovibles sur les outils de fraisage – sans intervention humaine et donc avec une fiabilité absolue du processus. Les opérations qui, jusqu’à présent, étaient réalisées manuellement et de manière fastidieuse peuvent désormais être effectuées avec précision et sans erreur, faisant de la »micBox« un véritable changement de donne dans votre production.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/8fJHOJgAAHA?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER »micBox« – Vollautomatischer Wendeschneidplatten-Wechsler"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c99816",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> La solution système en détail </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/c/4/csm_micBox_info_3a0fe484f7.webp",
+    "alt": "",
+    "w": 1476,
+    "h": 866
+   },
+   "spots": [
+    {
+     "x": 10.983,
+     "y": 44.136,
+     "label": "Chargeur à pinces multiples",
+     "text": "<h3>Chargeur à pinces multiples</h3> <h4>Magasin de pinces – </h4> <p>pouvant contenir jusqu’à six pinces pour différentes plaquettes de retournement.</p>"
+    },
+    {
+     "x": 24.277,
+     "y": 26.858,
+     "label": "Robot agile à 6 axes",
+     "text": "<h3>Robot agile à 6 axes</h3> <h4>Robot à 6 axes – </h4> <p>de Fanuc, permettant de changer avec précision les plaquettes amovibles et les vis.</p>"
+    },
+    {
+     "x": 47.451,
+     "y": 11.907,
+     "label": "Magasin intégré pour plaquettes amovibles",
+     "text": "<h3>Magasin intégré pour plaquettes amovibles</h3> <h4>Chargeur pour plaquettes amovibles – </h4> <p>offre suffisamment d'espace. Les deux magasins situés à l'intérieur de la »micBox« peuvent être équipés différemment.</p>"
+    },
+    {
+     "x": 61.009,
+     "y": 37.869,
+     "label": "Unité de lubrification intégrée",
+     "text": "<h3>Unité de lubrification intégrée</h3> <h4>Unité de lubrification – </h4> <p>pour vis est dotée d'une graisse spéciale et garantit un desserrage aisé des vis à l'aide de l'unité de vissage.</p>"
+    },
+    {
+     "x": 54.598,
+     "y": 50.045,
+     "label": "Unité mobile de rotation et d'orientation",
+     "text": "<h3>Unité mobile de rotation et d'orientation</h3> <h4>Unité de tournage et de retournement – </h4> <p>est équipée de plaquettes amovibles par le robot à 6 axes. Cette mise en place des plaquettes amovibles dans l'unité de rotation et de retournement à l'aide du robot à 6 axes assure le réajustement des plaquettes amovibles. Grâce au magasin à vis, une nouvelle vis est toujours utilisée pour l'outil lorsque cela est nécessaire.</p>"
+    },
+    {
+     "x": 54.808,
+     "y": 64.548,
+     "label": "Unité de vissage efficace",
+     "text": "<h3>Unité de vissage efficace</h3> <h4>Unité de vissage – </h4> <p>équipée d’une pince à vide intégrée, montée sur le robot, qui garantit à chaque fois un changement et un serrage précis des vis avec le couple adéquat.</p>"
+    },
+    {
+     "x": 38.886,
+     "y": 66.338,
+     "label": "Broche universelle de haute précision",
+     "text": "<h3>Broche universelle de haute précision</h3> <h4>Broche universelle – </h4> <p>permet de fixer des outils pesant jusqu’à 20 kg et assure en outre un positionnement précis des outils en rotation.</p>"
+    },
+    {
+     "x": 18.129,
+     "y": 76.992,
+     "label": "Logiciel de commande performant",
+     "text": "<h3>Logiciel de commande performant</h3> <h4>Logiciel de commande – </h4> <p>assure le fonctionnement complet de »la« »micBox«. Le logiciel peut également être affiché sur des écrans externes.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c99818",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> FAQ </h2>",
+      "body": "<p class=\"large-text\">Foire aux questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c99824",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Quels sont les avantages de la »micBox« de ZOLLER par rapport au montage manuel des têtes de coupe ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Les processus entièrement automatisés, et donc indépendants du personnel d'exploitation, garantissent un niveau maximal de sécurité des processus. La traçabilité de bout en bout constitue un avantage supplémentaire inestimable. De plus, le fonctionnement continu de la production permet une augmentation significative de l’efficacité ainsi que des économies substantielles – des avantages économiques décisifs pour l’avenir.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c99842",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Comment suivre les changements de plaquettes amovibles dans la »micBox« ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Grâce au logiciel et à la fonctionnalité de la base de données associée aux identifiants d'outils, le nombre d'utilisations d'une plaquette amovible ou d'une vis est consigné pour chaque outil.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c99838",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quelles sont les dimensions maximales des porte-outils pouvant être logés dans une »micBox« ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Grâce à la broche ZOLLER, la »micBox« peut accueillir des outils jusqu'au HSK 125.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c99834",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "L'unité de vissage fait-elle l'objet d'une surveillance supplémentaire et le couple peut-il être réglé de manière variable dans une »micBox« ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Grâce à l'unité de vissage montée sur le robot, le couple est contrôlé à chaque serrage de vis. Celui-ci peut être réglé jusqu'à 7 Nm (maximum 10 Nm) en fonction de la vis, de la tête de coupe et de la plaquette amovible.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c99830",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c99826",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c99822",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Broschuere_Automation_BRAUTOM-00_DE.pdf",
+     "name": "Automatisation",
+     "size": "5 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/c/csm_ZOLLER_Broschuere_Automation_BRAUTOM-00_DE_5d8f569b78.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Automatisation"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Broschuere_micBox_BRMICBOX_00_DE.pdf",
+     "name": "»micBox«",
+     "size": "3 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/6/csm_ZOLLER_Broschuere_micBox_BRMICBOX_00_DE_3b44f2b9d7.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»micBox«"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_Automation_cora_FLAUTOCORA_00_DE.pdf",
+     "name": "Automation cora – Mesure et réglage",
+     "size": "919 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/d/csm_ZOLLER_Flyer_Automation_cora_FLAUTOCORA_00_DE_582ae3c3de.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Automation cora –  Mesure et réglage"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_DE_02.pdf",
+     "name": "»wearCheck«",
+     "size": "482 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/8/csm_ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_DE_02_3e84e742ad.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»wearCheck«"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c99844",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Inscrivez-vous dès maintenant </h2>",
+   "body": "<p>Les inscriptions pour le ZOLLER Open House &amp; Automation Summit sont désormais ouvertes !</p> <p><a href=\"https://myzoller.com/us/en/live/detail/1391\" rel=\"noopener\" target=\"_blank\">Inscrivez-vous dès maintenant !</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c99820",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/imts-2026/premieres-mondiales",
+ "de_path": ""
+}

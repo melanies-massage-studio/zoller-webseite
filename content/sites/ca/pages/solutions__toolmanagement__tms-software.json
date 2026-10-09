@@ -1,0 +1,396 @@
+{
+ "path": "/solutions/toolmanagement/tms-software",
+ "url": "/ca/solutions/toolmanagement/tms-software",
+ "title": "TMS Software",
+ "description": "TMS Software",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca/solutions"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/ca/solutions/toolmanagement"
+  },
+  {
+   "label": "TMS Software",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca/solutions"
+  },
+  {
+   "label": "Toolmanagement /",
+   "href": "/ca/solutions/toolmanagement"
+  },
+  {
+   "label": "TMS Software",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement/tms-software",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tool-management/tms-software",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/gestion-de-herramientas/tms-software",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/gestion-des-outils/tms-software",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/gestao-de-ferramentas/tms-software",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tool-management/tms-software",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/solutions/toolmanagement/tms-software",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/toolmanagement/tms-software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tool-management/tms-software",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/gestion-des-outils/tms-software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/solutions/toolmanagement/tms-software",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/solutions/toolmanagement/tms-software",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/toolmanagement/tms-software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/gestion-de-herramientas/tms-software",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/gestao-de-ferramentas/tms-software",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/e/b/csm_TMS_software_header_77c00834c5.webp",
+     "video": null,
+     "title": "TMS Tool Management Solutions",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c164337",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Toolmanagement",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/solutions/toolmanagement",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "overview",
+     "href": "/ca/solutions/toolmanagement",
+     "current": false
+    },
+    {
+     "label": "TMS Software",
+     "href": "/ca/solutions/toolmanagement/tms-software",
+     "current": false
+    },
+    {
+     "label": "TMS Hardware",
+     "href": "/ca/solutions/toolmanagement/tms-hardware",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/solutions/toolmanagement/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/solutions/toolmanagement/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c163719",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Digital Tool Organization </h2>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164364",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "products",
+   "header": "",
+   "items": [
+    {
+     "href": "/ca/software/tms-core",
+     "title": "»TMS Core«",
+     "text": "<p>The start point for digital tool management</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/b/csm_TMSCore_product_44555a00d3.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 852
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c163575",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "",
+   "items": [
+    {
+     "href": "/ca/software/add-on-zstock",
+     "title": "Add-on »z.Stock«",
+     "text": "<p>Ensures clear transparency in the tool warehouse</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_zStock_product_080c00d832.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 852
+     }
+    },
+    {
+     "href": "/ca/software/add-on-zcam-integration",
+     "title": "Add-on »z.CAM Integration«",
+     "text": "<p>Expands the system with powerful interfaces and integrates tool data directly into the workflow</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_3d7c6707ab.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 852
+     }
+    },
+    {
+     "href": "/ca/software/add-on-zresources",
+     "title": "Add-on »z.Resources«",
+     "text": "<p>Manages all additional resources</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/9/csm_zResources_product_9093d037df.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 852
+     }
+    },
+    {
+     "href": "/ca/software/add-on-zshopfloor",
+     "title": "Add-on »z.Shopfloor«",
+     "text": "<p>Seamless, efficient tool lifecycle directly on the shop floor</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_50074e8009.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 852
+     }
+    },
+    {
+     "href": "/ca/software/add-on-zconnectivity",
+     "title": "Add-on »z.Connectivity«",
+     "text": "<p>Seamless, digital connection between tool measurement, tool management and the machine</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_0840457196.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 852
+     }
+    },
+    {
+     "href": "/ca/software/add-on-zintegration",
+     "title": "Add-on »z.Integration«",
+     "text": "<p>Vendor-neutral tool management solution for established manufacturing environments</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/7/csm_zIntegration_product_8352d357ce.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 852
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164363",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "large"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> User Testimonials </h3>",
+   "articles": [],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c163551",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/ca/company/reports-stories?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&amp;cHash=a66df74004d8f7d852aedf42cdc02852\">Display All Success Stories</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c163527",
+   "bg": "lightgray",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/solutions/toolmanagement/tms-software",
+ "de_path": "/solutions/toolmanagement/tms-software"
+}

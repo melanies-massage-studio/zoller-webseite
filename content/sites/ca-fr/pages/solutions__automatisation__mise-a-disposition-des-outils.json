@@ -1,0 +1,288 @@
+{
+ "path": "/solutions/automatisation/mise-a-disposition-des-outils",
+ "url": "/ca-fr/solutions/automatisation/mise-a-disposition-des-outils",
+ "title": "Mise à disposition des outils",
+ "description": "Mise à disposition des outils",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Automatisation /",
+   "href": "/ca-fr/solutions/automatisation"
+  },
+  {
+   "label": "Mise à disposition des outils",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Automatisation /",
+   "href": "/ca-fr/solutions/automatisation"
+  },
+  {
+   "label": "Mise à disposition des outils",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/automation/werkzeugbereitstellung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/automation/tool-provision",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/automatizacion/suministro-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/automatisation/fourniture-doutils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/automacao/fornecimento-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/automazione/fornitura-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/automatisering/verktygsfoersoerjning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/automation/werkzeugbereitstellung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/automation/tool-provisioning",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/automatisation/mise-a-disposition-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%8F%90%E4%BE%9B",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A0%9C%EA%B3%B5",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/automation/tool-provisioning",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/automatizacion/suministro-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/automacao/fornecimento-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Automatisation",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/solutions/automatisation",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Aperçu",
+     "href": "/ca-fr/solutions/automatisation",
+     "current": false
+    },
+    {
+     "label": "Logistique",
+     "href": "/ca-fr/solutions/automatisation/logistique",
+     "current": false
+    },
+    {
+     "label": "Préparation des outils",
+     "href": "/ca-fr/solutions/automatisation/preparation-des-outils",
+     "current": false
+    },
+    {
+     "label": "Mise à disposition des outils",
+     "href": "/ca-fr/solutions/automatisation/mise-a-disposition-des-outils",
+     "current": false
+    },
+    {
+     "label": "Inspection des outils",
+     "href": "/ca-fr/solutions/automatisation/inspection-des-outils",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1905",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "products",
+   "header": "<h1> Mise à disposition des outils </h1>",
+   "items": [
+    {
+     "href": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox",
+     "title": "»loadBox«",
+     "text": "<p>Prépare les outils en fonction des commandes et les met à disposition du service logistique</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/3/csm_loadBox_preview_c2695dfc22.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c3774",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Médias : ZOLLER en détail",
+     "href": "/ca-fr/entreprises/medias",
+     "caption": "<figcaption> <h3>Médias : ZOLLER en détail</h3> <p>Vous trouverez ici les communiqués de presse, les annonces de produits, les participations à des salons, les articles de presse issus de magazines spécialisés, les archives des actualités et nos interlocuteurs pour les médias. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/solutions/automatisation/mise-a-disposition-des-outils",
+ "de_path": "/solutions/automation/werkzeugbereitstellung"
+}

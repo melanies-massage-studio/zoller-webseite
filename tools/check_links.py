@@ -1,6 +1,6 @@
-"""Prüft alle relativen Links/Bilder in docs/ auf existierende Ziele."""
-import os, re, glob, collections, urllib.parse
-ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs")
+"""Prüft alle relativen Links/Bilder in docs/ (oder dem angegebenen Ordner, z. B. dist/zoller-canada) auf existierende Ziele."""
+import os, re, glob, collections, sys, urllib.parse
+ROOT = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs")
 bad = collections.Counter(); ext = collections.Counter(); total = 0
 for f in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
     s = open(f, encoding="utf-8").read()

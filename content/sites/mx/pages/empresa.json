@@ -1,0 +1,411 @@
+{
+ "path": "/empresa",
+ "url": "/mx/empresa",
+ "title": "Empresa",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/8/csm_mehr_einblick_auf_zoller_bb6ef13034.webp",
+     "video": null,
+     "title": "Más información sobre ZOLLER",
+     "kicker": "",
+     "text": "<p>Ya conoce nuestro sistema, nuestras soluciones y nuestros productos.<br/>Aquí encontrará más detalles sobre ZOLLER. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c623",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_3d1ab9d40a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Acerca de ZOLLER",
+     "href": "/mx/empresa/perfil",
+     "caption": "<figcaption> <h3>Acerca de ZOLLER</h3> <p>El nombre ZOLLER tiene una estrecha conexión con un equipo de más de 800 personas, numerosas innovaciones y la solidez de una empresa familiar.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/a/csm_teaser_historie_3784d374de.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Historia",
+     "href": "/mx/empresa/perfil/historia",
+     "caption": "<figcaption> <h3>Historia</h3> <p>La historia de ZOLLER comenzó en 1945 con un taller. El propietario, Alfred Zoller, sentó con su destreza las bases para una empresa internacional. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c624",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_smart_factory_8c0b98e653.webp",
+    "alt": ""
+   },
+   "text": "<h3>Smart Factory</h3> <p>Experimente la interacción orientada a los procesos y orientada a la práctica entre<br/>los productos ZOLLER, los datos de herramientas, las interfaces y las máquinas CNC.</p> <p><a class=\"btn\" href=\"/mx/empresa/contacto/fabrica-inteligente\">Más información</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c790",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/6/csm_teaser_qa_20e3c6ded3.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "gestión de la calidad",
+     "href": "/mx/empresa/gestion-de-la-calidad",
+     "caption": "<figcaption> <h3>gestión de la calidad</h3> <p>Mediante medidas internas y auditorías independientes, aseguramos que nuestros clientes siempre reciban una calidad superior.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/8/csm_teaser_compilance_5800459827.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Cumplimiento normativo",
+     "href": "/mx/empresa/cumplimiento-normativo",
+     "caption": "<figcaption> <h3>Cumplimiento normativo</h3> <p>Las leyes, las normas y nuestra posición ante determinadas cuestiones constituyen el marco vinculante para todo lo que hacemos. Nos comprometemos a respetarlo.</p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c670",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Informes e historias",
+     "href": "/mx/empresa/informes-e-historias",
+     "caption": "<figcaption> <h3>Informes e historias</h3> <p>¿Qué está pasando en ZOLLER? ¿Qué opinan nuestros clientes sobre el trabajo con las soluciones ZOLLER? Aquí encontrará las últimas novedades. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_teaser_sustainability_85910c6212.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "sostenibilidad",
+     "href": "/mx/empresa/sostenibilidad",
+     "caption": "<figcaption> <h3>sostenibilidad</h3> <p>ZOLLER le ayuda a alcanzar más fácilmente sus objetivos de sostenibilidad: menos desechos, consumo de energía escaso y mayor eficiencia.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/e/csm_teaser_parter_23d662c967.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Socios",
+     "href": "/mx/empresa/perfil/socios",
+     "caption": "<figcaption> <h3>Socios</h3> <p>Una de las razones por las que nuestro sistema es tan bueno es porque se puede conectar en muchas direcciones. Para ello, colaboramos estrechamente con nuestros socios. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c627",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_teaser_map_c7d5eb53c3.webp",
+    "alt": ""
+   },
+   "text": "<h3>A su servicio en todo el mundo</h3> <p><a class=\"btn\" href=\"/mx/empresa/contacto/ubicaciones\">Buscar ubicación</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c789",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Medios de comunicación",
+     "href": "/mx/empresa/medios-de-comunicacion",
+     "caption": "<figcaption> <h3>Medios de comunicación</h3> <p>Aquí encontrará comunicados de prensa, anuncios de productos, participaciones en ferias, reportajes de prensa de revistas especializadas y el <br/> archivo de noticias.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/e/csm_teaser_career_c36b4715da.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Carrera profesional",
+     "href": "/mx/empresa/carrera-profesional",
+     "caption": "<figcaption> <h3>Carrera profesional</h3> <p>Nadie conoce el futuro con precisión. Pero si desea contribuir a él, ZOLLER es la empresa adecuada. Únase ahora al equipo del progreso.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_teaser_newsletter_36e5e58bec.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "boletín informativo",
+     "href": "/mx/empresa/contacto/boletin-informativo",
+     "caption": "<figcaption> <h3>boletín informativo</h3> <p>En el boletín informativo de ZOLLER «Insights into progress» presentamos temas importantes del sector. Informamos sobre productos, casos de éxito y fechas. Inicie sesión ahora.</p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c671",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_academy_a9d8f4dd92.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Academia ZOLLER",
+     "href": "/mx/academia",
+     "caption": "<figcaption> <h3>Academia ZOLLER</h3> <p>En la Academia ZOLLER aprenderá de primera mano cómo insertar de forma óptima su equipo ZOLLER en la práctica. Obtenga más información sobre la Academia, los temas y las fechas.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/f/csm_teaser_references_1f5b635648.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Referencias",
+     "href": "/mx/empresa/perfil/referencias",
+     "caption": "<figcaption> <h3>Referencias</h3> <p>A lo largo de los años, hemos establecido relaciones duraderas con clientes internacionales. La gama abarca desde pequeños especialistas en fabricación hasta empresas de talla mundial.</p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c672",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/empresa",
+ "de_path": "/unternehmen"
+}

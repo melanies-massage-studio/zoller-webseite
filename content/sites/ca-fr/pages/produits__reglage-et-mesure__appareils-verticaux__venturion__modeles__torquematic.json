@@ -1,0 +1,336 @@
+{
+ "path": "/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/torquematic",
+ "url": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/torquematic",
+ "title": "»torquematic«",
+ "description": "»torquematic« - Serrage entièrement automatique",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Réglage et mesure /",
+   "href": "/ca-fr/produits/reglage-et-mesure"
+  },
+  {
+   "label": "Appareils verticaux /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux"
+  },
+  {
+   "label": "»venturion« /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion"
+  },
+  {
+   "label": "Modèles /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles"
+  },
+  {
+   "label": "»torquematic«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Réglage et mesure /",
+   "href": "/ca-fr/produits/reglage-et-mesure"
+  },
+  {
+   "label": "Appareils verticaux /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux"
+  },
+  {
+   "label": "»venturion« /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion"
+  },
+  {
+   "label": "Modèles /",
+   "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles"
+  },
+  {
+   "label": "»torquematic«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/torquematic",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/presetting-measuring/vertical-devices/venturion/models/torquematic",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/ajuste-y-medicion/dispositivos-verticales/venturion/modelos/torquematico",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/reglage-et-mesure/appareils-verticals/venturion/modeles/torquematique",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematico",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/regolazione-e-misurazione/strumenti-verticali/venturion/modelli/torquematic",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/instaellning-och-maetning/vertikala-maskiner/venturion/modeller/torquematic",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/torquematic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/presetting-measuring/vertical-devices/venturion/models/torquematic",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/torquematic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3/%E3%83%A2%E3%83%87%E3%83%AB/%E3%83%88%E3%83%AB%E3%82%AF%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/venturion/%EB%AA%A8%EB%8D%B8/%ED%86%A0%ED%81%AC%EB%A7%A4%ED%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/presetting-measuring/vertical-devices/venturion/models/torquematic",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ajuste-y-medicion/aparatos-verticales/venturion/modelos/torquematic",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematico",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Modèles",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»reamCheck«",
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/reamcheck",
+     "current": false
+    },
+    {
+     "label": "»torquematic«",
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/torquematic",
+     "current": false
+    },
+    {
+     "label": "»tribos«",
+     "href": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/tribos",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3424",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Serrage entièrement automatique avec »Torquematic« </h1>",
+   "body": "<p>L'appareil de réglage et de mesure »« torquematic »« de ZOLLER permet de régler la longueur des outils équipés de mandrins à pince de serrage de manière entièrement automatique, sans effort physique, de les serrer à un couple prédéfini et de les mesurer. </p> <p>Grâce à la station automatique de vissage et de serrage, vous serrez vos outils sans aucun effort. Vos collaborateurs seront ravis !</p> <p><a class=\"btn\" href=\"/fileadmin/02_Products/torquematic/ZOLLER_Broschuere_torquematic_BRTORMAT_00_DE.pdf\" rel=\"noopener\" target=\"_blank\">Brochure »torquematic«</a> <a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demander</a> dès <a class=\"btn\" href=\"/ca-fr/entreprises/contact\">maintenant</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/f/csm_torquematic_detail_a996a8555a.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c3430",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_torquematic_sicher_spannen_61006b4c7a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 537,
+     "title": "Serrer l'outil de manière sûre",
+     "caption": "<figcaption> <h3>Serrer l'outil de manière sûre</h3> <p>Dans la station de vissage, l'écrou de serrage est vissé selon un couple prédéfini par la rotation de la broche de haute précision »« ace »« à double entraînement, ce qui permet de serrer l'outil.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/a/csm_torquematic_apaptYourHolder_90da281106.webp",
+     "alt": "",
+     "w": 955,
+     "h": 537,
+     "title": "Système de changement rapide »adaptYourHolder«",
+     "caption": "<figcaption> <h3>Système de changement rapide »adaptYourHolder«</h3> <p>Grâce au système de changement rapide »adaptYourHolder,« »torquematic« s'adapte à la forme des écrous-raccords de vos systèmes de serrage.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3432",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Réglage et mesure : vos avantages",
+     "href": "/ca-fr/solutions/reglage-et-mesure",
+     "caption": "<figcaption> <h3>Réglage et mesure : vos avantages</h3> <p>Découvrez pourquoi les bancs de réglage et de mesure réduisent le temps et les coûts. Les effets sont modulables et peuvent générer des économies importantes. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant.</p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/reglage-et-mesure/appareils-verticaux/venturion/modeles/torquematic",
+ "de_path": "/produkte/einstellen-messen/vertikale-geraete/venturion/modelle/torquematic"
+}

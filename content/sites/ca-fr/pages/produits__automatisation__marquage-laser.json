@@ -1,0 +1,301 @@
+{
+ "path": "/produits/automatisation/marquage-laser",
+ "url": "/ca-fr/produits/automatisation/marquage-laser",
+ "title": "Marquage laser",
+ "description": "Marquage laser",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Automatisation /",
+   "href": "/ca-fr/produits/automatisation"
+  },
+  {
+   "label": "Marquage laser",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Automatisation /",
+   "href": "/ca-fr/produits/automatisation"
+  },
+  {
+   "label": "Marquage laser",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/laserbeschriftung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/laser-marking",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/marcado-por-laser",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/marquage-laser",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/marcacao-a-laser",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/marcatura-laser",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/lasermaerkning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/laserbeschriftung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/laser-marking",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/marquage-laser",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EB%A0%88%EC%9D%B4%EC%A0%80-%EB%A7%88%ED%82%B9",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/laser-marking",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/marcado-con-laser",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/marcacao-a-laser",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Présentation des produits </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>Les solutions ZOLLER sont la clé de votre avenir : nous vous aidons à mieux réussir. En effet, une production plus rapide et plus efficace permet de travailler de manière plus rentable, ce qui vous donne les moyens d'investir dans l'avenir. Si votre objectif est de progresser sur le plan économique, ZOLLER est le partenaire qu'il vous faut.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Réglage et mesure",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Gestion des outils",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Contrôle et mesure",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatisation",
+      "selected": true
+     },
+     {
+      "value": "250",
+      "label": "technique de rétraction",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Porte-outils",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Technique d'équilibrage",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "384",
+      "label": "Logistique des outils",
+      "selected": false
+     },
+     {
+      "value": "385",
+      "label": "Préparation des outils",
+      "selected": false
+     },
+     {
+      "value": "386",
+      "label": "Mise à disposition des outils",
+      "selected": false
+     },
+     {
+      "value": "389",
+      "label": "Inspection des outils",
+      "selected": false
+     },
+     {
+      "value": "14153",
+      "label": "Marquage laser",
+      "selected": true
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/ca-fr/produits/automatisation/marquage-laser/robomark",
+       "title": "»roboMark«",
+       "text": "Un marquage rapide et précis de vos outils",
+       "img": {
+        "src": "/fileadmin/_processed_/9/c/csm_roboMark_preview_286da7e103.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ca-fr/produits/automatisation/marquage-laser",
+ "de_path": "/produkte/automation/laserbeschriftung"
+}

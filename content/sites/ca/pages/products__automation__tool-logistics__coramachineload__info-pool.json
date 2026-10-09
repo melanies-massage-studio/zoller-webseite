@@ -1,0 +1,385 @@
+{
+ "path": "/products/automation/tool-logistics/coramachineload/info-pool",
+ "url": "/ca/products/automation/tool-logistics/coramachineload/info-pool",
+ "title": "»»coraMachineLoad«« – Info Pool",
+ "description": "Info Pool - »»coraMachineLoad«« – Info Pool",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Automation /",
+   "href": "/ca/products/automation"
+  },
+  {
+   "label": "Tool Logistics /",
+   "href": "/ca/products/automation/tool-logistics"
+  },
+  {
+   "label": "»»coraMachineLoad«« /",
+   "href": "/ca/products/automation/tool-logistics/coramachineload"
+  },
+  {
+   "label": "Info Pool",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Automation /",
+   "href": "/ca/products/automation"
+  },
+  {
+   "label": "Tool Logistics /",
+   "href": "/ca/products/automation/tool-logistics"
+  },
+  {
+   "label": "»»coraMachineLoad«« /",
+   "href": "/ca/products/automation/tool-logistics/coramachineload"
+  },
+  {
+   "label": "Info Pool",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeuglogistik/coramachineload/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-logistics/coramachineload/info-hub",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/logistica-de-herramientas/coramachineload/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/logistique-des-outils/coramachineload/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/logistica-de-ferramentas/coramachineload/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/logistica-degli-utensili/coramachineload/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/verktygslogistik/coramachineload/informationsbank",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeuglogistik/coramachineload/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-logistics/coramachineload/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/logistique-des-outils/coramachineload/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81/coramachineload/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EB%AC%BC%EB%A5%98/coramachineload/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-logistics/coramachineload/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/logistica-de-herramientas/coramachineload/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/logistica-de-ferramentas/coramachineload/painel-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»»coraMachineLoad««",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/products/automation/tool-logistics/coramachineload",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/ca/products/automation/tool-logistics/coramachineload/software-integration",
+     "current": false
+    },
+    {
+     "label": "Technical Specifications",
+     "href": "/ca/products/automation/tool-logistics/coramachineload/technical-specifications",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/automation/tool-logistics/coramachineload/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/automation/tool-logistics/coramachineload/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2578",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Info Pool </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c2577",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Broschuere_automation_BRAUTOM-00_EN.pdf",
+     "name": "Automation",
+     "size": "5 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/2/csm_ZOLLER_Broschuere_automation_BRAUTOM-00_EN_c20039430a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Automation"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Brochure_micBox_BRMICBOX_00_EN.pdf",
+     "name": "»micBox«",
+     "size": "3 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/7/csm_ZOLLER_Brochure_micBox_BRMICBOX_00_EN_04dfce0f5a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»micBox«"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_Automation_cora_FLAUTOCORA_00_EN.pdf",
+     "name": "Automation cora – Presetting & Measuring",
+     "size": "736 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/c/csm_ZOLLER_Flyer_Automation_cora_FLAUTOCORA_00_EN_89e7776464.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Automation cora – Presetting & Measuring"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_EN_07.pdf",
+     "name": "»wearCheck«",
+     "size": "366 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/8/csm_ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_EN_07_51d276b255.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»wearCheck«"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c240467",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Videos </h3>",
+   "body": "",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/8fJHOJgAAHA?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER »micBox« – Vollautomatischer Wendeschneidplatten-Wechsler"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/7wWcTSATFjo?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Automation Solutions for Your Success"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7562",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automation: Your Advantages",
+     "href": "/ca/solutions/automation",
+     "caption": "<figcaption> <h3>Automation: Your Advantages</h3> <p>Find out how you can automate tool preparation, provision, logistics and inspection with ZOLLER. Realize your highly efficient Smart Factory according to your needs. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/products/automation/tool-logistics/coramachineload/info-pool",
+ "de_path": "/produkte/automation/werkzeuglogistik/coramachineload/info-pool"
+}

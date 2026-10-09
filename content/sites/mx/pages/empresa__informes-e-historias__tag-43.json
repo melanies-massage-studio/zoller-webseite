@@ -1,0 +1,433 @@
+{
+ "path": "/empresa/informes-e-historias/tag-43",
+ "url": "/mx/empresa/informes-e-historias",
+ "title": "Informes e historias",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Informes e historias",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Informes e historias",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Informes e historias </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3213",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "taglist",
+   "tags": [
+    {
+     "label": "Event",
+     "href": "/mx/empresa/informes-e-historias/tag/event-1"
+    },
+    {
+     "label": "Automation",
+     "href": "/mx/empresa/informes-e-historias/tag/automation"
+    }
+   ],
+   "ftype": "news_taglist",
+   "id": "c3330",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "",
+   "articles": [
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/optimizacion-del-mecanizado-de-piezas-con-zoller-zidcode",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_Picture1_7352fbd5cf.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Gestión de herramientas"
+     ],
+     "title": "Optimización del mecanizado de piezas con ZOLLER »zidCode«",
+     "teaser": "",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/grupo-dmp-egile-apuesta-por-la-automatizacion-y-la-gestion-inteligente-de-herramientas-con-zoller",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_blog_heading_0c4bd7cc2a.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Gestión de herramientas"
+     ],
+     "title": "Grupo DMP EGILE apuesta por la automatización y la gestión inteligente de herramientas con ZOLLER",
+     "teaser": "Grupo DMP EGILE comparte su experiencia con la incorporación de un sistema de medición y gestión de herramientas de ZOLLER (TMS).",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/asi-de-eficiente-puede-ser-genius-a-la-hora-de-reducir-costos",
+     "img": {
+      "src": "/fileadmin/_processed_/3/7/csm_genius_drabkansai_teaserimg_19001de27f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Comprobación y medición"
+     ],
+     "title": "Así de eficiente puede ser »genius« a la hora de reducir costos",
+     "teaser": "La medición precisa de los discos abrasivos reduce el tiempo de preparación en más de un 60 %.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/venturion-mejora-la-productividad",
+     "img": {
+      "src": "/fileadmin/_processed_/9/2/csm_ituwa_teaserimg_3cd1d73a8a.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Ajuste y medición"
+     ],
+     "title": "»venturion« mejora la productividad",
+     "teaser": "Ituwa Kogyo, de Japón, gana 20 minutos más de tiempo de funcionamiento por día y máquina.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/verificar-y-documentar-el-redondeo-de-los-bordes-de-corte",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_Schuhmacher_teaserimg_863d6147d6.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Comprobación y medición"
+     ],
+     "title": "Verificar y documentar el redondeo de los bordes de corte.",
+     "teaser": "Medición rápida, sencilla y confiable",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/medicion-rentable-en-serie-con-roboset-2",
+     "img": {
+      "src": "/fileadmin/_processed_/9/5/csm_mauth_teaserimg_5533c78968.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Automation"
+     ],
+     "title": "Medición rentable en serie con »roboSet 2«",
+     "teaser": "Mayor competitividad para Mauth gracias a la inspección automatizada de herramientas.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/con-smile-mas-eficiencia-y-mayor-calidad",
+     "img": {
+      "src": "/fileadmin/_processed_/3/6/csm_fivestraight_teaserimg_0da79bf681.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Ajuste y medición"
+     ],
+     "title": "Con »smile«, más eficiencia y mayor calidad",
+     "teaser": "Five Straight, procedente de Japón, multiplica por 1,5 la vida útil de las herramientas.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/venturion-aumenta-la-precision-y-la-seguridad-del-proceso",
+     "img": {
+      "src": "/fileadmin/_processed_/f/5/csm_korin_teaserimg_28a95a40d5.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Ajuste y medición"
+     ],
+     "title": "»venturion« aumenta la precisión y la seguridad del proceso",
+     "teaser": "Un ahorro de tiempo significativo significa mayor eficiencia.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/encuentra-la-herramienta-especial-perfecta-de-forma-rapida-y-segura",
+     "img": {
+      "src": "/fileadmin/_processed_/5/2/csm_Nikolaus_Grinding_teaserimg_5a236b4071.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Comprobación y medición"
+     ],
+     "title": "Encuentra la herramienta especial perfecta de forma rápida y segura",
+     "teaser": "Nikolaus confía en la precisa técnica de medición de ZOLLER|metrología",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/mmfocus-medicion-con-la-maxima-precision",
+     "img": {
+      "src": "/fileadmin/_processed_/1/4/csm_WEMA_teaserimg_6a166ec368.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Comprobación y medición"
+     ],
+     "title": "»mμFocus«: medición con la máxima precisión",
+     "teaser": "Mayor eficiencia en la producción de herramientas",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/con-smile-420-un-aumento-de-1-millon-de-dolares-en-la-facturacion",
+     "img": {
+      "src": "/fileadmin/_processed_/a/c/csm_content_img_02_0c6cd77d5f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Ajuste y medición"
+     ],
+     "title": "Con »«smile 420»,« un aumento de 1 millón de dólares en la facturación",
+     "teaser": "ProCam Services LLC: Un dispositivo de ajuste y medición que optimiza los procesos de trabajo y ahorra mucho tiempo.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/fabricacion-mas-eficiente-gracias-a-datos-de-herramientas-correctos",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_lidu_teaserimg_12b9c6a225.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Gestión de herramientas"
+     ],
+     "title": "Fabricación más eficiente gracias a datos de herramientas correctos",
+     "teaser": "LIDU Maschinenbau reduce los tiempos de recorrido y aumenta la flexibilidad gracias a ZOLLER",
+     "date": ""
+    }
+   ],
+   "pages": [
+    {
+     "label": "1",
+     "href": "",
+     "current": true
+    },
+    {
+     "label": "2",
+     "href": "/mx/empresa/informes-e-historias?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=2&tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&cHash=436134ed4027b60297dcda47ef34bc6e",
+     "current": false
+    }
+   ],
+   "ftype": "news_pi1",
+   "id": "c557",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/empresa/informes-e-historias/tag-43",
+ "de_path": "/unternehmen/reports-stories"
+}

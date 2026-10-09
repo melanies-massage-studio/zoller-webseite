@@ -1,0 +1,475 @@
+{
+ "path": "/startseite",
+ "url": "/mx/pagina-de-inicio",
+ "title": "Inicie con una solución: ingrese a un sistema",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/startseite",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/home",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/page-daccueil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/pagina-inicial",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/home-page",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/startsida",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/startseite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/home-page",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/page-daccueil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%99%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/homepage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/pagina-inicial",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Startingpage/zollerinfo_header_animation_780.mp4",
+     "title": "Con un sistema para alcanzar el máximo rendimiento",
+     "kicker": "",
+     "text": "<p>Aumente la eficiencia de sus procesos de herramientas<br/>con las soluciones del líder tecnológico: ZOLLER. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2274",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tecnología de primera para cualquier tipo de fabricación </h2>",
+   "body": "<p class=\"extra-large-text\"><br/>Los efectos de eficiencia de ZOLLER en los procesos de herramientas son elevados. Por eso, cualquier inversión se amortiza rápidamente. Incluso con una sola máquina CNC, las soluciones de ZOLLER reducen los costos y el tiempo de inactividad de las máquinas.</p> <p class=\"extra-large-text\">En ZOLLER, la calidad es una promesa,<br/>no un privilegio.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/2/csm_az_cz_30f31cdd7e.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c539",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "kpis",
+   "title": "Éxitos de clientes con ZOLLER",
+   "subtitle": "Mayores ganancias, más pedidos, menos tiempo invertido, menores costos de producción: ZOLLER aumenta la eficiencia de sus clientes en todo el mundo.",
+   "items": [
+    {
+     "label": "Equípese con alta velocidad",
+     "value": "30 %",
+     "text": "<p>Un ZOLLER »hyperion« reduce en esta proporción los tiempos de preparación en SycoTec. Las herramientas de torneado y los soportes de torneado múltiples se miden en el aparato de ajuste y medición horizontal. A continuación, se fabrican motores miniatura de alta velocidad. </p> <p><a class=\"btn\" href=\"/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=116&amp;cHash=421d313fd09bbdfb23f6ea4d752d4ee7\">La historia del éxito</a></p>"
+    },
+    {
+     "label": "Reducción de costos de personal",
+     "value": "83 %",
+     "text": "<p>Esta es la reducción potencial en los costos de personal para la inspección de herramientas en tres turnos si utiliza la solución de automatización »roboSet 2«. </p> <p><a class=\"btn\" href=\"/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2\">Más información sobre »roboSet 2«</a></p>"
+    },
+    {
+     "label": "Retorno de inversión",
+     "value": "9 meses",
+     "text": "<p>Es el tiempo medio que tarda en recuperarse la inversión de un aparato de preajuste y medición »smile«. Fabricación en un turno con una máquina CNC. Con dos máquinas, el tiempo se reduce a la mitad. </p> <p><a class=\"btn\" href=\"/mx/productos/ajuste-y-medicion/aparatos-verticales/smile\">Más información sobre »smile«</a></p>"
+    },
+    {
+     "label": "Aumento significativo de las ventas",
+     "value": "1 millón de dólares",
+     "text": "<p>La empresa familiar ProCam, con sede en Michigan (EE. UU.), ha aumentado su facturación en un millón de dólares estadounidenses en los dos años transcurridos desde la adquisición de una »smile 420«. Gracias a la reducción de los tiempos de configuración y del tiempo de inactividad de las maquinas herramientas, ProCam pudo producir más piezas.</p> <p><a class=\"btn\" href=\"/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=37&amp;cHash=992d0db4f33082f4543da88c75286a33\">Historia de éxito</a></p>"
+    }
+   ],
+   "ftype": "zoller_content-scroller",
+   "id": "c537",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Aumento de la productividad gracias a los aparatos de ajuste y medición de ZOLLER</p> <p>La calculadora de rentabilidad de ZOLLER calcula el potencial de ahorro del funcionamiento normal de su empresa.</p>",
+   "button": "<a class=\"btn\" href=\"/mx/calculadora-de-rentabilidad\">Calcular ahora el potencial de ahorro</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4326",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mayor productividad en fresado, giro y rectificado </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/2/csm_teaser_milling_6f80026943.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Fresado",
+     "href": "/mx/fresado",
+     "caption": "<figcaption> <h3>Fresado</h3> <p>Ajuste y medición precisos, la mejor tecnología de equilibrado del mercado, contracción y expansión exactas, así como todas las interfaces y datos para un proceso continuo desde CAM hasta la pieza. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/5/csm_teaser_turning_a68c271858.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Girar",
+     "href": "/mx/girar",
+     "caption": "<figcaption> <h3>Girar</h3> <p>Técnica de medición especial para herramientas de torneado, gestión de herramientas, manejo de datos y preparación eficiente en tiempo secundario: ZOLLER permite obtener mejores resultados en el torneado.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_teaser_grinding_7de917acd6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Esmerilado",
+     "href": "/mx/afilar-herramientas",
+     "caption": "<figcaption> <h3>Esmerilado</h3> <p>Interfazes para el diseño CAD, datos aptos para el control de la lijadora CNC, simulaciones de mediciones, así como inspección y documentación cercanas al proceso.</p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c540",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> «La automatización es indispensable para trabajar de manera competitiva a nivel internacional». </h3>",
+   "body": "<p class=\"large-text\">Michael Mauth, director general de Mauth Werkzeug- Schleiftechnik en Oberndorf</p> <p><a class=\"btn\" href=\"/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=109&amp;cHash=edd71d398b779dcca094c57186138635\"> Ir al informe del usuario</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/3/csm_teaser_roboSet2_8f949c1d6b.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=109&cHash=edd71d398b779dcca094c57186138635"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4109",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> «La digitalización con los sistemas de software de ZOLLER contribuyó de manera decisiva a una producción mucho más rentable». </h2>",
+   "body": "<p class=\"large-text\">Ing. Frank Schaefer, miembro de la dirección, LIDU Maschinenbau Lienenbrügger GmbH en Dülmen</p> <p><a class=\"btn\" href=\"/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=112&amp;cHash=5bd9e00bf990db26ead5dc36b56cb9be\">Ir al informe del usuario</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/1/csm_teaser_zoller_002_647c6fcfb2.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=112&cHash=5bd9e00bf990db26ead5dc36b56cb9be"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c536",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/mx/pagina-de-inicio\">Balanceo de herramientas al más alto nivel</a> </h2>",
+   "body": "<p class=\"large-text\">«toolBalancer» líder mundial en tecnología de vanguardia en lo que respecta al balanceo de herramientas. Con él se obtienen resultados de balanceo de 0,4 gmm, además de una gran ergonomía y un manejo sencillo. Todos los »toolBalancer« cuentan con la certificación TÜV y UL/CSA.</p> <p><a class=\"btn\" href=\"/mx/productos/tecnologia-de-balanceo/toolbalancer\">Más información sobre »toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c750",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/mx/pagina-de-inicio\">Lucir con estilo al contraerse</a> </h2>",
+   "body": "<p>»powerShrink« contrae las herramientas a una velocidad récord y con un consumo mínimo de energía. Los portaherramientas térmicos se calientan y enfrían de forma controlada, lo que garantiza una alta eficiencia en el proceso de contracción.</p> <p><a class=\"btn\" href=\"/mx/productos/ammare-termico-de-herramientas/powershrink\">Más información sobre »powerShrink«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/c/csm_teaser_powershrink_ff1b555a0d.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c752",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Mensajes de actualidad </h3>",
+   "articles": [
+    {
+     "href": "/mx/su-exito/detalle/optimizacion-del-mecanizado-de-piezas-con-zoller-zidcode",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_Picture1_7352fbd5cf.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Gestión de herramientas"
+     ],
+     "title": "Optimización del mecanizado de piezas con ZOLLER »zidCode«",
+     "teaser": "",
+     "date": ""
+    },
+    {
+     "href": "/mx/su-exito/detalle/zoller-micbox-y-coravarion-impulsan-una-mayor-productividad-en-la-fabricacion",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_LP_Automation_Raumsituation_micBox.3391_F39_300_9faf7821d1.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Automation"
+     ],
+     "title": "ZOLLER »micBox« y »coraVarion« ​​impulsan una mayor productividad en la fabricación",
+     "teaser": "",
+     "date": ""
+    },
+    {
+     "href": "/mx/su-exito/detalle/grupo-dmp-egile-apuesta-por-la-automatizacion-y-la-gestion-inteligente-de-herramientas-con-zoller",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_blog_heading_0c4bd7cc2a.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Informe del usuario",
+      "Gestión de herramientas"
+     ],
+     "title": "Grupo DMP EGILE apuesta por la automatización y la gestión inteligente de herramientas con ZOLLER",
+     "teaser": "Grupo DMP EGILE comparte su experiencia con la incorporación de un sistema de medición y gestión de herramientas de ZOLLER (TMS).",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c749",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Charla con expertos</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Agende una cita ahora</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/mx/pagina-de-inicio",
+ "de_path": "/startseite"
+}

@@ -1,0 +1,253 @@
+{
+ "path": "/company/careers/application",
+ "url": "/ca/company/careers/application",
+ "title": "ZOLLER Careers | Online Application",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Application",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Application",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere/bewerbung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/careers/application",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/carrera-profesional/solicitud-en-linea",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer/ansoekan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere/bewerbung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere/candidature",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E5%BF%9C%E5%8B%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%A7%80%EC%9B%90%EC%84%9C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Careers",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/company/careers",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Working at ZOLLER",
+     "href": "/ca/company/careers",
+     "current": false
+    },
+    {
+     "label": "Job Openings",
+     "href": "/ca/company/careers/job-openings",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/company/careers/faq",
+     "current": false
+    },
+    {
+     "label": "Application",
+     "href": "/ca/company/careers/application",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4082",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Application </h1>",
+   "body": "<p><strong>Your contact:</strong> Human Resources Department <a class=\"link-arrow\" href=\"mailto:bewerbung@zoller.info\" title=\"Bewerbung senden\">bewerbung@zoller.info</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c4081",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "form",
+   "kind": "form_formframework",
+   "html": "<form action=\"https://www.zoller.info/ca/company/careers/application?tx_form_formframework%5Baction%5D=perform&amp;tx_form_formframework%5Bcontroller%5D=FormFrontend&amp;cHash=3277dfb308f2a4907c9567d860ebc94e#bewerbungsformular-4080\" enctype=\"multipart/form-data\" id=\"bewerbungsformular-4080\" method=\"post\"> <div><input name=\"tx_form_formframework[bewerbungsformular-4080][__state]\" type=\"hidden\" value=\"TzozOToiVFlQTzNcQ01TXEZvcm1cRG9tYWluXFJ1bnRpbWVcRm9ybVN0YXRlIjoyOntzOjI1OiIAKgBsYXN0RGlzcGxheWVkUGFnZUluZGV4IjtpOjA7czoxMzoiACoAZm9ybVZhbHVlcyI7YTowOnt9fQ==e1fa0a6fff7432dcbaca0174b96641dc4234cdba\"/><input name=\"tx_form_formframework[__trustedProperties]\" type=\"hidden\" value='{\"bewerbungsformular-4080\":{\"text-1\":1,\"text-4\":1,\"text-2\":1,\"text-3\":1,\"email-1\":1,\"telephone-1\":1,\"text-5\":1,\"text-6\":1,\"fileupload-1\":{\"name\":1,\"type\":1,\"tmp_name\":1,\"error\":1,\"size\":1},\"fileupload-2\":{\"name\":1,\"type\":1,\"tmp_name\":1,\"error\":1,\"size\":1},\"fileupload-3\":{\"name\":1,\"type\":1,\"tmp_name\":1,\"error\":1,\"size\":1},\"textarea-1\":1,\"JUblNqTrYfGSzno2yM1aCuhO\":1,\"checkbox-1\":1,\"__currentPage\":1}}7fb7f1b05dae40949e1948decceedeefb1ca577d'/> </div> <fieldset class=\"form-group\" id=\"bewerbungsformular-4080-fieldset-4\"> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-text-1\">Initiativbewerbung auf eine Stelle als <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"bewerbungsformular-4080-text-1\" name=\"tx_form_formframework[bewerbungsformular-4080][text-1]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-text-4\">Bereich <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"bewerbungsformular-4080-text-4\" name=\"tx_form_formframework[bewerbungsformular-4080][text-4]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> </fieldset> <fieldset class=\"form-group\" id=\"bewerbungsformular-4080-fieldset-3\"> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-text-2\">Vorname <span class=\"required\">*</span> </label> <div class=\"input\"> <input autocomplete=\"given-name\" class=\"form-control\" id=\"bewerbungsformular-4080-text-2\" maxlength=\"100\" minlength=\"1\" name=\"tx_form_formframework[bewerbungsformular-4080][text-2]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-text-3\">Nachname <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"bewerbungsformular-4080-text-3\" name=\"tx_form_formframework[bewerbungsformular-4080][text-3]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-email-1\">Email address <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"bewerbungsformular-4080-email-1\" name=\"tx_form_formframework[bewerbungsformular-4080][email-1]\" required=\"required\" type=\"email\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-telephone-1\">Telephone number <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"bewerbungsformular-4080-telephone-1\" name=\"tx_form_formframework[bewerbungsformular-4080][telephone-1]\" required=\"required\" type=\"tel\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-text-5\">Straße/Hausnummer</label> <div class=\"input\"> <input class=\"form-control\" id=\"bewerbungsformular-4080-text-5\" name=\"tx_form_formframework[bewerbungsformular-4080][text-5]\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-text-6\">PLZ/Ort</label> <div class=\"input\"> <input class=\"form-control\" id=\"bewerbungsformular-4080-text-6\" name=\"tx_form_formframework[bewerbungsformular-4080][text-6]\" type=\"text\" value=\"\"/> </div> </div> </div> </div> </fieldset> <fieldset class=\"form-group\" id=\"bewerbungsformular-4080-fieldset-1\"> <div class=\"clearfix\"> <p><br/> Upload Ihrer Dokumente: Ihre Dokumente müssen im pdf-Format angehängt werden und dürfen eine Gesamtgröße von 10 MB nicht überschreiten. Der Upload und die Übermittlung der angehängten Dateien startet mit dem Absenden diese Formulars.<br/> <br/> <br/> </p> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-fileupload-1\">Anschreiben (PDF) <span class=\"required\">*</span> </label> <div class=\"input\"> <input accept=\"application/pdf\" id=\"bewerbungsformular-4080-fileupload-1\" name=\"tx_form_formframework[bewerbungsformular-4080][fileupload-1]\" required=\"required\" type=\"file\"/> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-fileupload-2\">Lebenslauf (PDF) <span class=\"required\">*</span> </label> <div class=\"input\"> <input accept=\"application/pdf\" id=\"bewerbungsformular-4080-fileupload-2\" name=\"tx_form_formframework[bewerbungsformular-4080][fileupload-2]\" required=\"required\" type=\"file\"/> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-fileupload-3\">Zeugnisse (PDF) <span class=\"required\">*</span> </label> <div class=\"input\"> <input accept=\"application/pdf\" id=\"bewerbungsformular-4080-fileupload-3\" name=\"tx_form_formframework[bewerbungsformular-4080][fileupload-3]\" required=\"required\" type=\"file\"/> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"bewerbungsformular-4080-textarea-1\">Ihre Nachricht</label> <div class=\"input\"> <textarea class=\"xxlarge form-control\" id=\"bewerbungsformular-4080-textarea-1\" name=\"tx_form_formframework[bewerbungsformular-4080][textarea-1]\"></textarea> </div> </div> </fieldset> <input aria-hidden=\"true\" data-id=\"JUblNqTrYfGSzno2yM1aCuhO\" id=\"bewerbungsformular-4080-JUblNqTrYfGSzno2yM1aCuhO\" name=\"tx_form_formframework[bewerbungsformular-4080][JUblNqTrYfGSzno2yM1aCuhO]\" tabindex=\"-1\" type=\"text\"/> <fieldset class=\"form-group\" id=\"bewerbungsformular-4080-fieldset-2\"> <div class=\"clearfix\"> <p><br/> Bitte beachten Sie: ZOLLER wird die von Ihnen übermittelten Daten für die Auswahl eines geeigneten Bewerbers speichern. Ihre personenbezogenen Daten werden dabei gemäß der Datenschutz-Grundverordnung (DSGVO) gespeichert und verarbeitet. Ihre Angaben werden streng vertraulich behandelt und während der elektronischen Übermittlung verschlüsselt. Eine Weitergabe an Dritte erfolgt nicht. Sofern wir keine geeignete Stelle für Ihr Profil ermitteln können, werden wir Ihre übermittelten Daten spätestens nach 2 Monaten löschen.<br/> <br/> </p> </div> <div class=\"form-group\"> <div class=\"input checkbox\"> <div class=\"form-check\"> <label class=\"add-on form-check-label\" for=\"bewerbungsformular-4080-checkbox-1\"> <input name=\"tx_form_formframework[bewerbungsformular-4080][checkbox-1]\" type=\"hidden\" value=\"\"/><input class=\"add-on\" id=\"bewerbungsformular-4080-checkbox-1\" name=\"tx_form_formframework[bewerbungsformular-4080][checkbox-1]\" required=\"required\" type=\"checkbox\" value=\"1\"/> <span>Sie sind einverstanden, dass die oben eingetragenen Daten zur Bearbeitung Ihrer Anfrage für Vertriebsaktivitäten verwendet und an die zuständigen Vertriebsniederlassungen bzw. Handelsvertreter weitergeben werden. Einer Datenverarbeitung können Sie jederzeit ohne Angabe von Gründen unter datenschutz@zoller.info widersprechen. <span class=\"required\">*</span> </span> </label> </div> </div> </div> </fieldset> <div class=\"actions\"> <nav class=\"form-navigation\"> <div class=\"btn-toolbar\" role=\"toolbar\"> <div class=\"btn-group\" role=\"group\"> <span class=\"btn-group next submit\"> <button class=\"block-button\" name=\"tx_form_formframework[bewerbungsformular-4080][__currentPage]\" type=\"submit\" value=\"1\"> E-Mail senden </button> </span> </div> </div> </nav> </div> </form>",
+   "header": "",
+   "ftype": "form_formframework",
+   "id": "c4080",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/company/careers/application",
+ "de_path": "/unternehmen/karriere/bewerbung"
+}

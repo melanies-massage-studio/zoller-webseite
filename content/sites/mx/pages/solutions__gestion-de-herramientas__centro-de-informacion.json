@@ -1,0 +1,369 @@
+{
+ "path": "/solutions/gestion-de-herramientas/centro-de-informacion",
+ "url": "/mx/solutions/gestion-de-herramientas/centro-de-informacion",
+ "title": "Soluciones de herramientas: centro de información",
+ "description": "Centro de información - Soluciones de herramientas: centro de información",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/mx/solutions"
+  },
+  {
+   "label": "Gestión de herramientas",
+   "href": "/mx/solutions/gestion-de-herramientas"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/mx/solutions"
+  },
+  {
+   "label": "Gestión de herramientas",
+   "href": "/mx/solutions/gestion-de-herramientas"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tool-management/info-pool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/gestion-de-herramientas/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/gestion-des-outils/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/gestao-de-ferramentas/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tool-management/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/solutions/toolmanagement/informationsbank",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/toolmanagement/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tool-management/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/gestion-des-outils/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/solutions/toolmanagement/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/solutions/toolmanagement/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/toolmanagement/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/gestion-de-herramientas/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/gestao-de-ferramentas/catalogos-e-informacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Gestión de herramientas",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "TMS Software",
+     "href": "/mx/solutions/gestion-de-herramientas/tms-software",
+     "current": false
+    },
+    {
+     "label": "TMS Hardware",
+     "href": "/mx/solutions/gestion-de-herramientas/tms-hardware",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/mx/solutions/gestion-de-herramientas/faq",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/solutions/gestion-de-herramientas/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c162926",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Centro de información </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c162902",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Folletos </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/01_Pages/Solutions/Tool_Management/Info-Pool/ZOLLER_Broschuere_TMS_BRTMS_01_EN.pdf",
+     "name": "TMS Tool Management Solutions",
+     "size": "9 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/9/csm_ZOLLER_Broschuere_TMS_BRTMS_01_EN_2a8dc8264a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "TMS Tool Management Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_ES.pdf",
+     "name": "Fabricación inteligente",
+     "size": "806 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/7/c/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_ES_815d295f1b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Fabricación  inteligente"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Messtechnik/ZOLLER_Flyer_Messtechnik_4_0_FLMETE4_00_ES_07.pdf",
+     "name": "Tecnología de medición 4.0",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/f/csm_ZOLLER_Flyer_Messtechnik_4_0_FLMETE4_00_ES_07_b3ac1bf764.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tecnología de medición 4.0"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/Zoller_flyer_tms_zidcode_fltmszc_00_es.pdf",
+     "name": "Manejo eficiente de herramientas",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/0/8/csm_Zoller_flyer_tms_zidcode_fltmszc_00_es_47cb8b1142.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Manejo eficiente de herramientas"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smart_Cabinets/ZOLLER_Flyer_Smart_Cabinets_FLSMACA_00_EN.pdf",
+     "name": "Tool Storage with Smart Cabinets",
+     "size": "171 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/f/csm_ZOLLER_Flyer_Smart_Cabinets_FLSMACA_00_EN_904132729b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tool Storage with Smart Cabinets"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c162878",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Videos </h3>",
+   "body": "",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iaV2Il_Gqn8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c162854",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Medios: ZOLLER en detalle",
+     "href": "/mx/empresa/medios-de-comunicacion",
+     "caption": "<figcaption> <h3>Medios: ZOLLER en detalle</h3> <p>Aquí encontrará comunicados de prensa, anuncios de productos, participaciones en ferias, reportajes de prensa de revistas especializadas, el archivo de noticias y nuestras personas de contacto para los medios de comunicación. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/solutions/gestion-de-herramientas/centro-de-informacion",
+ "de_path": "/solutions/toolmanagement/info-pool"
+}
