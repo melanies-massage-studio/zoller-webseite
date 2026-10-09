@@ -1,0 +1,390 @@
+{
+ "path": "/empresa/informes-e-historias/tag-45",
+ "url": "/mx/empresa/informes-e-historias",
+ "title": "Informes e historias",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Informes e historias",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Informes e historias",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Informes e historias </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3213",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "taglist",
+   "tags": [
+    {
+     "label": "Event",
+     "href": "/mx/empresa/informes-e-historias/tag/event-1"
+    },
+    {
+     "label": "Automation",
+     "href": "/mx/empresa/informes-e-historias/tag/automation"
+    }
+   ],
+   "ftype": "news_taglist",
+   "id": "c3330",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "",
+   "articles": [
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/zoller-destaca-en-la-imts-2026",
+     "img": {
+      "src": "/fileadmin/_processed_/9/8/csm_Team_ZOLLER_at_IMTS_4d2a8942d2.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Event"
+     ],
+     "title": "ZOLLER destaca en la IMTS 2026",
+     "teaser": "ZOLLER destaca en la IMTS 2026 con una nueva tecnología de automatización revolucionaria para la fábrica inteligente.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/como-hacer-frente-al-aumento-repentino-del-precio-del-tungsteno",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Gestión de herramientas"
+     ],
+     "title": "Cómo hacer frente al aumento repentino del precio del tungsteno",
+     "teaser": "Hay dos estrategias que ayudan a contrarrestar el aumento extremo de los precios de las herramientas de metal duro integral: una mayor eficiencia en el uso de las herramientas y la máxima precisión en los procesos de reafilado.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/80-anos-de-zoller-mirando-hacia-el-futuro",
+     "img": {
+      "src": "/fileadmin/_processed_/d/d/csm_interview_emo_x-technik_teaserimg_1bca8d87d2.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Event"
+     ],
+     "title": "80 años de ZOLLER: mirando hacia el futuro",
+     "teaser": "En el marco de la EMO 2025, Christoph Zoller conversó con el ingeniero Robert Fraunberger, editor jefe de la revista especializada x-technik Fertigungstechnik.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/adquirir-herramientas-de-manera-confiable-y-rapida",
+     "img": {
+      "src": "/fileadmin/_processed_/c/d/csm_werkzeugbeschaffung_teaserimg_5bb2437ec7.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Gestión de herramientas"
+     ],
+     "title": "Adquirir herramientas de manera confiable y rápida",
+     "teaser": "Los pedidos con TMS Tool Management Solutions de ZOLLER simplifican la organización y los procesos.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/como-lograr-una-gestion-eficiente-de-las-herramientas",
+     "img": {
+      "src": "/fileadmin/_processed_/6/9/csm_tms_praxis_teaserimg_0b827b00f9.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Gestión de herramientas"
+     ],
+     "title": "Cómo lograr una gestión eficiente de las herramientas",
+     "teaser": "Formación práctica en la Smart Factory para ZOLLER TMS Tool Management Solutions.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/servicio-de-informes-informacion-continua-y-completa",
+     "img": {
+      "src": "/fileadmin/_processed_/3/c/csm_Reporting-Service_teaserimg_a0a451592f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Gestión de herramientas"
+     ],
+     "title": "Servicio de informes: información continua y completa",
+     "teaser": "Informes transparentes con ZOLLER TMS Tool Management Solutions",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/acceso-comodo-y-rapido-a-la-base-de-datos",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_Datenbasis_teaserimg_36bb6bb863.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Gestión de herramientas"
+     ],
+     "title": "Acceso cómodo y rápido a la base de datos",
+     "teaser": "Sistema de datos con ZOLLER TMS Tool Management Solutions: importar datos de herramientas con un clic de ratón.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/almacenamiento-y-extraccion-comodos-de-herramientas",
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_werkzeuge_ein-auslagern_teaserimg_d03855fb05.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Gestión de herramientas"
+     ],
+     "title": "Almacenamiento y extracción cómodos de herramientas",
+     "teaser": "Mayor eficiencia gracias al soporte gráfico de las soluciones TMS Tool Management Solutions de ZOLLER",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/una-herramienta-completa-de-manera-sencilla-y-segura",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_komplettwerkzeug_teaserimg_7a25e3a102.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Gestión de herramientas"
+     ],
+     "title": "Una herramienta completa de manera sencilla y segura",
+     "teaser": "TMS Tool Management Solutions: gráficas para un flujo de trabajo más rápido.",
+     "date": ""
+    },
+    {
+     "href": "/mx/empresa/informes-e-historias/detalle/seguro-para-el-proceso-gracias-a-la-fabricacion-sin-papel",
+     "img": {
+      "src": "/fileadmin/_processed_/a/b/csm_papierlose_fertigung_teaserimg_49014f8b93.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Comunicado de prensa",
+      "Gestión de herramientas"
+     ],
+     "title": "Seguro para el proceso gracias a la fabricación sin papel",
+     "teaser": "Digitalización con ZOLLER TMS Tool Management Solutions",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_pi1",
+   "id": "c557",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/empresa/informes-e-historias/tag-45",
+ "de_path": "/unternehmen/reports-stories"
+}

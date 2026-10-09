@@ -486,6 +486,29 @@
     $$('input.number-only', root).forEach(i => i.addEventListener('input', () => { i.value = i.value.replace(/[^0-9.]/g, ''); }));
   });
 
+  /* ------------------------------------------- Formulare: fertige E-Mail statt Server (statische Seite) */
+  $$('form[data-mailto]').forEach(form => {
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (form.reportValidity && !form.reportValidity()) return;
+      const lines = [], files = [];
+      form.querySelectorAll('input, select, textarea').forEach(el => {
+        if (!el.name || ['submit', 'button', 'hidden', 'password', 'reset'].includes(el.type)) return;
+        if ((el.type === 'checkbox' || el.type === 'radio') && !el.checked) return;
+        if (el.type === 'file') { [...el.files].forEach(f => files.push(f.name)); return; }
+        const lab = (el.id && form.querySelector(`label[for="${CSS.escape(el.id)}"]`)) || el.closest('label');
+        const label = ((lab && lab.textContent) || el.placeholder || el.name).replace(/\s+/g, ' ').replace(/\*/g, '').trim();
+        const val = el.tagName === 'SELECT' ? (el.options[el.selectedIndex] || {}).text : (el.type === 'checkbox' ? '✓' : el.value);
+        if (val) lines.push(`${label}: ${val}`);
+      });
+      if (files.length) lines.push('', `${T('Bitte hängen Sie Ihre Dateien an diese E-Mail an:')} ${files.join(', ')}`);
+      location.href = `mailto:${form.dataset.mailto}?subject=${encodeURIComponent(form.dataset.subject || document.title)}&body=${encodeURIComponent(lines.join('\n'))}`;
+      let note = form.querySelector('.form-sent');
+      if (!note) { note = document.createElement('p'); note.className = 'form-sent form-note'; note.setAttribute('role', 'status'); form.append(note); }
+      note.textContent = T('Ihr E-Mail-Programm öffnet sich mit der fertigen Nachricht – bitte dort absenden.');
+    });
+  });
+
   /* ------------------------------------------------- Defekte Bilder ausblenden */
   $$('img').forEach(img => {
     const hide = () => img.classList.add('is-broken');

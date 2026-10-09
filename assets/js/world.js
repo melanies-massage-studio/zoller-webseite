@@ -9,6 +9,8 @@ import { RoomEnvironment } from '../vendor/RoomEnvironment.js';
 
 const YELLOW = 0xf0e600;
 const FONT = '"T-Star", "Helvetica Neue", Arial, sans-serif';
+// Sprachfassungen: Texte in der Szene aus window.ZI18N (deutscher Text als Schlüssel)
+const tr = (s) => (globalThis.ZI18N && globalThis.ZI18N[s]) || s;
 const TAU = Math.PI * 2;
 const clamp = (v, a, b) => Math.min(b, Math.max(a, v));
 const lerp = (a, b, t) => a + (b - a) * t;
@@ -157,7 +159,7 @@ function packageCanvas(tier, title) {
   ctx.font = `500 26px ${FONT}`;
   const words = title.replace(tier, '').replace(/­/g, '').trim();
   ctx.fillText(words, 256, 320);
-  ctx.font = `400 20px ${FONT}`; ctx.fillText('Softwarepaket', 256, 356);
+  ctx.font = `400 20px ${FONT}`; ctx.fillText(tr('Softwarepaket'), 256, 356);
   return c;
 }
 
@@ -314,7 +316,7 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
     const c = document.createElement('canvas'); c.width = 4096; c.height = 128;
     const ctx = c.getContext('2d'); ctx.fillStyle = '#17181b'; ctx.fillRect(0, 0, c.width, c.height);
     ctx.fillStyle = '#f0e600'; ctx.font = `700 64px ${FONT}`; ctx.textBaseline = 'middle';
-    const txt = 'ZOLLER  ·  PRODUKTUMGEBUNG 3D  ·  ';
+    const txt = tr('ZOLLER  ·  PRODUKTUMGEBUNG 3D  ·  ');
     const w = ctx.measureText(txt).width; for (let x = 0; x < c.width; x += w) ctx.fillText(txt, x, 68);
     return canvasTex(c, renderer);
   })();
@@ -466,7 +468,7 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
     }
     // Bodenbeschriftung am Platz
     const num = String(sec.index + 1).padStart(2, '0');
-    g.add(floorText(`${num}  ${sec.cat.name.toUpperCase()}`, `${sec.items.length} ${sec.items.length === 1 ? 'Produkt' : 'Produkte'}`,
+    g.add(floorText(`${num}  ${sec.cat.name.toUpperCase()}`, `${sec.items.length} ${sec.items.length === 1 ? tr('Produkt') : tr('Produkte')}`,
       L.rIn - 5.6, L.rIn - 3.6, sec.mid, (sec.th1 - sec.th0) * (L.rIn - 4.6) * 0.92));
     // Rückwand mit Motiv
     const wallH = 6.4;
@@ -527,7 +529,7 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
     if (widest > c.width - 60 * S) { fs *= (c.width - 60 * S) / widest; ctx.font = `800 ${fs}px ${FONT}`; }
     lines.forEach((l, i) => ctx.fillText(l, 30 * S, 290 * S + i * fs * 1.1));
     ctx.fillStyle = 'rgba(255,255,255,0.6)'; ctx.font = `500 ${30 * S}px ${FONT}`;
-    ctx.fillText(`${sec.items.length} ${sec.items.length === 1 ? 'Produkt' : 'Produkte'}`, 30 * S, 300 * S + lines.length * fs * 1.1 + 30 * S);
+    ctx.fillText(`${sec.items.length} ${sec.items.length === 1 ? tr('Produkt') : tr('Produkte')}`, 30 * S, 300 * S + lines.length * fs * 1.1 + 30 * S);
     ctx.strokeStyle = '#f0e600'; ctx.lineWidth = 10 * S; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
     const ax = c.width / 2, ay = 560 * S;
     ctx.beginPath(); ctx.moveTo(ax, ay + 40 * S); ctx.lineTo(ax, ay - 40 * S); ctx.moveTo(ax - 30 * S, ay - 10 * S); ctx.lineTo(ax, ay - 40 * S); ctx.lineTo(ax + 30 * S, ay - 10 * S); ctx.stroke();

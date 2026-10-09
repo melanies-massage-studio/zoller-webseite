@@ -1,0 +1,318 @@
+{
+ "path": "/entreprises/rapports-et-articles/details/mehr-tempo-weniger-werkzeugbrueche",
+ "url": "/fr/entreprise/rapports-et-recits/detail/plus-de-vitesse-moins-de-casses-doutils",
+ "title": "Plus de vitesse, moins de casses d'outils",
+ "description": "»hyperion« réduit considérablement le temps nécessaire à la configuration des outils rotatifs. ",
+ "og_image": "/fileadmin/_processed_/2/6/csm_sycoTec_teaserimg_39cf24223e.webp",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Entreprise /",
+   "href": "/fr/entreprise"
+  },
+  {
+   "label": "Rapports et récits /",
+   "href": "/fr/entreprise/rapports-et-recits"
+  },
+  {
+   "label": "Plus de vitesse, moins de casses d'outils",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Entreprise /",
+   "href": "/fr/entreprise"
+  },
+  {
+   "label": "Rapports et récits /",
+   "href": "/fr/entreprise/rapports-et-recits"
+  },
+  {
+   "label": "Plus de vitesse, moins de casses d'outils",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories/detail/mehr-tempo-weniger-werkzeugbrueche",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories/details/mehr-tempo-weniger-werkzeugbrueche",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias/detalle/mas-velocidad-menos-roturas-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits/detail/plus-de-vitesse-moins-de-casses-doutils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias/detalhe/mais-velocidade-menos-quebras-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie/dettaglio/maggiore-velocita-meno-rotture-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser/detaljer?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=116&cHash=f18c272d440595a1c6dfd1cb99426414",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories/detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=116&cHash=f18c272d440595a1c6dfd1cb99426414",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories/detail/more-speed-fewer-tool-breakages",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=116&cHash=f18c272d440595a1c6dfd1cb99426414",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/%E8%A9%B3%E7%B4%B0?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=116&cHash=f18c272d440595a1c6dfd1cb99426414",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=116&cHash=f18c272d440595a1c6dfd1cb99426414",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories/detail/more-speed-fewer-tool-breakages",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias/detalle/mas-velocidad-menos-roturas-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias/detalhe/mehr-tempo-weniger-werkzeugbrueche",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "article",
+   "date": "2019-08-12",
+   "date_label": "12/08/2019",
+   "tags": [
+    "Rapport d'utilisateur",
+    "Réglage et mesure"
+   ],
+   "title": "Une vitesse accrue lors des paramètres",
+   "lead": "<p><strong>SycoTec, spécialiste des micro-entraînements à grande vitesse, peut désormais régler ses outils rotatifs pour l'usinage de pièces dentaires avec une rapidité accrue de 30 %. C'est »le logiciel hyperion« de ZOLLER qui lui permet d'atteindre cette performance. Cet appareil de mesure compact et ultraprécis réduit le danger de rupture d'outils.</strong></p>",
+   "images": [],
+   "blocks": [
+    {
+     "type": "textmedia",
+     "header": "<h2> Pièces filigranes pour la technique dentaire en petites et moyennes tailles de lot </h2>",
+     "body": "<p>En observant l'appareil manuel d'un dentiste, on ne peut qu'imaginer la taille minuscule des moteurs et des unités d'entraînement à l'intérieur de l'appareil, qui fonctionnent avec une grande précision à des vitesses pouvant atteindre 500 000 tr/min. Dans la ville idyllique de Leutkirch, dans l'Allgäu, SycoTec fabrique entre autres ces pièces et doit relever des défis complexes. Cependant, l'entreprise ne fabrique pas seulement des composants filigranes pour la technologie dentaire, mais est également devenue l'un des plus grands fournisseurs mondiaux d'entraînements à grande vitesse. Son domaine d'activité couvre une large gamme de moteurs électriques sur mesure, de composants de moteurs, de turbogénérateurs et de moteurs spéciaux. </p> <p>Le troisième pilier, les « composants », exige également beaucoup de savoir-faire et d'expérience. Toutes les technologies, telles que le fraisage, le tournage, la rectification, le honage, le soudage au laser, l'emboutissage et le soudage robotisé, sont disponibles. La manipulation de la grande variété d'outils statiques et rotatifs utilisés sur les nombreuses machines-outils représente un défi en particulier pour SycoTec. De plus, des composants filigranes avec des tolérances très faibles doivent être fabriqués en petites et moyennes tailles de lot, tout en garantissant une efficacité élevée.</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c4009",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "",
+     "body": "",
+     "images": [
+      {
+       "src": "/fileadmin/_processed_/9/4/csm_sycoTec_contentimg_02_be8b1850b3.webp",
+       "alt": "",
+       "w": 1420,
+       "h": 790,
+       "caption": "<figcaption> <p>De gauche à droite : Benjamin Präg, gestion des outils, et Markus Herdrich, responsable KVP/programmation NC dans la fabrication de base − tous deux chez SycoTec −, ainsi que Michael Haas, service commercial chez ZOLLER</p> </figcaption>"
+      }
+     ],
+     "videos": [],
+     "pos": "above",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "textmedia",
+     "id": "c4010",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "downloads",
+     "header": "",
+     "files": [
+      {
+       "href": "/fileadmin/05_News/1907_SycoTEC/SycoTEC-Anwenderbericht-Hyperion-ZOLLER-2019_07-08_DE.pdf",
+       "name": "Rapport d'utilisateur SycoTEC",
+       "size": "2 Mo",
+       "desc": "",
+       "thumb": {
+        "src": "/fileadmin/_processed_/0/3/csm_SycoTEC-Anwenderbericht-Hyperion-ZOLLER-2019_07-08_DE_56ee513e29.png",
+        "alt": "",
+        "w": 310,
+        "h": 437,
+        "title": "Rapport d'utilisateur SycoTEC"
+       }
+      }
+     ],
+     "ftype": "uploads",
+     "id": "c4201",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "products",
+     "header": "",
+     "items": [
+      {
+       "href": "/fr/produits/reglage-et-mesure/appareils-horizontaux/hyperion",
+       "title": "»hyperion«",
+       "text": "<p>Le banc de réglage et de mesure horizontal pour la fabrication par tournage</p>",
+       "img": {
+        "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+        "alt": "zoller hyperion",
+        "w": 1080,
+        "h": 858
+       }
+      }
+     ],
+     "ftype": "menu_pages",
+     "id": "c4012",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    },
+    {
+     "type": "textmedia",
+     "header": "<h2> Um desafio especial: os suportes giratórios múltiplos </h2>",
+     "body": "<p>Os tornos longos e universais da SycoTec são equipados tanto com ferramentas motorizadas como com ferramentas de giro|ferramentas rotativas. O dispositivo de ajuste e medição »hyperion« da ZOLLER serve em todas as áreas, tanto nas máquinas de torneamento universais da Index como na área de torneamento longo com máquinas Star. Precisamente nestas últimas, são frequentemente utilizados suportes de torneamento múltiplos, que oferecem espaço para várias ferramentas de giro num único suporte.</p>",
+     "images": [],
+     "videos": [],
+     "pos": "text",
+     "cols": 1,
+     "valign": "top",
+     "ftype": "text",
+     "id": "c4011",
+     "bg": "",
+     "space": {
+      "before": "default",
+      "after": "default"
+     }
+    }
+   ],
+   "related": [],
+   "ftype": "news_newsdetail",
+   "id": "c3212",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/entreprises/rapports-et-articles/details/mehr-tempo-weniger-werkzeugbrueche",
+ "de_path": "/unternehmen/reports-stories/detail/mehr-tempo-weniger-werkzeugbrueche"
+}

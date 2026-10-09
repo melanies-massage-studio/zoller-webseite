@@ -72,11 +72,10 @@ def main():
         m = re.search(r'<link rel="alternate" hreflang="de-DE" href="([^"]+)"', raw)
         de = m.group(1).replace(ORIGIN, "").rstrip("/") if m else ""
         if re.search(r"/(details?|detalle)/", path):
-            # News und Erfolgsgeschichten: nur übernehmen, wenn sie wirklich übersetzt sind
             if not language_ok(p, conf["lang"]):
-                skipped += 1
-                continue
-            de = ""  # hreflang zeigt hier nur auf die allgemeine Detailseite
+                skipped += 1  # wird über content/sites/<sprachpfad>/translations.json übersetzt
+            if re.search(r"/(details?|detalle)$", de):
+                de = ""  # hreflang zeigt hier nur auf die allgemeine Detailseite
         p["path"] = path
         p["src_path"] = extract.page_path_from_file(fn)
         p["de_path"] = de if de.startswith("/") else ""
@@ -94,7 +93,7 @@ def main():
     json.dump(queries, open(os.path.join(out, "queries.json"), "w"), ensure_ascii=False, indent=1)
     mapped = sum(1 for p in pages.values() if p["de_path"])
     if skipped:
-        print(f"{loc}: {skipped} News noch nicht übersetzt – bleiben Links auf zoller.info")
+        print(f"{loc}: {skipped} News noch nicht in der richtigen Sprache – Übersetzung über translations.json")
     print(f"{loc}: {len(pages)} Seiten ({mapped} mit deutschem Gegenstück), {len(extract.images)} Bilder, "
           f"Navigation: {', '.join(n['label'] for n in nav['main'])}")
 

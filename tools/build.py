@@ -34,6 +34,7 @@ LOC_OF = {}      # deutscher Pfad -> lokaler Pfad
 ALIASES = {}     # alte Startseiten-Pfade (/accueil …) -> HOME
 OTHER = {}       # Sprachpfad -> Seitenpfade der anderen Sprachfassung derselben Länderseite
 ALT = {}         # deutscher Pfad -> [(hreflang, absolute URL)] über alle Länderseiten
+TR = {}          # Übersetzungen der aktuellen Sprachfassung (translations.json)
 QUERIES = {}     # alte News-Abfrage-Links (…/details?tx_news_pi1…) -> Pfad des übernommenen Artikels
 MISSING = set()  # fehlende Übersetzungen (Hinweis am Ende)
 
@@ -65,6 +66,27 @@ def strip_locale(href):
     if path in ALIASES:
         href = HOME + href[len(path):]
     return href
+
+
+ZI_LOCALES = ("ca", "ca-fr", "mx", "en_DE", "us", "es", "fr", "it", "pt", "se", "ru", "tr", "ja", "kr", "in",
+              "br", "at", "ch", "cz", "pl", "si", "hu", "sk")
+SLUGS = {}       # eindeutige Pfadteile (Produktnamen wie »genius«) -> lokaler Pfad
+
+
+def equivalent(path):
+    """Eigene Seite zu einem Link auf eine andere zoller.info-Sprachfassung oder eine deutsche Seite:
+    über das deutsche Gegenstück oder einen eindeutigen Pfadteil (Produktnamen sind in allen Sprachen gleich)."""
+    if path in LOC_OF.values() or path in PAGES:
+        return path
+    if LANG != "de" and L(path):
+        return L(path)
+    parts = [p for p in path.strip("/").split("/") if p]
+    if parts and parts[0] in ZI_LOCALES:
+        parts = parts[1:]
+    for seg in reversed(parts):
+        if seg in SLUGS:
+            return SLUGS[seg]
+    return path
 
 
 def de_of(href):
@@ -119,7 +141,8 @@ def globe_regions_attr():
         return ""
     m = {_(r): r for r in REGION_DE.values()}
     return f" data-regions='{esc(json.dumps(m, ensure_ascii=False), quote=False)}'"
-SHOWROOM_URL = "https://mzollercreations.github.io/zoller-produktumgebung-3d/"
+SHOWROOM_BASE = "https://mzollercreations.github.io/zoller-produktumgebung-3d/"
+SHOWROOM_URL = SHOWROOM_BASE   # je Sprachfassung: …/en-ca/, …/fr-ca/, …/es-mx/ (siehe use_locale)
 CUBE_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">'
              '<path d="M12 2.8 20 7.4v9.2l-8 4.6-8-4.6V7.4z"/><path d="M4 7.4l8 4.6 8-4.6M12 12v9.2"/></svg>')
 
@@ -174,19 +197,19 @@ class Ctx:
             return href
         if href.startswith("//"):
             return "https:" + href
-        if href.startswith("http://www.zoller.info") or href.startswith(ORIGIN):
-            href = re.sub(r"^https?://www\.zoller\.info", "", href) or "/"
+        if re.match(r"https?://(www\.)?zoller\.info(/|$)", href):
+            href = re.sub(r"^https?://(www\.)?zoller\.info", "", href) or "/"
         if href.startswith("http"):
             return href
         if not href.startswith("/"):
             return href
         if href.startswith("/assets/"):
             return self.prefix + href.lstrip("/")
-        if href.startswith("/fileadmin/_processed_/") or re.search(r"\.(webp|jpe?g|png|gif|svg)$", href.split("?")[0], re.I):
-            if href.startswith("/fileadmin/") and os.path.exists(os.path.join(OUT, urllib.parse.unquote(href.lstrip("/").split("?")[0]))):
+        if href.startswith(FILE_PREFIXES):
+            # Dateien (Bilder, PDFs, Videos …) liegen auf der eigenen Seite – siehe mirror_files()
+            href = FLIPBOOKS.get(href.split("?")[0].split("#")[0], href)
+            if os.path.exists(os.path.join(OUT, urllib.parse.unquote(href.lstrip("/").split("?")[0].split("#")[0]))):
                 return self.prefix + href.lstrip("/")
-            return ORIGIN + href
-        if href.startswith(("/fileadmin/", "/typo3", "/_assets")):
             return ORIGIN + href
         original = href
         for other in SITE["locales"]:
@@ -206,10 +229,16 @@ class Ctx:
         path, _sep, frag = href.partition("#")
         path, _sep, query = path.partition("?")
         path = path.rstrip("/") or HOME
+        if path not in PAGES:
+            path = equivalent(path)
         if path in PAGES:
             target = "" if path == HOME else path.strip("/") + "/"
             out = (self.home + target) or "./"
             return out + ("#" + frag if frag else "")
+        if path in ALT and LANG != "de" and ("de", "de-DE") in ALT[path]:
+            return SITES["de"]["url"] + ALT[path][("de", "de-DE")]   # nur auf der deutschen Seite vorhanden
+        if re.match(r"/us(/|$)", original):
+            return "https://zoller-usa.com" + re.sub(r"^/us", "", original).rstrip(".") # USA: eigenständige Seite
         return ORIGIN + original
 
     def img(self, src):
@@ -369,7 +398,7 @@ def video_html(ctx, v):
                 f'<div><button class="play-btn" type="button" aria-label="{_("Video abspielen")}"></button>'
                 f'<p>{_("Mit Klick wird das Video von YouTube geladen. Dabei gelten die Datenschutzbestimmungen von YouTube.")}</p></div></div></div>')
     if src.startswith("/") or src.startswith("http"):
-        url = src if src.startswith("http") else ORIGIN + src
+        url = ctx.url(src)
         return f'<div class="video-embed"><video src="{esc(url, quote=True)}" controls playsinline preload="metadata"></video></div>'
     if src:
         return f'<div class="video-embed"><iframe src="{esc(src, quote=True)}" title="{_("Video")}" allowfullscreen loading="lazy"></iframe></div>'
@@ -478,7 +507,7 @@ def r_subnav(ctx, b):
     for it in items:
         href = ctx.url(it["href"]) if it.get("href") else ""
         cur = it.get("current") or (it.get("href") and it["href"].rstrip("/") == ctx.path)
-        label = esc(_(it["label"]) if it.get("title") else it["label"])   # »Übersicht« setzt der Extraktor
+        label = esc(_(it["label"]) if it.get("title") and it["label"] == "Übersicht" else it["label"])   # »Übersicht« setzt der Extraktor
         if href:
             lis.append(f'<li><a href="{esc(href, quote=True)}"{" aria-current=page" if cur else ""}>{label}</a></li>')
         else:
@@ -614,11 +643,14 @@ def r_downloads(ctx, b):
         href = ctx.url(f.get("href", ""))
         thumb = f'<div class="download__thumb">{img_tag(ctx, f.get("thumb"), alt="")}</div>' if f.get("thumb") else ""
         ext = (re.search(r"\.(\w+)$", f.get("href", "").split("?")[0]) or [None, ""])[1].upper()
-        kind = _("Flipbook") if "blaetterkatalog" in f.get("href", "") else (ext or _("Datei"))
-        size = f' · {esc(f["size"])}' if f.get("size") and kind != _("Flipbook") else ""
+        kind = "PDF" if "blaetterkatalog" in f.get("href", "") else (ext or _("Datei"))   # Blätterkatalog -> komplettes PDF
+        size = f' · {esc(f["size"])}' if f.get("size") and "blaetterkatalog" not in f.get("href", "") else ""
         desc = f'<span class="small-text">{esc(f["desc"])}</span>' if f.get("desc") else ""
+        name = f.get("name", "")
+        if "blaetterkatalog" in f.get("href", ""):
+            name = re.sub(r"\s*\((Flipbook|Blätterkatalog|Catalogue|Catálogo)\)", "", name, flags=re.I)
         cards.append(f'<a class="download" href="{esc(href, quote=True)}" target="_blank" rel="noopener">{thumb}'
-                     f'<span class="download__name">{esc(f.get("name", ""))}</span>{desc}<span class="download__meta">{kind}{size}</span></a>')
+                     f'<span class="download__name">{esc(name)}</span>{desc}<span class="download__meta">{kind}{size}</span></a>')
     head = f'<div class="section-head">{ctx.rewrite(b["header"])}</div>' if b.get("header") else ""
     return section(ctx, b, f'{head}<div class="downloads" data-reveal>{"".join(cards)}</div>')
 
@@ -840,9 +872,14 @@ def r_form(ctx, b):
     body = ctx.rewrite(b.get("html", ""))
     if kind == "zoller_economy":
         return section(ctx, b, f'{head}<div class="economy form" data-economy>{body}</div>')
-    note = (f'<p class="form-note">{_("Ihre Angaben werden sicher an ZOLLER übermittelt und gemäß der")} '
-            f'<a href="{esc(ctx.url(L("/datenschutz")), quote=True)}">{_("Datenschutzerklärung")}</a>'
-            f'{"" if _("verarbeitet.") == "." else " "}{_("verarbeitet.")}</p>') if kind == "form_formframework" else ""
+    # Kein Server: das Formular öffnet eine fertig ausgefüllte E-Mail an die Landesgesellschaft (assets/js/main.js)
+    subject = esc(strip_tags(b.get("header", "")) or PAGES.get(ctx.path, {}).get("title", "") or "ZOLLER", quote=True)
+    body = re.sub(r'<form\b([^>]*?)\saction="[^"]*"', r"<form\1", body)
+    body = body.replace("<form", f'<form action="#" data-mailto="{esc(SITE["company"]["email"], quote=True)}" data-subject="{subject}"', 1)
+    note = (f'<p class="form-note">{_("Beim Absenden öffnet sich Ihr E-Mail-Programm mit einer fertigen Nachricht an")} '
+            f'<a href="mailto:{esc(SITE["company"]["email"], quote=True)}">{esc(SITE["company"]["email"])}</a>. '
+            f'{_("Ihre Angaben werden gemäß der")} <a href="{esc(ctx.url(L("/datenschutz")), quote=True)}">{_("Datenschutzerklärung")}</a>'
+            f'{"" if _("verarbeitet.") == "." else " "}{_("verarbeitet.")}</p>') if "<form" in body else ""
     return section(ctx, b, f'{head}<div class="form form--{esc(kind)}" data-reveal>{body}{note}</div>')
 
 
@@ -883,8 +920,20 @@ def loc_kind(name):
     return "nl" if "zoller" in name.lower() else "vt"
 
 
+# Webseiten der Standorte, die künftig durch die neuen Seiten ersetzt werden
+OWN_WEB = ((r"https?://(www\.)?zoller\.info(/.*)?$", "de"), (r"https?://(www\.)?zoller-canada\.com(/.*)?$", "ca"),
+           (r"https?://(www\.)?zoller-mexico\.com(/.*)?$", "mx"))
+
+
+def own_web(w):
+    for pat, sid in OWN_WEB:
+        if re.match(pat, w):
+            return SITES[sid]["url"]
+    return w
+
+
 def loc_contact(l):
-    web = [w for w in l.get("web", []) if not ("goo.gl/maps" in w or "maps.app.goo.gl" in w or ("google." in w and "maps" in w))]
+    web = [own_web(w) for w in l.get("web", []) if not ("goo.gl/maps" in w or "maps.app.goo.gl" in w or ("google." in w and "maps" in w))]
     maps = [w for w in l.get("web", []) if w not in web]
     return web, maps
 
@@ -908,7 +957,7 @@ def globe_sites():
         items = [LOCATIONS[i] for i in idx]
         main_ = max(items, key=lambda x: ("(" not in x["name"], len(x.get("lines", []))))
         multi = len({x["name"] for x in items}) > 1
-        name = re.sub(r"\s*\(.*?\)\s*:?$", "", main_["name"]).strip().rstrip(":") if multi else main_["name"]
+        name = re.sub(r"\s*\(.*?\)\s*:?$", "", main_["name"]).strip().rstrip(":") if multi else TR.get(main_["name"], main_["name"])
         served = []
         for x in items:
             c = country_name(x["country"])
@@ -979,7 +1028,7 @@ def standortwelt(ctx, page):
 
 def r_locations(ctx, b):
     if not LOCATIONS:
-        return section(ctx, b, f'<p><a class="btn" href="{ORIGIN}/unternehmen/kontakt/standorte">{_("Standortsuche öffnen")}</a></p>')
+        return ""
     de_r = lambda l: _(region_name(l.get("region", "")))
     de_c = lambda l: country_name(l["country"])
     regions = sorted({de_r(l) for l in LOCATIONS if l.get("region")})
@@ -1001,13 +1050,13 @@ def r_locations(ctx, b):
         links = []
         if l.get("_site"):
             links.append(f'<button type="button" class="location__globe" data-globe-focus="{l["_site"]}">{_("Auf dem Globus zeigen")}</button>')
-        for w in l.get("web", []):
+        for w in map(own_web, l.get("web", [])):
             label = _("Route planen") if ("goo.gl/maps" in w or "google." in w and "maps" in w) else re.sub(r"^https?://(www\.)?", "", w).rstrip("/")
             links.append(f'<a class="link-arrow" href="{esc(w, quote=True)}" target="_blank" rel="noopener">{esc(label)}</a>')
         kind = {"hq": _("Stammhaus"), "nl": _("Niederlassung"), "vt": _("Vertretung")}[loc_kind(l["name"])]
         txt = " ".join([l["name"], l["country"], de_c(l), " ".join(l.get("lines", []))]).lower()
         cards.append(f'<article class="location location--{loc_kind(l["name"])}" data-region="{esc(de_r(l), quote=True)}" data-country="{esc(de_c(l), quote=True)}" data-text="{esc(txt, quote=True)}">'
-                     f'<div class="location__region">{esc(de_r(l))} · {esc(de_c(l))} · <b>{kind}</b></div><h3>{esc(l["name"])}</h3>'
+                     f'<div class="location__region">{esc(de_r(l))} · {esc(de_c(l))} · <b>{kind}</b></div><h3>{esc(TR.get(l["name"], l["name"]))}</h3>'
                      f'<p>{lines}</p><p class="location__contact">{"<br>".join(contact)}</p><p class="location__links">{" ".join(links)}</p></article>')
     return section(ctx, b, f'<div class="locations" id="alle-standorte" data-locations><div class="locations__filter">'
                            f'<select data-loc-region aria-label="{_("Region")}"><option value="">{_("Alle Regionen")}</option>{ropts}</select>'
@@ -1194,7 +1243,7 @@ def r_article(ctx, b):
     ctx.inline = True
     body = "".join(render_block(ctx, x) for x in b.get("blocks", []))
     ctx.inline = prev_inline
-    share_url = ORIGIN + (PAGES[ctx.path].get("url") or ctx.path)
+    share_url = SITE["url"] + (LOC["dir"] + "/" if LOC["dir"] else "") + ("" if ctx.path == HOME else ctx.path.strip("/") + "/")
     title = b.get("title") or PAGES[ctx.path]["title"]
     share = (f'<div class="share"><span>{_("Teilen")}</span>'
              f'<a href="mailto:?subject={esc(title, quote=True)}&amp;body={esc(share_url, quote=True)}" aria-label="{_("Per E-Mail teilen")}">{_("E-Mail")}</a>'
@@ -1667,7 +1716,9 @@ def lang_dialog(ctx, page):
     regions = page.get("languages") or PAGES[HOME].get("languages") or []
     cols = []
     for r in regions:
-        links = [l for l in r["links"] if not l["label"].startswith(OWN_SITE_LABELS)]
+        # nur eigenständige ZOLLER-Länderseiten, nichts mehr auf zoller.info (USA: zoller-usa.com)
+        links = [dict(l, href="https://zoller-usa.com/") if re.search(r"zoller\.info/us(/|$)", l["href"]) else l for l in r["links"]]
+        links = [l for l in links if not l["label"].startswith(OWN_SITE_LABELS) and "zoller.info" not in l["href"]]
         if not links:
             continue
         lis = "".join(f'<li><a href="{esc(l["href"], quote=True)}"{"" if "zoller.info" in l["href"] and not l["href"].endswith(".pdf") else " target=_blank rel=noopener"}>{esc(l["label"])}</a></li>' for l in links)
@@ -1676,15 +1727,14 @@ def lang_dialog(ctx, page):
 <div class="lang-dialog__head"><h2 id="lang-title">{_("Land und Sprache wählen")}</h2><button class="icon-btn" type="button" data-close aria-label="{_("Schließen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
 <p class="lang-dialog__sub">{_("Länderseiten")}</p>
 <div class="lang-dialog__sites">{"".join(sites)}</div>
-<p class="lang-dialog__sub">{_("Weitere Länder (zoller.info)")}</p>
-<div class="lang-dialog__grid">{"".join(cols)}</div></div></dialog>'''
+{f'<p class="lang-dialog__sub">{_("Weitere ZOLLER-Länderseiten")}</p><div class="lang-dialog__grid">{"".join(cols)}</div>' if cols else ""}</div></dialog>'''
 
 
 def search_overlay(ctx):
     return f'''<div class="search-overlay" data-search role="dialog" aria-modal="true" aria-label="{_("Suche")}">
 <button class="icon-btn search-overlay__close" type="button" data-search-close aria-label="{_("Suche schließen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
 <div class="search-overlay__box"><label for="site-search" class="visually-hidden">{_("Suchbegriff")}</label>
-<input id="site-search" type="search" placeholder="{_("Suchen auf zoller.info")}" autocomplete="off" data-search-input>
+<input id="site-search" type="search" placeholder="{_("ZOLLER durchsuchen")}" autocomplete="off" data-search-input>
 <p class="search-hint" data-search-hint>{_("Produkte, Lösungen, Downloads, Stories …")}</p>
 <ul class="search-results" data-search-results></ul></div></div>'''
 
@@ -1739,6 +1789,30 @@ def fix_spacing(parts):
             p = p[:m.start(1)] + m.group(1) + " ".join(dict.fromkeys(it["cls"])) + m.group(4) + p[m.end():]
         out.append(p)
     return out
+
+
+FILE_PREFIXES = ("/fileadmin/", "/_assets/", "/typo3temp/", "/typo3conf/")
+FLIPBOOKS = {}   # Blätterkatalog (…/index.html) -> komplettes PDF des Katalogs
+REMOVED = []     # (Seite, Ziel) – Links auf zoller.info, für die es keine eigene Seite gibt
+ZI = r"https?://(?:www\.|global\.)?zoller\.info"
+
+
+def strip_zoller_links(doc, path):
+    """Nichts im fertigen HTML darf noch auf zoller.info zeigen: Links ohne eigenes Ziel werden zu Text,
+    Buttons und Karten ohne Ziel entfallen, Bilder/Videos ohne eigene Datei ebenso."""
+    def link(m):
+        tag, inner = m.group(1), m.group(3)
+        REMOVED.append((path, m.group(2)))
+        if re.search(r'class="[^"]*\b(btn|download|card__link|product-card|link-arrow)\b', tag):
+            return ""
+        return inner
+    doc = re.sub(r'(<a\b[^>]*?\shref="(' + ZI + r'[^"]*)"[^>]*>)(.*?)</a>', link, doc, flags=re.S)
+    def media(m):
+        REMOVED.append((path, m.group(1)))
+        return ""
+    doc = re.sub(r'<(?:img|video|source|iframe)\b[^>]*?\s(?:src|poster)="(' + ZI + r'[^"]*)"[^>]*>(?:</(?:video|iframe)>)?', media, doc)
+    doc = re.sub(r'\s(?:href|src|poster|data-cutout|content)="' + ZI + r'[^"]*"', lambda m: REMOVED.append((path, m.group(0))) or "", doc)
+    return doc
 
 
 def render_page(page):
@@ -1868,7 +1942,8 @@ def render_page(page):
 </body>
 </html>'''
     # Doppelte Guillemets aus einigen Sprachfassungen von zoller.info (»»venturion««) bereinigen
-    return doc.replace("»»", "»").replace("««", "«")
+    doc = doc.replace("»»", "»").replace("««", "«")
+    return strip_zoller_links(doc, page["path"])
 
 
 # ============================================================ Search ====
@@ -1908,7 +1983,7 @@ def load_pages(src):
     for f in sorted(glob.glob(os.path.join(folder, "*.json"))):
         p = json.load(open(f, encoding="utf-8"))
         path = p["path"].rstrip("/") or HOME
-        if path in SKIP or (src and p.get("de_path") in SKIP):
+        if path in SKIP or (src and p.get("de_path") in SKIP) or re.search(r"/(details?|detalle)$", path):
             continue
         pages[path] = p
     return pages
@@ -1926,52 +2001,122 @@ def build_alt():
                     ALT.setdefault(dp, {})[(sid, loc["code"])] = rel
 
 
-def sync_images(srcs):
-    """Bilder der Länderseite nach <out>/fileadmin: aus docs/fileadmin kopieren oder von zoller.info laden."""
+def mirror_files(srcs):
+    """Alle Dateien, auf die die Seiten verweisen (Bilder, PDFs, Videos, Icons …), liegen auf der eigenen Seite:
+    aus docs/ kopieren (deutsche Seite) oder einmalig von zoller.info laden. Blätterkataloge werden durch das
+    komplette PDF des Katalogs ersetzt."""
     import urllib.request
     from concurrent.futures import ThreadPoolExecutor
-    imgs = set()
+    files = set()
     for src in srcs:
-        f = os.path.join(ROOT, "content", "sites", src, "images.json")
+        folder = os.path.join(ROOT, "content", "sites", src) if src else os.path.join(ROOT, "content")
+        f = os.path.join(folder, "images.json")
         if os.path.exists(f):
-            imgs.update(json.load(open(f)))
+            files.update(json.load(open(f)))
+        for pf in glob.glob(os.path.join(folder, "pages", "*.json")) + [os.path.join(folder, "nav.json")]:
+            txt = html.unescape(open(pf, encoding="utf-8").read().replace("\\/", "/"))
+            for m in re.findall(r'(?:https?://(?:www\.)?zoller\.info)?(/(?:fileadmin|_assets|typo3temp|typo3conf)/[^"\'\s<>()\\]+)', txt):
+                files.add(m.split("#")[0])
+    cache_file = os.path.join(ROOT, "content", "flipbooks.json")   # Blätterkatalog -> interner Katalogname
+    names = json.load(open(cache_file)) if os.path.exists(cache_file) else {}
+    for f in sorted(files):
+        m = re.match(r"/fileadmin/blaetterkatalog/([^/]+)/index\.html", f.split("?")[0])
+        if m:
+            folder = m.group(1)
+            if folder not in names:
+                try:
+                    req = urllib.request.Request(ORIGIN + f.split("?")[0], headers={"User-Agent": "Mozilla/5.0"})
+                    page = urllib.request.urlopen(req, timeout=40).read().decode("utf-8", "ignore")
+                    names[folder] = re.search(r'catalog:\s*"([^":]+)::catalog"', page).group(1)
+                except Exception:  # noqa: BLE001
+                    names[folder] = folder
+            pdf = f"/fileadmin/blaetterkatalog/{folder}/catalogs/{names[folder]}/pdf/complete.pdf"
+            FLIPBOOKS[f.split("?")[0]] = pdf
+            files.add(pdf)
+    json.dump(names, open(cache_file, "w"), indent=1, sort_keys=True)
+    files = {f.split("?")[0] for f in files if not re.match(r"/fileadmin/blaetterkatalog/[^/]+/index\.html", f.split("?")[0])}
 
     def one(src):
-        rel = urllib.parse.unquote(src.split("?")[0]).lstrip("/")
+        rel = urllib.parse.unquote(src).lstrip("/")
         target = os.path.join(OUT, rel)
         if os.path.exists(target) and os.path.getsize(target) > 0:
             return "skip"
         os.makedirs(os.path.dirname(target), exist_ok=True)
         de = os.path.join(ROOT, "docs", rel)
-        if os.path.exists(de) and os.path.getsize(de) > 0:
+        if os.path.exists(de) and os.path.getsize(de) > 0 and os.path.abspath(de) != os.path.abspath(target):
             shutil.copyfile(de, target)
             return "copy"
-        try:
-            req = urllib.request.Request(ORIGIN + src, headers={"User-Agent": "Mozilla/5.0"})
-            data = urllib.request.urlopen(req, timeout=40).read()
-            open(target, "wb").write(data)
-            return "load"
-        except Exception:  # noqa: BLE001 – fehlende Bilder kommen dann direkt von zoller.info
-            return "fail"
+        for attempt in range(3):
+            try:
+                req = urllib.request.Request(ORIGIN + urllib.parse.quote(urllib.parse.unquote(src), safe="/%:@&=+$,;~-._"),
+                                             headers={"User-Agent": "Mozilla/5.0"})
+                data = urllib.request.urlopen(req, timeout=120).read()
+                open(target, "wb").write(data)
+                return "load"
+            except urllib.error.HTTPError as e:
+                if e.code == 404:
+                    return "fail " + src
+            except Exception:  # noqa: BLE001
+                pass
+        return "fail " + src
     with ThreadPoolExecutor(6) as ex:
-        res = list(ex.map(one, sorted(imgs)))
-    print(f"Bilder: {len(res)} (kopiert {res.count('copy')}, geladen {res.count('load')}, vorhanden {res.count('skip')}, fehlen {res.count('fail')})")
+        res = list(ex.map(one, sorted(files)))
+    fails = [r[5:] for r in res if r.startswith("fail")]
+    print(f"Dateien: {len(res)} (kopiert {res.count('copy')}, geladen {res.count('load')}, vorhanden {res.count('skip')}, "
+          f"nicht verfügbar {len(fails)})")
+    for f in fails[:10]:
+        print("   nicht verfügbar:", f)
+
+
+TR_SKIP = {"src", "href", "id", "ftype", "bg", "space", "pos", "type", "kind", "path", "url", "de_path", "src_path",
+           "og_image", "value", "tag", "date", "lat", "lng", "languages", "breadcrumb"}
+
+
+def translate(obj, tr, key=""):
+    """Unübersetzte Texte der Sprachfassung ersetzen (content/sites/<sprachpfad>/translations.json):
+    ganze Texte oder einzelne Textstellen zwischen HTML-Tags, Schlüssel ohne Leerraum am Rand."""
+    if isinstance(obj, dict):
+        return {k: (v if k in TR_SKIP else translate(v, tr, k)) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [translate(v, tr, key) for v in obj]
+    if not isinstance(obj, str) or not obj.strip():
+        return obj
+
+    def node(t, in_html):
+        k = html.unescape(t).strip()
+        if k not in tr or tr[k] == k:
+            return t
+        lead, trail = t[:len(t) - len(t.lstrip())], t[len(t.rstrip()):]
+        return lead + (esc(tr[k], quote=False) if in_html else tr[k]) + trail
+    if "<" in obj and re.search(r"<[a-zA-Z/][^>]*>", obj):
+        obj = re.sub(r'\b(title|alt)="([^"]+)"', lambda m: f'{m.group(1)}="{esc(tr.get(html.unescape(m.group(2)).strip(), html.unescape(m.group(2))), quote=True)}"', obj)
+        return re.sub(r"(?<=>)([^<]+)(?=<)", lambda m: node(m.group(1), True), ">" + obj + "<")[1:-1]
+    return node(obj, False)
 
 
 def use_locale(loc):
     """Globale Daten auf eine Sprachfassung umstellen."""
-    global NAV, LOC, LANG
+    global NAV, LOC, LANG, SHOWROOM_URL
     LOC, LANG = loc, loc["lang"]
+    SHOWROOM_URL = SHOWROOM_BASE + (loc["code"].lower() + "/" if loc["src"] else "")
     PAGES.clear()
     PAGES.update(load_pages(loc["src"]))
     nav_file = os.path.join(ROOT, "content", "sites", loc["src"], "nav.json") if loc["src"] else os.path.join(ROOT, "content", "nav.json")
     NAV = json.load(open(nav_file, encoding="utf-8"))
-    for d in (DE_OF, LOC_OF, ALIASES, OTHER, NAV_LABELS, QUERIES):
+    tr_file = os.path.join(ROOT, "content", "sites", loc["src"], "translations.json") if loc["src"] else ""
+    TR.clear()
+    if tr_file and os.path.exists(tr_file):
+        tr = json.load(open(tr_file, encoding="utf-8"))
+        TR.update(tr)
+        for path in list(PAGES):
+            PAGES[path] = translate(PAGES[path], tr)
+        NAV = translate(NAV, tr)
+    for d in (DE_OF, LOC_OF, ALIASES, OTHER, NAV_LABELS, QUERIES, SLUGS):
         d.clear()
+    qfile = os.path.join(ROOT, "content", "sites", loc["src"], "queries.json") if loc["src"] else os.path.join(ROOT, "content", "queries.json")
+    if os.path.exists(qfile):
+        QUERIES.update({strip_locale(k): v for k, v in json.load(open(qfile, encoding="utf-8")).items()})
     if loc["src"]:
-        qfile = os.path.join(ROOT, "content", "sites", loc["src"], "queries.json")
-        if os.path.exists(qfile):
-            QUERIES.update({strip_locale(k): v for k, v in json.load(open(qfile, encoding="utf-8")).items()})
         ALIASES[loc["home"][len(loc["src"]) + 1:]] = HOME
         for path, p in PAGES.items():
             if p.get("de_path"):
@@ -1986,6 +2131,12 @@ def use_locale(loc):
                 NAV_LABELS.setdefault(strip_locale(n["href"]).rstrip("/"), n["label"])
                 walk(n.get("children", []))
         walk(NAV["main"])
+    SLUGS.clear()
+    seen = {}
+    for path in PAGES:
+        seg = path.rstrip("/").split("/")[-1]
+        seen[seg] = None if seg in seen else path
+    SLUGS.update({k: v for k, v in seen.items() if v and len(k) > 3})
 
 
 def write_page(path, doc):
@@ -2015,7 +2166,7 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     for name in os.listdir(OUT):
         full = os.path.join(OUT, name)
-        if name in ("fileadmin", "CNAME", ".nojekyll", ".git"):
+        if name in ("fileadmin", "_assets", "typo3temp", "typo3conf", "CNAME", ".nojekyll", ".git"):
             continue
         if os.path.isdir(full):
             shutil.rmtree(full)
@@ -2023,8 +2174,7 @@ def main():
             os.remove(full)
     shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
     open(os.path.join(OUT, ".nojekyll"), "w").close()
-    if SITE_ID != "de":
-        sync_images([l["src"] for l in SITE["locales"]])
+    mirror_files([l["src"] for l in SITE["locales"]])
     count = 0
     for i, loc in enumerate(SITE["locales"]):
         use_locale(loc)
@@ -2058,6 +2208,10 @@ def main():
                      f"[zoller-webseite](https://github.com/mzollercreations/zoller-webseite) erzeugt:\n\n"
                      f"```bash\npython3 tools/build.py --site {SITE_ID}\n```\n\nLive: {SITE['url']}\n")
     print(f"{count} Seiten erzeugt -> {OUT}")
+    if REMOVED:
+        targets = sorted({re.sub(r"\?.*", "?…", t) for _p, t in REMOVED})
+        print(f"Hinweis: {len(REMOVED)} Verweise auf zoller.info ohne eigenes Ziel entfernt ({len(targets)} verschiedene):",
+              " | ".join(targets[:12]))
     if MISSING:
         print(f"Hinweis: {len(MISSING)} feste Texte ohne Übersetzung:", " | ".join(sorted(MISSING)[:20]))
 

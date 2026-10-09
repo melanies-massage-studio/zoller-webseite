@@ -1,6 +1,6 @@
 {
  "path": "/su-exito/detalle/fabricacion-mas-eficiente-gracias-a-datos-de-herramientas-correctos",
- "url": "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=112&cHash=5bd9e00bf990db26ead5dc36b56cb9be",
+ "url": "/mx/su-exito/detalle/fabricacion-mas-eficiente-gracias-a-datos-de-herramientas-correctos",
  "title": "Fabricación más eficiente gracias a datos de herramientas correctos",
  "description": "LIDU Maschinenbau reduce los tiempos de recorrido y aumenta la flexibilidad gracias a ZOLLER",
  "og_image": "/fileadmin/_processed_/3/5/csm_lidu_teaserimg_3cab27176a.webp",
@@ -36,12 +36,12 @@
    "links": [
     {
      "label": "Deutschland - deutsch",
-     "href": "https://www.zoller.info/ihr-erfolg/detail",
+     "href": "https://www.zoller.info/ihr-erfolg/detail/effizienter-fertigen-dank-korrekter-werkzeugdaten",
      "active": true
     },
     {
      "label": "International - english",
-     "href": "https://www.zoller.info/en_DE/your-success/details",
+     "href": "https://www.zoller.info/en_DE/your-success/details/effizienter-fertigen-dank-korrekter-werkzeugdaten",
      "active": true
     },
     {
@@ -51,27 +51,27 @@
     },
     {
      "label": "Spain - español",
-     "href": "https://www.zoller.info/es/su-exito/detalle",
+     "href": "https://www.zoller.info/es/su-exito/detalle/fabricacion-mas-eficiente-gracias-a-datos-de-herramientas-correctos",
      "active": false
     },
     {
      "label": "France - french",
-     "href": "https://www.zoller.info/fr/votre-succes/detail",
+     "href": "https://www.zoller.info/fr/votre-succes/detail/une-fabrication-plus-efficace-grace-a-des-donnees-doutils-correctes",
      "active": false
     },
     {
      "label": "Portugal - Português",
-     "href": "https://www.zoller.info/pt/o-seu-sucesso/detalhe",
+     "href": "https://www.zoller.info/pt/o-seu-sucesso/detalhe/producao-mais-eficiente-gracas-a-dados-da-ferramenta-corretos",
      "active": false
     },
     {
      "label": "Italia - italiano",
-     "href": "https://www.zoller.info/it/il-vostro-successo/dettaglio",
+     "href": "https://www.zoller.info/it/il-vostro-successo/dettaglio/produzione-piu-efficace-grazie-a-dati-utensili-corretti",
      "active": false
     },
     {
      "label": "Sweden - Svenska",
-     "href": "https://www.zoller.info/se/din-framgaang/detaljer",
+     "href": "https://www.zoller.info/se/din-framgaang/detaljer?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=112&cHash=0ab86748365cbd086f030bf79eee81cc",
      "active": false
     },
     {
@@ -111,7 +111,7 @@
     },
     {
      "label": "Austria - deutsch",
-     "href": "https://www.zoller.info/at/ihr-erfolg/detail",
+     "href": "https://www.zoller.info/at/ihr-erfolg/detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=112&cHash=0ab86748365cbd086f030bf79eee81cc",
      "active": false
     }
    ]
@@ -121,12 +121,12 @@
    "links": [
     {
      "label": "USA - english",
-     "href": "https://www.zoller.info/us/your-success/detail",
+     "href": "https://www.zoller.info/us/your-success/detail/more-efficient-production-thanks-to-correct-tool-data",
      "active": false
     },
     {
      "label": "Canada - french",
-     "href": "https://www.zoller.info/ca-fr/votre-reussite/details",
+     "href": "https://www.zoller.info/ca-fr/votre-reussite/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=112&cHash=0ab86748365cbd086f030bf79eee81cc",
      "active": false
     }
    ]
@@ -141,17 +141,17 @@
     },
     {
      "label": "Japan - 日本",
-     "href": "https://www.zoller.info/ja/%E7%9A%86%E6%A7%98%E3%81%AE%E6%88%90%E5%8A%9F/%E8%A9%B3%E7%B4%B0",
+     "href": "https://www.zoller.info/ja/%E7%9A%86%E6%A7%98%E3%81%AE%E6%88%90%E5%8A%9F/%E8%A9%B3%E7%B4%B0?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=112&cHash=0ab86748365cbd086f030bf79eee81cc",
      "active": false
     },
     {
      "label": "Korea - 한국인",
-     "href": "https://www.zoller.info/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4",
+     "href": "https://www.zoller.info/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=112&cHash=0ab86748365cbd086f030bf79eee81cc",
      "active": false
     },
     {
      "label": "India - हिन्दी",
-     "href": "https://www.zoller.info/in/your-success/detail",
+     "href": "https://www.zoller.info/in/your-success/detail/more-efficient-production-thanks-to-correct-tool-data",
      "active": false
     }
    ]
@@ -161,12 +161,12 @@
    "links": [
     {
      "label": "Mexiko - español",
-     "href": "https://www.zoller.info/mx/su-exito/detalle",
+     "href": "https://www.zoller.info/mx/su-exito/detalle/fabricacion-mas-eficiente-gracias-a-datos-de-herramientas-correctos",
      "active": false
     },
     {
      "label": "Brazil - Português",
-     "href": "https://www.zoller.info/br/o-seu-sucesso/detalhe",
+     "href": "https://www.zoller.info/br/o-seu-sucesso/detalhe/producao-mais-eficiente-gracas-a-dados-da-ferramenta-corretos",
      "active": false
     }
    ]
@@ -388,5 +388,5 @@
   }
  ],
  "src_path": "/mx/su-exito/detalle/fabricacion-mas-eficiente-gracias-a-datos-de-herramientas-correctos",
- "de_path": ""
+ "de_path": "/ihr-erfolg/detail/effizienter-fertigen-dank-korrekter-werkzeugdaten"
 }

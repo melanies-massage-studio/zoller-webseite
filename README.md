@@ -67,10 +67,12 @@ Aus diesem Repository werden zusätzlich eigene Webseiten für einzelne Länder 
 # Inhalte eines Landes holen (Sprachpfade: ca, ca-fr, mx)
 python3 tools/fetch_locale.py mx .cache/raw/mx
 .venv/bin/python tools/extract_locale.py mx .cache/raw/mx
-python3 tools/fetch_locale.py mx .cache/raw/mx --details     # verlinkte News/Erfolgsgeschichten
-.venv/bin/python tools/extract_locale.py mx .cache/raw/mx
+.venv/bin/python tools/fetch_missing.py mx      # verlinkte News, Tag- und Blätterseiten nachladen
 
-# Bauen und ansehen (Bilder werden aus docs/fileadmin übernommen oder geladen)
+# Unübersetzte Texte finden und übersetzen
+python3 tools/untranslated.py mx liste.json    # -> Übersetzungen in content/sites/mx/translations.json
+
+# Bauen und ansehen
 python3 tools/build.py --site mx                 # -> dist/zoller-mexico
 python3 -m http.server 8767 --directory dist     # http://localhost:8767/zoller-mexico/
 
@@ -79,6 +81,17 @@ tools/publish.sh mx
 ```
 
 Nach Änderungen an Design oder Skripten alle drei Seiten neu bauen: `python3 tools/build.py`, `tools/publish.sh ca`, `tools/publish.sh mx`.
+
+### Unabhängig von zoller.info
+
+Alle drei Seiten (Deutschland, Kanada, Mexiko) funktionieren ohne zoller.info – die alte Seite kann abgeschaltet werden:
+
+- **Dateien**: Bilder, PDFs, Videos und Icons liegen auf der jeweiligen Seite (`fileadmin/`). `build.py` übernimmt sie aus `docs/` oder lädt fehlende einmalig nach. Blätterkataloge werden durch das komplette PDF des Katalogs ersetzt (Zuordnung: `content/flipbooks.json`).
+- **Links**: Jeder Link zeigt auf die eigene Seite – Links in andere Sprachfassungen von zoller.info werden über das deutsche Gegenstück oder den Produktnamen auf die eigene Seite umgeleitet, USA-Links auf zoller-usa.com. Was es nirgends gibt (z. B. auf zoller.info schon gelöschte Stellenanzeigen), wird zu Text; `build.py` meldet solche Fälle am Ende.
+- **News**: Alte Abfrage-Links (`…/detail?tx_news_pi1[news]=…`) sind lesbaren Artikelpfaden zugeordnet (`content/queries.json`, `content/sites/<sprachpfad>/queries.json`). Gibt es einen Artikel auf zoller.info nur in einer anderen Sprache, übernimmt `fetch_missing.py` die offizielle Übersetzung (z. B. Kanada-Englisch aus der US- oder Indien-Fassung).
+- **Formulare** (Kontakt, Newsletter, Bewerbung, Ticketcodes …) öffnen eine fertig ausgefüllte E-Mail an die Landesgesellschaft (`assets/js/main.js`); E-Mail-Adresse aus `content/sites.json`.
+- **Übersetzungen**: Was auf zoller.info in der Landessprache fehlt, steht in `content/sites/<sprachpfad>/translations.json` (Text → Übersetzung, auch für Bildtexte und Tooltips) und wird beim Bauen ersetzt.
+- **3D-Showroom**: Jede Sprachfassung verlinkt den Showroom in ihrer Sprache (`zoller-produktumgebung-3d/en-ca/`, `/fr-ca/`, `/es-mx/`, erzeugt dort mit `tools/build_locale.py`).
 
 ## Scroll-Effekte & 3D
 

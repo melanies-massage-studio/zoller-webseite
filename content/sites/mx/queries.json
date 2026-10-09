@@ -1,10 +1,16 @@
 {
- "/mx/empresa/informes-e-historias/detalle?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3942": "/empresa/informes-e-historias/detalle/3-ways-to-make-the-most-of-imts",
- "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=102&cHash=688adf40d36185750c8a94fcc0dd3ec7": "/su-exito/detalle/500-metros-cuadrados-de-pista-de-aterrizaje-para-insectos",
- "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=103&cHash=268cf90d4659d52857e4ad53490a1a2c": "/su-exito/detalle/exclusivamente-electricidad-procedente-de-fuentes-sostenibles",
- "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=104&cHash=e4abd8f746192396bbcb671dc265eddb": "/su-exito/detalle/innovacion-protege-los-recursos-y-aumenta-la-sostenibilidad",
- "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=109&cHash=edd71d398b779dcca094c57186138635": "/su-exito/detalle/medicion-rentable-en-serie-con-roboset-2",
+ "/mx/empresa/informes-e-historias?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=2&cHash=2ce88414ead9c3cf3ec24a7b7ea413a1": "/empresa/informes-e-historias/pagina-2",
+ "/mx/empresa/informes-e-historias?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=3&cHash=db2c72f959be9fa749287f2409e947a1": "/empresa/informes-e-historias/pagina-3",
+ "/mx/empresa/informes-e-historias?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&cHash=a66df74004d8f7d852aedf42cdc02852": "/empresa/informes-e-historias/tag-43",
+ "/mx/empresa/informes-e-historias?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=45&cHash=25afede15b12521919a2bbdb5816e592": "/empresa/informes-e-historias/tag-45",
+ "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=102&cHash=688adf40d36185750c8a94fcc0dd3ec7": "/empresa/informes-e-historias/detalle/500-metros-cuadrados-de-pista-de-aterrizaje-para-insectos",
+ "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=103&cHash=268cf90d4659d52857e4ad53490a1a2c": "/empresa/informes-e-historias/detalle/exclusivamente-electricidad-procedente-de-fuentes-sostenibles",
+ "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=104&cHash=e4abd8f746192396bbcb671dc265eddb": "/empresa/informes-e-historias/detalle/innovacion-protege-los-recursos-y-aumenta-la-sostenibilidad",
+ "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=109&cHash=edd71d398b779dcca094c57186138635": "/empresa/informes-e-historias/detalle/medicion-rentable-en-serie-con-roboset-2",
  "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=112&cHash=5bd9e00bf990db26ead5dc36b56cb9be": "/su-exito/detalle/fabricacion-mas-eficiente-gracias-a-datos-de-herramientas-correctos",
- "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=116&cHash=421d313fd09bbdfb23f6ea4d752d4ee7": "/su-exito/detalle/mas-velocidad-menos-roturas-de-herramientas",
- "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=37&cHash=992d0db4f33082f4543da88c75286a33": "/su-exito/detalle/con-smile-420-un-aumento-de-1-millon-de-dolares-en-la-facturacion"
+ "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=116&cHash=421d313fd09bbdfb23f6ea4d752d4ee7": "/empresa/informes-e-historias/detalle/mas-velocidad-menos-roturas-de-herramientas",
+ "/mx/su-exito/detalle?tx_news_pi1%5Bnews%5D=37&cHash=992d0db4f33082f4543da88c75286a33": "/empresa/informes-e-historias/detalle/con-smile-420-un-aumento-de-1-millon-de-dolares-en-la-facturacion",
+ "/mx/empresa/informes-e-historias?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=1&cHash=91f4aec834e0c1919c938dbcdae8d6cb": "/empresa/informes-e-historias/pagina-1",
+ "/mx/empresa/informes-e-historias?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=2&tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&cHash=436134ed4027b60297dcda47ef34bc6e": "/empresa/informes-e-historias/pagina-2",
+ "/mx/empresa/informes-e-historias?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=1&tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&cHash=ead1b85d616692eefbe78302da34bf31": "/empresa/informes-e-historias/pagina-1"
 }

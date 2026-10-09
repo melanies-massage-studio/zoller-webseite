@@ -1,0 +1,420 @@
+{
+ "path": "/unternehmen/reports-stories/tag/toolmanagement",
+ "url": "/unternehmen/reports-stories/tag/toolmanagement",
+ "title": "Reports & Stories",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories",
+   "href": ""
+  },
+  {
+   "label": "Start /",
+   "href": "/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/unternehmen"
+  },
+  {
+   "label": "Reports & Stories",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories/tag/toolmanagement",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories/tag/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias/tag/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits/tag/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias/tag/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie/tag/tool-management",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser/tag/toolmanagement",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories/tag/toolmanagement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories/tag/toolmanagement",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles/tag/toolmanagement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/tag/toolmanagement",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC/tag/toolmanagement",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories/tag/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias/tag/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias/tag/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Reports &amp; Stories </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3213",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "taglist",
+   "tags": [
+    {
+     "label": "Einstellen & Messen",
+     "href": "/unternehmen/reports-stories/tag/einstellen-messen"
+    },
+    {
+     "label": "Event",
+     "href": "/unternehmen/reports-stories/tag/event-1"
+    },
+    {
+     "label": "Automation",
+     "href": "/unternehmen/reports-stories/tag/automation"
+    },
+    {
+     "label": "Nachhaltigkeit",
+     "href": "/unternehmen/reports-stories/tag/nachhaltigkeit"
+    },
+    {
+     "label": "Wuchttechnik",
+     "href": "/unternehmen/reports-stories/tag/wuchttechnik"
+    },
+    {
+     "label": "Schrumpftechnik",
+     "href": "/unternehmen/reports-stories/tag/schrumpftechnik"
+    },
+    {
+     "label": "Toolmanagement",
+     "href": "/unternehmen/reports-stories/tag/toolmanagement"
+    },
+    {
+     "label": "Prüfen & Messen",
+     "href": "/unternehmen/reports-stories/tag/pruefen-messen"
+    },
+    {
+     "label": "Anwenderbericht",
+     "href": "/unternehmen/reports-stories/tag/anwenderbericht"
+    },
+    {
+     "label": "Pressemitteilung",
+     "href": "/unternehmen/reports-stories/tag/pressemitteilung"
+    }
+   ],
+   "ftype": "news_taglist",
+   "id": "c3330",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "",
+   "articles": [
+    {
+     "href": "/unternehmen/reports-stories/detail/vollhartmetall-werkzeuge-so-begegnen-sie-dem-wolfram-preisschock",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "So begegnen Sie dem Wolfram-Preisschock",
+     "teaser": "Gegen die extreme Preissteigerung bei Vollhartmetall-Werkzeugen helfen zwei Strategien: Mehr Effizienz im Werkzeugeinsatz und höchste Präzision bei Nachschleifprozessen.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/zuverlaessig-und-schnell-werkzeuge-beschaffen",
+     "img": {
+      "src": "/fileadmin/_processed_/c/d/csm_werkzeugbeschaffung_teaserimg_5bb2437ec7.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Zuverlässig und schnell Werkzeuge beschaffen",
+     "teaser": "Bestellungen mit TMS Tool Management Solutions von ZOLLER vereinfachen Organisation und Abläufe.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/qualifizieren-fuer-effizientes-toolmanagement",
+     "img": {
+      "src": "/fileadmin/_processed_/6/9/csm_tms_praxis_teaserimg_0b827b00f9.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "So gelingt effizientes Toolmanagement",
+     "teaser": "Praxisnahe Schulungen in der Smart Factory für ZOLLER TMS Tool Management Solutions.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/reporting-service-laufend-und-lueckenlos-informiert",
+     "img": {
+      "src": "/fileadmin/_processed_/3/c/csm_Reporting-Service_teaserimg_a0a451592f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Reporting Service: laufend und lückenlos informiert",
+     "teaser": "Transparente Berichterstattung mit ZOLLER TMS Tool Management Solutions",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/komfortabel-und-schnell-zur-datenbasis-mit-tms-tool-management-solutions-von-zoller",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_Datenbasis_teaserimg_36bb6bb863.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Komfortabel und schnell zur Datenbasis",
+     "teaser": "Datenanlage mit ZOLLER TMS Tool Management Solutions: Per Mausklick Werkzeugdaten importieren.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/werkzeuge-komfortabel-ein-und-auslagern",
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_werkzeuge_ein-auslagern_teaserimg_d03855fb05.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Werkzeuge komfortabel ein- und auslagern",
+     "teaser": "Mehr Effizienz durch grafische Unterstützung der ZOLLER TMS Tool Management Solutions",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/einfach-und-sicher-zum-komplettwerkzeug",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_komplettwerkzeug_teaserimg_7a25e3a102.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Einfach und sicher zum Komplettwerkzeug",
+     "teaser": "ZOLLER TMS Tool Management Solutions – Grafiken für schnelleren Workflow.",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/prozesssicher-durch-papierlose-fertigung",
+     "img": {
+      "src": "/fileadmin/_processed_/a/b/csm_papierlose_fertigung_teaserimg_49014f8b93.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Pressemitteilung",
+      "Toolmanagement"
+     ],
+     "title": "Prozesssicher durch papierlose Fertigung",
+     "teaser": "Digitalisieren mit ZOLLER TMS Tools Management Solutions",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/effizienter-fertigen-dank-korrekter-werkzeugdaten",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_lidu_teaserimg_12b9c6a225.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Toolmanagement"
+     ],
+     "title": "Effizienter fertigen dank korrekter Werkzeugdaten",
+     "teaser": "LIDU Maschinenbau verkürzt mit ZOLLER Durchlaufzeiten und erhöht Flexibilität",
+     "date": ""
+    },
+    {
+     "href": "/unternehmen/reports-stories/detail/mit-dem-team-boxenstopp-zum-perfekten-ergebnis",
+     "img": {
+      "src": "/fileadmin/_processed_/4/5/csm_Lauble_teaserimg_2fedde3a58.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Anwenderbericht",
+      "Toolmanagement"
+     ],
+     "title": "Mit dem Team Boxenstopp zum perfekten Ergebnis",
+     "teaser": "Lauble optimiert Drehfertigung mit ZOLLER",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_pi1",
+   "id": "c557",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  }
+ ]
+}
