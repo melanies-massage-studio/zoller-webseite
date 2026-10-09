@@ -2111,6 +2111,23 @@ def use_locale(loc):
         for path in list(PAGES):
             PAGES[path] = translate(PAGES[path], tr)
         NAV = translate(NAV, tr)
+    # Ersetzungen innerhalb von Texten (z. B. übersetzte Markennamen zurück: »génie« -> »genius«)
+    rep_file = os.path.join(ROOT, "content", "sites", loc["src"], "replace.json") if loc["src"] else ""
+    if rep_file and os.path.exists(rep_file):
+        reps = json.load(open(rep_file, encoding="utf-8"))
+
+        def sub(o):
+            if isinstance(o, dict):
+                return {k: (v if k in TR_SKIP else sub(v)) for k, v in o.items()}
+            if isinstance(o, list):
+                return [sub(v) for v in o]
+            if isinstance(o, str):
+                for a, b in reps.items():
+                    o = o.replace(a, b)
+            return o
+        for path in list(PAGES):
+            PAGES[path] = sub(PAGES[path])
+        NAV = sub(NAV)
     for d in (DE_OF, LOC_OF, ALIASES, OTHER, NAV_LABELS, QUERIES, SLUGS):
         d.clear()
     qfile = os.path.join(ROOT, "content", "sites", loc["src"], "queries.json") if loc["src"] else os.path.join(ROOT, "content", "queries.json")
