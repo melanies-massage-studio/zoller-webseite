@@ -5,6 +5,7 @@
   "out": "docs",
   "country": "",
   "flag": "de",
+  "geo": {"country": "Germany", "lat": 48.9529, "lng": 9.1939, "city": "Pleidelsheim", "view": [47, 6, 4.3], "side": "ne"},
   "locales": [
    {"lang": "de", "code": "de-DE", "src": "", "dir": "", "label": "Deutsch", "name": "Deutschland"}
   ],
@@ -17,6 +18,7 @@
   "out": "dist/zoller-canada",
   "country": "Canada",
   "flag": "ca",
+  "geo": {"country": "Canada", "lat": 43.5998, "lng": -79.7724, "city": "Mississauga", "view": [46, -90, 4.4], "side": "ne"},
   "locales": [
    {"lang": "en", "code": "en-CA", "src": "ca", "dir": "", "label": "English", "name": "Canada", "home": "/ca/accueil"},
    {"lang": "fr", "code": "fr-CA", "src": "ca-fr", "dir": "fr", "label": "Français", "name": "Canada", "home": "/ca-fr/page-daccueil"}
@@ -30,6 +32,7 @@
   "out": "dist/zoller-mexico",
   "country": "México",
   "flag": "mx",
+  "geo": {"country": "Mexico", "lat": 20.598, "lng": -100.4084, "city": "Querétaro", "view": [28, -96, 4.4], "side": "se"},
   "locales": [
    {"lang": "es", "code": "es-MX", "src": "mx", "dir": "", "label": "Español", "name": "México", "home": "/mx/pagina-de-inicio"}
   ],
@@ -42,6 +45,7 @@
   "out": "dist/zoller-usa",
   "country": "USA",
   "flag": "us",
+  "geo": {"country": "United States", "lat": 42.2315, "lng": -83.7333, "city": "Ann Arbor", "view": [38, -92, 4.3], "side": "sw"},
   "locales": [
    {"lang": "en", "code": "en-US", "src": "ca", "overlay": "us", "dir": "", "label": "English", "name": "USA", "home": "/ca/accueil"}
   ],

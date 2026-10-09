@@ -1,0 +1,23 @@
+{
+ "_info": "Zusätze der USA-Startseite: Abschnitt zum nordamerikanischen Hauptsitz in Ann Arbor (direkt nach der 3D-Bühne). Fakten aus der Firmenchronik (1997 Niederlassung, 2018 neuer Hauptsitz). Bilder: Eingang (Reise-Seite der Technology Days) und Luftbild (Chronik 2018).",
+ "hq": {
+  "id": "ann-arbor",
+  "kicker": "ZOLLER Inc. · North American Headquarters",
+  "title": "Ann Arbor, Michigan.<br><em>Our home in North America.</em>",
+  "text": "<p>ZOLLER opened its U.S. branch in Ann Arbor, Michigan, in 1997 – about 40 miles west of Detroit. In 2018, ZOLLER Inc. moved into its newly built headquarters. Its large, fully equipped showroom has become the hub for customer meetings, training sessions, presentations and in-house events.</p><p>From here, ZOLLER Inc. serves customers in the United States, Canada and Mexico.</p>",
+  "image": {"src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp", "alt": "Main entrance of the ZOLLER Inc. headquarters in Ann Arbor, Michigan, at dusk", "w": 1920, "h": 700},
+  "image2": {"src": "/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp", "alt": "Aerial view of the ZOLLER Inc. headquarters in Ann Arbor with the flags of Mexico, Canada, Germany and the United States", "w": 1200, "h": 587,
+             "caption": "The ZOLLER Inc. headquarters at 3900 Research Park Drive, opened in 2018."},
+  "facts": [
+   {"value": "1997", "label": "ZOLLER in the U.S. since"},
+   {"value": "2018", "label": "New headquarters opened"},
+   {"value": "3", "label": "Countries served from Ann Arbor"}
+  ],
+  "address": ["ZOLLER Inc.", "3900 Research Park Drive", "Ann Arbor, MI 48108"],
+  "phone": "+1 734 332 4851",
+  "buttons": [
+   {"label": "Contact us", "page": "/unternehmen/kontakt/ansprechpartner"},
+   {"label": "Get directions", "href": "https://www.google.com/maps/search/?api=1&query=ZOLLER+Inc+3900+Research+Park+Drive+Ann+Arbor+MI+48108", "ghost": true}
+  ]
+ }
+}

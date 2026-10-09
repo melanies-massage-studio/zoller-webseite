@@ -1093,6 +1093,112 @@ def r_events(ctx, b):
     return section(ctx, b, f'<div class="events">{"".join(groups)}</div>')
 
 
+# ============================================ Events weltweit (Filter) ====
+EVENTS = {}      # content/events.json: {"events": [...], "texts": {...}}
+MYZOLLER_LIVE = {"de": "de/de", "en": "us/en", "fr": "int/en", "es": "int/en"}
+
+
+def ev_text(v):
+    """Text eines Events in der Sprache der Seite (Zeichenkette, gemeinsamer Text aus »texts« oder {de, en, fr, es})."""
+    if isinstance(v, str):
+        v = EVENTS.get("texts", {}).get(v, v)
+    if isinstance(v, dict):
+        return v.get(LANG) or v.get("en") or v.get("de") or ""
+    return v or ""
+
+
+def ev_dates(e):
+    """Zeitraum in der Schreibweise der Sprache: 13.–16.10.2026 · Oct 13–16, 2026 · 13–16 oct. 2026 · 13–16 oct 2026."""
+    a, b = date.fromisoformat(e["start"]), date.fromisoformat(e.get("end") or e["start"])
+    if LANG == "de":
+        if a == b:
+            return f"{a:%d.%m.%Y}"
+        return f"{a:%d.}–{b:%d.%m.%Y}" if (a.year, a.month) == (b.year, b.month) else f"{a:%d.%m.}–{b:%d.%m.%Y}"
+    mon = lambda d: i18n.MONTHS[LANG][d.month - 1]
+    if a == b:
+        return i18n.fmt_date(LANG, a.year, f"{a.month:02d}", f"{a.day:02d}")
+    if LANG == "en":
+        return f"{mon(a)} {a.day}–{b.day}, {b.year}" if a.month == b.month else f"{mon(a)} {a.day} – {mon(b)} {b.day}, {b.year}"
+    return f"{a.day}–{b.day} {mon(b)} {b.year}" if a.month == b.month else f"{a.day} {mon(a)} – {b.day} {mon(b)} {b.year}"
+
+
+def ev_link(ctx, e):
+    """(href, extern) für »Mehr erfahren« – eigene Seite, wenn es sie auf dieser Länderseite gibt, sonst die passende andere."""
+    lk = e.get("link") or {}
+    if "myzoller" in lk:
+        return f"https://myzoller.com/{MYZOLLER_LIVE.get(LANG, 'int/en')}/live/detail/{lk['myzoller']}", True
+    if "url" in lk:
+        return lk["url"], True
+    path, _h, anchor = (lk.get("path") or lk.get("page") or "").partition("#")
+    anchor = "#" + anchor if anchor else ""
+    sid = lk.get("site", "de")
+    if sid != "de":                      # Seite gibt es nur auf einer Länderseite
+        if SITE_ID == sid and path in PAGES:
+            return ctx.url(path) + anchor, False
+        return SITES[sid]["url"] + path.strip("/") + "/" + anchor, True
+    if L(path) and L(path) in PAGES:
+        return ctx.url(L(path)) + anchor, False
+    alts = sorted(ALT.get(path, {}).items(), key=lambda kv: (kv[0][1].split("-")[0] != LANG, kv[0][0] != "us", kv[0][0] != "de"))
+    if alts:
+        (s2, _code), rel = alts[0]
+        return SITES[s2]["url"] + rel + anchor, True
+    return "", False
+
+
+def r_events_world(ctx, b):
+    """Alle Events weltweit (content/events.json). Zuerst nur die Events des eigenen Landes, der Filter zeigt alle
+    oder ein anderes Land. Vergangene Events fallen weg (hier beim Bauen, im Browser zusätzlich über data-end)."""
+    today = date.today().isoformat()
+    evs = sorted((e for e in EVENTS.get("events", []) if (e.get("end") or e["start"]) >= today), key=lambda e: (e["start"], e.get("end", "")))
+    home = SITE.get("geo", {}).get("country", "")
+    counts = {}
+    for e in evs:
+        counts[e["country"]] = counts.get(e["country"], 0) + 1
+    groups, cur = [], None
+    for e in evs:
+        d0 = date.fromisoformat(e["start"])
+        key = (d0.year, d0.month)
+        if key != cur:
+            cur = key
+            label = f"{i18n.MONTHS_LONG[LANG][d0.month - 1]} {d0.year}"
+            groups.append([label, []])
+        title = ev_text(e["title"])
+        place = f'{ev_text(e.get("city", ""))}, {country_name(e["country"])}'
+        href, ext = ev_link(ctx, e)
+        lk = e.get("link") or {}
+        more = _(lk.get("label", "Mehr erfahren"))
+        tgt = ' target="_blank" rel="noopener"' if ext else ""
+        share_url = SITE["url"] + (ALT.get("/events", {}).get((SITE_ID, LOC["code"])) or "")
+        body = f"{title} – {ev_dates(e)}, {place}\n{share_url}"
+        share = "mailto:?subject=" + urllib.parse.quote(f"Event: {title}") + "&body=" + urllib.parse.quote(body)
+        btns = (f'<a class="btn" href="{esc(href, quote=True)}"{tgt}>{esc(more)}</a>' if href else "") + \
+               f'<a class="btn btn--ghost" href="{esc(share, quote=True)}">{_("Event teilen")}</a>'
+        mon = i18n.MONTHS_SHORT_DE[d0.month - 1] if LANG == "de" else i18n.MONTHS[LANG][d0.month - 1].rstrip(".")
+        venue = f'<span>{esc(e["venue"])}</span>' if e.get("venue") else ""
+        img = f'<img src="{esc(ctx.url(e["img"]), quote=True)}" alt="" loading="lazy" decoding="async">' if e.get("img") else ""
+        groups[-1][1].append(
+            f'<article class="event" data-ev data-country="{esc(e["country"], quote=True)}" data-end="{e.get("end") or e["start"]}">'
+            f'<div class="event__date"><span>{esc(mon)}</span><b>{d0.day}</b><span>{esc(i18n.WEEKDAYS[LANG][d0.weekday()])}</span></div>'
+            f'<div class="event__body"><div class="event__meta"><span>{esc(ev_dates(e))}</span><span class="event__place">{esc(place)}</span>{venue}</div>'
+            f'<h3>{esc(title)}</h3><div class="rte"><p>{esc(ev_text(e.get("text", "")))}</p></div><div class="event__btns">{btns}</div></div>'
+            f'<div class="event__img">{img}</div></article>')
+    months = "".join(f'<div class="event-month" data-ev-month><h2 class="event-month__title">{esc(lab)}</h2>{"".join(items)}</div>' for lab, items in groups)
+    flag = FLAGS.get(SITE["flag"], "")
+    chips = [f'<button type="button" class="ev-chip ev-chip--home" data-ev-country="{esc(home, quote=True)}" aria-pressed="true">{flag}'
+             f'<span>{esc(LOC["name"])}</span><small>{counts.get(home, 0)}</small></button>',
+             f'<button type="button" class="ev-chip ev-chip--world" data-ev-country="" aria-pressed="false">{GLOBE_ICON}'
+             f'<span>{_("Weltweit")}</span><small>{len(evs)}</small></button>']
+    others = sorted((c for c in counts if c != home), key=lambda c: (-counts[c], country_name(c)))
+    more_chips = "".join(f'<button type="button" class="ev-chip" data-ev-country="{esc(c, quote=True)}" aria-pressed="false">'
+                         f'<span>{esc(country_name(c))}</span><small>{counts[c]}</small></button>' for c in others)
+    more = f'<div class="ev-filter__others"><span>{_("Weitere Länder")}</span>{more_chips}</div>' if others else ""
+    bar = (f'<div class="ev-filter" data-ev-filter role="group" aria-label="{_("Events filtern nach Land")}">'
+           f'<div class="ev-filter__main">{"".join(chips)}</div>{more}</div>')
+    empty = (f'<div class="ev-empty" data-ev-empty hidden><p>{_("Derzeit sind in diesem Land keine Events geplant.")}</p>'
+             f'<button type="button" class="btn" data-ev-country="">{_("Alle Events weltweit anzeigen")}</button></div>')
+    return section(ctx, b, f'<div class="events" data-events data-home="{esc(home, quote=True)}">{bar}{empty}{months}</div>')
+
+
 # ===================================================== Event-Seiten ====
 WEEKDAYS = ("Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag")
 MONTHS = ("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember")
@@ -1195,7 +1301,7 @@ def r_event_venue(ctx, b):
     lines = "<br>".join(esc(x) for x in b.get("lines", []))
     tel = re.sub(r"[^\d+]", "", c.get("phone", ""))
     return section(ctx, b, f'<div class="ev-venue"><div data-reveal><h2>{esc(b.get("title", ""))}</h2><address><strong>{esc(b.get("name", ""))}</strong><br>{lines}</address>'
-                   f'<p><a class="btn" href="{esc(b["map"], quote=True)}" target="_blank" rel="noopener">Route planen</a></p></div>'
+                   f'<p><a class="btn" href="{esc(b["map"], quote=True)}" target="_blank" rel="noopener">{_("Route planen")}</a></p></div>'
                    f'<div data-reveal><ul class="ev-benefits">{notes}</ul><div class="ev-venue__contact"><h3>{esc(c.get("label", ""))}</h3>'
                    f'<p><a href="mailto:{esc(c.get("email", ""), quote=True)}">{esc(c.get("email", ""))}</a><br><a href="tel:{tel}">{esc(c.get("phone", ""))}</a></p></div></div></div>')
 
@@ -1286,7 +1392,7 @@ RENDER = {
     "icon_list": r_icon_list, "goals": r_goals, "timeline": r_timeline, "form": r_form,
     "locations": r_locations, "events": r_events, "academy": r_academy, "search": r_search,
     "event_hero": r_event_hero, "event_facts": r_event_facts, "event_video": r_event_video, "event_products": r_event_products,
-    "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser,
+    "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser, "events_world": r_events_world,
     "article": r_article, "raw": r_raw,
 }
 
@@ -1363,6 +1469,41 @@ def worldflight(ctx):
 
 
 # ======================================================== Startseite ====
+def hq_section(ctx):
+    """Länderseite mit eigenem Hauptsitz (content/sites/<land>/home.json, »hq«): großes Gebäudefoto, Text, Fakten, Adresse."""
+    f = os.path.join(ROOT, "content", "sites", SITE_ID, "home.json")
+    if SITE_ID == "de" or not os.path.exists(f):
+        return ""
+    hq = json.load(open(f, encoding="utf-8")).get("hq")
+    if not hq:
+        return ""
+    btns = []
+    for x in hq.get("buttons", []):
+        href = ctx.url(L(x["page"])) if x.get("page") else x["href"]
+        ext = ' target="_blank" rel="noopener"' if href.startswith("http") else ""
+        btns.append(f'<a class="btn{" btn--ghost" if x.get("ghost") else ""}" href="{esc(href, quote=True)}"{ext}>{esc(x["label"])}</a>')
+    facts = "".join(f'<div><dt>{esc(x["value"])}</dt><dd>{esc(x["label"])}</dd></div>' for x in hq.get("facts", []))
+    im, im2 = hq["image"], hq.get("image2")
+    second = ""
+    if im2:
+        cap = f'<figcaption>{esc(im2["caption"])}</figcaption>' if im2.get("caption") else ""
+        second = (f'<figure class="hq__aerial"><div class="reveal-mask"><div class="media-frame" data-parallax-img>{img_tag(ctx, im2, alt=im2.get("alt", ""))}</div></div>{cap}</figure>')
+    tel = re.sub(r"[^\d+]", "", hq.get("phone", ""))
+    addr = "<br>".join(esc(x) for x in hq.get("address", []))
+    phone = f'<br><a href="tel:{tel}">{esc(hq["phone"])}</a>' if hq.get("phone") else ""
+    return f'''<section class="hq" id="{esc(hq.get("id", "hauptsitz"))}">
+  <div class="hq__band"><div class="hq__photo">{img_tag(ctx, im, alt=im.get("alt", ""), extra=" data-parallax")}</div>
+    <div class="wrap hq__head"><p class="eyebrow" data-reveal>{esc(hq.get("kicker", ""))}</p><h2 data-reveal>{hq.get("title", "")}</h2></div></div>
+  <div class="wrap hq__body">
+    {second}
+    <div class="hq__text"><div class="rte" data-reveal>{hq.get("text", "")}</div>
+      <dl class="hq__facts" data-reveal>{facts}</dl>
+      <address class="hq__addr" data-reveal>{addr}{phone}</address>
+      <p class="hero__btns" data-reveal>{"".join(btns)}</p></div>
+  </div>
+</section>'''
+
+
 def render_home(ctx, page):
     B = page["blocks"]
     by = {}
@@ -1417,6 +1558,8 @@ def render_home(ctx, page):
     <div class="stage3d__readout" aria-hidden="true">{_("Messung live")}<b data-readout>Ø {num("20,000")} mm</b><span data-readout2>L {num("112,000")} mm</span></div>
   </div>
 </section>''')
+    # 1b) Hauptsitz der Länderseite (USA: Ann Arbor)
+    out.append(hq_section(ctx))
     # 2) wearCheck
     if wear:
         img = img_tag(ctx, (wear.get("images") or [None])[0])
@@ -1708,29 +1851,59 @@ def breadcrumb(ctx):
 
 # Einträge der zoller.info-Länderliste, die durch eigene Länderseiten ersetzt sind
 OWN_SITE_LABELS = ("Deutschland", "Canada", "Mexiko", "Mexico", "México", "USA")
+# Weitere ZOLLER-Länderseiten auf dem Globus (erstes Wort der zoller.info-Liste -> ZOLLER-Standort im Land)
+EXT_GEO = {"UK": (52.8855, -1.708), "Poland": (52.3923, 16.8963), "Czech": (49.5004, 16.6534), "Slovakia": (48.1486, 17.1077),
+           "China": (31.1133, 121.3817)}
+GLOBE_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"/>'
+              '<path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg>')
 
 
 def lang_dialog(ctx, page):
-    sites = []
+    """Länderdialog: links der Globus (assets/js/countryglobe.js, lädt beim ersten Öffnen), rechts die Liste der Länderseiten.
+    Klick auf ein Land: der Globus fliegt vom aktuellen Land dorthin und öffnet dann dieselbe Seite im anderen Land."""
+    sites, gsites = [], {}
+    here = f'<em>{_("Sie sind hier")}</em>'
     for sid, loc, href in alt_links(ctx):
         site = SITES[sid]
         cur = sid == SITE_ID and loc is LOC
-        sites.append(f'<a class="lang-site{" is-current" if cur else ""}" href="{esc(href, quote=True)}" hreflang="{loc["code"]}" lang="{loc["lang"]}"'
-                     f'{" aria-current=true" if cur else ""}>{FLAGS.get(site["flag"], "")}<span><b>{esc(loc["name"])}</b><small>{esc(loc["label"])}</small></span></a>')
+        sites.append(f'<a class="lang-site{" is-current" if cur else ""}" href="{esc(href, quote=True)}" hreflang="{loc["code"]}" lang="{loc["lang"]}" '
+                     f'data-site="{sid}" data-loc="{loc["code"]}"{" aria-current=true" if cur else ""}>{FLAGS.get(site["flag"], "")}'
+                     f'<span><b>{esc(loc["name"])}</b><small>{esc(loc["label"])}</small></span>'
+                     f'{here if cur else ""}</a>')
+        g = site.get("geo")
+        if g:
+            gs = gsites.setdefault(sid, {"id": sid, "name": loc["name"], "country": site["country"] or loc["name"], "city": g["city"],
+                                         "lat": g["lat"], "lng": g["lng"], "view": g["view"], "side": g.get("side", "ne"), "locs": []})
+            gs["locs"].append({"code": loc["code"], "lang": loc["lang"], "label": loc["label"], "href": href, "cur": cur})
     regions = page.get("languages") or PAGES[HOME].get("languages") or []
-    cols = []
+    cols, ext = [], []
     for r in regions:
         # nur eigenständige ZOLLER-Länderseiten, nichts mehr auf zoller.info
         links = [l for l in r["links"] if not l["label"].startswith(OWN_SITE_LABELS) and "zoller.info" not in l["href"]]
         if not links:
             continue
-        lis = "".join(f'<li><a href="{esc(l["href"], quote=True)}"{"" if "zoller.info" in l["href"] and not l["href"].endswith(".pdf") else " target=_blank rel=noopener"}>{esc(l["label"])}</a></li>' for l in links)
-        cols.append(f'<div><h3>{esc(r["region"])}</h3><ul>{lis}</ul></div>')
-    return f'''<dialog class="lang-dialog" data-lang-dialog aria-labelledby="lang-title"><div class="lang-dialog__inner">
-<div class="lang-dialog__head"><h2 id="lang-title">{_("Land und Sprache wählen")}</h2><button class="icon-btn" type="button" data-close aria-label="{_("Schließen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+        lis = []
+        for l in links:
+            geo = EXT_GEO.get(l["label"].split(" ")[0])
+            xid = ""
+            if geo:
+                xid = f"x{len(ext) + 1}"
+                ext.append({"id": xid, "lat": geo[0], "lng": geo[1]})
+            lis.append(f'<li><a href="{esc(l["href"], quote=True)}"{f" data-site={xid}" if xid else ""} target=_blank rel=noopener>{esc(l["label"])}</a></li>')
+        cols.append(f'<div><h3>{esc(r["region"])}</h3><ul>{"".join(lis)}</ul></div>')
+    data = {"cur": SITE_ID, "sites": list(gsites.values()), "ext": ext, "t": {"here": _("Sie sind hier")}}
+    data = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    close = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>'
+    return f'''<dialog class="lang-dialog" data-lang-dialog aria-labelledby="lang-title">
+<div class="lang-dialog__globe" data-cglobe><canvas class="lang-dialog__canvas" aria-hidden="true"></canvas><div class="lang-dialog__pins" data-cglobe-pins aria-hidden="true"></div>
+<div class="lang-dialog__loading" aria-hidden="true"><i></i></div><p class="lang-dialog__hint" aria-hidden="true">{GLOBE_ICON}{_("Land wählen – der Globus fliegt Sie hin")}</p></div>
+<div class="lang-dialog__inner">
+<div class="lang-dialog__head"><h2 id="lang-title">{_("Land und Sprache wählen")}</h2><button class="icon-btn" type="button" data-close aria-label="{_("Schließen")}">{close}</button></div>
 <p class="lang-dialog__sub">{_("Länderseiten")}</p>
 <div class="lang-dialog__sites">{"".join(sites)}</div>
-{f'<p class="lang-dialog__sub">{_("Weitere ZOLLER-Länderseiten")}</p><div class="lang-dialog__grid">{"".join(cols)}</div>' if cols else ""}</div></dialog>'''
+{f'<p class="lang-dialog__sub">{_("Weitere ZOLLER-Länderseiten")}</p><div class="lang-dialog__grid">{"".join(cols)}</div>' if cols else ""}</div>
+<div class="lang-dialog__veil" data-cglobe-veil aria-hidden="true"></div>
+<script type="application/json" data-cglobe-data>{data}</script></dialog>'''
 
 
 def search_overlay(ctx):
@@ -1856,6 +2029,11 @@ def render_page(page):
                 blocks[at + 1] = nxt
         dp = de_of(page["path"])
         cat_id = dp.split("/")[-1] if dp.count("/") == 2 and dp.startswith("/produkte/") else None
+        if dp == "/events" and EVENTS.get("events"):
+            # Alle Firmenevents weltweit (content/events.json) statt der Liste der jeweiligen Sprachfassung
+            rest = [b for b in blocks if b["type"] != "events"]
+            at = next((i for i, b in enumerate(rest) if b["type"] == "cta_banner"), len(rest))
+            blocks = rest[:at] + [{"type": "events_world", "id": "events", "bg": "white"}] + rest[at:]
         parts = []
         if dp == STANDORTE_PATH and LOCATIONS:
             parts.append(standortwelt(ctx, page))
@@ -1907,7 +2085,9 @@ def render_page(page):
 <link rel="preload" href="{ctx.prefix}assets/fonts/T-Star-Medium.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{ctx.prefix}assets/fonts/T-Star-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{ctx.prefix}assets/css/main.css?v={ASSET_VER}">
-<script>document.documentElement.className='js';if(matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('reduced-motion');</script>{i18n_js}
+<script>document.documentElement.className='js';if(matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('reduced-motion');
+try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionStorage.removeItem('zoller-arrive');if(za&&Date.now()-za.t<15000)document.documentElement.classList.add('arrive')}}catch(e){{}}</script>{i18n_js}
+<script type="importmap">{{"imports":{{"three":"{ctx.root}assets/vendor/three.module.min.js"}}}}</script>
 </head>'''
     scripts = f'''<script src="{ctx.prefix}assets/vendor/gsap.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/ScrollTrigger.min.js" defer></script>
@@ -1926,8 +2106,6 @@ def render_page(page):
     if ctx.has_globe:
         modules.append("globe.js")
     if modules:
-        scripts += f'''
-<script type="importmap">{{"imports":{{"three":"{ctx.root}assets/vendor/three.module.min.js"}}}}</script>'''
         for m in modules:
             scripts += f'''
 <script type="module" src="{ctx.prefix}assets/js/{m}?v={ASSET_VER}"></script>'''
@@ -2024,6 +2202,7 @@ def mirror_files(srcs):
             txt = html.unescape(open(pf, encoding="utf-8").read().replace("\\/", "/"))
             for m in re.findall(r'(?:https?://(?:www\.)?zoller\.info)?(/(?:fileadmin|_assets|typo3temp|typo3conf)/[^"\'\s<>()\\]+)', txt):
                 files.add(m.split("#")[0])
+    files.update(e["img"] for e in EVENTS.get("events", []) if (e.get("img") or "").startswith("/fileadmin/"))   # Eventlogos
     cache_file = os.path.join(ROOT, "content", "flipbooks.json")   # Blätterkatalog -> interner Katalogname
     names = json.load(open(cache_file)) if os.path.exists(cache_file) else {}
     for f in sorted(files):
@@ -2184,6 +2363,9 @@ def main():
         sd = json.load(open(show_file, encoding="utf-8"))
         SHOW_CATS.update({c["id"]: c for c in sd["categories"]})
         SHOW.update({p["path"].rstrip("/"): p for p in sd["products"] if p.get("path")})
+    ev_file = os.path.join(ROOT, "content", "events.json")
+    if os.path.exists(ev_file):
+        EVENTS.update(json.load(open(ev_file, encoding="utf-8")))
     loc_file = os.path.join(ROOT, "content", "locations.json")
     if os.path.exists(loc_file):
         LOCATIONS = json.load(open(loc_file, encoding="utf-8"))

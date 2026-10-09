@@ -213,6 +213,16 @@ T = {
         "Softwarepaket": "Software package",
         "ZOLLER  ·  PRODUKTUMGEBUNG 3D  ·  ": "ZOLLER  ·  3D PRODUCT WORLD  ·  ",
         "Weitere ZOLLER-Länderseiten": "Other ZOLLER country websites",
+        # Länderdialog mit Globus, Eventfilter
+        "Sie sind hier": "You are here",
+        "Land wählen – der Globus fliegt Sie hin": "Pick a country – the globe takes you there",
+        "Events filtern nach Land": "Filter events by country",
+        "Weltweit": "Worldwide",
+        "Weitere Länder": "More countries",
+        "Derzeit sind in diesem Land keine Events geplant.": "There are currently no events scheduled in this country.",
+        "Alle Events weltweit anzeigen": "Show all events worldwide",
+        "Event teilen": "Share event",
+        "Zum Terminkalender": "View schedule",
         "ZOLLER durchsuchen": "Search ZOLLER",
         "Beim Absenden öffnet sich Ihr E-Mail-Programm mit einer fertigen Nachricht an": "When you submit, your email program opens with a ready-made message to",
         "Ihre Angaben werden gemäß der": "Your details are processed in accordance with the",
@@ -440,6 +450,16 @@ T = {
         "Softwarepaket": "Forfait logiciel",
         "ZOLLER  ·  PRODUKTUMGEBUNG 3D  ·  ": "ZOLLER  ·  UNIVERS PRODUITS 3D  ·  ",
         "Weitere ZOLLER-Länderseiten": "Autres sites ZOLLER par pays",
+        # Länderdialog mit Globus, Eventfilter
+        "Sie sind hier": "Vous êtes ici",
+        "Land wählen – der Globus fliegt Sie hin": "Choisissez un pays – le globe vous y emmène",
+        "Events filtern nach Land": "Filtrer les événements par pays",
+        "Weltweit": "Monde entier",
+        "Weitere Länder": "Autres pays",
+        "Derzeit sind in diesem Land keine Events geplant.": "Aucun événement n’est prévu dans ce pays pour le moment.",
+        "Alle Events weltweit anzeigen": "Afficher tous les événements dans le monde",
+        "Event teilen": "Partager l’événement",
+        "Zum Terminkalender": "Voir le programme",
         "ZOLLER durchsuchen": "Rechercher sur ZOLLER",
         "Beim Absenden öffnet sich Ihr E-Mail-Programm mit einer fertigen Nachricht an": "À l’envoi, votre logiciel de courriel s’ouvre avec un message prêt à être envoyé à",
         "Ihre Angaben werden gemäß der": "Vos données sont traitées conformément à la",
@@ -667,6 +687,16 @@ T = {
         "Softwarepaket": "Paquete de software",
         "ZOLLER  ·  PRODUKTUMGEBUNG 3D  ·  ": "ZOLLER  ·  MUNDO DE PRODUCTOS 3D  ·  ",
         "Weitere ZOLLER-Länderseiten": "Otros sitios ZOLLER por país",
+        # Länderdialog mit Globus, Eventfilter
+        "Sie sind hier": "Usted está aquí",
+        "Land wählen – der Globus fliegt Sie hin": "Elija un país: el globo le lleva hasta allí",
+        "Events filtern nach Land": "Filtrar eventos por país",
+        "Weltweit": "Todo el mundo",
+        "Weitere Länder": "Otros países",
+        "Derzeit sind in diesem Land keine Events geplant.": "Por el momento no hay eventos programados en este país.",
+        "Alle Events weltweit anzeigen": "Ver todos los eventos en el mundo",
+        "Event teilen": "Compartir evento",
+        "Zum Terminkalender": "Ver el programa",
         "ZOLLER durchsuchen": "Buscar en ZOLLER",
         "Beim Absenden öffnet sich Ihr E-Mail-Programm mit einer fertigen Nachricht an": "Al enviar, se abre su programa de correo con un mensaje listo para",
         "Ihre Angaben werden gemäß der": "Sus datos se tratan conforme al",
@@ -757,3 +787,19 @@ def fmt_date(lang, y, m, d):
     if lang == "en":
         return f"{mon} {int(d)}, {y}"
     return f"{int(d)} {mon} {y}"
+
+
+# Wochentage und Monate für die Eventliste
+WEEKDAYS = {
+    "de": ("Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"),
+    "en": ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"),
+    "fr": ("lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"),
+    "es": ("lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"),
+}
+MONTHS_LONG = {
+    "de": ("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"),
+    "en": ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"),
+    "fr": ("janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"),
+    "es": ("enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"),
+}
+MONTHS_SHORT_DE = ("Jan", "Feb", "März", "Apr", "Mai", "Juni", "Juli", "Aug", "Sep", "Okt", "Nov", "Dez")

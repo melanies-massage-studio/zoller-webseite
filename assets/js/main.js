@@ -5,6 +5,7 @@
   const doc = document.documentElement;
   const body = document.body;
   const ROOT = body.dataset.root || './';
+  const ASSET_V = ((document.currentScript && document.currentScript.src) || '').split('?v=')[1] || '';
   // Übersetzungen der Länderseiten (window.ZI18N, deutscher Text als Schlüssel)
   const T = (s) => (window.ZI18N && window.ZI18N[s]) || s;
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -164,8 +165,27 @@
   });
 
   /* -------------------------------------------------------------- Dialoge */
+  // Länderdialog mit Globus (countryglobe.js): Modul beim ersten Zeigen auf den Knopf vorladen, beim Öffnen starten
   const langDialog = $('[data-lang-dialog]');
-  $$('[data-lang-open]').forEach(b => b.addEventListener('click', () => langDialog?.showModal()));
+  let cglobe = null;
+  const loadGlobe = () => {
+    if (!cglobe && langDialog) {
+      const url = new URL(ROOT + 'assets/js/countryglobe.js' + (ASSET_V ? '?v=' + ASSET_V : ''), document.baseURI).href;
+      cglobe = import(url).then(m => m.mount(langDialog)).catch((e) => {
+        console.warn('Länderglobus deaktiviert:', e); langDialog.classList.add('is-static'); return null;
+      });
+    }
+    return cglobe;
+  };
+  $$('[data-lang-open]').forEach(b => {
+    b.addEventListener('pointerenter', loadGlobe, { once: true });
+    b.addEventListener('click', () => {
+      if (!langDialog) return;
+      langDialog.showModal();
+      if (lenis) lenis.stop();
+      loadGlobe()?.then(g => g && langDialog.open && g.open());
+    });
+  });
   $$('dialog').forEach(d => {
     d.addEventListener('click', (e) => {
       if (e.target === d || e.target.closest('[data-close]')) d.close();
@@ -187,6 +207,34 @@
     el.addEventListener('click', () => {
       el.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0" title="${T('YouTube-Video')}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
     }, { once: true });
+  });
+
+  /* ------------------------------------------------------ Events nach Land */
+  // Zuerst nur die Events des eigenen Landes; »Weltweit« zeigt alle, die Chips darunter ein anderes Land.
+  // ?events=all öffnet direkt mit allen Events.
+  $$('[data-events]').forEach((box) => {
+    const today = new Date().toISOString().slice(0, 10);
+    $$('[data-ev]', box).forEach((e) => { if (e.dataset.end < today) e.remove(); });   // seit dem Bauen vorbei
+    const evs = $$('[data-ev]', box);
+    const chips = $$('.ev-chip', box);
+    chips.forEach((c) => {
+      const n = evs.filter((e) => !c.dataset.evCountry || e.dataset.country === c.dataset.evCountry).length;
+      const small = c.querySelector('small'); if (small) small.textContent = n;
+      if (!n && !c.matches('.ev-chip--home, .ev-chip--world')) c.remove();
+    });
+    const empty = $('[data-ev-empty]', box);
+    const show = (country, scroll) => {
+      $$('.ev-chip', box).forEach((c) => c.setAttribute('aria-pressed', String(c.dataset.evCountry === country)));
+      let n = 0;
+      evs.forEach((e) => { const on = !country || e.dataset.country === country; e.hidden = !on; if (on) n++; });
+      $$('[data-ev-month]', box).forEach((m) => { m.hidden = !m.querySelector('[data-ev]:not([hidden])'); });
+      if (empty) empty.hidden = n > 0;
+      box.classList.remove('is-switching'); void box.offsetWidth; box.classList.add('is-switching');
+      if (scroll && box.getBoundingClientRect().top < 0) scrollToY(box.getBoundingClientRect().top + window.scrollY - 120);
+      if (window.ScrollTrigger) ScrollTrigger.refresh();
+    };
+    box.addEventListener('click', (e) => { const b = e.target.closest('[data-ev-country]'); if (b) show(b.dataset.evCountry, true); });
+    show(new URLSearchParams(location.search).get('events') === 'all' ? '' : box.dataset.home, false);
   });
 
   /* ------------------------------------------------------------- Hotspots */
