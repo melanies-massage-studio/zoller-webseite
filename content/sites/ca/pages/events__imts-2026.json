@@ -1,0 +1,532 @@
+{
+ "path": "/events/imts-2026",
+ "url": "/ca/events/imts-2026",
+ "title": "IMTS 2026",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "IMTS 2026",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Events /",
+   "href": "/ca/events"
+  },
+  {
+   "label": "IMTS 2026",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/imts-2026",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/imts-2026",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/imts-2026",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/imts-2026",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/imts-2026",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/imts-2026",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/imts-2026",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/imts-2026",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/imts-2026",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IMTS 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Top Solutions",
+     "href": "/ca/events/imts-2026/top-solutions",
+     "current": false
+    },
+    {
+     "label": "World Premieres",
+     "href": "/ca/events/imts-2026/world-premieres",
+     "current": false
+    },
+    {
+     "label": "Meet ZOLLER",
+     "href": "/ca/events/imts-2026/meet-zoller",
+     "current": false
+    },
+    {
+     "label": "Get Your Ticket!",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7421",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Open House & Automation Summit",
+     "kicker": "",
+     "text": "<p>Ann Arbor, Michigan<br/>, May 13–14, 2026</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7419",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7523",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7524",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c7522",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Experience the Next Era of Precision and Smart Manufacturing at the ZOLLER Open House &amp; Automation Summit 2026 </h2>",
+   "body": "<p class=\"extra-large-text\">Join us at the ZOLLER North American Headquarters in Ann Arbor, Michigan, for our annual gathering of manufacturers, innovators, and industry leaders—an event designed to showcase the technologies, strategies, and automation solutions shaping modern toolrooms and manufacturing processes.</p> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/live/detail/1391\" rel=\"noopener\" target=\"_blank\">Register now!</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c7417",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Celebrating 80 Years of ZOLLER – Recap from Ann Arbor </h2>",
+   "body": "<p>This 3-day event welcomed customers, partners, and industry leaders for a behind-the-scenes look at our technology, team, and ongoing commitment to shaping the future of manufacturing through innovation and precision.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/4esLi8qbdp4?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER 80th Anniversary Open House – Ann Arbor, MI"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7415",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Efficient </h2>",
+      "body": "<p>ZOLLER offers you networked solutions that allow you to increase the efficiency of your production and prepare your processes for the future.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7511",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Expandable </h2>",
+      "body": "<p>Identify the efficiency bottlenecks in your shop. You can start with the right solution for your needs and systematically build on that to create your own smart factory!</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7512",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Modular </h2>",
+      "body": "<p>In the ZOLLER system, everything comes from a single source, is organized in a modular fashion, and is perfectly coordinated—from CAD/CAM interfaces to automated tool inspection and handling.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7513",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7510",
+   "bg": "yellow",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Celebrating 80 Years of ZOLLER – Recap from Ann Arbor </h2>",
+   "body": "<p>This 3-day event welcomed customers, partners, and industry leaders for a behind-the-scenes look at our technology, team, and ongoing commitment to shaping the future of manufacturing through innovation and precision.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/4esLi8qbdp4?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER 80th Anniversary Open House – Ann Arbor, MI"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c169786",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> The ZOLLER 2026 Toolroom of the Year competition is now open! </h2>",
+   "body": "<p>Win a trip to Germany for our VIP customer tour, toolroom efficiency packages, and gift certificates to make your toolroom shine even brighter!</p> <p><a class=\"btn\" href=\"/ca/events/toolroom-of-the-year-2026\">Learn more</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/4/csm_toty_teaser_9b97fd60a7.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 600
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7528",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_DE_07.pdf",
+     "name": "Smart Manufacturing",
+     "size": "803 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/f/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_DE_07_462bd18b81.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Messtechnik/ZOLLER_Flyer_Messtechnik_4_0_FLMETE4_00_DE_14.pdf",
+     "name": "Measuring Technology 4.0",
+     "size": "4 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/3/csm_cover_messtechnik_a1149791ca.webp",
+      "alt": "",
+      "w": 310,
+      "h": 437
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_DE_04.pdf",
+     "name": "Efficient Tool Handling",
+     "size": "1,003 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/6/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_DE_04_2b5b62e093.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient Tool Handling"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c7503",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Videos </h3>",
+   "body": "",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/v94C7abnu8E?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "Warum ist eine externe Werkzeugvoreinstellung mit ZOLLER wirtschaftlicher für Ihre Fertigung?"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7505",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Register now </h2>",
+   "body": "<p>Registration for the ZOLLER Open House &amp; Automation Summit is now open!</p> <p><a href=\"https://myzoller.com/us/en/live/detail/1391\" rel=\"noopener\" target=\"_blank\">Register now!</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c7413",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/events/imts-2026",
+ "de_path": ""
+}

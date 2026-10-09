@@ -1,0 +1,314 @@
+{
+ "path": "/produits/reglage-et-mesure/solutions-dautomatisation",
+ "url": "/ca-fr/produits/reglage-et-mesure/solutions-dautomatisation",
+ "title": "Solutions d'automatisation",
+ "description": "Solutions d'automatisation",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Réglage et mesure /",
+   "href": "/ca-fr/produits/reglage-et-mesure"
+  },
+  {
+   "label": "Solutions d'automatisation",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Réglage et mesure /",
+   "href": "/ca-fr/produits/reglage-et-mesure"
+  },
+  {
+   "label": "Solutions d'automatisation",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/einstellen-messen/spezialloesungen/automationsloesungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/presetting-measuring/automation-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/ajuste-y-medicion/soluciones-de-automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/reglage-et-mesure/solutions-dautomatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/ajuste-e-medicao/solucoes-de-automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/regolazione-e-misurazione/soluzioni-di-automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/instaellning-och-maetning/automatiseringsloesningar",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/einstellen-messen/automationsloesungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/presetting-measuring/automation-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/reglage-et-mesure/solutions-dautomatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%9E%90%EB%8F%99%ED%99%94-%EC%86%94%EB%A3%A8%EC%85%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/presetting-measuring/automation-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ajuste-y-medicion/soluciones-de-automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/ajuste-e-medicao/solucoes-de-automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Présentation des produits </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>Les solutions ZOLLER sont la clé de votre avenir : nous vous aidons à mieux réussir. En effet, une production plus rapide et plus efficace permet de travailler de manière plus rentable, ce qui vous donne les moyens d'investir dans l'avenir. Si votre objectif est de progresser sur le plan économique, ZOLLER est le partenaire qu'il vous faut.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Réglage et mesure",
+      "selected": true
+     },
+     {
+      "value": "251",
+      "label": "Gestion des outils",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Contrôle et mesure",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatisation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "technique de rétraction",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Porte-outils",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Technique d'équilibrage",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "264",
+      "label": "Appareils verticaux",
+      "selected": false
+     },
+     {
+      "value": "263",
+      "label": "Appareils horizontaux",
+      "selected": false
+     },
+     {
+      "value": "551",
+      "label": "Solutions d'automatisation",
+      "selected": true
+     },
+     {
+      "value": "6367",
+      "label": "Usinage de la pierre par CNC",
+      "selected": false
+     },
+     {
+      "value": "262",
+      "label": "Solutions sur mesure",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/ca-fr/produits/automatisation/preparation-des-outils/corameasure-lg",
+       "title": "»coraMeasure LG«",
+       "text": "Gestion économique des outils pour ZOLLER »venturion«",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ca-fr/produits/automatisation/preparation-des-outils/robobox",
+       "title": "»roboBox«",
+       "text": "Jusqu'à six modules pour des opérations telles que le montage, le nettoyage, la mesure, le rétrécissement et bien d'autres encore",
+       "img": {
+        "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ca-fr/produits/reglage-et-mesure/solutions-dautomatisation",
+ "de_path": "/produkte/einstellen-messen/spezialloesungen/automationsloesungen"
+}

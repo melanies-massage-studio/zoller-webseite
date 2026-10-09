@@ -1,0 +1,310 @@
+{
+ "path": "/abas-erp-person-responsible-for-support/development-m/f/d",
+ "url": "/ca/abas-erp-person-responsible-for-support/development-m/f/d",
+ "title": "abas ERP person responsible for support/development (m/f/d)",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Job Openings",
+   "href": "/ca/company/careers/job-openings"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Job Openings",
+   "href": "/ca/company/careers/job-openings"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/abas-erp-betreuer/-entwickler-m/w/d",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/abas-erp-supporttekniker/-utvecklare-m/k/d",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/chargee-de-support-/-developpeureuse-abas-erp-h/f/d",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "abas ERP person responsible for support/development (m/f/d)",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Your Benefit",
+     "href": "/ca/abas-erp-person-responsible-for-support/development-m/f/d/your-benefit",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c90842",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> IT Systems Area </h3> <h1> abas ERP person responsible for support/developer (m/f/d) </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/abas_ERPBetreuer_2026_05_07_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Job Posting (PDF)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90840",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Your Profile</h4><ul><li>A successfully completed degree in Computer Science, Business Informatics, or Computer Engineering, or comparable vocational training with professional experience—career changers are also welcome</li><li>Knowledge of ERP systems, document management systems, business processes, and databases</li><li>Programming skills in Java, as well as a willingness to learn additional programming languages</li><li>Good command of German and English</li><li>Service- and customer-oriented</li><li>Ability to work in a team, initiative, and a sense<br/> of responsibility</li></ul><h4>Your Responsibilities</h4><ul><li>Design and development of process solutions within our “abas” ERP system and the ELO document management system</li><li>Development of interfaces to other program modules</li><li>User and application support</li><li>Testing of modules, software, and interfaces</li><li>Maintenance and update of documentation<br/> </li></ul><h4>Location</h4> <p>Pleidelsheim, Germany.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90839",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c90841",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Apply Online </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90837",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Would you like to use your skills to contribute to our company’s success? If so, we look forward to receiving your application.</p> <p>Apply now!</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c90836",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c90838",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/abas-erp-person-responsible-for-support/development-m/f/d",
+ "de_path": "/abas-erp-betreuer/-entwickler-m/w/d"
+}

@@ -1,0 +1,421 @@
+{
+ "path": "/solutions/tool-heat-shrink-technology",
+ "url": "/ca/solutions/tool-heat-shrink-technology",
+ "title": "Tool Heat Shrink Technology",
+ "description": "Tool Heat Shrink Technology",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca/solutions"
+  },
+  {
+   "label": "Tool Heat Shrink Technology",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca/solutions"
+  },
+  {
+   "label": "Tool Heat Shrink Technology",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/schrumpftechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/shrink-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/amarre-termico-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/technique-de-retrecissement",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/montagem-termica-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tecnologia-per-il-calettamento-a-caldo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/krympteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/schrumpftechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/shrink-technology",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/technique-de-retraction",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/shrink-technology",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/tecnica-de-contraccion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/montagem-termica-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/0/csm_header_shrinking_da2d643d5d.webp",
+     "video": null,
+     "title": "Tool Heat Shrink Technology",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c694",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>We've reimagined shrink technology. Shrinking and unshrinking are now more efficient than ever. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c696",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>For manufacturing operations that use shrink-fit tools, ZOLLER offers the most advanced shrink-fit equipment currently available. We have completely reimagined the core subprocesses of shrinking from a technological standpoint. The gains in energy efficiency, process speed, and process control are outstanding. </strong></p> <p>Low time required, high efficiency, and gentle on shrink fit holders—ZOLLER’s devices for shrinking and reshrinking round or shank tools achieve top performance in all relevant areas thanks to innovative technology. <br/>For production facilities that not only want to shrink-fit tools but also adjust and measure them, we offer 2-in-1 solutions. They combine length-precise shrink-fitting with the exact geometric data from ZOLLER’s high-precision presetting and measuring machines.</p> <p>Great technology for great results. </p> <p><a class=\"btn\" href=\"/ca/products/tool-heat-shrink-technology\">Display products</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c697",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c695",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> It is simple to follow the light </h2>",
+   "body": "<p>Ergonomics, safety, and simple operation have always been top priorities at ZOLLER. In our shrink wrap machines, this is reflected in three LED-based guidance systems. These guide you safely through the shrink wrapping process, inform you of the coil status, and indicate when the cooling cycle is complete.</p> <p>They are called »actbyLight«, »shrinkbyLight«,« and »coolbyLight«. Exclusive to ZOLLER. </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c698",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Extreme Efficiency </h2>",
+   "body": "<p class=\"large-text\">With the induction system developed by ZOLLER, you are guaranteed a high efficiency of nearly 100%. The coils feature two parallel windings. Virtually all of the electrical power supplied is used to heat the shrink fit holders.</p> <p class=\"large-text\">Furthermore, each heating and cooling cycle is extremely fast. Extreme efficiency for your shrink processes. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/d/csm_shrinking_01_e63ec03bf9.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c700",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Valuable Tool Data </h2>",
+   "body": "<p class=\"large-text\">Data plays a key role in the ZOLLER system. Shrink processes also generate tool data that can be used for tool management. For all tools equipped with a ZOLLER »idChip«, you can automate the process of entering heating cycles and have them saved by the »pilot 4.0« software. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/0/csm_shrinking_02_d3c241dbbc.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c699",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> High-Quality, High-Performance </h2>",
+   "body": "<p class=\"large-text\">With ZOLLER’s shrink wrapping machines, you use state-of-the-art technology and proven quality designed for durability. All devices integrate immediately into your production process and boost productivity. </p> <p class=\"large-text\">The »powerShrink series,« as well as the »redomatic 400« and »redomatic 600« devices, are TÜV- and UL/CSA-inspected. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/2/csm_shrinking_03_2905d02cf7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c701",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Potential reduction in energy consumption:*",
+   "value": "30%",
+   "note": "* compared to the previous model",
+   "ftype": "zoller_count-banner",
+   "id": "c702",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Shrink Solutions </h2>",
+   "items": [
+    {
+     "href": "/ca/products/tool-heat-shrink-technology/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>The shrink system with optimal energy efficiency and maximum safety</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca/products/tool-heat-shrink-technology/redomatic",
+     "title": "»»redomatic««",
+     "text": "<p>Universal Presetting and Measuring Machine with Integrated Tool Shrink-Fit System</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1639",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/d/csm_zoller_system_teaser_en_7ea3649d77.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Start with a Solution – Enter a System.",
+     "href": "/ca/the-system",
+     "caption": "<figcaption> <h3>Start with a Solution – Enter a System.</h3> <p>Our customers benefit from holistic solutions that we have been driving forward for decades. The result: excellent efficiency. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/solutions/tool-heat-shrink-technology",
+ "de_path": "/solutions/schrumpftechnik"
+}

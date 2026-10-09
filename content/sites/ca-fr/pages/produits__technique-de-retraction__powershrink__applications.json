@@ -1,0 +1,475 @@
+{
+ "path": "/produits/technique-de-retraction/powershrink/applications",
+ "url": "/ca-fr/produits/technique-de-retraction/powershrink/applications",
+ "title": "»powerShrink« – Applications",
+ "description": "Applications - »powerShrink« – Applications",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "technique de rétraction /",
+   "href": "/ca-fr/produits/technique-de-retraction"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/ca-fr/produits/technique-de-retraction/powershrink"
+  },
+  {
+   "label": "Applications",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "technique de rétraction /",
+   "href": "/ca-fr/produits/technique-de-retraction"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/ca-fr/produits/technique-de-retraction/powershrink"
+  },
+  {
+   "label": "Applications",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/powershrink/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/powershrink/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/powershrink/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/powershrink/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/powershrink/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/powershrink/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/powershrink/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/powershrink/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/powershrink/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/powershrink/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/powershrink/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/powershrink/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»powerShrink«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Modèles",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/modeles",
+     "current": false
+    },
+    {
+     "label": "Applications",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/applications",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1146",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Atteindre son objectif en toute sécurité et efficacement </h1>",
+      "body": "<p><strong>Avec »powerShrink« de ZOLLER, les outils rétractés sont rapidement prêts à l'emploi : grâce au logiciel »pilot« intuitif, au système d'induction intelligent et à la surveillance permanente des étapes de travail.</strong></p> <p>La technologie du »powerShrink« garantit des cycles de traitement ultra-courts. Même les opérateurs inexpérimentés parviennent à obtenir ces temps de traitement réduits après une brève formation. Le logiciel d’utilisation »pilot« vous guide à travers toutes les étapes de travail et contrôle de nombreux processus de manière entièrement automatique. Pour chaque étape, le logiciel affiche le composant requis et vous assiste visuellement à l’aide d’affichages graphiques à l’écran et du concept de commande innovant de ZOLLER, « »actbyLight« ». Ce guidage de l’opérateur par la lumière garantit une utilisation sûre et efficace du »powerShrink« au sein de votre entreprise.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c1145",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/8/c/csm_ps_arbeitsschritte_01_1d67bafda1.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Mettre en place le mandrin thermorétractable, sélectionner les paramètres de chauffage (manuellement/automatiquement via »l'idChip«)</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/8/2/csm_ps_arbeitsschritte_02_7fbe9ad14e.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Système de protection : mettre en place et orienter la vitre ou »le varOct« (manuellement/à l'aide d'un moteur)</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/f/3/csm_ps_arbeitsschritte_03_59a29571d3.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Abaisser la bobine jusqu'au mandrin de rétraction</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/7/2/csm_ps_arbeitsschritte_04_d1d6b10cb5.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Lancer le processus de chauffage ; la progression du chauffage s'affiche dans le logiciel</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/2/4/csm_ps_arbeitsschritte_05_6a89d57efc.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Après le préchauffage, relever la bobine, insérer l'outil de coupe dans le mandrin à serrage par contraction</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/1/1/csm_ps_arbeitsschritte_06_c67d071d45.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Glisser le récipient de réception sous la cloche de refroidissement qui clignote en vert, puis la mettre en place</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/c/csm_ps_arbeitsschritte_07_243a8d8b98.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Le processus de refroidissement démarre automatiquement ; sa fin est signalée par un clignotement bleu</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/9/8/csm_ps_arbeitsschritte_08_eaa3a6241a.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Une fois le processus de refroidissement terminé, retirer la cloche de refroidissement du mandrin de serrage</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2249",
+      "bg": "white",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2248",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Une gestion claire et une interconnexion parfaite </h2>",
+      "body": "<p>L'interface graphique clairement structurée du logiciel ZOLLER »pilot« guide l'opérateur de manière intuitive et sûre, étape par étape, tout au long du dialogue de commande, grâce à de grands boutons de fonction et à un code couleur bien pensé. L'écran de 12,5 pouces séduit par son affichage d'une netteté exceptionnelle.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c1207",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/c/a/csm_pilot_software_home_7c48c5a9b8.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Menu principal </strong>– grandes zones fonctionnelles avec des icônes claires : sélection des types de mandrins à serrage par contraction, sélection des paramètres ou lecture d'un code-barres.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/e/csm_pilot_software_01_9cf8a9b735.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Sélection des paramètres</strong> – les paramètres de chauffage souhaités peuvent être sélectionnés facilement et en toute sécurité grâce à des interfaces logicielles claires et intuitives.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/a/4/csm_pilot_software_02_804c34930c.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Fonction</strong> <strong>de scan</strong> : tous les paramètres adaptés au mandrin à rétraction sont chargés automatiquement, quel que soit le fabricant. Il est possible de surveiller le nombre de cycles de chauffage et d'afficher les informations relatives à chaque mandrin à rétraction.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/d/9/csm_pilot_software_03_ce773da547.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Guidage étape par étape</strong> : tout au long du processus de rétrécissement, »pilot« vous indique précisément quelle étape effectuer et à quel moment.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/e/4/csm_pilot_software_04_1b1ee4dc49.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Indicateurs d'état</strong> : qu'il s'agisse d'un cycle de chauffage ou de refroidissement, »pilot« vous indique à tout moment la progression du processus ainsi que les consignes de sécurité importantes.</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2452",
+      "bg": "white",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2450",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technique de rétrécissement : ses avantages",
+     "href": "/ca-fr/solutions/technique-de-retraction",
+     "caption": "<figcaption> <h3>Technique de rétrécissement : ses avantages</h3> <p>Découvrez comment nous avons obtenu ces gains considérables en matière d'efficacité énergétique, de vitesse de traitement et d'ergonomie. Utilisez la perfection pour votre production. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/technique-de-retraction/powershrink/applications",
+ "de_path": "/produkte/schrumpftechnik/powershrink/anwendungen"
+}

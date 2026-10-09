@@ -1,0 +1,226 @@
+{
+ "path": "/evenements/grindinghub-2026/demander-un-code-de-billet",
+ "url": "/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet",
+ "title": "Demander un code de billet",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "GrindingHub 2026 /",
+   "href": "/ca-fr/evenements/grindinghub-2026"
+  },
+  {
+   "label": "Demander un code de billet",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "GrindingHub 2026 /",
+   "href": "/ca-fr/evenements/grindinghub-2026"
+  },
+  {
+   "label": "Demander un code de billet",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events/grindinghub-2026/ticket-code-anfordern",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/grindinghub-2026/request-a-ticket-code",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/grindinghub-2026/begaer-biljettkod",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/grindinghub-2026/ticket-code-anfordern",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/grindinghub-2026/%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%99%E3%82%8B",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/grindinghub-2026/%ED%8B%B0%EC%BC%93-%EC%BD%94%EB%93%9C-%EC%9A%94%EC%B2%AD%ED%95%98%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "GrindingHub 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/evenements/grindinghub-2026",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Techniques de mesure",
+     "href": "/ca-fr/evenements/grindinghub-2026/techniques-de-mesure",
+     "current": false
+    },
+    {
+     "label": "Demander un code de billet",
+     "href": "/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c29792",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "form",
+   "kind": "form_formframework",
+   "html": "<form action=\"https://www.zoller.info/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet?tx_form_formframework%5Baction%5D=perform&amp;tx_form_formframework%5Bcontroller%5D=FormFrontend&amp;cHash=4bba213d2790437ea80e079a36c31567#dE-GrindingHub2026-Terminvereinbaren-29791\" enctype=\"multipart/form-data\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791\" method=\"post\"> <div><input name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][__state]\" type=\"hidden\" value=\"TzozOToiVFlQTzNcQ01TXEZvcm1cRG9tYWluXFJ1bnRpbWVcRm9ybVN0YXRlIjoyOntzOjI1OiIAKgBsYXN0RGlzcGxheWVkUGFnZUluZGV4IjtpOjA7czoxMzoiACoAZm9ybVZhbHVlcyI7YTowOnt9fQ==e1fa0a6fff7432dcbaca0174b96641dc4234cdba\"/><input name=\"tx_form_formframework[__trustedProperties]\" type=\"hidden\" value='{\"dE-GrindingHub2026-Terminvereinbaren-29791\":{\"text-2\":1,\"text-3\":1,\"lTLXKm\":1,\"email-1\":1,\"telephone-1\":1,\"text-1\":1,\"text-4\":1,\"singleselect-1\":1,\"multicheckbox-1\":[1,1,1,1,1],\"textarea-1\":1,\"checkbox-2\":1,\"checkbox-1\":1,\"recaptcha-1\":1,\"__currentPage\":1}}663ed93bcf6aade0e882bcdfcb2592592f554852'/> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-text-2\">Prénom <span class=\"required\">*</span> </label> <div class=\"input\"> <input autocomplete=\"given-name\" class=\"form-control\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-text-2\" maxlength=\"100\" minlength=\"1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][text-2]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-text-3\">Nom de famille <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-text-3\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][text-3]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <input aria-hidden=\"true\" data-id=\"lTLXKm\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-lTLXKm\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][lTLXKm]\" tabindex=\"-1\" type=\"text\"/> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-email-1\">E-mail <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-email-1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][email-1]\" required=\"required\" type=\"email\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-telephone-1\">Téléphone</label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-telephone-1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][telephone-1]\" type=\"tel\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-text-1\">Entreprise <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-text-1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][text-1]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-text-4\">Position <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-text-4\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][text-4]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <fieldset class=\"form-group\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-fieldset-3\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-singleselect-1\">Nombre de billets <span class=\"required\">*</span> </label> <div class=\"input\"> <select class=\"form-control\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-singleselect-1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][singleselect-1]\" required=\"required\"><option value=\"1\">1</option> <option value=\"2\">2</option> <option value=\"3\">3</option> <option value=\"4\">4</option> </select> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1\">Quel jour souhaitez-vous rendre visite à ZOLLER au salon AMB ? <span class=\"required\">*</span> </label> <div class=\"input checkbox\"> <div class=\"inputs-list\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1\"> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-0\"> <input name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][multicheckbox-1]\" type=\"hidden\" value=\"\"/><input id=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-0\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][multicheckbox-1][]\" type=\"checkbox\" value=\"Dienstag, 15. September 2026\"/> <span>Mardi 15 septembre 2026</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-1\"> <input id=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][multicheckbox-1][]\" type=\"checkbox\" value=\"Mittwoch, 16. September 2026\"/> <span>Mercredi 16 septembre 2026</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-2\"> <input id=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-2\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][multicheckbox-1][]\" type=\"checkbox\" value=\"Donnerstag, 17. September 2026\"/> <span>Jeudi 17 septembre 2026</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-3\"> <input id=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-3\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][multicheckbox-1][]\" type=\"checkbox\" value=\"Freitag, 18. September 2026\"/> <span>Vendredi 18 septembre 2026</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-4\"> <input id=\"dE-GrindingHub2026-Terminvereinbaren-29791-multicheckbox-1-4\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][multicheckbox-1][]\" type=\"checkbox\" value=\"Samstag, 19. September 2026\"/> <span>Samedi 19 septembre 2026</span> </label> </div> </div> </div> </div> </fieldset> <fieldset class=\"form-group\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-fieldset-2\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-textarea-1\">Votre message</label> <div class=\"input\"> <textarea class=\"xxlarge form-control\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-textarea-1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][textarea-1]\"></textarea> </div> </div> <div class=\"form-group\"> <div class=\"input checkbox\"> <div class=\"form-check\"> <label class=\"add-on form-check-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-checkbox-2\"> <input name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][checkbox-2]\" type=\"hidden\" value=\"\"/><input class=\"add-on\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-checkbox-2\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][checkbox-2]\" type=\"checkbox\" value=\"1\"/> <span>Je souhaite m'abonner à la newsletter.</span> </label> </div> </div> </div> <div class=\"form-group\"> <div class=\"input checkbox\"> <div class=\"form-check\"> <label class=\"add-on form-check-label\" for=\"dE-GrindingHub2026-Terminvereinbaren-29791-checkbox-1\"> <input name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][checkbox-1]\" type=\"hidden\" value=\"\"/><input class=\"add-on\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-checkbox-1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][checkbox-1]\" required=\"required\" type=\"checkbox\" value=\"1\"/> <span>Vous acceptez que les données saisies ci-dessus soient utilisées pour traiter votre demande dans le cadre d'activités commerciales et qu'elles soient transmises aux succursales commerciales compétentes ou aux représentants commerciaux. Vous pouvez à tout moment vous opposer au traitement de vos données sans avoir à justifier votre décision en envoyant un e-mail à datenschutz@zoller.info. <span class=\"required\">*</span> </span> </label> </div> </div> </div> </fieldset> <div class=\"form-group\"> <div class=\"recaptcha\"> <input data-recaptcha-form-field=\"\" id=\"dE-GrindingHub2026-Terminvereinbaren-29791-recaptcha-1\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][recaptcha-1]\" type=\"hidden\" value=\"\"/> <div class=\"g-recaptcha\" data-callback=\"onRecaptchaCallback\" data-error-callback=\"onRecaptchaError\" data-expired-callback=\"onRecaptchaExpired\" data-sitekey=\"6LcINbosAAAAAH8zSxnwOP319AslujYzyd6BWf7L\"></div> </div> </div> <div class=\"actions\"> <nav class=\"form-navigation\"> <div class=\"btn-toolbar\" role=\"toolbar\"> <div class=\"btn-group\" role=\"group\"> <span class=\"btn-group next submit\"> <button class=\"block-button\" name=\"tx_form_formframework[dE-GrindingHub2026-Terminvereinbaren-29791][__currentPage]\" type=\"submit\" value=\"1\"> Envoyer un e-mail </button> </span> </div> </div> </nav> </div> </form>",
+   "header": "<h1> Demander un code de billet </h1>",
+   "ftype": "form_formframework",
+   "id": "c29791",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet",
+ "de_path": "/events/grindinghub-2026/ticket-code-anfordern"
+}

@@ -1,0 +1,727 @@
+{
+ "path": "/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/intervenants",
+ "url": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/intervenants",
+ "title": "Intervenants",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "Journées de la technologie et Sommet sur la fabrication intelligente /",
+   "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente"
+  },
+  {
+   "label": "Intervenants",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "Journées de la technologie et Sommet sur la fabrication intelligente /",
+   "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente"
+  },
+  {
+   "label": "Intervenants",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/technology-days-and-smart-manufacturing-summit/presenters",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/dias-de-la-tecnologia-y-cumbre-sobre-fabricacion-inteligente/presentadores",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/journees-technologiques-et-sommet-sur-la-fabrication-intelligente/presentateurs",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/dias-da-tecnologia-e-cimeira-sobre-fabrico-inteligente/apresentadores",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/giornate-della-tecnologia-e-vertice-sulla-produzione-intelligente/presentatori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/teknikdagar-och-smart-manufacturing-summit/presentatoerer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/technology-days-and-smart-manufacturing-summit/presenters",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/technology-days-and-smart-manufacturing-summit/presenters",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/intervenants",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA%E3%81%8A%E3%82%88%E3%81%B3%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%82%BF%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80-%EB%8D%B0%EC%9D%B4-%EB%B0%8F-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A0%9C%EC%A1%B0-%EC%84%9C%EB%B0%8B/%EB%B0%9C%ED%91%9C%EC%9E%90",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/technology-days-and-smart-manufacturing-summit/presenters",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/presentadores",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/dias-da-tecnologia-e-cimeira-sobre-fabrico-inteligente/apresentadores",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Journées de la technologie et Sommet sur la fabrication intelligente",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Solutions",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/solutions",
+     "current": false
+    },
+    {
+     "label": "Intervenants",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/intervenants",
+     "current": false
+    },
+    {
+     "label": "Ordre du jour",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/ordre-du-jour",
+     "current": false
+    },
+    {
+     "label": "Hôtellerie et voyages",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/hotellerie-et-voyages",
+     "current": false
+    },
+    {
+     "label": "Inscrivez-vous dès maintenant !",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    },
+    {
+     "label": "Télécharger",
+     "href": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/telecharger",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4806",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_csm_meet_zoller_599fe3f5ee_b8eb9cad0a.webp",
+     "video": null,
+     "title": "Rencontrez les experts",
+     "kicker": "",
+     "text": "<p>Journées portes ouvertes ZOLLER et Sommet sur l'automatisation</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4825",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Intervenants et équipe ZOLLER </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/e/csm_alexander_zoller_11_1138472629.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Alexander Zoller Président – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Alexander Zoller</h4> <p>Président de ZOLLER Inc. depuis 2004, Alexander Zoller est un moteur de cette entreprise technologique familiale d’envergure mondiale. C’est lui qui, en tant que visionnaire, a mis en œuvre le plan d’expansion du nouveau siège social nord-américain et du centre technologique Industrie 4.0 à Ann Arbor, dans le Michigan.</p> <p>L’entreprise s’est positionnée, tout comme ses clients, pour s’adapter à la réalité industrielle de demain, où le matériel, les logiciels et l’automatisation fonctionnent en parfaite harmonie afin d’atteindre une efficacité maximale dans la production de pièces.</p> <p>Alexander Zoller a obtenu sa licence en technologies de l'information à l'Université de formation en alternance de Stuttgart en 2001, puis a pris les fonctions de directeur général d'E.Zoller GmbH, avec la responsabilité de la gestion de ZOLLER Inc., en 2004.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/d/csm_nicole_wolter_05_57f4404314.webp",
+      "alt": "",
+      "w": 815,
+      "h": 815
+     },
+     "label": "Nicole Wolter Maître de cérémonie (PDG et président de HM Manufacturing)",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Max Egan PDG d'Atlas Fibre",
+     "img": {
+      "src": "/fileadmin/_processed_/7/4/csm_speaker_egan_07_694bd08753.webp",
+      "alt": "",
+      "w": 860,
+      "h": 860
+     },
+     "text": "<h3>Max Egan</h3> <p>Max Egan est PDG d'Atlas Fibre et d'Accurate Composites. Ces sociétés sœurs forment, une fois regroupées, la plus grande entreprise d'Amérique du Nord spécialisée dans les composites rigides et intégrée verticalement.</p> <p>Atlas Fibre est le distributeur de référence de matériaux composites thermodurcissables et un spécialiste de l'usinage de matériaux non métalliques, notamment les composites thermodurcissables tels que le G10, G11, FR4 et le phénolique sur toile, ainsi que des plastiques avancés haute performance tels que le PEEK, le Vespel, l’Ultem, le PPS et le PVDF.</p> <p>Chez Atlas Fibre, il a mis en œuvre le concept « Atlas Batch-Size-One », une approche « lean » reposant sur des dispositifs de fixation flexibles, la standardisation des processus et une automatisation de pointe. « Atlas Batch-Size-One » permet à Atlas Fibre de produire un seul composant à un coût unitaire pratiquement identique à celui d’un lot de plus de 10 000 pièces, et de conserver cet avantage en termes de coûts tout au long de la production. Cette approche, associée à notre stock, le plus important d’Amérique du Nord, permet à notre entreprise d’offrir la combinaison idéale entre des délais de livraison rapides et un approvisionnement constant.</p> <p>Max est titulaire d’une licence en informatique de l’université de Duke et d’un MBA de la Harvard Business School.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/b/csm_placeholder_square_img_grey_2d272b2636.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Peter Doyle Président de Hirsh Precision",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Frank Weisskopf Président-directeur général - TTS",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/0/csm_tom_bassett_e33f269fc1.webp",
+      "alt": "",
+      "w": 1637,
+      "h": 1637
+     },
+     "label": "Tom Bassett Président - Pro-Cam LLC",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/a/4/csm_Sam_Kirkpatrick_white_BG_2_d2e30403a3.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Sam Kirkpatrick Sam Kirkpatrick",
+     "img": null,
+     "text": "<p>Sam Kirkpatrick est un responsable technique innovant qui possède plus d’une décennie d’expérience dans les domaines de l’automatisation et de la fabrication intelligente. Depuis qu’il a rejoint ANCA en 2012, il a joué un rôle déterminant dans le développement d’AIMS (ANCA Integrated Manufacturing System), une plateforme d’automatisation modulaire et intelligente conçue pour transformer la production d’outils CNC grâce à des processus connectés et autonomes.</p> <p>Sam a dirigé des équipes d'ingénierie internationales et a contribué à façonner AIMS, de la conception au déploiement, en s'appuyant sur son expérience acquise chez GE Global Research et dans le domaine de l'automatisation industrielle dans de nombreux secteurs. Aujourd'hui, en tant que chef de produit senior, il définit l'orientation stratégique d'AIMS et son rôle dans l'avenir de la fabrication automatisée.</p> <p>Il est titulaire d’une licence en génie informatique et d’un master en génie électrique (robotique) de l’université de Lehigh à Bethlehem, en Pennsylvanie (États-Unis), où ses travaux de recherche au sein du laboratoire VADER (robotique autonome) ont façonné son approche de la robotique et des systèmes intelligents.</p>"
+    },
+    {
+     "logo": null,
+     "label": "John Leppien Vice-président - Garr Tool",
+     "img": null,
+     "text": "<h4>John Leppien</h4>"
+    },
+    {
+     "logo": null,
+     "label": "",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Eric Brothers Rédacteur en chef - GIE Media's Manufacturing Group",
+     "img": {
+      "src": "/fileadmin/_processed_/9/0/csm_Eric_Brothers_-_1000x1000_headshot_cc77b2accb.webp",
+      "alt": "Eric Brothers",
+      "w": 1000,
+      "h": 1000
+     },
+     "text": "<p>Eric Brothers écrit depuis plus de 30 ans sur des sujets liés à l'aéronautique, au monde des affaires et aux technologies des transports. Il a rejoint en 2013 le groupe « Manufacturing » de GIE Media<i>,</i> qui regroupe des publications papier et en ligne<i>,</i> et occupe les fonctions de rédacteur en chef de <i>Today’s Medical Developments et </i>de<i> Defense and Munitions. </i>Depuis 2014, il assume la responsabilité éditoriale principale d’<i>Aerospace Manufacturing and Design,</i> alliant ainsi son intérêt de longue date pour l’aviation à sa curiosité pour les sciences et les technologies.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/9/csm_Nick_Goellner_-_1000x1000_a3a04ef4ee.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Nick Goellner Animateur - Podcast « Lights Out »",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/a/csm_dave_vuyek_-_1000x1000_9ecd26504b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "David Vuyk Animateur - Podcast « Lights Out »",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/b/csm_Jeffrey_Barlow_-_1000x1000_569ca9d72b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Jeffrey Barlow Président - CemeCon Inc",
+     "img": null,
+     "text": "<p><strong>Jeffrey Barlow</strong> est président de CemeCon Inc. ; il supervise les opérations de la société en Amérique du Nord ainsi que ses activités de services de revêtement. Diplômé en 2007 de la faculté d’ingénierie de l’université d’État de Pennsylvanie, il a rejoint CemeCon en 2015 en tant que technicien de maintenance, chargé de la réparation et de l’entretien des équipements de revêtement à travers les États-Unis. En 2019, il a été promu directeur des services et de la technologie de revêtement avant d’assumer le poste de président en 2022. Son parcours couvre l’ingénierie, la technologie de revêtement et les opérations de fabrication, avec un accent particulier sur les solutions pratiques et le service client dans le secteur des outils de coupe.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/c/csm_Ryan_Lake_-_1000x1000_2f42945e23.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Ryan Lake Responsable commercial - CemeCon, Inc.",
+     "img": null,
+     "text": "<p><strong>Ryan Lake</strong> a rejoint CemeCon, Inc. en 2014 en tant que chargé de clientèle spécialisé dans la vente de revêtements et d'équipements périphériques. Il a été promu directeur commercial en 2019 et supervise désormais l'ensemble des activités de vente et de marketing pour le marché nord-américain. Ses responsabilités consistent notamment à collaborer avec les fabricants d’outils de coupe et les partenaires industriels afin d’identifier des solutions de revêtement et d’équipements, de soutenir le développement de produits, de mener des initiatives commerciales stratégiques et de favoriser la collaboration technique au sein du secteur de l’outillage de précision. Ryan est titulaire d’une licence en communication de l’Ithaca College et contribue depuis plus de dix ans à l’innovation et à la croissance dans le secteur des outils de coupe.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Moll Directeur des ventes – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Dietmar Moll</h4> <p>Dietmar Moll est directeur commercial chez ZOLLER Inc. et titulaire d'un master d'ingénierie de l'Université coopérative d'État de Stuttgart.</p> <p>M. Moll mène une longue carrière chez ZOLLER, au cours de laquelle il a occupé de nombreux postes à l'international dans le domaine commercial, ainsi que des fonctions de direction générale en Inde, en Thaïlande et aux États-Unis.</p> <p>Au total, il possède plus de 18 ans d’expérience dans le domaine de la fabrication efficace, avec une spécialisation dans les applications de machines-outils et dans l’accompagnement des entreprises pour leur permettre de mieux comprendre leurs capacités de processus grâce à des solutions de préréglage d’outils, de mesure et d’inspection, de gestion des outils et d’automatisation.</p> <p>Son expérience de collaboration avec des entreprises et des partenaires issus de divers secteurs industriels, notamment l’aérospatiale, le pétrole et le gaz, l’automobile et l’exploitation minière, garantit que ZOLLER est en phase avec les défis concrets de la production de pièces, alors que la fabrication intelligente, l’analyse de données et l’Industrie 4.0 ouvrent la voie à une nouvelle génération de possibilités en matière de technologies intégrées et de pratiques de fabrication avancées.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "Rita Conroy-Martin Directeur du marketing et de l'expérience client – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Rita Conroy-Martin</h4> <p>Rita Conroy-Martin est directrice du marketing et de l'expérience client chez ZOLLER Inc. Polyglotte, elle possède plus de 25 ans d'expérience professionnelle internationale dans les domaines de la vente et du développement commercial, du marketing et des achats, principalement dans le secteur industriel.</p> <p>Elle se passionne pour l'alignement des ventes et du marketing dans le contexte d'une transformation radicale qui redéfinit les règles régissant la manière dont les entreprises, grandes ou petites, interagissent avec leurs prospects et leurs clients.</p> <p>Dans le cadre de ses fonctions actuelles chez ZOLLER Inc., elle combine des stratégies traditionnelles et émergentes de marketing et de développement commercial afin d’informer, d’impliquer, d’accompagner et de faire progresser les clients et prospects vers de nouveaux niveaux d’efficacité grâce aux solutions ZOLLER.</p> <p>Elle est diplômée de l'université de Limerick, en Irlande, où elle a obtenu une licence en commerce et en allemand, ainsi que d'un master en sciences politiques de l'Université Libre de Bruxelles, en Belgique. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/2/csm_werner_lueken_v4_28_bcac49f60f.webp",
+      "alt": "",
+      "w": 711,
+      "h": 711
+     },
+     "label": "Werner Lueken Directeur des solutions d'inspection d'outils – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Werner Lueken</h4> <p>Werner Lueken est directeur des solutions d'inspection d'outils chez ZOLLER Inc.</p> <p>Il a obtenu en 1997 un diplôme d'ingénieur en conception industrielle à l'Université des sciences appliquées de Kiel, en Allemagne. </p> <p>M. Lueken travaille chez ZOLLER Inc. depuis 23 années intenses et a occupé de nombreuses fonctions, toujours dans le but d’accompagner les clients dans leurs besoins en matière d’inspection d’outils.</p> <p>Il se consacre avec passion à aider les fabricants d'outils de coupe et les utilisateurs finaux à résoudre leurs problèmes liés à la géométrie des outils et à leur apporter une garantie quant à la qualité de ces derniers. Il est reconnu comme un expert dans ce domaine, tant aux États-Unis qu'à l'échelle mondiale.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/f/csm_brothers_10_2e640c257f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt Brothers Responsable du centre technologique Industrie 4.0 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Matt Brothers</h4> <p>Matt Brother est responsable du centre technologique Industrie 4.0 chez ZOLLER Inc.</p> <p>Fort de plus de 20 ans d’expérience dans le contrôle et la fabrication d’outils de coupe de forme spéciale, il apporte à ZOLLER un ensemble de compétences unique, notamment grâce à sa spécialisation dans le développement de processus de contrôle des outils de coupe et le dépannage.</p> <p>Par le passé, M. Brothers a travaillé chez Starcutter et Northern Tool. Il est chez ZOLLER depuis 2017.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_Markus_Lewandrowski_18_78fa01f75f.webp",
+      "alt": "",
+      "w": 1536,
+      "h": 1536
+     },
+     "label": "Markus Lewandrowski Responsable R&D - ZOLLER, Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/8/csm_nelu_13_add1496942.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Nelu Bilba Spécialiste en productivité industrielle – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Nelu Bilba</h4> <p>Nelu Bilba est spécialiste de la productivité industrielle chez ZOLLER Inc. Il travaille avec les clients nouveaux et existants afin d'améliorer leurs processus de fabrication, en leur proposant des solutions ZOLLER adaptées. Il est spécialiste des outils de coupe et des porte-outils.</p> <p>Avant d’être embauché chez ZOLLER Inc., il était client de ZOLLER au sein d’entreprises aux États-Unis et en Allemagne. Il a suivi sa formation technique en Roumanie et en Allemagne. Après avoir poursuivi ses études en Allemagne, il a occupé divers postes dans le domaine de la fabrication, allant du prototypage à l’usinage à cinq axes, en passant par la fabrication d’outils de coupe.</p> <p>Depuis son installation aux États-Unis en 2011, Bilba a occupé une série de postes de direction dans le domaine de la fabrication, notamment en tant que chef de service et directeur de production/d'usine.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cédric Hasenfratz Responsable des ventes et des partenariats pour l'Amérique du Nord (TMS) – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cédric Hasenfratz</h4> <p>Cédric Hasenfratz est responsable des ventes et des partenariats pour l'Amérique du Nord au sein de la gamme ZOLLER TMS Tool Management Solutions. Il se consacre avec passion à la mise en œuvre de solutions d'efficacité dans le secteur de la fabrication.</p> <p>Avant de rejoindre ZOLLER, il occupait le poste de responsable de compte pour les États-Unis au sein de la division Manufacturing Intelligence d'Hexagon, dans le secteur de la vente de logiciels.</p> <p>Il possède une connaissance approfondie et une grande expérience de la gestion numérique des outils et de l'optimisation des processus pour l'industrie manufacturière moderne. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_gaether_06_10e992158f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Gaertner Ingénieur commercial et d'application - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/e/csm_Clayton_Springer_o_logo_16_11847040e5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 954
+     },
+     "label": "Clayton Springer Spécialiste en production vidéo – ZOLLER INC.",
+     "img": null,
+     "text": "<h4>Clayton Springer</h4> <p>Clayton Springer est le spécialiste de la production vidéo au sein du service marketing de ZOLLER Inc.</p> <p>Il possède une expérience dans le domaine de la retransmission sportive, du journalisme télévisé en direct et du marketing d'entreprise. Il produit notamment du contenu pour les réseaux sociaux, des publicités pour la télévision par câble, du matériel promotionnel, des vidéos de produits et des diffusions en direct.</p> <p>Il est titulaire d'une licence en production télévisuelle et médias numériques de l'université Ferris State.</p>"
+    },
+    {
+     "logo": null,
+     "label": "",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/b/csm_chloe_1000__1__7f889656d5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Chloé Doherty Ingénieur au Centre technologique Industrie 4.0 - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/7/csm_Felix___1000x1000_91773b95b5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Felix Kanbach Responsable du service national - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/0/csm_Anthony_Westfall_1000x1000_65916e7e4b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Anthony Westfall Chef de projet - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/6/f/csm_Kevin_-_1000x1000_4898d4a125.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Kevin Bechle Ingénieur commercial et d'applications - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/2/csm_Lem_-_1000x1000_a515b3c4a8.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Lem Linder Responsable de projets de service - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c4826",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Appel à candidatures pour les intervenants de la journée portes ouvertes 2026 ! </h2>",
+   "body": "<p>Si vous êtes client de ZOLLER et que vous souhaitez présenter votre entreprise ainsi que la puissance des solutions ZOLLER dans vos locaux lors de l'événement de cette année, n'hésitez pas à nous contacter à l'adresse <a class=\"link-arrow\" href=\"mailto:marketing@zoller-usa.com\">marketing@zoller-usa.com</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7357",
+   "bg": "yellow",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Partenaires technologiques </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/d/csm_anca_08_ba056273f9.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "Machines CNC ANCA Affûteuses d'outils CNC, systèmes d'automatisation et logiciels",
+     "img": {
+      "src": "/fileadmin/_processed_/6/f/csm_anca_feature_07_79c77c6f85.webp",
+      "alt": "",
+      "w": 1024,
+      "h": 810
+     },
+     "text": "<h4>Machines CNC ANCA</h4> <p>ANCA est un leader mondial dans la conception et la fabrication de rectifieuses d'outils à commande numérique, de marqueurs laser, de solutions d'automatisation, de systèmes de commande de mouvement et de composants en tôle.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/a/csm_HERMLE_logo_cfc5bddea0.webp",
+      "alt": "",
+      "w": 235,
+      "h": 117
+     },
+     "label": "Hermle Fraiseuses à portique, machines-outils et machines spéciales à commande numérique",
+     "img": null,
+     "text": "<p>Dans le secteur des fraiseuses à commande numérique, HERMLE AG est l'un des principaux fabricants de fraiseuses à portique, de machines-outils et de machines spéciales à commande numérique. En tant que constructeur de machines, notre devise « le meilleur du fraisage » souligne notre engagement à fournir des produits qui dépassent constamment les attentes en termes de performances, de précision d'usinage et de service.</p> <p>De plus, forte de près de 90 ans d’expérience en tant que constructeur de machines, HERMLE AG répond pleinement aux exigences de précision et de capacité d’usinage accrues dans tous les secteurs nécessitant des performances machine de pointe. Nous développons et produisons des fraiseuses à commande numérique et des machines spéciales destinées au secteur des technologies médicales, à la fabrication générale d’outils et de moules, ainsi qu’aux industries optique, aérospatiale et automobile. Nous fabriquons également des machines-outils à commande numérique sur mesure, conçues pour répondre aux besoins spécifiques de nos clients. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/a/csm_SW_logo_03_e9e71f7490.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "SW Usinage multibroches",
+     "img": null,
+     "text": "<h4>SW</h4> <p>Pour les fabricants qui souhaitent réduire leurs coûts de production et leur encombrement au sol, tout en relevant les défis liés à la pénurie de main-d'œuvre, SW propose une large gamme de machines CNC à un ou plusieurs broches, des solutions d'automatisation et des systèmes complets. SW fournit depuis longtemps des machines à de nombreux secteurs industriels, notamment dans le cadre des réglementations ITAR et FFL. Nos solutions d'automatisation intégrables réduisent les coûts de main-d'œuvre, et notre concept multibroches permet d'optimiser l'espace au sol disponible.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/7/csm_PraesiDM_logo_03_e4d0a75aad.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "PraesiDM Fabrication avancée autonome",
+     "img": null,
+     "text": "<h4>PraesiDM</h4> <p>PraesiDM est une entreprise de fabrication axée sur l'ingénierie qui produit de manière autonome des composants de haute précision pour le secteur industriel américain. Notre suite logicielle numérique tout-en-un modernise la conception des pièces et normalise la production au sein d’un écosystème de fabrication intelligemment connecté. Grâce à la collecte de données, nos machines apprennent et s’optimisent de manière autonome, offrant ainsi des solutions complètes pour toutes les industries de pointe.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_GROB_1000x1000_4efac8870c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "EN GRANDES LIGNES Systèmes de production et d'automatisation",
+     "img": null,
+     "text": "<p>Leader dans la conception et la construction de systèmes de production et d'automatisation hautement innovants depuis près de 100 ans, GROB est une entreprise familiale qui se distingue par des produits de premier ordre, des technologies d'avenir et une fiabilité absolue. De la vente à l'ingénierie, en passant par la production et la mise en service, les ingénieurs et techniciens qualifiés de GROB répondent aux exigences les plus pointues de ses clients. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/9/csm_Tools_United_logo_03_cd26d02611.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "ToolsUnited Données sur les outils provenant des principaux fabricants d'outils de coupe",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/2/csm_MachiningCloud-logo-Horizontal-Color_600x600px._02_63c39f7963.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "MachiningCloud Logiciel de gestion d'outils CNC et données",
+     "img": null,
+     "text": "<h4>MachiningCloud</h4> <p>MachiningCloud est la ressource de référence axée sur les données qui révolutionne la manière dont les fabricants recherchent, sélectionnent et utilisent les outils de coupe, les systèmes de serrage et les machines. Bien plus qu'un simple catalogue de pièces, cette plateforme offre un écosystème numérique complet et interconnecté comprenant des données produit riches et normalisées, une sélection intelligente d'outils, des données complètes sur les avances et les vitesses de coupe, et bien plus encore.</p> <p>En comblant le fossé entre les outils physiques et le monde numérique, MachiningCloud aide les fabricants à gagner en efficacité, à réduire leurs coûts et à améliorer leur productivité globale. C'est la plateforme incontournable pour tous ceux qui souhaitent prendre des décisions plus éclairées et fondées sur les données dans le cadre de leurs opérations d'usinage.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/0/csm_Vericut_600x600px_02_53bf10f479.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "CGTech Simulation CNC et service de qualité supérieure",
+     "img": null,
+     "text": "<h4>CGTech</h4> <p>Basée à Irvine, en Californie, CGTech est spécialisée dans les logiciels de simulation, de vérification, d’optimisation, de post-traitement et d’analyse pour l’usinage à commande numérique (NC/CNC). Depuis 1988, le logiciel Vericut de la société est devenu la référence du secteur pour la simulation de l'usinage CNC, permettant de détecter les erreurs, les collisions potentielles ou les zones d'inefficacité. Vericut permet aux programmeurs CN de réduire les essais de validation, d'éliminer pratiquement toutes les erreurs et d'optimiser les programmes CN pour un usinage plus rapide et plus efficace. Vericut prend en charge une large gamme de machines-outils CNC et peut fonctionner comme solution autonome ou être intégré aux principaux systèmes de FAO. Avec des bureaux dans 12 pays et un réseau mondial de revendeurs, Vericut s'engage à fournir une assistance complète à ses utilisateurs partout dans le monde. Pour plus d'informations, rendez-vous sur le site Web de Vericut à l'adresse <a class=\"link-arrow\" href=\"https://www.vericut.com/\" rel=\"noopener\" target=\"_blank\">vericut.com</a>.</p>"
+    },
+    {
+     "logo": null,
+     "label": "",
+     "img": {
+      "src": "/fileadmin/_processed_/d/b/csm_CHIRON_Group_logo_021c96ca9a.webp",
+      "alt": "",
+      "w": 277,
+      "h": 89
+     },
+     "text": "<p><strong>CHIRON Group SE</strong></p> <p>CHIRON est un leader mondial dans le domaine des centres d'usinage verticaux et des centres de tournage-fraisage à commande numérique (CNC), proposant des solutions de fabrication à grande vitesse, de haute précision et entièrement automatisées.</p> <p>Fondé en 1921, Chiron Group SE est devenu l'un des principaux fournisseurs mondiaux de centres d'usinage et de solutions de fabrication clés en main, au service des industries d'ingénierie et de fabrication de petite, moyenne et grande envergure. L'entreprise met l'accent sur la performance, la précision et l'innovation, et dispose d'une présence mondiale ainsi que d'équipes de service dédiées pour accompagner ses clients partout dans le monde. </p>"
+    },
+    {
+     "logo": null,
+     "label": "",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_cemecon_47fc8c881a.webp",
+      "alt": "",
+      "w": 307,
+      "h": 164
+     },
+     "text": ""
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7358",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Inscrivez-vous dès maintenant </h2>",
+   "body": "<p>Les inscriptions pour le ZOLLER Open House &amp; Automation Summit sont désormais ouvertes !</p> <p><a href=\"https://myzoller.com/us/en/live/detail/1391\" rel=\"noopener\" target=\"_blank\">Inscrivez-vous dès maintenant !</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c7361",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/intervenants",
+ "de_path": ""
+}

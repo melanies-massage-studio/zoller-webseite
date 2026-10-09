@@ -1,0 +1,362 @@
+{
+ "path": "/equilibrage-dun-disque-abrasif",
+ "url": "/ca-fr/equilibrage-dun-disque-abrasif",
+ "title": "Équilibrage d'un disque abrasif",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Équilibrage d'un disque abrasif",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Équilibrage d'un disque abrasif",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/schleifscheibe-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balancing-a-grinding-wheel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-la-meule",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-o-rebolo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciare-la-mola",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-slipskivan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/schleifscheibe-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/balancing-the-grinding-wheel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-disque-abrasif",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%A0%94%E7%A3%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%97%B0%EB%A7%88-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%A7%9E%EC%B6%94%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-grinding-wheels",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-o-rebolo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/9/c/csm_grinding_wheel_header_82a94c5c43.webp",
+     "video": null,
+     "title": "Faut-il équilibrer le disque abrasif ?",
+     "kicker": "",
+     "text": "<p>Avec notre système d'équilibrage »toolBalancer, c'est« un jeu d'enfant</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8000",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Notre système d'équilibrage prolonge la durée de vie des outils </h2>",
+   "body": "<p class=\"extra-large-text\">Pour les machines d'usinage modernes, il est extrêmement important de disposer d'outils soigneusement équilibrés. Les déséquilibres au niveau des meules, des systèmes d'outils et des rotors entraînent de l'usure, voire des dommages : un équilibrage régulier permet d'éviter les temps d'arrêt et de réduire vos coûts.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8001",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Un équilibrage efficace avec le »toolBalancer« de ZOLLER </h2>",
+   "body": "<p>Les temps d'équilibrage prolongés entraînent des temps d'arrêt et une perte de qualité. Notre »toolBalancer« permet non seulement d'équilibrer avec une grande précision les porte-outils, les meules et les rotors, mais aussi d'accélérer considérablement le processus grâce à sa procédure de mesure automatisée.</p> <p>Il permet de prendre en compte aussi bien vos besoins actuels que les évolutions que vous ne pouvez pas encore anticiper : grâce à sa conception modulaire, le »toolBalancer« s’adapte entièrement à vos besoins.</p> <p>L'appareil se commande de manière intuitive et intuitive via un écran tactile, un clavier ou une souris, selon ce qui convient le mieux à votre façon de travailler. Vous pouvez ainsi vous concentrer sur un travail et une production efficaces et de haute qualité. Vous réduisez ainsi de manière mesurable vos taux de rebut, vos temps d'arrêt des machines et vos coûts de production !</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-dequilibrage/toolbalancer\">En savoir plus sur »le toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8002",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Rendement d'usinage supérieur ",
+    "Durée de vie des outils prolongée ",
+    "Meilleure qualité des pièces"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c8003",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Qu'est-ce que l'équilibrage ? </h2>",
+   "body": "<p>L'équilibrage permet de réduire, voire, dans l'idéal, d'éliminer les déséquilibres présents sur tout corps rigide tournant autour d'un axe fixe. Ces déséquilibres résultent d'une répartition inégale de la masse dans la meule ; le point de référence est dans chaque cas l'axe de rotation de la broche de meulage. L'objectif principal de l'équilibrage est de compenser tous les effets de la force centrifuge sur la broche en rotation, afin que le palier de la broche ne soit pas soumis à des forces supplémentaires.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8007",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Comment les déséquilibres apparaissent-ils dans les meules ? </h2>",
+   "body": "<p>Des déséquilibres dans une meule peuvent apparaître dès la fabrication, par exemple :</p><ul><li>de légers écarts par rapport à la forme géométrique idéale ou à une forme parfaitement symétrique dus à des défauts de fabrication,</li><li>d'autres défauts de fabrication ou</li><li>une densité inégale de la structure de la meule (conséquence : répartition du poids déséquilibrée).</li></ul><p>Cependant, les déséquilibres sont principalement dus à l'usure survenant au cours du processus de meulage. En voici quelques exemples :</p><ul><li>une abrasion irrégulière pendant le processus de meulage,</li><li>encrassement par des copeaux ou des liquides de refroidissement ou de lubrification, et</li><li>les contraintes et déformations dues aux forces de serrage, aux forces de coupe et aux forces centrifuges.</li></ul><p>Des problèmes supplémentaires peuvent survenir en cas de stockage inapproprié ou de mauvaise manipulation des meules.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_schleifscheiben_314b691a95.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8004",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Pourquoi équilibrer les meules ? </h2>",
+   "body": "<p>Les conséquences d'une meule non équilibrée peuvent être multiples : la broche de meulage peut ne pas tourner de manière silencieuse et régulière (fonctionnement silencieux) ; un déséquilibre entraîne à son tour une abrasion irrégulière, ce qui peut encore aggraver le phénomène. De plus, l'abrasion ou le débit d'enlèvement de la meule peut s'en trouver accru.</p> <p>De manière générale, si l'outil et son porte-outil, considérés comme un ensemble, ne présentent pas une grande précision de concentricité, la force centrifuge résultant d'un déséquilibre peut avoir un effet négatif sur le palier de la broche et réduire considérablement sa durée de vie. La durée de vie de l’outil peut également se détériorer de manière significative si les vibrations générées par la force centrifuge se transmettent à la machine et à l’outil. Les outils équilibrés contribuent donc à réduire les coûts liés aux outils et à augmenter la productivité.</p> <p>Pour obtenir un rendement d’usinage plus élevé et une durée de vie des outils plus longue, il est important de vérifier l’état d’équilibrage de la meule avant chaque changement de vitesse de rotation, car chaque combinaison « broche-vitesse de rotation-outil » entraîne un déséquilibre spécifique.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_scan_1dacd77291.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8005",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Quels sont les différents systèmes d'équilibrage ? </h2>",
+   "body": "<p><strong>En substance, on distingue trois systèmes d'équilibrage différents dans la technique d'équilibrage.</strong></p><ul><li><p>Équilibrage électronique : dans ce cas, le déséquilibre de la meule est compensé directement sur la broche de meulage ; la technique correspondante peut soit être intégrée à la broche de meulage, soit être mise en œuvre par le déplacement manuel des contrepoids.</p></li><li><p>Supports d'équilibrage : deux supports d'équilibrage individuels (également appelés « supports d'équilibrage ») sont chacun équipés de deux disques d'équilibrage étroits montés sur des roulements à billes. Les supports à rouleaux sont généralement fixés sur des rails ou positionnés sur des plaques de granit de machines de mesure.</p></li><li><p>Balance d'équilibrage : les balances d'équilibrage déterminent le déséquilibre statique des meules. Dans ce cas, un seul plan est mesuré ; la meule est considérée comme équilibrée statiquement lorsque son centre de gravité est situé au centre, c'est-à-dire sur l'axe de rotation.</p></li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8006",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technique d'impact : vos avantages",
+     "href": "/ca-fr/solutions/technique-dequilibrage",
+     "caption": "<figcaption> <h3>Technique d'impact : vos avantages</h3> <p>L'équilibrage est sous-estimé. Pourtant, l'équilibrage permet d'améliorer la rentabilité, car il réduit l'usure d'outil coûteuse et soulage les broches des machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/equilibrage-dun-disque-abrasif",
+ "de_path": "/schleifscheibe-auswuchten"
+}

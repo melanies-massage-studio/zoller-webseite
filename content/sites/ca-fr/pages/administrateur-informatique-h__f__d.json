@@ -1,0 +1,310 @@
+{
+ "path": "/administrateur-informatique-h/f/d",
+ "url": "/ca-fr/administrateur-informatique-h/f/d",
+ "title": "Administrateur informatique (h/f/d)",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Entreprises /",
+   "href": "/ca-fr/entreprises"
+  },
+  {
+   "label": "Carrière /",
+   "href": "/ca-fr/entreprises/carriere"
+  },
+  {
+   "label": "Offres d'emploi",
+   "href": "/ca-fr/entreprises/carriere/offres-demploi"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Entreprises /",
+   "href": "/ca-fr/entreprises"
+  },
+  {
+   "label": "Carrière /",
+   "href": "/ca-fr/entreprises/carriere"
+  },
+  {
+   "label": "Offres d'emploi",
+   "href": "/ca-fr/entreprises/carriere/offres-demploi"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/it-administrator-m/w/d",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/controller-m/f/d-2-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/controleur-h/f/d-2-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/controlador-m/f/d-2-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/controllore-m/f/d-2-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/controller-m/k/d-1-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/controller-m/w/d-1-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/administrateur-informatique-h/f/d",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E6%80%A7%E5%88%A5%E4%B8%8D%E5%95%8F-1-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%84%B1%EB%B3%84-%EB%AC%B4%EA%B4%80-1-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/controller-m/w/d-2-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/controlador-m/f/d-2-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/controlador-m/f/d-2-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Administrateur informatique (h/f/d)",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Votre avantage",
+     "href": "/ca-fr/administrateur-informatique-h/f/d/votre-avantage",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c98039",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Domaine des systèmes informatiques </h3> <h1> Administrateur informatique (h/f/d) – Infrastructure informatique et assistance </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/IT_Administrator_2026_06_18_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Offre d'emploi à télécharger (pdf)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97999",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Votre profil</h4><ul><li>Formation achevée d'informaticien spécialisé en intégration de systèmes ou qualification équivalente dans le domaine informatique</li><li>Expérience professionnelle dans le support informatique ainsi que dans l'administration d'environnements clients et serveurs Windows</li><li>Bonnes connaissances de l'environnement Microsoft (Windows Server, Active Directory, Microsoft 365)</li><li>Une expérience dans l'utilisation de solutions de déploiement de logiciels et de gestion des clients est un atout</li><li>Connaissances de base dans les domaines de la virtualisation (VMware vSphere), des solutions de sauvegarde et des technologies réseau</li><li>Approche axée sur le service et la recherche de solutions, ainsi qu’un goût pour les relations avec les utilisateurs</li><li>Méthode de travail structurée, autonome et responsable</li><li>Esprit d'équipe, excellentes compétences en communication et grande disponibilité</li><li>Très bonne maîtrise de l'allemand ainsi que bonne maîtrise de l'anglais à l'oral et à l'écrit<br/> </li></ul><h4>Vos missions</h4><ul><li>Interlocuteur privilégié des collaborateurs pour les questions informatiques et les pannes techniques (support de 1er et 2e niveau), ainsi que l’analyse, le traitement et la documentation des demandes d’assistance</li><li>Configuration, suivi et maintenance des PC, ordinateurs portables, imprimantes et appareils mobiles, y compris la gestion des appareils mobiles (iPhone/iPad)</li><li>Gestion des utilisateurs et des droits d’accès, ainsi que l’accompagnement de nos sites nationaux et internationaux pour </li><li>questions liées à l’informatique</li><li>l’administration et la gestion de l’environnement de serveurs Windows, d’Active Directory, d’Exchange et d’autres services d’infrastructure centraux</li><li>Distribution et packaging de logiciels via la plateforme centrale de distribution logicielle (Microsoft Intune)</li><li>Assistance à l'exploitation et au développement de l'environnement de virtualisation (VMware vSphere) ainsi que de l'infrastructure de sauvegarde</li><li>Installation, configuration et maintenance des serveurs, des postes clients et des autres équipements informatiques</li><li>Mise à jour et maintenance de la documentation technique</li><li>Participation aux projets d’infrastructure, aux déploiements et aux mises en service de systèmes, ainsi qu’au développement de l’environnement<br/> informatique</li></ul><h4>Lieu</h4> <p>Pleidelsheim, Allemagne.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97979",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c98019",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Postuler en ligne </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97939",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Souhaitez-vous mettre vos compétences au service de la réussite de notre entreprise ? Dans ce cas, nous attendons votre candidature avec impatience.</p> <p>Postulez dès maintenant !</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97919",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c97959",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/administrateur-informatique-h/f/d",
+ "de_path": "/it-administrator-m/w/d"
+}

@@ -1,0 +1,421 @@
+{
+ "path": "/solutions/technique-de-retraction",
+ "url": "/ca-fr/solutions/technique-de-retraction",
+ "title": "technique de rétraction",
+ "description": "technique de rétraction",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "technique de rétraction",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "technique de rétraction",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/schrumpftechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/shrink-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/amarre-termico-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/technique-de-retrecissement",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/montagem-termica-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tecnologia-per-il-calettamento-a-caldo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/krympteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/schrumpftechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/shrink-technology",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/technique-de-retraction",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/shrink-technology",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/tecnica-de-contraccion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/montagem-termica-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/0/csm_header_shrinking_da2d643d5d.webp",
+     "video": null,
+     "title": "technique de rétraction",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c694",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Nous avons repensé la technologie de rétraction. Le processus de rétraction et de déformation est désormais plus efficace que jamais. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c696",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Les ateliers de fabrication utilisant des outils à emmanchement à chaud trouveront chez ZOLLER les appareils d'emmanchement à chaud les plus modernes actuellement disponibles. Nous avons entièrement repensé, sur le plan technologique, les sous-processus fondamentaux de l'emmanchement à chaud. Les gains en matière d'efficacité énergétique, de vitesse de traitement et de gestion des processus sont exceptionnels. </strong></p> <p>Gain de temps, rendement élevé et préservation des mandrins de rétraction : grâce à une technologie innovante, les appareils ZOLLER destinés à la rétraction et à l’emboîtement d’outils à tige atteignent des performances de pointe dans tous les domaines pertinents. <br/>Pour les ateliers de fabrication qui souhaitent non seulement réaliser le rétreint des outils, mais aussi les régler et les mesurer, nous proposons des solutions 2-en-1. Elles combinent un rétreint à longueur précise avec les données géométriques exactes issues des appareils de réglage et de mesure ultraprécis de ZOLLER.</p> <p>Une technologie exceptionnelle pour des résultats exceptionnels. </p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-de-retraction\">Voir les produits</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c697",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c695",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Il suffit de suivre la lumière </h2>",
+   "body": "<p>Chez ZOLLER, l'ergonomie, la sécurité et la simplicité d'utilisation ont toujours été une priorité. Sur les machines de rétraction, cela se traduit par trois systèmes de guidage à LED. Ceux-ci vous guident en toute sécurité tout au long du processus de rétraction, vous informent de l'état des bobines et vous indiquent quand le refroidissement est terminé.</p> <p>Ils s’appellent »actbyLight«, »shrinkbyLight« et »coolbyLight«. Une exclusivité ZOLLER. </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c698",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Une efficacité exceptionnelle </h2>",
+   "body": "<p class=\"large-text\">Le système à induction développé par ZOLLER vous garantit un rendement élevé de près de 100 %. Les bobines sont équipées de deux enroulements parallèles. La quasi-totalité de la puissance électrique fournie est consacrée au chauffage des mandrins de serrage à contraction.</p> <p class=\"large-text\">De plus, chaque cycle de chauffage et de refroidissement s'effectue à une vitesse fulgurante. Une efficacité extrême pour vos processus de rétraction. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/d/csm_shrinking_01_e63ec03bf9.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c700",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Données précieuses sur les outils </h2>",
+   "body": "<p class=\"large-text\">Les données jouent un rôle essentiel dans le système ZOLLER. Les processus de rétrécissement génèrent également des données d'outils qui peuvent être exploitées pour la gestion des outils. Pour tous les outils équipés d'une »puce« ZOLLER »idChip«, vous pouvez enregistrer automatiquement les cycles de chauffage et les sauvegarder à l'aide du logiciel »pilot 4.0«. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/0/csm_shrinking_02_d3c241dbbc.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c699",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Une qualité haut de gamme et performante </h2>",
+   "body": "<p class=\"large-text\">Avec les appareils de rétraction ZOLLER, vous bénéficiez d'une technologie de pointe et d'une qualité éprouvée, conçue pour durer. Tous ces appareils s'intègrent immédiatement dans votre chaîne de production et contribuent à votre productivité. </p> <p class=\"large-text\">La »série powerShrink« ainsi que les appareils »redomatic 400« et »redomatic 600« sont certifiés TÜV et UL/CSA. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/2/csm_shrinking_03_2905d02cf7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c701",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Réduction réalisable de la consommation d'énergie :*",
+   "value": "30 %",
+   "note": "* par rapport au modèle précédent",
+   "ftype": "zoller_count-banner",
+   "id": "c702",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Solutions de rétraction </h2>",
+   "items": [
+    {
+     "href": "/ca-fr/produits/technique-de-retraction/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>Le système de rétraction offrant une efficacité énergétique optimale et une sécurité maximale</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/technique-de-retraction/redomatic",
+     "title": "»redomatic«",
+     "text": "<p>Appareil universel de réglage et de mesure avec système de serrage d'outils intégré</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1639",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/5/csm_zoller_system_teaser_fr_442fdf1d03.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Démarrez par une solution – Entrez dans un système.",
+     "href": "/ca-fr/le-systeme",
+     "caption": "<figcaption> <h3>Démarrez par une solution – Entrez dans un système.</h3> <p>Nos clients bénéficient d'approches globales que nous développons depuis des décennies. Le résultat : une excellente efficacité. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/solutions/technique-de-retraction",
+ "de_path": "/solutions/schrumpftechnik"
+}

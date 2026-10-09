@@ -1,0 +1,362 @@
+{
+ "path": "/products/tool-management/tool-assembly/toolstation/configuration",
+ "url": "/ca/products/tool-management/tool-assembly/toolstation/configuration",
+ "title": "»»toolStation«« – Configuration",
+ "description": "configuration - »»toolStation«« – Configuration",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "tool assembly /",
+   "href": "/ca/products/tool-management/tool-assembly"
+  },
+  {
+   "label": "»»toolStation«« /",
+   "href": "/ca/products/tool-management/tool-assembly/toolstation"
+  },
+  {
+   "label": "configuration",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "tool assembly /",
+   "href": "/ca/products/tool-management/tool-assembly"
+  },
+  {
+   "label": "»»toolStation«« /",
+   "href": "/ca/products/tool-management/tool-assembly/toolstation"
+  },
+  {
+   "label": "configuration",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/smart-cabinets/toolstation/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-assembly/toolstation/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/montaje-de-herramienta/toolstation/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/montage-doutil/toolstation/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/montagem-de-ferramenta/toolstation/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/montaggio-utensile/toolstation/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygsmontering/toolstation/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeugmontage/toolstation/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-assembly/toolstation/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/montage-doutils/toolstation/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91/toolstation/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/toolstation/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-assembly/toolstation/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/montaje-de-herramienta/toolstation/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/toolstation/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»»toolStation««",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/products/tool-management/tool-assembly/toolstation",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "configuration",
+     "href": "/ca/products/tool-management/tool-assembly/toolstation/configuration",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/ca/products/tool-management/tool-assembly/toolstation/software-integration",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/tool-management/tool-assembly/toolstation/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/tool-management/tool-assembly/toolstation/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3090",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Everything at a Glance </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3088",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">With ZOLLER Smart Cabinets, you're in charge: Make your preselection and establish contact with our ZOLLER sales team—we'll be happy to advise you and configure the model of your choice.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3087",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3089",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Size and Design </h2>",
+   "table": "<table> <tbody> <tr> <td> H x W x D: 2100 x 2450 x 1040 mm – with rear panel and two »toolOrganizer« 600 units« </td> </tr> <tr> <td> H x W x D: 2100 x 2450 x 1040 mm – with rear panel and one »toolOrganizer« 600« </td> </tr> <tr> <td> H x W x D: 2100 x 2450 x 1040 mm – simple rear panel </td> </tr> <tr> <td> H x W x D: 925 x 2450 x 1040 mm – without rear panel, with power strip and two »toolOrganizer« 600 units« </td> </tr> <tr> <td> H x W x D: 925 x 2450 x 1040 mm – without rear panel, without power strip, and without »toolOrganizer« 600« </td> </tr> <tr> <td> H x W x D: 2100 x 1630 x 1040 mm – with rear panel and one »toolOrganizer« 600« </td> </tr> <tr> <td> H x W x D: 925 x 1630 x 1040 mm – without rear panel and one »toolOrganizer« 600« </td> </tr> <tr> <td> H x W x D: 2100 x 1630 x 1040 mm – simple rear panel </td> </tr> <tr> <td> H x W x D: 925 x 1630 x 1040 mm – without rear panel, without power strip, and with one »toolOrganizer« 600« </td> </tr> <tr> <td> H x W x D: 925 x 1630 x 1040 mm – without rear panel, without power strip, and without »a »toolOrganizer« 600« </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3086",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> control </h2>",
+   "table": "<table> <tbody> <tr> <td> Rack-mountable panel PC with »quickPick« control software </td> </tr> <tr> <td> TMS Tool Management Solutions – workstation </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3085",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Options </h2>",
+   "table": "<table> <tbody> <tr> <td> »toolOrganizer« with drawers or doors </td> </tr> <tr> <td> Panel PC mounted on the rear panel or with a table holder </td> </tr> <tr> <td> Mounting hook set for hanging assembly tools on the rear panel </td> </tr> <tr> <td> Tool mounting device </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3081",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data - including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/products/tool-management/tool-assembly/toolstation/configuration",
+ "de_path": "/produkte/toolmanagement/smart-cabinets/toolstation/konfiguration"
+}

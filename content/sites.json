@@ -1,0 +1,39 @@
+{
+ "de": {
+  "repo": "zoller-webseite",
+  "url": "https://mzollercreations.github.io/zoller-webseite/",
+  "out": "docs",
+  "country": "",
+  "flag": "de",
+  "locales": [
+   {"lang": "de", "code": "de-DE", "src": "", "dir": "", "label": "Deutsch", "name": "Deutschland"}
+  ],
+  "company": {"name": "E. ZOLLER GmbH & Co. KG", "lines": ["Einstell- und Messgeräte", "Gottlieb-Daimler-Straße 19", "D-74385 Pleidelsheim"],
+              "phone": "+49 7144 8970-0", "email": "info@zoller.info"}
+ },
+ "ca": {
+  "repo": "zoller-canada",
+  "url": "https://mzollercreations.github.io/zoller-canada/",
+  "out": "dist/zoller-canada",
+  "country": "Canada",
+  "flag": "ca",
+  "locales": [
+   {"lang": "en", "code": "en-CA", "src": "ca", "dir": "", "label": "English", "name": "Canada", "home": "/ca/accueil"},
+   {"lang": "fr", "code": "fr-CA", "src": "ca-fr", "dir": "fr", "label": "Français", "name": "Canada", "home": "/ca-fr/page-daccueil"}
+  ],
+  "company": {"name": "ZOLLER Canada Inc.", "lines": ["2820 Argentia Road, Unit-5", "Mississauga, ON L5N 8G4", "Canada"],
+              "phone": "+1 905 821-7664", "email": "sales@zoller-canada.com"}
+ },
+ "mx": {
+  "repo": "zoller-mexico",
+  "url": "https://mzollercreations.github.io/zoller-mexico/",
+  "out": "dist/zoller-mexico",
+  "country": "México",
+  "flag": "mx",
+  "locales": [
+   {"lang": "es", "code": "es-MX", "src": "mx", "dir": "", "label": "Español", "name": "México", "home": "/mx/pagina-de-inicio"}
+  ],
+  "company": {"name": "ZOLLER Tecnologías S. de R.L. de C.V.", "lines": ["Calle Pirineos 515, interior nave 16", "Zona Industrial Benito Juárez", "76120 Querétaro, Qro., México"],
+              "phone": "+52 442 361 3423", "email": "sales@zoller-mexico.com"}
+ }
+}

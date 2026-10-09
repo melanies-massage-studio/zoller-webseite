@@ -1,0 +1,724 @@
+{
+ "path": "/solutions/gestion-des-outils",
+ "url": "/ca-fr/solutions/gestion-des-outils",
+ "title": "Gestion des outils",
+ "description": "Gestion des outils",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Gestion des outils",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Gestion des outils",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tool-management",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/tool-management",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/toolmanagement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tool-management",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/toolmanagement",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/toolmanagement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/4/2/csm_TMS_header_7f682a9503.webp",
+     "video": null,
+     "title": "TMS Tool Management Solutions",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c162950",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Gestion des outils",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Aperçu",
+     "href": "/ca-fr/solutions/gestion-des-outils",
+     "current": false
+    },
+    {
+     "label": "TMS Software",
+     "href": "/ca-fr/solutions/gestion-des-outils/tms-software",
+     "current": false
+    },
+    {
+     "label": "TMS Hardware",
+     "href": "/ca-fr/solutions/gestion-des-outils/tms-hardware",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/solutions/gestion-des-outils/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/solutions/gestion-des-outils/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c162951",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Système de gestion garantissant un processus de fabrication continu, interconnecté et sécurisé </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c163485",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Un Toolmanagement efficace est aujourd'hui la clé de processus stables, de coûts réduits et d'une production transparente. Maîtriser les données d'outils, les équipements et les stocks permet d'éviter les temps de recherche, les erreurs de commande et les temps d'arrêt des machines – et d'augmenter la productivité dès le premier jour. C'est exactement là qu'intervient ZOLLER : </strong></p> <p>vous démarrez avec le puissant »TMS Core« et étendez votre système étape par étape grâce à six modules complémentaires. Résultat : une transparence totale, des processus sécurisés et un Toolmanagement qui évolue de manière fiable au rythme de vos exigences dans votre production. Utilisez dès maintenant le coup d’envoi et préparez votre Toolmanagement pour l’avenir. ZOLLER associe logiciel et matériel pour former un système de gestion d’usine intelligente qui rend les processus liés aux outils nettement plus efficaces et plus visibles : </p> <p><strong>Démarrez par une solution – Adoptez un système</strong></p> <p><a class=\"btn\" href=\"/ca-fr/solutions/gestion-des-outils/tms-software\">Indication du logiciel TMS</a> <a class=\"btn\" href=\"/ca-fr/solutions/gestion-des-outils/tms-hardware\">Indication du matériel TMS</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c163486",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c163484",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/1/c/csm_TMS_Uebersicht_FR_f60b5623e8.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 947
+   },
+   "spots": [],
+   "ftype": "zoller_image-hotspots",
+   "id": "c164287",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Toolmanagement cohérent ",
+    "Intégration système indépendante et flexible ",
+    "Solution logicielle modulaire"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c163409",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Dix avantages </h3> <h2> ZOLLER TMS – la gestion numérique des outils </h2>",
+   "body": "<ul><li><p class=\"large-text\"><strong>01 </strong>Préparation des outils garantissant la sécurité des processus</p></li><li><p class=\"large-text\"><strong>02 </strong>Numérisation des données d'outils</p></li><li><p class=\"large-text\"><strong>03 </strong>Inventaire transparent des outils</p></li><li><p class=\"large-text\"><strong>04</strong> Traçabilité des outils</p></li><li><p class=\"large-text\"><strong>05</strong> Processus de production standardisés</p></li><li><p class=\"large-text\"><strong>06</strong> Transparence maximale des données d’outillage</p></li><li><p class=\"large-text\"><strong>07</strong> Accès depuis tous les sites</p></li><li><p class=\"large-text\"><strong>08</strong> Intégration transparente dans le matériel ZOLLER</p></li><li><p class=\"large-text\"><strong>09</strong> Intégration de bout en bout jusqu’à la machine</p></li><li><p class=\"large-text\"><strong>10 </strong>Augmentation mesurable de la productivité</p></li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_TMS_vorteile_b7d8d2f387.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164335",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Formule tout compris </h3> <p>ZOLLER TMS a une structure modulaire et peut être étendu de manière ciblée, jusqu’à la Smart Factory »entièrement automatisée. La mise en route est volontairement simple : vous démarrez avec exactement les fonctions dont vous avez besoin aujourd’hui. Ainsi, le Toolmanagement reste un investissement sûr à long terme – de la mise en route rapide jusqu’à la configuration finale complète avec des processus automatisés. <strong>Démarrez simplement. Évoluez de manière modulaire. Automatisez en vue de l’avenir.</strong>«</p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/c/8/csm_icon_rundumsorglos_dcb36369fd.webp",
+        "alt": "",
+        "w": 680,
+        "h": 406
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c163870",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Licences flottantes</h3> <p>Les licences flottantes ZOLLER offrent une flexibilité maximale dans l'utilisation du système de Toolmanagement. Les licences sont disponibles de manière centralisée sur le réseau, sont attribuées de manière automatique en fonction des besoins et sont immédiatement autorisées dès la fermeture de TMS. Ce modèle de licence est idéal pour les environnements de production aux exigences variables et garantit un accès <strong>100 % évolutif</strong> à toutes les informations.</p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/1/f/csm_icon_floating_089e9f6749.webp",
+        "alt": "",
+        "w": 680,
+        "h": 406
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c163871",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Application Web </h3> <p>ZOLLER TMS est installé de manière centralisée sur le serveur de l'entreprise et prépare <strong>des</strong> <strong>informations</strong> <strong>sur les outils et la production, quel que soit le site et le type de terminal utilisé, en fonction des fonctionnalités disponibles.</strong> L’accès s’effectue via un navigateur depuis des terminaux mobiles, tandis que les mises à jour centralisées réduisent considérablement et durablement la charge de maintenance et d’administration pour les utilisateurs ainsi que pour le service informatique.</p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/6/c/csm_icon_webapp_b501e0c3eb.webp",
+        "alt": "",
+        "w": 680,
+        "h": 406
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c163873",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c163869",
+   "bg": "yellow",
+   "space": {
+    "before": "extra-small",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Gestion centralisée de l'atelier d'outillage </h2>",
+      "body": "<p><strong>ZOLLER TMS est la solution centrale pour une gestion efficace de l'atelier d'outillage et garantit une transparence totale tout au long du cycle de vie des outils. De la planification à la préparation à la remise à neuf, tous les outils, composants et données sont gérés dans une base de données centrale. </strong></p> <p><strong>Résultat :</strong> ZOLLER TMS devient la plaque tournante numérique et contrôlée de la production. Les temps de recherche sont réduits, les stocks optimisés et les processus standardisés. Du système FAO à l'entrepôt, en passant par le réglage et la mesure des outils, ZOLLER TMS crée un flux de travail continu – pour une sécurité maximale des processus, une transparence des coûts et une productivité optimale dans l'atelier d'outillage.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c164342",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "hotspots",
+      "header": "",
+      "intro": "",
+      "img": {
+       "src": "/fileadmin/_processed_/4/9/csm_TMS_toolroom_management_ca0964daf7.webp",
+       "alt": "",
+       "w": 1540,
+       "h": 824
+      },
+      "spots": [
+       {
+        "x": 10.906,
+        "y": 72.12,
+        "label": "DAO/FAO",
+        "text": "<h3>DAO/FAO</h3> <h4><strong>1</strong> | DAO/FAO</h4> <p>Le Toolmanagement de ZOLLER fournit les données d'outils du début à la fin du processus.</p>"
+       },
+       {
+        "x": 24.429,
+        "y": 72.005,
+        "label": "Gestion des stocks",
+        "text": "<h3>Gestion des stocks</h3> <h4><strong>2</strong> | Gestion des stocks</h4> <p>Grâce aux ZOLLER Smart Cabinets, les outils, composants, accessoires et outils complets sont saisis numériquement et peuvent être localisés. </p> <p><a class=\"btn\" href=\"/ca-fr/produits/gestion-des-outils/magasin-doutillage\">En savoir plus</a></p>"
+       },
+       {
+        "x": 41.959,
+        "y": 72.005,
+        "label": "Préparation des outils",
+        "text": "<h3>Préparation des outils</h3> <h4><strong>3</strong> | Préparation des outils</h4> <p>Les Smart Cabinets garantissent la disponibilité automatique des outils et réduisent les temps de recherche – la visibilité sur les stocks assure une plus grande efficacité et une meilleure sécurité des processus de fabrication.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/gestion-des-outils/montage-doutils\">En savoir plus</a></p>"
+       },
+       {
+        "x": 56.397,
+        "y": 71.813,
+        "label": "Fretter",
+        "text": "<h3>Fretter</h3> <h4><strong>4</strong> | Fretter</h4> <p>Le <br/>ZOLLER »powerShrink« séduit par son système à induction adapté aux mandrins de frettage, son système de refroidissement performant ainsi que son utilisation intuitive grâce au concept ZOLLER »»actbyLight«« à commande par LED.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-de-retraction/powershrink\">En savoir plus</a></p>"
+       },
+       {
+        "x": 70.117,
+        "y": 71.889,
+        "label": "Équilibrage",
+        "text": "<h3>Équilibrage</h3> <h4><strong>5</strong> | Équilibrage</h4> <p>Pour une utilisation efficace et performante de vos machines CNC, vous avez besoin d’outils parfaitement équilibrés. Avec le ZOLLER »toolBalancer,« vous équilibrez vos outils avec une précision imbattable et utilisez un produit durable, respectueux de l’environnement et ergonomique.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-dequilibrage/toolbalancer\">En savoir plus</a></p>"
+       },
+       {
+        "x": 81.885,
+        "y": 71.659,
+        "label": "Régler et mesurer",
+        "text": "<h3>Régler et mesurer</h3> <h4><strong>6</strong> | Régler et mesurer</h4> <p>Les bancs de <br/>réglage et de mesure de ZOLLER offrent une précision de l'ordre du micromètre. Leur utilisation intuitive garantit à tout moment des résultats de mesure reproductibles.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/reglage-et-mesure/appareils-verticaux/smile\">En savoir plus</a></p>"
+       },
+       {
+        "x": 93.338,
+        "y": 71.767,
+        "label": "Logistique des outils",
+        "text": "<h3>Logistique des outils</h3> <h4><strong>7</strong> | Logistique des outils</h4> <p>Pour les opérations de transport entre l'entrepôt d'outils, la préparation des outils et la machine CNC.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/automatisation/logistique-des-outils/coralogistic\">En savoir plus</a></p>"
+       }
+      ],
+      "ftype": "zoller_image-hotspots",
+      "id": "c164443",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c164440",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Transparence de l'outil dans la production </h2>",
+      "body": "<p><strong>Les outils contrôlés à l'aide du banc de réglage et de mesure ZOLLER sont transportés de manière automatisée »par« »coraLogistic«. Grâce à ZOLLER »zidCode 4.0«,« les données d'outils correspondantes sont transférées directement et sans erreur à la machine CNC par simple scan. Chaque outil est ainsi attribué de manière univoque à une machine, et les données sont directement intégrées dans la commande. La production dispose ainsi à tout moment de données d’outils correctes, à jour et cohérentes – rapidement, en toute sécurité et sans saisie de données manuelle.</strong></p> <p><strong>Résultat :</strong> grâce à »zidCode 4.0« ou »zidCode,« les données d’outils sont transférées directement à la machine CNC de manière simple, fiable et avec une sécurité des processus, via RFID ou par le biais de post-processeurs.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c164341",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "hotspots",
+      "header": "",
+      "intro": "",
+      "img": {
+       "src": "/fileadmin/_processed_/2/2/csm_TMS_transparenz_a44f1fa6db.webp",
+       "alt": "",
+       "w": 1540,
+       "h": 824
+      },
+      "spots": [
+       {
+        "x": 11.535,
+        "y": 71.739,
+        "label": "Logistique automatisée des outils",
+        "text": "<h3>Logistique automatisée des outils</h3> <h4><strong>7</strong> | Logistique automatisée des outils</h4> <p>Pour les opérations de transport entre le magasin d'outils, la préparation des outils et la machine CNC.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/automatisation/logistique-des-outils/coralogistic\">En savoir plus</a></p>"
+       },
+       {
+        "x": 22.558,
+        "y": 71.826,
+        "label": "»»zidCode««",
+        "text": "<h3>»»zidCode««</h3> <h4><strong>8</strong> | Transfert de données <br/>avec »»zidCode««</h4> <p>»»zidCode«« garantit une identification unique des outils et un transfert de données sécurisé et sans erreur via un code QR.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode\">En savoir plus</a></p>"
+       },
+       {
+        "x": 53.349,
+        "y": 71.739,
+        "label": "»»zidCode« 4.0«",
+        "text": "<h3>»»zidCode« 4.0«</h3> <h4><strong>9</strong> | Transfert de données <br/>avec »»zidCode 4.0««</h4> <p>Avec ZOLLER »»zidCode 4.0««, vous transférez entièrement les données d'outils vers la commande numérique par ordinateur, sans aucune erreur de saisie ni de transmission. </p> <p><a class=\"btn\" href=\"/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/zidcode-40\">En savoir plus</a></p>"
+       },
+       {
+        "x": 82.279,
+        "y": 71.652,
+        "label": "Post-processeurs / Systèmes RFID",
+        "text": "<h3>Post-processeurs / Systèmes RFID</h3> <h4><strong>10</strong> | Transfert de données à l'aide de post-processeurs ou de systèmes RFID</h4> <p>Les <br/>post-processeurs préparent les données d'outils à la commande numérique par ordinateur et permettent un transfert de données automatique et sans erreur.</p> <p>Le transfert de données par RFID permet la transmission sans contact des données d'outils directement vers la machine CNC.</p>"
+       }
+      ],
+      "ftype": "zoller_image-hotspots",
+      "id": "c164442",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c164439",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Données intelligentes et connectées relatives au Toolmanagement </h2>",
+      "body": "<p><strong>Avec ZOLLER TMS comme base de données centrale, l'automatisation de bout en bout du processus d'outillage commence. TMS contrôle ainsi »coraLogistic«, la solution logistique intelligente, qui automatise des processus tels que l'identification des outils, la mesure des outils, leur stockage ainsi que le changement automatisé d'outils dans la machine. ZOLLER TMS relie »loadBox«, »coraMeasure LG« et »coraMachineLoad« pour former un processus fermé et continu, de l’identification à l’alimentation automatisée de la machine. Toutes les données d’outils sont gérées dans TMS et transmises à la machine de manière fiable et avec une sécurité des processus conforme aux exigences du processus. </strong></p> <p><strong>Résultat :</strong> ZOLLER TMS contrôle l’ensemble du processus d’outillage et jette les bases d’une Automatisation pérenne, fonctionnant 24 h/24 et 7 j/7, au plus haut niveau de qualité.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c164333",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "hotspots",
+      "header": "",
+      "intro": "",
+      "img": {
+       "src": "/fileadmin/_processed_/0/d/csm_TMS_automation_f50ea879ef.webp",
+       "alt": "",
+       "w": 1540,
+       "h": 824
+      },
+      "spots": [
+       {
+        "x": 70.97,
+        "y": 55.622,
+        "label": "»»coraLogistic««",
+        "text": "<h3>»»coraLogistic««</h3> <h4>»»coraLogistic««</h4> <p>Logistique <br/>automatisée des outils pour un processus de production efficace et fluide.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/automatisation/logistique-des-outils/coralogistic\">En savoir plus</a></p>"
+       },
+       {
+        "x": 66.8,
+        "y": 66.867,
+        "label": "»»coraMachineLoad««",
+        "text": "<h3>»»coraMachineLoad««</h3> <h4>»»coraMachineLoad««</h4> <p>»»coraMachineLoad«« charge automatiquement les machines-outils et garantit un approvisionnement fiable et efficace de la production.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/automatisation/logistique-des-outils/coramachineload\">En savoir plus</a></p>"
+       },
+       {
+        "x": 64.555,
+        "y": 85.007,
+        "label": "»»loadBox««",
+        "text": "<h3>»»loadBox««</h3> <h4>»»loadBox««</h4> <p>Préparation <br/>automatisée des outils pour une production efficace, avec les outils nécessaires au bon moment.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox\">En savoir plus</a></p>"
+       },
+       {
+        "x": 16.68,
+        "y": 85.007,
+        "label": "»»coraMeasure LG««",
+        "text": "<h3>»»coraMeasure LG««</h3> <h4>»»coraMeasure LG««</h4> <p>La mesure automatisée des outils avec »»coraMeasure LG«« pour des résultats de mesure précis et une efficacité maximale des processus.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/automatisation/preparation-des-outils/corameasure-lg\">En savoir plus</a></p>"
+       }
+      ],
+      "ftype": "zoller_image-hotspots",
+      "id": "c164436",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c164438",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/5/csm_zoller_system_teaser_fr_442fdf1d03.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Démarrez par une solution – Entrez dans un système.",
+     "href": "/ca-fr/le-systeme",
+     "caption": "<figcaption> <h3>Démarrez par une solution – Entrez dans un système.</h3> <p>Nos clients bénéficient d'approches globales que nous développons depuis des décennies. Le résultat : une excellente efficacité. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/solutions/gestion-des-outils",
+ "de_path": "/solutions/toolmanagement"
+}

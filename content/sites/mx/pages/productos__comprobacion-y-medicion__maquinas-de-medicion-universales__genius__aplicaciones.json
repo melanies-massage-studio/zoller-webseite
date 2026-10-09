@@ -1,0 +1,348 @@
+{
+ "path": "/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/aplicaciones",
+ "url": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/aplicaciones",
+ "title": "»genius« – Aplicaciones",
+ "description": "Aplicaciones - »genius« – Aplicaciones",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Comprobación y medición /",
+   "href": "/mx/productos/comprobacion-y-medicion"
+  },
+  {
+   "label": "Máquinas de medición universales /",
+   "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales"
+  },
+  {
+   "label": "»genius« /",
+   "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius"
+  },
+  {
+   "label": "Aplicaciones",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Comprobación y medición /",
+   "href": "/mx/productos/comprobacion-y-medicion"
+  },
+  {
+   "label": "Máquinas de medición universales /",
+   "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales"
+  },
+  {
+   "label": "»genius« /",
+   "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius"
+  },
+  {
+   "label": "Aplicaciones",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen/universal-messmaschinen/genius/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring/universal-measuring-machines/genius/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genio/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer/machine-de-mesure-universelle/genius/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao/maquina-de-medicao-universal/genius/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione/macchine-di-misura-universali/genius/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta/universella-maetmaskiner/geni/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen/universal-messmaschinen/genius/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring/universal-measuring-machines/genius/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/genie/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E6%B1%8E%E7%94%A8%E6%B8%AC%E5%AE%9A%E6%A9%9F/genius/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/genius/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring/universal-measuring-machines/genius/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao/maquinas-de-medicao-universais/genius/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»genius«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Aplicaciones",
+     "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/aplicaciones",
+     "current": false
+    },
+    {
+     "label": "Software e integración",
+     "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/software-e-integracion",
+     "current": false
+    },
+    {
+     "label": "Opciones y accesorios",
+     "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/opciones-y-accesorios",
+     "current": false
+    },
+    {
+     "label": "Datos técnicos",
+     "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/datos-tecnicos",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c814",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> »genius« se convierte en especialista en roscas </h1>",
+   "body": "<p>¿Desea medir herramientas con inclinación sin contacto, sin distorsiones y con una precisión de μm? </p> <p>Amplíe su ZOLLER »genius« con »threadCheck«: gracias a los seis ejes CNC y al soporte óptico multisensor basculante »orthoScan«, podrá medir todo tipo de herramientas de corte de forma automática, rápida y con absoluta precisión. </p> <p><a class=\"btn\" href=\"#c3635\">Programa de medición de roscas ZOLLER</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_gewinde_b8c99b9ec0.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c829",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": {
+    "src": "/fileadmin/_processed_/8/1/csm_gewindemessprogramm_8e20ec33b4.webp",
+    "alt": "",
+    "w": 996,
+    "h": 589
+   },
+   "title": "Programa de medición de roscas",
+   "text": "<p>Para roscas de tubo métricas ISO, ANSI y Whitworth</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3635",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Presencia inteligente las 24 horas del día, los 7 días de la semana </h2>",
+   "body": "<p><strong>ZOLLER »roboSet 2«: automatiza su »genius«. Realiza la limpieza, carga, marca y ordena sus herramientas sin necesidad de mano de obra.</strong></p> <p><strong>Todas las mediciones se documentan por completo. Tras la medición, se etiquetan las herramientas con ZOLLER »roboMark«: un láser marca en milisegundos y de forma flexible el vástago/mango de la herramienta con los valores determinados individualmente durante el proceso de medición y otros datos.</strong></p> <p><a class=\"btn\" href=\"/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2\">Más información sobre »roboSet 2«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_8b281c6989.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 858
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1615",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Comprobación y medición: sus ventajas",
+     "href": "/mx/solutions/comprobacion-y-medicion",
+     "caption": "<figcaption> <h3>Comprobación y medición: sus ventajas</h3> <p>Descubra lo que es posible con ZOLLER en las inspecciones de la herramienta. Desde pruebas cercanas al proceso o análisis de alta gama hasta SKP, rugosidad y la creación de gemelos digitales.</p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales/genius/aplicaciones",
+ "de_path": "/produkte/pruefen-messen/universal-messmaschinen/genius/anwendungen"
+}

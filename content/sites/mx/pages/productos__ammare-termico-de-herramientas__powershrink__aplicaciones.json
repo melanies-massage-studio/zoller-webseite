@@ -1,0 +1,475 @@
+{
+ "path": "/productos/ammare-termico-de-herramientas/powershrink/aplicaciones",
+ "url": "/mx/productos/ammare-termico-de-herramientas/powershrink/aplicaciones",
+ "title": "»powerShrink«: aplicaciones",
+ "description": "Aplicaciones - »powerShrink«: aplicaciones",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Técnica de contracción de herramientas /",
+   "href": "/mx/productos/ammare-termico-de-herramientas"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/mx/productos/ammare-termico-de-herramientas/powershrink"
+  },
+  {
+   "label": "Aplicaciones",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Técnica de contracción de herramientas /",
+   "href": "/mx/productos/ammare-termico-de-herramientas"
+  },
+  {
+   "label": "»powerShrink« /",
+   "href": "/mx/productos/ammare-termico-de-herramientas/powershrink"
+  },
+  {
+   "label": "Aplicaciones",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/schrumpftechnik/powershrink/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/shrink-technology/powershrink/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/amarre-termico/powershrink/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-de-retrecissement/powershrink/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/montagem-termica-de-ferramentas/powershrink/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/krympteknik/powershrink/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/schrumpftechnik/powershrink/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/shrink-technology/powershrink/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-de-retraction/powershrink/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/shrink-technology/powershrink/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ammare-termico-de-herramientas/powershrink/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/montagem-termica-de-ferramentas/powershrink/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»powerShrink«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "modelos",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/modelos",
+     "current": false
+    },
+    {
+     "label": "Aplicaciones",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/aplicaciones",
+     "current": false
+    },
+    {
+     "label": "Opciones y accesorios",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/opciones-y-accesorios",
+     "current": false
+    },
+    {
+     "label": "Especificaciones técnicas",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/especificaciones-tecnicas",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/ammare-termico-de-herramientas/powershrink/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1146",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Llegue a su destino de manera segura y eficiente </h1>",
+      "body": "<p><strong>Con »powerShrink« de ZOLLER, las herramientas encogidas están listas para su uso rápidamente: gracias al software »pilot« de manejo intuitivo, al sistema de inducción inteligente y a la supervisión permanente de los pasos de trabajo.</strong></p> <p>La tecnología de »powerShrink« garantiza funciones de proceso muy cortas. Incluso los operarios sin experiencia pueden alcanzar los cortos tiempos de proceso resultantes tras un breve periodo de formación. El software de manejo »pilot« le guía a través de todos los pasos de trabajo y controla muchos procesos de forma completamente automática. El software muestra los componentes necesarios para cada paso de trabajo y le ayuda visualmente con indicaciones gráficas en la pantalla y el innovador concepto de manejo »actbyLight de« ZOLLER. La guía del operador controlada por luz para un uso seguro y eficiente del »powerShrink« en su empresa.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c1145",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/8/c/csm_ps_arbeitsschritte_01_1d67bafda1.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Insertar el portaherramientas térmico, seleccionar los parámetros de calentamiento (manualmente/automáticamente mediante »idChip«)</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/8/2/csm_ps_arbeitsschritte_02_7fbe9ad14e.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Sistema de protección: insertar y orientar el disco o »varOct« (manual/motorizado)</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/f/3/csm_ps_arbeitsschritte_03_59a29571d3.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Desplazar la bobina hacia abajo hasta el portaherramientas térmico.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/7/2/csm_ps_arbeitsschritte_04_d1d6b10cb5.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Iniciar el proceso de calentamiento, la representación del progreso del calentamiento se muestra en el software.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/2/4/csm_ps_arbeitsschritte_05_6a89d57efc.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Después del proceso de calentamiento, subir la bobina e insertar la herramienta de corte en el portaherramientas térmico.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/1/1/csm_ps_arbeitsschritte_06_c67d071d45.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Deslice la cubeta de recogida hacia la campana de refrigeración con luz verde intermitente y colóquela encima.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/c/csm_ps_arbeitsschritte_07_243a8d8b98.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>El proceso de enfriamiento se inicia de forma automática; la indicación del final se realiza con una luz azul intermitente.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/9/8/csm_ps_arbeitsschritte_08_eaa3a6241a.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Una vez finalizado el proceso de enfriamiento, retire la campana de refrigeración del portaherramientas térmico.</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2249",
+      "bg": "white",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2248",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Gestionado con claridad y perfectamente conectado </h2>",
+      "body": "<p>La representación gráfica claramente estructurada del software ZOLLER »pilot« guía al usuario de forma intuitiva y segura paso a paso por el diálogo de operación mediante grandes botones de función y un concepto de colores bien pensado. El monitor de 12.5 pulgadas convence por su nítida representación.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c1207",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/c/a/csm_pilot_software_home_7c48c5a9b8.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Menú principal</strong>: grandes áreas funcionales con imágenes claras: selección del tipo de mandril retráctil, selección de parámetros o escaneo de códigos.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/e/csm_pilot_software_01_9cf8a9b735.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Selección</strong> <strong>de parámetros</strong>: los parámetros de calefacción deseados se pueden seleccionar de manera sencilla y segura mediante interfaces de software claras y comprensibles.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/a/4/csm_pilot_software_02_804c34930c.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Función</strong> <strong>de escaneo</strong>: todos los parámetros correspondientes al portaherramientas térmico se cargan automáticamente, independientemente del fabricante. Es posible realizar la supervisión de la cantidad de procesos de calentamiento y visualizar la información de cada portaherramientas térmico.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/d/9/csm_pilot_software_03_ce773da547.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Guía paso a paso</strong>: durante todo el proceso de contracción, »pilot« le indica con exactitud qué paso debe realizar y cuándo.</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/e/4/csm_pilot_software_04_1b1ee4dc49.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p><strong>Indicaciones de estado</strong>: ya sea en modo calefacción o refrigeración, »pilot« le muestra en todo momento el progreso del proceso, así como importantes instrucciones de seguridad.</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c2452",
+      "bg": "white",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2450",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Técnica de contracción: sus ventajas",
+     "href": "/mx/solutions/tecnica-de-contraccion",
+     "caption": "<figcaption> <h3>Técnica de contracción: sus ventajas</h3> <p>Descubra cómo hemos logrado grandes avances en eficiencia energética, velocidad de proceso y ergonomía. Utilice la perfección para su producción. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/ammare-termico-de-herramientas/powershrink/aplicaciones",
+ "de_path": "/produkte/schrumpftechnik/powershrink/anwendungen"
+}

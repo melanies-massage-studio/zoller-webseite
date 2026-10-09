@@ -1,0 +1,537 @@
+{
+ "path": "/productos/tecnologia-de-balanceo/toolbalancer/aplicaciones",
+ "url": "/mx/productos/tecnologia-de-balanceo/toolbalancer/aplicaciones",
+ "title": "»toolBalancer«: aplicaciones",
+ "description": "Aplicaciones - »toolBalancer«: aplicaciones",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Tecnología De Balanceo /",
+   "href": "/mx/productos/tecnologia-de-balanceo"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer"
+  },
+  {
+   "label": "Aplicaciones",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Tecnología De Balanceo /",
+   "href": "/mx/productos/tecnologia-de-balanceo"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer"
+  },
+  {
+   "label": "Aplicaciones",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Aplicaciones",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/aplicaciones",
+     "current": false
+    },
+    {
+     "label": "Opciones y accesorios",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/opciones-y-accesorios",
+     "current": false
+    },
+    {
+     "label": "Datos técnicos",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/datos-tecnicos",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1052",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Aplicaciones </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1089",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Software operativo »toolBalancer« en 25 idiomas",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Software intuitivo con interfaz gráfica de usuario para un balanceo rápido y sencillo en uno o dos planos, incluyendo numerosas funciones estándar.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/7/csm_Bediensoftware_toolBalancer_DE_7deb604e59.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1094",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Pantalla táctil",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Cómodo manejo del software mediante pantalla táctil.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/8/csm_Touchscreen_DE_de8f698266.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1092",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ayuda óptica para el giro",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Indicación gráfica de la posición angular del husillo en el monitor.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/2/csm_Optische_Eindrehhilfe_DE_74944f939a.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1098",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Compensación de crecimiento",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p><strong>Corrección del</strong> <strong>desbalanceo «Pesos diferentes»</strong><br/>Compensación del desbalanceo mediante la colocación o retirada de pesos (por ejemplo, tornillos de balanceo). Incluye la posibilidad de especificar los juegos de pesos disponibles.</p> <p><strong>Corrección del balanceo «Desplazar pesos»:</strong><br/>compensación del desbalanceo mediante el giro de anillos de balanceo o tuercas de ranura.</p> <p><strong>Corrección del</strong> <strong>desbalanceo «Taladrado radial»:</strong><br/>compensación del desbalanceo mediante taladrado radial. Cálculo automático de la cantidad, la posición angular y el fondo de los orificios.</p> <p><strong>Corrección del</strong> <strong>desbalanceo «Fresado»:</strong><br/>compensación del desequilibrio mediante fresado radial, tangencial o axial.</p> <p><strong>Corrección del</strong> <strong>desbalanceo «Taladrado axial»:</strong><br/>compensación del desbalanceo mediante taladrado axial. Cálculo automático de la cantidad, la posición angular y la profundidad de los orificios.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1097",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Marcado con láser",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Indicación de la posición del desbalanceo y de la corrección en el mandril mediante un rayo láser.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/4/e/csm_Lasermarkierung_DE_89b2795da8.webp",
+            "alt": "",
+            "w": 1012,
+            "h": 703
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1101",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Balanceo en un plano",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Para medir y compensar el desbalanceo en un plano (estático).</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/6/csm_Wuchten_in_1_Ebene_DE_23e1e800e4.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1102",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Balanceo en dos planos",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Para medir y compensar el desbalanceo en dos planos (dinámico).</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/6/1/csm_Wuchten_in_2_Ebenen_DE_b11238d497.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1105",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Resultado de la salida de datos",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p><strong>Impresión de etiquetas</strong><br/>Impresión de los resultados de medición en uno o dos planos en una impresora de etiquetas ZOLLER.</p> <p><strong>Impresión de protocolos</strong><br/>Impresión del protocolo de medición en una impresora láser o como archivo PDF, incluida la función de edición.</p> <p><strong>Exportación de datos de medición</strong><br/>Exportación automática de datos de medición en formato CSV.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1106",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1090",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1088",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Técnica de impacto: sus ventajas",
+     "href": "/mx/solutions/tecnologia-de-equilibrado",
+     "caption": "<figcaption> <h3>Técnica de impacto: sus ventajas</h3> <p>El equilibrado se subestima. Sin embargo, el equilibrado aumenta la rentabilidad, ya que reduce el desgaste de herramienta, que genera costos, y alivia la carga de los husillos de las máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/tecnologia-de-balanceo/toolbalancer/aplicaciones",
+ "de_path": "/produkte/wuchttechnik/toolbalancer/anwendungen"
+}

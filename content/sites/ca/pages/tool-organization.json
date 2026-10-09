@@ -1,0 +1,435 @@
+{
+ "path": "/tool-organization",
+ "url": "/ca/tool-organization",
+ "title": "Tool Organization",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Tool Organization",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Tool Organization",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "Tool Organization Leads to Effectiveness",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Better tool organization not only creates more order in the operation—it also tangibly reduces machine downtime and thus increases the efficiency of your production. How does this happen?</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tool organization is more than just tidying up </h2>",
+   "body": "<p>In the reality and day-to-day operations of a shop floor, a little clutter is almost unavoidable—but a major circumstance in this is whether each tool has its own assigned spot where it can and should be placed.</p> <p>That is essentially the core of any tool organization system: ensuring that every tool can be found at any time. If you can avoid having to search for a tool, you’ll save yourself not only hassle and frustration but also a lot of work time and stress. Your machines won’t have to wait for their next use, the tool won’t be lying around unused—and you’ll be able to work much more efficiently.</p> <p>At ZOLLER, we strive for a holistic, comprehensive approach to tool organization. That’s why we combine our <strong>modular</strong> tool management <strong>software</strong> with <strong>smart storage systems</strong>, which together ensure that you always know exactly where a specific tool is located—and what condition it’s in, whether there are still enough spare parts available, whether replenishment needs to be ordered, and much more.</p> <p>And since the tool is, of course, intended for a specific task, the digital, error-free, and wireless <strong>transfer of tool data</strong> to the machine is also part of complete, holistic tool organization. This allows you to focus on what matters most: the efficient and effective manufacturing of your components.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Low machine downtime: Effective use of time and labor ",
+    "Full transparency at all times regarding the location and condition of all tools ",
+    "No supply gaps: Keep track of replacements and reorders"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tool Management Software for Every Need </h2>",
+   "body": "<p><strong>Efficient tool management is, above all, data management.</strong> </p> <p>It starts with entering the tool data for your individual components—such as cutting material and weight—into the presetting and measuring machine and feeding it into the system. Together with the setup sheets and other information, everything you need to know about a tool is thus gathered in one central location and available to every employee at any time.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Tool Management Made Easy </h2>",
+      "body": "<p>With our <strong>TMS Tool Management Solutions</strong> software, we offer you everything you need for tool management—all included in the BRONZE package. This includes, in particular, the following functions:</p><ul><li>Importing tool data from manufacturers’ catalogs or the cloud—securely, accurately, and quickly</li><li>Access to tool data from mobile devices</li><li>Full integration of your ZOLLER measuring and presetting machine</li><li>Every tool setting can be saved and called up immediately</li></ul><p><a class=\"btn\" href=\"/ca/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module\">Learn everything about the BRONZE software package</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Tool organization doesn't stop at the store </h2>",
+      "body": "<p><strong>Where exactly is this tool, and what condition is it in?</strong> You can take your tool management to the next step by digitally organizing and optimizing your stock management as well, thereby keeping track of your <strong>tool inventory</strong> in a way that’s tailored to your needs and quality standards. Specifically, this means:</p><ul><li>Search times are reduced,</li><li>setup times are shortened, and</li><li>tool settings happen almost automatically.</li></ul><p>Our SILVER package contains all these functionalities and enables you not only to track the location and usage of individual tools but also to ensure, effectively and in a timely manner, that sufficient parts and replacements are available. This means full integration of <strong>tool</strong> <strong>monitoring for quality control and wear analysis</strong>.</p> <p><a class=\"btn\" href=\"/ca/products/tool-management/tms-tool-management-solutions/software-packages/silver-operational-organization\">Learn all about the SILVER software package</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Tool Organization Reloaded </h2>",
+      "body": "<p>The GOLD standard for tool management fully integrates tools into all of your company’s processes and allows you to check in real time how effectively and at what cost a tool was used. This gives you <strong>full cost control and transparency</strong> in your tool management across the entire process chain.</p> <p>Because the tool management system documents how individual tools were used for different orders, you can generate statistics that provide exact insights into the efficiency of your work. Our software’s GOLD package offers all of this, plus additional features:</p><ul><li>Maximum efficiency in your tool data management</li><li>Systematic management of production jobs and setup sheets</li><li>Integrated tool life management</li><li>Optional integration with ordering systems, including supplier management</li></ul><p><a class=\"btn\" href=\"/ca/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-management\">Learn all about the GOLD software package</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tool Management That Takes the Work Off Your Hands </h2>",
+   "body": "<p><strong>Any tool management system is only as good as its ability to reduce your workload and that of your employees over the long term.</strong> Our <strong>TMS Tool Management Solutions</strong> software is designed to <strong>integrate</strong> fully and seamlessly <strong>with existing databases, machines, warehouse systems, and measuring machines</strong>. This allows it to reduce your workload, boost your efficiency, and make life on the shop floor easier.</p> <p>Thanks to the modular design of our software packages, you have the option of choosing exclusively the functionalities you actually need. And you can add new functionalities at any time if you want to take your tool organization to a higher level.</p> <p>Contact us—we’d be happy to advise you on all the details and provide you with a customized quote!</p> <p>More about webTMS</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tools, Smartly Stored </h2>",
+   "body": "<p>Our smart storage cabinets are the perfect complement to software-based tool management—because they provide automated, well-organized, and direct access to the requested tools.</p> <p>In addition, they’re helpful for managing and organizing everything you need for your shop floor’s day-to-day operations. Our various Smart Cabinet models let you systematically store a different range of materials—from tools and components to consumables, accessories, and measuring and testing equipment. Need to use your tools? In our storage systems, you’ll find exactly what you need immediately.</p> <p>From a <a class=\"link-arrow\" href=\"/ca/products/tool-management/tool-assembly/toolstation\">workbench</a> with all the comforts (and space) for tool assembly, where all components are within easy reach, to the versatile <a class=\"link-arrow\" href=\"/ca/products/tool-management/tool-transport/toolcart\">tool cart</a> with space for over 100 different tools, all the way to the large <a class=\"link-arrow\" href=\"/ca/products/tool-management/tool-storage/keeper\">cabinet for complete tools</a> and adapters —each storage option ensures optimal storage and management of your tools and materials.</p> <p>In our overview, you’ll find all Smart Cabinets and storage solutions—there’s sure to be the right option for your shop floor, too!</p> <p>Everything about our storage systems</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data - including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/tool-organization",
+ "de_path": "/werkzeugorganistation"
+}

@@ -1,0 +1,429 @@
+{
+ "path": "/tool-life",
+ "url": "/ca/tool-life",
+ "title": "Extending Tool Life – Tips & Solutions",
+ "description": "Extend the tool life: Factors affecting wear and tear, regrinding with µm precision, and tool monitoring. Boost your productivity now!",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Tool Life",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Tool Life",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/standzeit-werkzeug",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-life",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/vida-util-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/temps-de-fonctionnement-de-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/tempo-util-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/vita-dellutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygets-livslaengd",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/standzeit-werkzeug",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-life",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/duree-de-vie-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E8%80%90%E7%94%A8%E5%B9%B4%E6%95%B0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EB%AA%85",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-life",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/vida-util-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/tempo-util-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/f/csm_standzeit_header_573a919a37.webp",
+     "video": null,
+     "title": "Extend the Tool Life of Your Tools",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4279",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> How to Extend the Lifetime of Your Cutting Tools </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3831",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>The longer the tool life of a cutting tool, the lower the cost of that tool, and the more effectively it can work. So what’s the best way to increase tool life?</p> <p>From a purely linguistic perspective, the term “tool life” for cutting tools seems a bit counterintuitive. This is because it does not describe the time during which a tool sits idle and unused, but rather the exact opposite: Tool life refers to the total time during which a cutting tool is in use (i.e., actually performing material removal) before it needs to be exchanged. Time required to exchange the workpiece is therefore not included in the tool life.</p> <p>Exchanging a tool, in turn, incurs costs in several ways:</p><ul><li>A new tool must be purchased and used, while the old one must be regrounded or disposed of.</li><li>It takes labor time to remove the old tool (and, if necessary, regrind it later) as well as to use a new one.</li><li>While the tool is being exchanged, the machine is idle and the production process comes to a standstill—so the more frequently an exchange is required, the greater the production downtime.</li><li>You face higher storage and procurement costs for your tool inventory.</li></ul><p>Longer tool life therefore results in less machine downtime and thus enables more effective overall operations, thereby reducing your production costs.</p> <p>Purchasing new tools can be avoided by regrinding existing ones. Regrinding the tool cutting edges significantly extends the lifetime of the cutting tool, thereby saving on the cost of purchasing new tools. The »edgeControl« measuring machine is helpful here. The device detects the greatest amount of wear and tear on a cutting edge. This allows the tool to be reground only to the extent that is actually necessary, with µm-level accuracy.</p> <p><a class=\"btn\" href=\"/ca/products/inspection-measuring/universal-measuring-machine\">Learn more about wear marks and defects along the cutting edge</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4254",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4253",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> What factors affect<br/>tool life? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4257",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>The fact that tool life is limited at all is due to simple physical reasons: Machining causes wear and tear on the tool; after all, the material it is made of is subjected to mechanical stress and also heats up.</p> <p>This logically leads to the most important factors that influence tool life:</p><ul><li><p>The tool geometry—that is, the specific shape of the tool—</p></li><li><p>the material from which the tool is made,</p></li><li><p>the specific machining conditions (particularly cutting speed, feed, and depth of cut),</p></li><li><p>the material from which the workpiece is made (the workpiece material or cutting material), and</p></li><li><p>the temperature or changes in the tool’s temperature.</p></li></ul><p>Based on these factors, it can be concluded that, for example, low cutting speeds, a precisely calculated depth of cut, the usage of suitable coolants, and, of course, the usage of tools made of high-quality material adjusted to the workpiece material can, in some cases, significantly extend tool life because they slow down tool wear.</p> <p>Significant improvements can be achieved by implementing certain measures. At the same time, it is crucial to check the effectiveness of these measures during their day-to-day application. Here, it makes sense to utilize appropriate technologies for tool monitoring and tool management.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3962",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4256",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> How does tool wear manifest itself? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4261",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Wear and tear manifests itself in different ways on a cutting tool. At the core, there are two forms of wear and tear on a cutting tool: flank wear (as the name suggests, on the clearance of the tool) and gouge wear, which occurs on the rake face.</p> <p>The width of the wear mark and the depth of the gouge are often used as criteria to determine whether a tool needs to be exchanged or reground—in other words, whether its tool life has expired (“tool life criteria”).</p> <p>In addition to rake face wear and gouge wear, there are other forms of wear and tear:</p><ul><li>scaling (i.e., the oxidation of the tool surface by atmospheric oxygen, which can occur particularly at higher temperatures),</li><li>tears in the tool, and</li><li>cracks, which can occur primarily due to fluctuating mechanical and thermal stresses.</li></ul><p>Particularly for tool wear caused by high or rapidly changing temperatures, it is helpful to use a suitable coolant adjusted to the situation. This can significantly extend the lifetime of your precision tools.</p> <p>As tool wear increases, the tool’s cutting performance naturally decreases; more importantly, however—just as with a tool that has chipped edges—the accuracy and quality of the component suffer.</p> <h4>Longer tool life, more operating hours</h4> <p>Extending the tool life through appropriate measures and the selection of high-quality tools offers many advantages. You reduce machine downtime, optimize production schedules in the manufacturing area, work more effectively, and use your Precision tools for as long as possible without compromising the quality of your work.</p> <p>Overall, this increases your productivity, as the number of operating hours during which you can actually produce increases significantly in the medium and long term.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3963",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4260",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Complete Tool Control with ZOLLER </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4262",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>With ZOLLER TMS Tool Management Solutions, you always have a clear overview of your tools. Right from the goods receipt, you can measure all parameters, reject defective tools, and file a complaint if necessary. The ZOLLER »flash« software allows you to verify whether the tool lives promised by manufacturers are actually being met. This saves you money and ensures high-quality products.</p> <p><a class=\"btn\" href=\"/ca/products/tool-management\">Systematic Tool Management</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3964",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4259",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/d/csm_zoller_system_teaser_en_7ea3649d77.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Start with a Solution – Enter a System.",
+     "href": "/ca/the-system",
+     "caption": "<figcaption> <h3>Start with a Solution – Enter a System.</h3> <p>Our customers benefit from holistic solutions that we have been driving forward for decades. The result: excellent efficiency. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/tool-life",
+ "de_path": "/standzeit-werkzeug"
+}

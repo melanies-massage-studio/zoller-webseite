@@ -1,0 +1,429 @@
+{
+ "path": "/vida-util-de-la-herramienta",
+ "url": "/mx/vida-util-de-la-herramienta",
+ "title": "Aumentar la vida útil de las herramientas: consejos y soluciones",
+ "description": "Prolonga la vida útil de sus herramientas: factores de desgaste, reafilado con precisión de µm y supervisión de herramientas. ¡Prolonga ahora su productividad!",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Vida útil de la herramienta",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Vida útil de la herramienta",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/standzeit-werkzeug",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-life",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/vida-util-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/temps-de-fonctionnement-de-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/tempo-util-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/vita-dellutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygets-livslaengd",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/standzeit-werkzeug",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-life",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/duree-de-vie-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E8%80%90%E7%94%A8%E5%B9%B4%E6%95%B0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EB%AA%85",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-life",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/vida-util-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/tempo-util-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/f/csm_standzeit_header_573a919a37.webp",
+     "video": null,
+     "title": "Aumente la vida útil de sus herramientas",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4279",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> ¿Cómo prolongar la vida útil de sus herramientas de corte? </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3831",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Cuanto mayor sea la vida útil de una herramienta de corte, serán más escasos los costos de dicha herramienta y mayor será su eficacia. ¿Cuál es la mejor manera de aumentar la vida útil?</p> <p>Desde un punto de vista puramente lingüístico, el término «vida útil» para las herramientas de corte resulta un poco contradictorio. Porque no describe en absoluto el tiempo durante el cual una herramienta permanece inutilizada, sino todo lo contrario: la vida útil describe el tiempo total durante el cual una herramienta de corte está en uso (es decir, realmente elimina virutas) antes de que sea necesario cambiarla. Por lo tanto, el tiempo necesario para cambiar la pieza de trabajo no se incluye en la vida útil.</p> <p>A su vez, cambiar una herramienta genera costos en varios aspectos:</p><ul><li>hay que adquirir y insertar una herramienta nueva, y rectificar o desechar la antigua.</li><li>Se necesita tiempo de trabajo para retirar la herramienta antigua (y, si es necesario, reafilarla) y insertar una nueva.</li><li>Mientras se cambia la herramienta, la máquina está parada y el proceso de fabricación se detiene; cuanto más frecuente sea el cambio, mayores serán las pérdidas de producción.</li><li>Tendrá mayores costos de almacenamiento y adquisición para su inventario de herramientas.</li></ul><p>Por lo tanto, una mayor vida útil de las herramientas reduce el tiempo de inactividad de las máquinas y permite un trabajo más efectivo en general, lo que reduce los costos de producción.</p> <p>Se pueden evitar nuevas adquisiciones de herramientas mediante el reafilado de las mismas. El reafilado de los filos de las herramientas prolonga considerablemente la vida útil de la herramienta de corte y ahorra así los costos de adquisición de nuevas herramientas. Para ello resulta útil la máquina de medición »edgeControl«. El aparato detecta el mayor desgaste de un filo. Esto permite reafilar la herramienta solo en la medida en que sea realmente necesario, con una precisión exacta de µm.</p> <p><a class=\"btn\" href=\"/mx/productos/comprobacion-y-medicion/maquinas-de-medicion-universales\">Más información sobre marcas de desgaste y defectos a lo largo del borde de corte</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4254",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4253",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> ¿Qué factores influyen en<br/>la vida útil? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4257",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>El hecho de que la vida útil sea limitada se debe a razones puramente físicas: el mecanizado provoca el desgaste de la herramienta, ya que el material del que está hecha se somete a esfuerzos mecánicos y también se calienta.</p> <p>De ahí se derivan lógicamente los factores más importantes que influyen en la vida útil:</p><ul><li><p>la Geometría de la herramienta, es decir, la forma específica de la herramienta,</p></li><li><p>el material con el que se ha fabricado la herramienta,</p></li><li><p>las condiciones concretas del mecanizado (en particular, la velocidad de corte, el avance y la profundidad de corte),</p></li><li><p>el material con el que está fabricada la pieza de trabajo (el material de trabajo o de corte) y</p></li><li><p>la temperatura o los cambios de temperatura de la herramienta.</p></li></ul><p>De estos factores se deduce que, por ejemplo, unas velocidades de mecanizado más bajas, una profundidad de corte calculada con precisión, el uso de refrigerantes adecuados y, por supuesto, el uso de herramientas de material de alta calidad adaptadas al material también pueden prolongar significativamente la vida útil, ya que ralentizan el desgaste de herramienta.</p> <p>La aplicación de determinadas medidas permite lograr mejoras significativas en este sentido. Al mismo tiempo, es fundamental controlar el éxito de estas medidas durante su aplicación en el día a día. En este caso, es conveniente recurrir a las tecnologías adecuadas para la supervisión y la administración de herramientas.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3962",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4256",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> ¿Cómo se manifiesta el desgaste de herramienta? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4261",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>El desgaste se nota en la herramienta de diferentes maneras. Básicamente, hay dos tipos de desgaste en las herramientas de corte: el desgaste de la superficie libre (como su nombre indica, en la superficie libre de la herramienta) y el desgaste por cavitación, que se produce en la superficie de desprendimiento|superficie de arranque.</p> <p>La anchura de la marca de desgaste y la profundidad de la cavidad se utilizan a menudo como criterios para determinar si una herramienta debe cambiarse o rectificarse, es decir, si ha llegado al final de su vida útil («criterios de vida útil»).</p> <p>Además del desgaste de la superficie libre y el desgaste por cavitación, existen otras formas de desgaste:</p><ul><li>la oxidación (es decir, la oxidación de la superficie de la herramienta por el oxígeno del aire, que puede producirse especialmente a temperaturas altas),</li><li>perforaciones de la herramienta y</li><li>grietas, que pueden producirse principalmente por cargas mecánicas y térmicas que cambian.</li></ul><p>Especialmente en el caso del desgaste de herramienta causado por temperaturas elevadas o que cambian rápidamente, es útil utilizar un refrigerante adecuado y adaptado a la situación. Esto puede prolongar considerablemente la vida útil de sus herramientas de precisión.</p> <p>A medida que aumenta el desgaste de la herramienta, lógicamente disminuye su rendimiento de corte, pero sobre todo, al igual que ocurre con un cuchillo con rugosidad, se ve afectada la precisión y la calidad de la pieza que se está mecanizando.</p> <h4>Mayor vida útil, más horas de servicio</h4> <p>Prolongar la vida útil de sus herramientas mediante medidas adecuadas y la selección de herramientas de alta calidad tiene muchas ventajas. Reducirá el tiempo de inactividad de la máquina, optimizará los procesos en el área de fabricación, trabajará de forma más eficaz y utilizará sus herramientas de precisión durante el mayor tiempo posible sin que disminuya la calidad de su trabajo.</p> <p>En general, esto aumenta su productividad, ya que el número de horas de servicio en las que puede producir aumenta significativamente a medio y largo plazo.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3963",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4260",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Control total de las herramientas con ZOLLER </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4262",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Con las soluciones de gestión de herramientas ZOLLER TMS Tool Management Solutions, siempre tendrá sus herramientas a la vista. Ya en la entrada de mercancías, puede medir todos los parámetros, realizar la clasificación de las herramientas deficientes y, si es necesario, reclamarlas. El software »flash« de ZOLLER le permite comprobar si se cumplen las vidas útiles prometidas por los fabricantes. Esto ahorra dinero y garantiza productos de alta calidad.</p> <p><a class=\"btn\" href=\"/mx/productos/gestion-de-herramientas\">Gestión de herramientas con sistema</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3964",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4259",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/4/csm_zoller_system_teaser_es_85acaf2d2a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Inicie con una solución, ingrese a un sistema.",
+     "href": "/mx/el-sistema",
+     "caption": "<figcaption> <h3>Inicie con una solución, ingrese a un sistema.</h3> <p>Nuestros clientes se benefician de soluciones integrales que hemos estado desarrollando durante décadas. El resultado: una eficiencia excelente. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/vida-util-de-la-herramienta",
+ "de_path": "/standzeit-werkzeug"
+}

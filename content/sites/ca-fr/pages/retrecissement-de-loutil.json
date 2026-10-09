@@ -1,0 +1,385 @@
+{
+ "path": "/retrecissement-de-loutil",
+ "url": "/ca-fr/retrecissement-de-loutil",
+ "title": "Rétrécissement de l'outil",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Rétrécissement de l'outil",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Rétrécissement de l'outil",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-schrumpfen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-shrinkage",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/contraer-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fretter-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/retrair-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/calettare-lutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/krympning-av-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-schrumpfen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/retrecissement-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%8E%E7%B8%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EC%B6%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/shrink-tool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/contraer-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/retrair-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/1/b/csm_shrinking_header_4f2b52f126.webp",
+     "video": null,
+     "title": "Changement rapide d'outils à l'aide d'un appareil de rétraction",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4381",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>Avec un bon appareil de rétraction, le changement d'outil à l'aide de différents porte-outils s'effectue de manière rapide, simple et fiable. Nous vous expliquons ici plus en détail comment cela fonctionne et quels avantages cela apporte.</strong></h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4035",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Que se passe-t-il lors du rétrécissement d'un outil ?</h4> <p>Le rétrécissement d'un outil ne signifie pas que la taille de l'outil lui-même est réduite. Il s'agit plutôt de chauffer brièvement, de manière ciblée et uniforme, le porte-outil dans lequel est inséré, par exemple, un outil de perçage ou d'usinage, afin qu'il se dilate.</p> <p>Cela crée suffisamment d’espace dans le porte-outil pour y insérer l’outil. Lors du refroidissement, le matériau du porte-outil se contracte à nouveau de manière uniforme de tous les côtés. L’outil est ainsi serré avec une grande rigidité, une force de serrage maximale et de manière centrée.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4388",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>À quoi servent les mandrins à contraction spéciaux ?</h4> <p>Pour le rétrécissement, on utilise généralement des porte-outils spéciaux, appelés mandrins thermorétractables. Ils sont spécialement conçus pour conserver leur forme malgré des cycles répétés de chauffage et de refroidissement. Par exemple, ils ne comportent aucune pièce mobile, ce qui leur permet de conserver leur qualité d'équilibrage ; il est également important que la précision de concentricité du mandrin à contraction soit très élevée, car sinon, même un outil centré avec une grande précision ne servirait à rien.</p> <p>Par rapport aux mandrins de serrage classiques, les mandrins à serrage par contraction présentent le petit inconvénient de nécessiter un mandrin spécifique, de diamètre adapté, pour chaque diamètre de tige. Cela est toutefois compensé par une précision de concentricité nettement supérieure, ce qui revêt une grande importance pour l’usinage de pièces de haute qualité.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4387",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Qu'est-ce qu'une machine à rétracter, et comment fonctionne-t-elle ?</h4> <p>Une machine de rétraction chauffe rapidement et uniformément le mandrin de rétraction, c'est-à-dire le porte-outil, à l'aide d'un courant inductif (c'est-à-dire via un champ magnétique). Grâce à des outils et des dispositifs de mesure adaptés, on s'assure non seulement que le nouvel outil soit monté avec une centrage précis, mais on peut également garantir une précision longitudinale adéquate, la mesurer avant le refroidissement contrôlé de la douille de serrage et la corriger si nécessaire. Des capteurs appropriés empêchent également la surchauffe du mandrin à contraction ou de l’outil.</p> <p>La technique de serrage par contraction automatisée garantit ainsi, par exemple, que la longueur en porte-à-faux et tous les autres paramètres importants pour l’usinage des pièces soient mesurés et réglés automatiquement – tout en rendant l’outil à nouveau disponible en un temps record. Cela permet de réduire les temps de préparation et, globalement, de diminuer les coûts.</p> <p>Les bons appareils de rétraction sont en outre équipés de leur propre unité de refroidissement, dans laquelle le mandrin à rétraction est refroidi de manière homogène. On utilise par exemple un refroidissement par contact ; certains appareils fonctionnent également avec un refroidissement à l’eau. Grâce à ce refroidissement adéquat, le risque de brûlures, qui pourrait bien sûr survenir en cas de contact accidentel avec le porte-outil chauffé, est également écarté.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4382",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Réglage, rétrécissement et mesure : la solution combinée entièrement automatisée </h2>",
+   "body": "<p>Avec ZOLLER »redomatic,« le rétrécissement de vos outils s'effectue en toute simplicité et de manière entièrement automatique. Notre machine polyvalente pour le réglage, le rétrécissement et la mesure des outils – toutes ces opérations sont automatisées au sein d’un même processus – est équipée d’une commande CNC à 4 axes, d’un autofocus, d’un tourelle porte-outils, d’une bobine d’induction, d’une contre-poupée et d’un système de refroidissement.</p> <h4><br/>Sûr, économique et précis</h4> <p>Grâce au système breveté de butée de longueur automatique »asza«, il offre notamment la possibilité de rétracter les outils de manière simple, rapide et précise, avec une précision d’au moins +/- 10 µm par rapport à la longueur de consigne.</p> <p>Lors du chauffage des mandrins d’outils, ZOLLER »redomatic« n’applique que l’énergie strictement nécessaire, préservant ainsi vos mandrins ; le système de guidage de rétraction que nous avons conçu et le système breveté d’aspiration des fumées garantissent une sécurité accrue pour vos collaborateurs.</p> <p><a class=\"btn\" href=\"/ca-fr/solutions/technique-de-retraction\">Découvrez ici tout ce qu’il faut savoir sur notre solution de rétraction à succès</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4040",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Quels sont les avantages du rétrécissement et du dé-rétrécissement ? </h2>",
+   "body": "<p>Le serrage et le desserrage par contraction des outils présentent toute une série d'avantages :</p><ul><li>il est possible de centrer l'outil avant même le rétrécissement, ce qui empêche tout gauchissement et garantit une grande précision de concentricité.</li><li>L'outil est maintenu de manière uniforme dans le mandrin à serrage par contraction grâce à des forces de serrage élevées.</li><li>Les mandrins spécialisés offrent un excellent équilibre et ne se déforment pas, même après de nombreux cycles de thermorétraction.</li><li>Avec un appareil de serrage par contraction de haute qualité et un mandrin adapté, le processus de chauffage et de refroidissement dure moins d’une minute.</li><li>Pour les vitesses de rotation élevées et les outils présentant une grande longueur en porte-à-faux, aucun autre procédé de serrage ne permet une utilisation de l’outil aussi précise.</li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4039",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Tout en un seul endroit</h3> <p>Avec notre station de rétraction ZOLLER »powerShrink«, vous disposez en un seul endroit de tout ce dont vous avez besoin pour un processus de rétraction rapide. Grâce à sa conception modulaire, vous pouvez facilement adapter le poste de travail à vos besoins et à vos exigences.</p> <p>La station est universelle et s'adapte à tous les outils HSS et en carbure d'un diamètre compris entre 3 et 32 mm ; elle convient également aux outils extrêmement longs.</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-de-retraction/powershrink\">En savoir plus sur la station de rétraction ZOLLER »powerShrink«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c4038",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4036",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technique de rétrécissement : ses avantages",
+     "href": "/ca-fr/solutions/technique-de-retraction",
+     "caption": "<figcaption> <h3>Technique de rétrécissement : ses avantages</h3> <p>Découvrez comment nous avons obtenu ces gains considérables en matière d'efficacité énergétique, de vitesse de traitement et d'ergonomie. Utilisez la perfection pour votre production. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/retrecissement-de-loutil",
+ "de_path": "/werkzeug-schrumpfen"
+}

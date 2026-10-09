@@ -49,6 +49,37 @@ python3 tools/fetch_images.py
 python3 tools/build.py
 ```
 
+## Länderseiten (Kanada, Mexiko)
+
+Aus diesem Repository werden zusätzlich eigene Webseiten für einzelne Länder erzeugt – gleiches Design, gleiche Technik, aber Sprache, Kontakt, Adresse, Rechtstexte, Events und News des jeweiligen Landes. Jede Länderseite liegt in einem eigenen GitHub-Repository:
+
+| Land | Sprachen | Repository | Adresse |
+|---|---|---|---|
+| Kanada | Englisch, Französisch (`/fr/`) | [zoller-canada](https://github.com/mzollercreations/zoller-canada) | https://mzollercreations.github.io/zoller-canada/ |
+| Mexiko | Spanisch | [zoller-mexico](https://github.com/mzollercreations/zoller-mexico) | https://mzollercreations.github.io/zoller-mexico/ |
+
+- **Inhalte**: die offiziellen Sprachfassungen von zoller.info (`/ca/`, `/ca-fr/`, `/mx/`) – keine eigene Übersetzung der Seiteninhalte. Jede Seite kennt über `hreflang` ihr deutsches Gegenstück; darüber springt der Länderwechsel auf dieselbe Seite im anderen Land, und 3D-Produktbühnen, Kontakt- und Datenschutz-Links werden zugeordnet.
+- **Feste Texte** (Buttons, Menüs, Footer, Globus …): `tools/i18n.py`, Schlüssel ist der deutsche Text. Fehlende Übersetzungen meldet `build.py` am Ende.
+- **Länder, Sprachen, Adressen, Repositories**: `content/sites.json`. Ein weiteres Land = neuer Eintrag dort plus die Schritte unten.
+- **Länderwechsel**: Weltkugel im Header → „Land und Sprache wählen“ mit den Länderseiten (kleine Flaggen) und den übrigen zoller.info-Sprachen. Neben dem Logo steht der Ländername; in Kanada wechselt „FR“/„EN“ direkt die Sprache.
+
+```bash
+# Inhalte eines Landes holen (Sprachpfade: ca, ca-fr, mx)
+python3 tools/fetch_locale.py mx .cache/raw/mx
+.venv/bin/python tools/extract_locale.py mx .cache/raw/mx
+python3 tools/fetch_locale.py mx .cache/raw/mx --details     # verlinkte News/Erfolgsgeschichten
+.venv/bin/python tools/extract_locale.py mx .cache/raw/mx
+
+# Bauen und ansehen (Bilder werden aus docs/fileadmin übernommen oder geladen)
+python3 tools/build.py --site mx                 # -> dist/zoller-mexico
+python3 -m http.server 8767 --directory dist     # http://localhost:8767/zoller-mexico/
+
+# Veröffentlichen (Commit + Push ins Länder-Repository)
+tools/publish.sh mx
+```
+
+Nach Änderungen an Design oder Skripten alle drei Seiten neu bauen: `python3 tools/build.py`, `tools/publish.sh ca`, `tools/publish.sh mx`.
+
 ## Scroll-Effekte & 3D
 
 - **Startseite**: Gepinnte 3D-Bühne mit prozedural modelliertem Schrumpffutter (Steilkegel), beschichtetem 4-Schneiden-Fräser, gelbem Messring mit Messpunkten und dem ZOLLER-Symbol in 3D. Kamera, Rotation und Texte werden vom Scrollen gesteuert. Ohne WebGL oder bei „Bewegung reduzieren“ läuft stattdessen das originale Header-Video.

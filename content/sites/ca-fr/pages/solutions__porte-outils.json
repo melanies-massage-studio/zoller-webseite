@@ -1,0 +1,572 @@
+{
+ "path": "/solutions/porte-outils",
+ "url": "/ca-fr/solutions/porte-outils",
+ "title": "Porte-outils",
+ "description": "Porte-outils",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Porte-outils",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Porte-outils",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Porte-outils",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/solutions/porte-outils/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/solutions/porte-outils/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "Solutions d'outillage",
+   "text": "<p>Les porte-outils : l'interface idéale<br/>pour votre fabrication numérique</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Acheter maintenant</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nous proposons des solutions intelligentes </h2>",
+   "body": "<p>Porte-outils équipés de »la puce idChip« de ZOLLER. À votre demande, nous livrons tous les porte-outils avec une puce intégrée et un code DataMatrix. Vous identifiez ainsi vos porte-outils de manière univoque à tout moment et disposez de toutes les informations nécessaires : nombre de cycles de chauffage, utilisations sur la machine et bien plus encore. La finition des surfaces fonctionnelles importantes du porte-outil, telles que les épaulements de serrage tournés à froid et les rainures d’entraînement, garantit une longue durée de vie et une précision maximale lors du processus d’usinage. Durable, économique : tel est l’avenir.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Des processus interconnectés ",
+    "Une garantie de précision ",
+    "Un guichet unique"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Une fiabilité au service d'une précision maximale </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Perçage de la puce",
+     "text": "<h3>Perçage de la puce</h3> <h4>Alésage pour puce</h4> <p>Pour la fixation de supports de données tels que des puces RFID ou »des puces« ZOLLER »idChip« sur les porte-outils ZOLLER Tooling. De série sur les cônes à queue creuse HSK-A, les cônes à forte pente SK et les cônes à queue polygonale PSC.</p> <h4>ZOLLER »idChip«</h4> <p>Pour une identification unique de vos porte-outils et une durée de vie maximale du produit. À votre demande, nous livrons les porte-outils équilibrés, avec puce intégrée, directement dans votre atelier de production.</p> <h4>Technologie à 3 rainures</h4> <p>Dans l’alésage de la puce du porte-outil, la colle garantit un ajustement par complémentarité de forme pour une liaison sûre et solide.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Quatre filetages",
+     "text": "<h3>Quatre filetages</h3> <h4>Quatre filetages</h4> <p>Pour l'équilibrage de précision a posteriori des mandrins à serrage par contraction standard.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Ajustement long par rétrécissement",
+     "text": "<h3>Ajustement long par rétrécissement</h3> <h4>Ajustement par rétrécissement long avec rayon d'insertion</h4> <p>Garantit des forces de rétraction maximales grâce à la tension exercée par l'outil sur toute la longueur de la tige.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "épaulement d'alimentation",
+     "text": "<h3>épaulement d'alimentation</h3> <h4>Épaulement de serrage soumis à un usinage de finition rigoureux</h4> <p>Garantit un glissement optimal des segments de serrage sur l'épaulement de serrage et une excellente tension dans la broche. Il en résulte une concentricité au niveau de l'épaulement de serrage de 10 μm maximum (5 fois plus précise que la norme DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Tolérances de concentricité",
+     "text": "<h3>Tolérances de concentricité</h3> <h4>Tolérances de concentricité</h4> <p>Les solutions d'outillage garantissent une concentricité inférieure à 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Équilibré avec précision",
+     "text": "<h3>Équilibré avec précision</h3> <h4>Équilibrés avec précision</h4> <p><strong>Tous les porte-outils ZOLLER Tooling sont équilibrés avec précision</strong> – G2,5 à 25 000 <sup>tr/min</sup> ou déséquilibre résiduel max. ≤ 1 gmm. Il en résulte un fonctionnement silencieux de la broche lors de l'usinage, qui préserve les roulements. Vous bénéficiez ainsi d’une durée de vie prolongée de la broche, d’une finition optimale de la pièce et d’une durée de vie accrue des outils.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "rainures d'entraînement",
+     "text": "<h3>rainures d'entraînement</h3> <h4>Rainures d'entraînement soumises à un usinage de finition rigoureux</h4> <p>Elles garantissent un centrage à 100 % des rainures, un ajustement parfait dans la broche ainsi qu’une excellente transmission du couple.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "surface d'éjection",
+     "text": "<h3>surface d'éjection</h3> <h4>Surface d'éjection soumise à une finition rigoureuse</h4> <p>Garantit un déverrouillage sûr du porte-outil HSK lors du changement d'outil.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>Pour un tranchant d'outil parfaitement refroidi, un guidage optimal des copeaux et la prévention de l'accumulation de copeaux sur le tranchant de l'outil. La disposition en biais des alésages de refroidissement garantit que votre liquide de refroidissement arrive là où il est nécessaire : sur le tranchant de votre outil. Vous obtenez ainsi des résultats d'usinage optimaux et prolongez la durée de vie de vos outils.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Typiquement ZOLLER – tout d'un seul fournisseur </h2>",
+   "body": "<p>ZOLLER va toujours plus loin dans le développement de nouveaux produits et crée ainsi des solutions pour l'avenir. Ce principe ne s'applique pas uniquement à nos machines de mesure : nous le mettons en œuvre depuis des décennies. Équipez-vous pour répondre aux exigences numériques de demain et préparez-vous à l'usine intelligente de demain grâce à nos solutions ZOLLER Tooling Solutions.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/OKLwuZLfF2s?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Werkzeughelden"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Les solutions ZOLLER pour une production efficace </h2>",
+   "body": "<p>Profitez de nos solutions d'outillage ZOLLER pour optimiser votre processus de fabrication. Nous vous proposons une gamme complète de systèmes de fixation d'outils performants et de haute précision pour vos opérations d'usinage. Les solutions d'outillage ZOLLER constituent en outre l'interface parfaite pour votre fabrication numérique.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iaV2Il_Gqn8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Plus de 2 000 clichés </h2>",
+      "body": "<p>ZOLLER Tooling Solutions vous propose une gamme complète de porte-outils adaptés à toutes les exigences de vos processus d'usinage. Tous nos porte-outils dépassent systématiquement les exigences de la norme DIN.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "mandrin à contraction",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpffutter",
+     "caption": "<figcaption> <h3>mandrin à contraction</h3> <p>Pour le serrage d'outils à queue cylindrique en carbure ou en acier rapide (HSS).</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "mandrin à pince de serrage",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:spannzangenfutter",
+     "caption": "<figcaption> <h3>mandrin à pince de serrage</h3> <p>Pour le serrage d'outils à queue cylindrique dans des pinces de serrage ER.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Prises de vue de Weldona",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:weldonaufnahmen",
+     "caption": "<figcaption> <h3>Prises de vue de Weldona</h3> <p>Idéal pour l'utilisation d'outils sans alimentation interne en liquide de refroidissement.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Prises de vue « Whistle-Notch »",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:whistle-notch-aufnahmen",
+     "caption": "<figcaption> <h3> Prises de vue « Whistle-Notch »</h3> <p>Pour le serrage d'outils à queue cylindrique.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Pour fraises à visser",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:für-einschraubfräsen",
+     "caption": "<figcaption> <h3>Pour fraises à visser</h3> <p>Pour le serrage d'outils à queue cylindrique.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Porte-lames",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:messerkopfaufnahmen",
+     "caption": "<figcaption> <h3>Porte-lames</h3> <p>Pour le montage de fraises à rainure transversale, avec alimentation en liquide de refroidissement au niveau des arêtes de coupe.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Aiguilles combinées",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kombidorne",
+     "caption": "<figcaption> <h3>Aiguilles combinées</h3> <p>Pour le montage de fraises à rainures longitudinales et transversales.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Enregistrements en code Morse",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:morsekegelaufnahmen",
+     "caption": "<figcaption> <h3>Enregistrements en code Morse</h3> <p>Pour le montage d'outils à cône Morse avec languettes d'éjection conformes à la norme DIN 2288.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandrin court",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kurzbohrfutter",
+     "caption": "<figcaption> <h3>Mandrin court</h3> <p>Pour le serrage d'outils à queue cylindrique.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "HAWK EYE",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>HAWK EYE</h3> <p>Mandrin à pince de serrage de précision HAWK EYE® HPC</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Pinces de serrage ER",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:er-spannzangen",
+     "caption": "<figcaption> <h3>Pinces de serrage ER</h3> <p>»Mandrins à pince« ER et ER Mini</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Rallonges thermorétractables",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpfverlängerungen",
+     "caption": "<figcaption> <h3>Rallonges thermorétractables</h3> <p>Pour le montage d'outils à queue cylindrique.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Accessoires",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:zubehör",
+     "caption": "<figcaption> <h3>Accessoires</h3> <p>Rondelles d'étanchéité, écrous de serrage</p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> C'est à vous de jouer – n'hésitez pas ! </h2>",
+   "body": "<p>Notre boutique en ligne vous propose désormais la gamme complète de systèmes de serrage d'outils. Trouvez facilement, rapidement et en toute simplicité le porte-outil qui vous convient le mieux et utilisez immédiatement le jumeau numérique disponible dans votre système de FAO et de gestion des outils.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Accéder à la boutique d'outillage</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/solutions/porte-outils",
+ "de_path": "/solutions/werkzeugaufnahmen"
+}

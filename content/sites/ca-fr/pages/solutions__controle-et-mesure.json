@@ -1,0 +1,500 @@
+{
+ "path": "/solutions/controle-et-mesure",
+ "url": "/ca-fr/solutions/controle-et-mesure",
+ "title": "Contrôle et mesure",
+ "description": "Contrôle et mesure",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Contrôle et mesure",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/ca-fr/solutions"
+  },
+  {
+   "label": "Contrôle et mesure",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/pruefen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/inspection-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/inspeccion-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/controler-et-mesurer",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/comprovacao-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/controllo-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/kontrollera-maeta",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/pruefen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/inspection-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/controle-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/inspection-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/comprobacion-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/comprovacao-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/1/e/csm_header_inspection_e99c0f6332.webp",
+     "video": null,
+     "title": "Contrôle et mesure",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c684",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>La qualité se mesure aux détails. Avec ZOLLER, vous contrôlez tous les éléments déterminants pour la qualité. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c686",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Vérifiez vos outils et vos meules. Vous établissez ainsi des chaînes de preuves irréfutables concernant la qualité des processus et des produits. Les entreprises d'usinage mesurent les nouveaux outils à leur réception à l'aide de ZOLLER et identifient de manière fiable les traces d'usure en cours de fabrication. Les ateliers de rectification enregistrent les paramètres pour le processus de réaffûtage. En tant que fabricant d’outils, vous contrôlez la qualité des premiers échantillons et des lots d’outils. La précision est exceptionnelle : jusqu’à 0,1 µm.</strong></p> <p>ZOLLER propose l’équipement de contrôle adapté à chaque besoin : des appareils manuels pour des contrôles en quelques secondes, des appareils de contrôle automatisés avec lumière incidente et transmise, des appareils d’inspection pour le SKP et la rugosité, ainsi que des machines de mesure universelles entièrement automatisées pour les tâches complexes. Créez des jumeaux numériques ou garantissez la qualité de vos outils en 2D et 3D grâce à plus de 100 paramètres.</p> <p>Les contrôles d’outils avec ZOLLER apportent des réponses précises aux questions de qualité grâce à des données précises. </p> <p><a class=\"btn\" href=\"/ca-fr/produits/controle-et-mesure\">Voir les produits</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c687",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c685",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Inspection et interaction </h2>",
+   "body": "<p>Tous les appareils ZOLLER destinés à la mesure et au contrôle des outils sont équipés du logiciel de mesure »pilot 4.0« et de la base de données z.One.</p> <p>Toutes les données de réglage, de mesure et de contrôle des outils et des meules sont enregistrées au choix dans l'appareil ou de manière centralisée. De là, elles peuvent être transférées automatiquement vers vos rectifieuses ou machines d'usinage à commande numérique grâce à d'autres technologies ZOLLER.</p> <p>Avec ZOLLER, vous êtes également parfaitement équipé pour l'échange de données avec tous les systèmes CAO/FAO courants. </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c693",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Y voir clair en quelques secondes </h2>",
+   "body": "<p class=\"large-text\">Vérifiez dès le début du processus si les données destinées à la rectifieuse CNC sont correctes. Grâce aux appareils de la série pom, vous pouvez mesurer manuellement et en quelques secondes 70 paramètres directement à côté de la machine. Vous savez immédiatement si vos processus sont voués au succès. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/6/csm_inspection-and-measuring_01_c90e4b3d76.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c689",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Mesurer avec une précision de 0,1 µm </h2>",
+   "body": "<p class=\"large-text\">Avec ZOLLER, vous effectuez des analyses d'une précision microscopique et bénéficiez d'une imagerie de pointe. Les capteurs intégrés à l'appareil d'inspection »mµFocus« permettent de résoudre les structures au niveau de la préparation des arêtes de coupe et de la rugosité de surface avec une précision pouvant atteindre 0,1 µm. Le traitement d'image avec »pilot 4.0« génère à partir de ces données des visualisations bidimensionnelles et tridimensionnelles précises.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_inspection-and-measuring_02_68ae6129c7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c690",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Des essais simples et reproductibles </h2>",
+   "body": "<p class=\"large-text\">L'inspection d'outils avec ZOLLER est simple, car nous avons harmonisé le matériel et les logiciels à cet effet. Grâce à la commande CNC en option pour »smileCheck« et »smartCheck« ou à la gamme genius entièrement automatisée, les inspections d'outils s'effectuent sans nécessiter de formation approfondie. De plus, le module logiciel »elephant« facilite la tâche grâce à la reconnaissance automatique des outils et à un guidage intelligent de l'utilisateur. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/6/csm_inspection-and-measuring_03_019456175f.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c691",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Le potentiel d'amélioration de la productivité de vos rectifieuses CNC*",
+   "value": "25 %",
+   "note": "* Expérience pratique : gain de temps considérable lors des opérations de rectification et de rectification de rectification grâce à des données de mesure précises et à des meules calibrées de manière optimale ; temps de préparation réduits grâce au transfert automatisé des données.",
+   "ftype": "zoller_count-banner",
+   "id": "c692",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Appareils de contrôle et de mesure </h2>",
+   "items": [
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/genie",
+     "title": "»génie«",
+     "text": "<p>Il mesure plus de 100 paramètres avec une extrême précision et a fait ses preuves plus de 1 000 fois à travers le monde</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/titane",
+     "title": "»titane«",
+     "text": "<p>Pour les experts qui veulent tout savoir – y compris sur la préparation des bords de coupe</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/automatisation/inspection-des-outils/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>Gestion des outils pour »genius«, »3dCheck«, »threadCheck«, »titan« et »edgeControl«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/solutions-sur-mesure/solutions-sur-mesure/hobcheck",
+     "title": "»hobCheck«",
+     "text": "<p>Plus de 200 valeurs mesurées par des caméras à lumière transmise et à lumière incidente, ainsi que par des palpeurs de mesure</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Appareil de réglage et de mesure avec éclairage incident supplémentaire et analyse d'image avancée</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/solutions-sur-mesure/solutions-sur-mesure/threadcheckcc",
+     "title": "»﻿﻿﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+     "text": "<p>Système haut de gamme à six axes CNC et support optique multisenseur pivotant</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+      "alt": "",
+      "w": 1563,
+      "h": 1291
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1623",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Mesure axée sur les processus </h2>",
+   "items": [
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus",
+     "title": "»mμFocus«",
+     "text": "<p>Analyse les topographies et génère des images 3D des arêtes de coupe des outils</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic",
+     "title": "»pomBasic«",
+     "text": "<p>Contrôler plus de 70 paramètres sur l'outil en temps réel</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1624",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/5/csm_zoller_system_teaser_fr_442fdf1d03.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Démarrez par une solution – Entrez dans un système.",
+     "href": "/ca-fr/le-systeme",
+     "caption": "<figcaption> <h3>Démarrez par une solution – Entrez dans un système.</h3> <p>Nos clients bénéficient d'approches globales que nous développons depuis des décennies. Le résultat : une excellente efficacité. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/solutions/controle-et-mesure",
+ "de_path": "/solutions/pruefen-messen"
+}

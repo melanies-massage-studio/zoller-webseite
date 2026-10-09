@@ -1,0 +1,722 @@
+{
+ "path": "/produits/technique-dequilibrage/toolbalancer",
+ "url": "/ca-fr/produits/technique-dequilibrage/toolbalancer",
+ "title": "»toolBalancer«",
+ "description": "»toolBalancer« - Le système d'équilibrage alliant une technologie de pointe et un design ergonomique - Équilibrage des outils",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Technique d'équilibrage /",
+   "href": "/ca-fr/produits/technique-dequilibrage"
+  },
+  {
+   "label": "»toolBalancer«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Technique d'équilibrage /",
+   "href": "/ca-fr/produits/technique-dequilibrage"
+  },
+  {
+   "label": "»toolBalancer«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Applications",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/applications",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1087",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»toolBalancer«",
+   "text": "<p>Le système d'équilibrage alliant une technologie de pointe<br/>et un design ergonomique</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demander des informations dès maintenant</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_ab04491c9e.webp",
+    "alt": "",
+    "w": 1080,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1086",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nous sommes les garants d'un progrès intelligent </h2>",
+   "body": "<p>Grâce à des outils équilibrés de manière optimale et avec une grande précision, vous bénéficiez d'une durée de vie plus longue de vos outils, d'une durée de fonctionnement prolongée de la broche et d'une meilleure qualité de surface de vos pièces. Avec »toolBalancer«, vous assurez non seulement l'équilibre parfait de vos outils, mais aussi celui de l'ensemble de votre production, alliant durabilité, efficacité et progrès.</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\"><strong>Demandez dès maintenant</strong></a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1085",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/7/f/csm_toolBalancer_Frank_Hartstein2_123681c0f9.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Un équilibre unique entre fonctionnalité et ergonomie pour des résultats de mesure précis : c'est la garantie d'une précision et d'une sécurité certifiée pour votre production.</p> <p><strong>Frank Hartstein, membre de l'équipe de développement produit »toolBalancer«</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_toolBalancer_Christoph_Zoller2_490ea1f2a5.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Chez ZOLLER, entreprise spécialisée dans les technologies, nous avons mis à profit notre expérience et notre savoir-faire pour développer ce nouveau produit, franchissant ainsi une nouvelle étape importante et complétant la gamme de produits ZOLLER. Une approche typiquement ZOLLER : tout d'un seul et même fournisseur.</p> <p><strong>Christoph Zoller, directeur général</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_toolBalancer_Alexander_Zoller2_7bc76f629f.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">La combinaison parfaite entre design, ergonomie et intelligence technologique. La solution ZOLLER, certifiée en matière de sécurité, pour une utilisation respectueuse des ressources au sein de votre site de production.</p> <p><strong>Alexander Zoller, directeur général</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c1073",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Certifié TÜV et UL/CSA ",
+    "Socle massif de 500 kg ",
+    "Meilleurs résultats d'équilibrage : &lt; 0,4 gmm"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1074",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Une synergie haute performance </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/0/0/csm_toolBalancer_Infodots_19598a8bff.webp",
+    "alt": "",
+    "w": 1192,
+    "h": 1172
+   },
+   "spots": [
+    {
+     "x": 18.424,
+     "y": 44.444,
+     "label": "Capot de sécurité »twinPanel«",
+     "text": "<h3>Capot de sécurité »twinPanel«</h3> <h4>Capot de sécurité »twinPanel«</h4> <p>Conforme à la norme DIN ISO 21940-23, classe C60, pour une sécurité maximale.</p> <p>La « vitre sacrificielle » interne absorbe les salissures, telles que les résidus de lubrifiants de refroidissement, et les dommages causés par le détachement de composants. Cela permet de prendre en compte le processus très important, mais souvent négligé, du vieillissement des vitres de protection, résultant d’une utilisation quotidienne. Grâce au remplacement rapide et économique de la vitre sacrificielle, le ZOLLER »twinPanel« garantit en permanence la sécurité de vos opérateurs et opératrices.</p>"
+    },
+    {
+     "x": 36.522,
+     "y": 51.575,
+     "label": "Broche de haute précision",
+     "text": "<h3>Broche de haute précision</h3> <h4>Broche de haute précision</h4> <p>Compatible avec pratiquement tous les porte-outils grâce à un adaptateur d'équilibrage adapté. La broche fait tourner l'outil à une vitesse réglable de 400 à 1 200 tours par minute maximum, en fonction de son poids, et mesure le déséquilibre avec une précision inférieure à 0,4 gmm.</p> <p>Lors de la conception de la broche de haute précision, ZOLLER a accordé une attention particulière à la sécurité et à la certification du processus de changement d’adaptateur. Un élément de conception spécifique permet d’éviter les accidents et les dommages causés par des adaptateurs d’équilibrage non vissés dans la broche.</p>"
+    },
+    {
+     "x": 50.707,
+     "y": 67.496,
+     "label": "Compartiment pour adaptateurs",
+     "text": "<h3>Compartiment pour adaptateurs</h3> <h4>Compartiment de rangement pour adaptateurs avec volet avant pivotant</h4> <p>Trois emplacements de rangement pour un changement d'adaptateur ergonomique, sans effort pour le dos et rapide, sans avoir à s'accroupir.</p>"
+    },
+    {
+     "x": 33.424,
+     "y": 88.834,
+     "label": "Encoche de fourche",
+     "text": "<h3>Encoche de fourche</h3> <h4>Encoche pour fourches</h4> <p>Pour une installation flexible et un transport aisé du »toolBalancer« dans votre atelier à l'aide d'un transpalette.</p>"
+    },
+    {
+     "x": 73.859,
+     "y": 31.896,
+     "label": "Logiciel d'exploitation ZOLLER",
+     "text": "<h3>Logiciel d'exploitation ZOLLER</h3> <h4>Logiciel d'utilisation simple de ZOLLER</h4> <p>La présentation graphique structurée guide intuitivement l'opérateur tout au long du processus de mesure et d'équilibrage. </p> <p>La configuration de la machine s'effectue en saisissant les données géométriques de l'outil. Toutes les données sont enregistrées dans la base de données et restent disponibles pour une utilisation ultérieure.</p>"
+    },
+    {
+     "x": 73.75,
+     "y": 50.249,
+     "label": "Unité de commande « »cockpit »«",
+     "text": "<h3>Unité de commande « »cockpit »«</h3> <h4>Unité de commande séparée « »cockpit »«</h4> <p>Réglable en hauteur et en position, et doté d'un écran à inclinaison réglable, il peut être facilement déplacé vers la position souhaitée, offrant ainsi un confort d'utilisation optimal du logiciel. </p> <p>Outre la commande tactile, le »cockpit« permet la saisie via une souris et un clavier et dispose de rangements pour les imprimantes d'étiquettes et laser, les scanners portables et les outils tels que les clés Allen.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1084",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Atteindre sa destination rapidement et en toute sécurité </h2>",
+      "body": "<p><strong>»toolBalancer« facilite considérablement l'équilibrage des outils : grâce à son capot de sécurité »twinPanel« au design ergonomique, à son clavier à membrane confortable, à son compartiment de rangement pour les adaptateurs d'équilibrage et à ses rangements dans le vaste espace de travail.</strong></p> <p>Le logiciel d’exploitation ZOLLER, doté d’une interface graphique structurée, guide intuitivement l’opérateur tout au long du processus de mesure et d’équilibrage. Grâce à des options logicielles adaptées, toutes les applications d’équilibrage sur 1 à 2 plans sont disponibles, telles que l’équilibrage en position fixe à l’aide de vis d’équilibrage, l’utilisation de bagues d’équilibrage ou l’équilibrage par enlèvement de matière, par exemple par perçage ou fraisage.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c1297",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "slider",
+      "header": "",
+      "slides": [
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/3/1/csm_folientastatur_03_510bc9a335.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Ouvrir le capot, desserrer la fixation,<br/>tourner l'outil de 180° et le fixer</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/c/f/csm_folientastatur_05_839802995b.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Ouvrir le capot,<br/>corriger le déséquilibre (par exemple à l'aide de vis d'équilibrage)</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/b/b/csm_folientastatur_01_c9cb39b29d.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Ouvrir le capot,<br/>insérer l'outil et le serrer</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/2/8/csm_folientastatur_02_74fa69e935.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Fermer le capot et lancer la course 1</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/9/c/csm_folientastatur_04_67b73aa1b5.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Fermer le capot et lancer la course 2</p>"
+       },
+       {
+        "img": {
+         "src": "/fileadmin/_processed_/0/8/csm_folientastatur_06_8de63acc7e.webp",
+         "alt": ""
+        },
+        "head": "",
+        "text": "<p>Fermer le couvercle et lancer le cycle de contrôle,<br/>résultat de la mesure du cycle de contrôle</p>"
+       }
+      ],
+      "ftype": "zoller_slider",
+      "id": "c1299",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1296",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Nos adaptateurs : fiables et précis </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1081",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">La gamme d'adaptateurs d'équilibrage ZOLLER de haute précision, grâce à leur conception unique, vous permet de serrer de manière motorisée et surtout en toute sécurité les empoises SK, HSK et à queue polygonale, avec une précision de répétabilité jusqu'alors inégalée.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1082",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1080",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "",
+   "cols": 3,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/6/csm_toolBalancer_adapter_01_ee95cc4a5f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 429
+     },
+     "label": "Adaptateur SK SK 30/40/50",
+     "img": null,
+     "text": "<h4>Adaptateur SK – SK 30/40/50</h4><ul><li>Serrage pneumatique des outils<br/>avec bloc-ressorts</li><li>Haute reproductibilité et précision de répétition</li><li>Goupille de centrage avec éjecteur<br/>pour un changement aisé du porte-outil</li><li>Précision<br/>de répétabilité maximale grâce à un logement sans<br/>jeu, tant radial qu’axial, des porte-outils</li><li>Système à 5 points pour un serrage sans<br/>jeu du cône à forte pente</li><li>Sécurité certifiée lors du changement d’adaptateur</li><li>Équilibrage possible des porte-outils<br/>SK sans boulons de serrage</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/e/csm_toolBalancer_adapter_02_5df06a81c6.webp",
+      "alt": "",
+      "w": 680,
+      "h": 429
+     },
+     "label": "Adaptateur HSK HSK 32/40/50/63/80/100 (A/C/E-B/D/F)",
+     "img": null,
+     "text": "<h4>Adaptateur HSK – HSK 32/40/50/63/80/100 (A/C/E-B/D/F)</h4><ul><li>Serrage pneumatique des outils<br/>avec ensemble de ressorts de pression</li><li>Haute reproductibilité et précision de répétition</li><li>Goupille de centrage avec éjecteur<br/>pour un changement aisé du porte-outil</li><li>Précision<br/>de répétabilité maximale grâce à un logement sans<br/>jeu, tant radial qu’axial, des porte-outils</li><li>Sécurité certifiée lors du changement d'adaptateur</li></ul>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/c/csm_toolBalancer_adapter_03_f66ff0170c.webp",
+      "alt": "",
+      "w": 680,
+      "h": 429
+     },
+     "label": "Adaptateur conique à tige polygonale C 32/40/50/63/80",
+     "img": null,
+     "text": "<h4>Adaptateur à queue polygonale conique – C 32/40/50/63/80</h4><ul><li>Serrage pneumatique des outils<br/>avec bloc-ressorts</li><li>Haute reproductibilité et précision de répétition</li><li>Goupille de centrage avec éjecteur<br/>pour un changement aisé du porte-outil</li><li>Précision<br/>de répétabilité maximale grâce à un logement sans<br/>jeu, tant radial qu’axial, des porte-outils</li><li>Sécurité certifiée lors du changement d'adaptateur</li></ul>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c1079",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>Autres adaptateurs disponibles sur demande.</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Nous contacter</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c1083",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Du centre à la précision maximale </h2>",
+   "body": "<p>Le déséquilibre des outils résulte d'une conception asymétrique et de la répartition asymétrique des masses qui en découle. Le ZOLLER »toolBalancer« résout ce problème par des moyens similaires et mise, lors de la mesure et de l'équilibrage de vos outils, sur un décalage délibéré du centre dans l'adaptateur d'équilibrage.</p> <p>L'adaptateur d'équilibrage à décalage central est conçu avec un système à deux points de contact et une pièce de pression. Ceux-ci permettent d'obtenir un signal de capteur plus puissant et plus facilement mesurable, et garantissent des résultats d'équilibrage de haute précision, en particulier lorsque la qualité d'équilibrage est élevée et que le déséquilibre est faible.</p> <p><a class=\"btn\" href=\"#c3622\">En savoir plus</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/4/csm_toolBalancer_spindel_geometrie_v5_4a286074bb.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1076",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "overlay",
+   "img": null,
+   "title": "",
+   "text": "<h4>Décalage central</h4> <p>Le décalage axial, obtenu grâce à un déplacement défini du porte-outil par la pièce de pression en direction des surfaces d'appui, garantit une grande reproductibilité des résultats.</p> <h4>Appui fixe</h4> <p>Pour une reproductibilité élevée : les porte-outils sont fermement en appui contre les surfaces d'appui de l'adaptateur d'équilibrage.</p> <h4>Pièce de pression</h4> <p>La pièce de pression appuie le cône des porte-outils sans jeu contre les surfaces d'appui de l'adaptateur d'équilibrage.</p>",
+   "ftype": "zoller_overlay",
+   "id": "c3622",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> L'équilibrage, c'est la tranquillité pour les outils </h2>",
+   "body": "<p>Lorsque les outils rotatifs ne tournent pas de manière régulière, des vibrations apparaissent. Même à faible régime, celles-ci peuvent entraîner une usure accrue des outils, une dégradation de la qualité des surfaces et des contraintes supplémentaires sur les broches des machines. Faites donc équilibrer régulièrement vos outils sur un équilibreur ZOLLER. </p> <p>Découvrez les avantages de la solution d'équilibrage ZOLLER. </p> <p><a class=\"btn\" href=\"/ca-fr/solutions/technique-dequilibrage\">En savoir plus sur la technologie d'équilibrage</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/b/csm_zoller_weltweit_435e0ebe70.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 2094
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1075",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»toolBalancer 550«</h4> <p>Faites votre choix en toute simplicité et en toute clarté, ou contactez-nous ! Diamètre maximal de l'outil : 480 mm, longueur maximale de l'outil : 550 mm</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-dequilibrage/toolbalancer\">Demander un devis</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/b/5/csm_cta_toolBalancer550_c1c83e688d.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622,
+        "href": "/ca-fr/entreprises/contact"
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4129",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>»toolBalancer 750«</h4> <p>Faites votre choix en toute simplicité et en toute clarté, ou contactez-nous ! Diamètre maximal de l'outil : 480 mm, longueur maximale de l'outil : 750 mm</p> <p><a class=\"btn\" href=\"/ca-fr/produits/technique-dequilibrage/toolbalancer\">Demander un devis</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/b/3/csm_cta_toolBalancer750_ac2cdc46af.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 622,
+        "href": "/ca-fr/entreprises/contact"
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4130",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4128",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Entretien individuel avec un expert</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Prendre rendez-vous maintenant</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ca-fr/produits/technique-dequilibrage/toolbalancer",
+ "de_path": "/produkte/wuchttechnik/toolbalancer"
+}

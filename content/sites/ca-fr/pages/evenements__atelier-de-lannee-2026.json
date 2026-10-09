@@ -1,0 +1,337 @@
+{
+ "path": "/evenements/atelier-de-lannee-2026",
+ "url": "/ca-fr/evenements/atelier-de-lannee-2026",
+ "title": "Atelier de l'année 2026",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "Atelier de l'année 2026",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "Atelier de l'année 2026",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/toolroom-of-the-year-2026",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/aarets-verktygsverkstad-2026",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/toolroom-of-the-year-2026",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/toolroom-of-the-year-2026",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/atelier-de-lannee-2026",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/2026%E5%B9%B4-%E3%83%84%E3%83%BC%E3%83%AB%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/2026%EB%85%84-%EC%98%AC%ED%95%B4%EC%9D%98-%ED%88%B4%EB%A3%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/toolroom-of-the-year-2026",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/taller-de-herramientas-del-ano-2026",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Atelier de l'année 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Jury",
+     "href": "/ca-fr/evenements/atelier-de-lannee-2026/jury",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4812",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Le concours « ZOLLER 2026 Toolroom of the Year » est désormais ouvert ! </h1>",
+   "body": "<p>Inscrivez-vous dès maintenant ! Quelques images de l'année dernière</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/9/csm_toty2026_475452a854.webp",
+     "alt": "",
+     "w": 900,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7456",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Gagnez un voyage en Allemagne pour participer à notre circuit VIP, des packs d'optimisation de l'atelier d'outillage et des chèques-cadeaux pour que votre atelier d'outillage brille encore plus ! </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7453",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Faites découvrir au monde entier ce qui fait la force de votre atelier d'outillage ou de votre atelier de fabrication ! </h2>",
+      "body": "<p>Participer à notre concours « Atelier d'outillage de l'année » ne se résume pas à remporter le prix : il s'agit avant tout de mettre en avant votre atelier d'outillage ou votre usine, ainsi que les façons innovantes dont vous utilisez les solutions ZOLLER. Nous recherchons l'atelier d'outillage ou l'usine qui exploite pleinement le potentiel des solutions ZOLLER.</p> <p>Cela peut aller de l'utilisation d'un système de préréglage d'outils ZOLLER pour optimiser la production à la maîtrise totale de l'outillage grâce aux systèmes de gestion d'outils ZOLLER, en passant par l'automatisation des processus avec les solutions d'automatisation ZOLLER.</p> <p>En résumé, tous les clients ZOLLER peuvent participer à ce concours et tenter leur chance !</p> <p>Notre jury se basera sur les critères suivants pour sélectionner les lauréats, mais il n’est <strong>PAS</strong> nécessaire de remplir tous les critères pour gagner :</p><ul><li>Organisation et aménagement de l’atelier d’outillage ou de l’usine</li><li>Interfaces mises en place, par exemple vers la CAO/FAO ou l’ERP</li><li>Interfaces avec les systèmes de stockage</li><li>Rapidité et facilité d’accès aux outils</li><li>Modernité des équipements</li><li>Transparence du stock d'outillage</li><li>Étendue de la base de données d'outillage </li><li>Connectivité/échange de données avec les machines CNC et d'autres secteurs de production </li><li>Intégration dans le processus de fabrication </li></ul><p><strong>Le concours « Atelier d'outillage de l'année » est désormais ouvert ! Nous avons hâte de recevoir votre candidature !</strong></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7455",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c7454",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "slider",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_prize_01_474b0a394b.webp",
+      "alt": ""
+     },
+     "head": "<p> 1er prix </p>",
+     "text": "<p>Un voyage pour deux personnes en Allemagne pour participer au VIP Technology Tour de ZOLLER 2027 ! Et une vidéo de présentation de votre entreprise !</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/4/csm_prize_02_6bf8f68ed9.webp",
+      "alt": ""
+     },
+     "head": "<p> 2e prix </p>",
+     "text": "<p> Un bon d'achat pour le « Toolroom Efficiency Package » et une vidéo de présentation de votre entreprise !</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/b/csm_prize_03_2ef79140d5.webp",
+      "alt": ""
+     },
+     "head": "<p> 3e prix </p>",
+     "text": "<p> Le chariot à outils ZOLLER et une vidéo de présentation de votre entreprise !</p>"
+    }
+   ],
+   "ftype": "zoller_slider",
+   "id": "c7452",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Le concours « ZOLLER 2026 Toolroom of the Year » est désormais ouvert ! </h2>",
+   "body": "<p>Gagnez un voyage en Allemagne pour participer à notre circuit VIP, des packs d'optimisation de l'atelier d'outillage et des chèques-cadeaux pour que votre atelier d'outillage brille encore plus !</p> <p><a class=\"btn\" href=\"/ca-fr/evenements/atelier-de-lannee-2026\">En savoir plus</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/4/csm_toty_teaser_9b97fd60a7.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 600,
+     "href": "/ca-fr/evenements/atelier-de-lannee-2026"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7530",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/atelier-de-lannee-2026",
+ "de_path": ""
+}

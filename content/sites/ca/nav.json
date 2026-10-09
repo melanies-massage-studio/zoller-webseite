@@ -1,0 +1,817 @@
+{
+ "meta": [
+  {
+   "label": "Service",
+   "href": "/ca/company/contact/contact-person"
+  },
+  {
+   "label": "Media",
+   "href": "/ca/company/media"
+  },
+  {
+   "label": "Careers",
+   "href": "/ca/company/careers"
+  }
+ ],
+ "main": [
+  {
+   "label": "The System",
+   "href": "/ca/the-system"
+  },
+  {
+   "label": "Your Success",
+   "href": "/ca/your-success"
+  },
+  {
+   "label": "Solutions",
+   "href": "/ca/solutions",
+   "children": [
+    {
+     "label": "Why ZOLLER Solutions?",
+     "href": "/ca/solutions"
+    },
+    {
+     "label": "Presetting & Measuring",
+     "href": "/ca/solutions/presetting-measuring"
+    },
+    {
+     "label": "Toolmanagement",
+     "href": "/ca/solutions/toolmanagement",
+     "children": [
+      {
+       "label": "overview",
+       "href": "/ca/solutions/toolmanagement"
+      },
+      {
+       "label": "TMS Software",
+       "href": "/ca/solutions/toolmanagement/tms-software"
+      },
+      {
+       "label": "TMS Hardware",
+       "href": "/ca/solutions/toolmanagement/tms-hardware"
+      }
+     ]
+    },
+    {
+     "label": "Inspection & Measuring",
+     "href": "/ca/solutions/inspection-measuring"
+    },
+    {
+     "label": "Automation",
+     "href": "/ca/solutions/automation",
+     "children": [
+      {
+       "label": "overview",
+       "href": "/ca/solutions/automation"
+      },
+      {
+       "label": "Logistics",
+       "href": "/ca/solutions/automation/logistics"
+      },
+      {
+       "label": "tool preparation",
+       "href": "/ca/solutions/automation/tool-preparation"
+      },
+      {
+       "label": "tool assembly",
+       "href": "/ca/solutions/automation/tool-assembly"
+      },
+      {
+       "label": "tool inspection",
+       "href": "/ca/solutions/automation/tool-inspection"
+      }
+     ]
+    },
+    {
+     "label": "Tool Heat Shrink Technology",
+     "href": "/ca/solutions/tool-heat-shrink-technology"
+    },
+    {
+     "label": "Tool Holders",
+     "href": "/ca/solutions/tool-holders"
+    },
+    {
+     "label": "Tool Balancing Technology",
+     "href": "/ca/solutions/tool-balancing-technology"
+    },
+    {
+     "label": "CNC Stone Machining",
+     "href": "/ca/solutions/cnc-stone-machining"
+    }
+   ]
+  },
+  {
+   "label": "Products",
+   "href": "/ca/products",
+   "children": [
+    {
+     "label": "Product Overview",
+     "href": "/ca/products"
+    },
+    {
+     "label": "Presetting & Measuring",
+     "href": "/ca/products/presetting-measuring",
+     "children": [
+      {
+       "label": "Vertical Devices",
+       "href": "/ca/products/presetting-measuring/vertical-devices",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/ca/products/presetting-measuring/vertical-devices/smile",
+         "claim": "Your Introduction to Professional Alignment and Measurement",
+         "desc": "Rugged, µm-accurate entry-level devices for standard tools",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»»venturion««",
+         "href": "/ca/products/presetting-measuring/vertical-devices/venturion",
+         "claim": "The modular premium class for the most demanding requirements",
+         "desc": "Excellent tool setting and measurement with many options",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Horizontal Devices",
+       "href": "/ca/products/presetting-measuring/horizontal-devices",
+       "children": [
+        {
+         "label": "»»hyperion««",
+         "href": "/ca/products/presetting-measuring/horizontal-devices/hyperion",
+         "claim": "The all-around tool with a focus on turning tools",
+         "desc": "The Horizontal Presetting and Measuring Machine for Turning Operations",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Automation Solutions",
+       "href": "/ca/products/presetting-measuring/automation-solutions",
+       "children": [
+        {
+         "label": "»»coraMeasure LG««",
+         "href": "/ca/products/automation/tool-preparation/corameasure-lg",
+         "claim": "Automated Tool Measurement",
+         "desc": "Cost-Effective Tool Handling for ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»»roboBox««",
+         "href": "/ca/products/automation/tool-preparation/robobox",
+         "claim": "Modular Automation for the Toolroom",
+         "desc": "Up to six modules for tasks such as assembly, cleaning, measuring, shrinking, and more",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC Stone Machining",
+       "href": "/ca/products/presetting-measuring/cnc-stone-machining",
+       "children": [
+        {
+         "label": "»»smile GBO««",
+         "href": "/ca/products/presetting-measuring/cnc-stone-machining/smile-gbo",
+         "claim": "Measuring Stone and Wooden Tools",
+         "desc": "Enables especially precise elevation measurements using wide-field optics",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/ca/products/inspection-measuring/cnc-stone-machining/condress",
+         "claim": "Cleaning of Diamond-Coated Grinding Surfaces",
+         "desc": "Cleaning and Restoring the Cutting Performance of Stone-Cutting Tools",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Custom Solutions",
+       "href": "/ca/products/presetting-measuring/custom-solutions",
+       "children": [
+        {
+         "label": "Custom Solutions",
+         "href": "/ca/products/presetting-measuring/custom-solutions/custom-solutions",
+         "claim": "Solutions for Your Specific Requirements"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Tool Management",
+     "href": "/ca/products/tool-management",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/ca/software",
+       "children": [
+        {
+         "label": "»TMS Core«",
+         "href": "/ca/software/tms-core",
+         "claim": "Modulares System",
+         "desc": "The start point for digital tool management",
+         "img": "/fileadmin/_processed_/7/b/csm_TMSCore_product_664765c1fd.webp"
+        },
+        {
+         "label": "Add-on »z.Stock«",
+         "href": "/ca/software/add-on-zstock",
+         "claim": "Exakte Bestände",
+         "desc": "Ensures clear transparency in the tool warehouse",
+         "img": "/fileadmin/_processed_/6/a/csm_zStock_product_5160ca87bf.webp"
+        },
+        {
+         "label": "Add-on »z.CAM Integration«",
+         "href": "/ca/software/add-on-zcam-integration",
+         "claim": "Effizienter Workflow",
+         "desc": "Expands the system with powerful interfaces and integrates tool data directly into the workflow",
+         "img": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_5dd5c4a531.webp"
+        },
+        {
+         "label": "Add-on »z.Resources«",
+         "href": "/ca/software/add-on-zresources",
+         "claim": "Zentrale Kapazitäten",
+         "desc": "Manages all additional resources",
+         "img": "/fileadmin/_processed_/b/9/csm_zResources_product_2eef7f49be.webp"
+        },
+        {
+         "label": "Add-on »z.Shopfloor«",
+         "href": "/ca/software/add-on-zshopfloor",
+         "claim": "Digitale Transparenz",
+         "desc": "Seamless, efficient tool lifecycle directly on the shop floor",
+         "img": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_ccbeaa7b22.webp"
+        },
+        {
+         "label": "Add-on »z.Connectivity«",
+         "href": "/ca/software/add-on-zconnectivity",
+         "claim": "Sicherer Datentransfer",
+         "desc": "Seamless, digital connection between tool measurement, tool management and the machine",
+         "img": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_8dec59a214.webp"
+        },
+        {
+         "label": "Add-on »z.Integration«",
+         "href": "/ca/software/add-on-zintegration",
+         "claim": "Smarte Vernetzung",
+         "desc": "Vendor-neutral tool management solution for established manufacturing environments",
+         "img": "/fileadmin/_processed_/a/7/csm_zIntegration_product_5d9cbc0f19.webp"
+        }
+       ]
+      },
+      {
+       "label": "Tool Storage",
+       "href": "/ca/products/tool-management/tool-storage",
+       "children": [
+        {
+         "label": "»»twister««",
+         "href": "/ca/products/tool-management/tool-storage/twister",
+         "claim": "storage cabinet",
+         "desc": "For tool components and accessories",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»»autoLock««",
+         "href": "/ca/products/tool-management/tool-storage/autolock",
+         "claim": "storage cabinet",
+         "desc": "For inspection tools, operating materials, and larger components",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»»toolOrganizer««",
+         "href": "/ca/products/tool-management/tool-storage/toolorganizer",
+         "claim": "tool cabinet",
+         "desc": "For cutting tools and small parts",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»»keeper««",
+         "href": "/ca/products/tool-management/tool-storage/keeper",
+         "claim": "tool cabinet",
+         "desc": "For complete tools and tool holders",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»»z.Storage««",
+         "href": "/ca/products/tool-management/tool-storage/zstorage",
+         "claim": "Tool Storage and Handling",
+         "desc": "Your items are output using the same principle as a vending machine",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "tool assembly",
+       "href": "/ca/products/tool-management/tool-assembly",
+       "children": [
+        {
+         "label": "»»zTower««",
+         "href": "/ca/products/tool-management/tool-assembly/ztower",
+         "claim": "assembly island",
+         "desc": "For universal tool assembly",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»»toolStation««",
+         "href": "/ca/products/tool-management/tool-assembly/toolstation",
+         "claim": "Workbench",
+         "desc": "For Optimal Tool Assembly",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Tool Transport",
+       "href": "/ca/products/tool-management/tool-transport",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/ca/products/tool-management/tool-transport/toolcart",
+         "claim": "tool cart",
+         "desc": "For convenient tool transport",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Data Transfer",
+       "href": "/ca/products/tool-management/data-transfer",
+       "children": [
+        {
+         "label": "»»zidCode««",
+         "href": "/ca/products/tool-management/data-transfer/zidcode",
+         "claim": "Transfer tool data without errors",
+         "desc": "Greater Safety and Efficiency Through Simple Tool Data Management",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Inspection & Measuring",
+     "href": "/ca/products/inspection-measuring",
+     "children": [
+      {
+       "label": "Universal measuring machine",
+       "href": "/ca/products/inspection-measuring/universal-measuring-machine",
+       "children": [
+        {
+         "label": "»»genius««",
+         "href": "/ca/products/inspection-measuring/universal-measuring-machine/genius",
+         "claim": "Non-contact Measurement and Inspection of Cutting Tools",
+         "desc": "It enters over 100 parameters with ultra-high precision and has proven itself more than 1,000 times over worldwide",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titanium«",
+         "href": "/ca/products/inspection-measuring/universal-measuring-machine/titanium",
+         "claim": "The high-end testing and measuring machine",
+         "desc": "For experts who want to know everything—including cutting edge preparation",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»»smartCheck««",
+         "href": "/ca/products/inspection-measuring/universal-measuring-machine/smartcheck",
+         "claim": "Adjustment, measurement, and inspection—all in one device",
+         "desc": "Presetting and measuring machine with additional incident light and advanced image analysis",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "Process-Oriented Measurement",
+       "href": "/ca/products/inspection-measuring/process-oriented-measurement",
+       "children": [
+        {
+         "label": "»»pomBasic««",
+         "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic",
+         "claim": "For precise manual inspection on the production floor",
+         "desc": "Monitor over 70 parameters on the tool in real time",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/ca/products/inspection-measuring/process-oriented-measurement/mmfocus",
+         "claim": "The 2-in-1 device for »skp« and surface roughness",
+         "desc": "Analyzes topographies and generates 3D images of tool cutting edges",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "Automation Solutions",
+       "href": "/ca/products/inspection-measuring/automation-solutions",
+       "children": [
+        {
+         "label": "»»roboSet 2««",
+         "href": "/ca/products/automation/tool-inspection/roboset-2",
+         "claim": "Tool Inspection and Documentation 24/7",
+         "desc": "Tool Handling for »genius«, »3dCheck«, »»threadCheck««, »titan,« and »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC Stone Machining",
+       "href": "/ca/products/inspection-measuring/cnc-stone-machining",
+       "children": [
+        {
+         "label": "»»conDiaZ««",
+         "href": "/ca/products/inspection-measuring/cnc-stone-machining/condiaz",
+         "claim": "Precise contour measurement in seconds",
+         "desc": "Inspection unit specialized for measuring and testing diamond-coated stoneworking tools",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/ca/products/inspection-measuring/cnc-stone-machining/condress",
+         "claim": "Cleaning of Diamond-Coated Grinding Surfaces",
+         "desc": "Cleaning and Restoring the Cutting Performance of Stone-Cutting Tools",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Custom Solutions",
+       "href": "/ca/products/inspection-measuring/custom-solutions",
+       "children": [
+        {
+         "label": "Custom Solutions",
+         "href": "/ca/products/inspection-measuring/custom-solutions/custom-solutions",
+         "claim": "Solutions for Your Specific Requirements"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Automation",
+     "href": "/ca/products/automation",
+     "children": [
+      {
+       "label": "Tool Logistics",
+       "href": "/ca/products/automation/tool-logistics",
+       "children": [
+        {
+         "label": "»»coraLogistic««",
+         "href": "/ca/products/automation/tool-logistics/coralogistic",
+         "claim": "Automated Shop Floor Logistics",
+         "desc": "For transport tasks between the tool storage area, tool preparation, and the CNC machine",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»»coraMachineLoad««",
+         "href": "/ca/products/automation/tool-logistics/coramachineload",
+         "claim": "Loads and unloads CNC machines fully automatically",
+         "desc": "Precise and timely tool handling between logistics and the machine magazine",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "tool preparation",
+       "href": "/ca/products/automation/tool-preparation",
+       "children": [
+        {
+         "label": "»»coraMeasure LG««",
+         "href": "/ca/products/automation/tool-preparation/corameasure-lg",
+         "claim": "Automated Tool Measurement",
+         "desc": "Cost-Effective Tool Handling for ZOLLER »»venturion««",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»»roboBox««",
+         "href": "/ca/products/automation/tool-preparation/robobox",
+         "claim": "Modular Automation for the Toolroom",
+         "desc": "Up to six modules for tasks such as assembly, cleaning, measuring, shrinking, and more",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»»micBox««",
+         "href": "/ca/products/automation/tool-preparation/micbox",
+         "claim": "Efficient Handling of Indexable Inserts",
+         "desc": "Rotates indexable inserts, performs flipping and exchange",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "tool assembly",
+       "href": "/ca/products/automation/tool-assembly",
+       "children": [
+        {
+         "label": "»»loadBox««",
+         "href": "/ca/products/automation/tool-assembly/loadbox",
+         "claim": "The Smart Tool Center",
+         "desc": "Picks tools according to orders and provides them for logistics",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "tool inspection",
+       "href": "/ca/products/automation/tool-inspection",
+       "children": [
+        {
+         "label": "»»roboSet 2««",
+         "href": "/ca/products/automation/tool-inspection/roboset-2",
+         "claim": "Tool Inspection and Documentation 24/7",
+         "desc": "Tool Handling for »genius«, »3dCheck«, »»threadCheck««, »titan,« and »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Laser Marking",
+       "href": "/ca/products/automation/laser-marking",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/ca/products/automation/laser-marking/robomark",
+         "claim": "Laser Marking System",
+         "desc": "Fast and Precise Labeling of Your Tools",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Tool Heat Shrink Technology",
+     "href": "/ca/products/tool-heat-shrink-technology",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/ca/products/tool-heat-shrink-technology/powershrink",
+       "claim": "Tools are shrinking",
+       "desc": "The shrink system with optimal energy efficiency and maximum safety",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»»redomatic««",
+       "href": "/ca/products/tool-heat-shrink-technology/redomatic",
+       "claim": "Shrinking and Measuring",
+       "desc": "Universal Presetting and Measuring Machine with Integrated Tool Shrink-Fit System",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Tool Holders",
+     "href": "/ca/products/tool-holders",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "Over 2,500 tool holders",
+       "desc": "Optionally available with »»idChip«« for greater process reliability thanks to up-to-date tool data. Compatible with ZOLLER TMS Tool Management Solutions.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "Tool Balancing Technology",
+     "href": "/ca/products/tool-balancing-technology",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/ca/products/tool-balancing-technology/toolbalancer",
+       "claim": "Balancing Tools",
+       "desc": "The balancing system featuring state-of-the-art technology and an ergonomic design",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Academy",
+   "href": "/ca/academy"
+  },
+  {
+   "label": "Events",
+   "href": "/ca/events"
+  },
+  {
+   "label": "Company",
+   "href": "/ca/company",
+   "children": [
+    {
+     "label": "More About ZOLLER",
+     "href": "/ca/company"
+    },
+    {
+     "label": "Profile",
+     "href": "/ca/company/profile",
+     "children": [
+      {
+       "label": "About ZOLLER",
+       "href": "/ca/company/profile"
+      },
+      {
+       "label": "References",
+       "href": "/ca/company/profile/references"
+      },
+      {
+       "label": "Partner",
+       "href": "/ca/company/profile/partner"
+      },
+      {
+       "label": "History",
+       "href": "/ca/company/profile/history"
+      }
+     ]
+    },
+    {
+     "label": "contact",
+     "href": "/ca/company/contact",
+     "children": [
+      {
+       "label": "Contact Form",
+       "href": "/ca/company/contact"
+      },
+      {
+       "label": "Locations",
+       "href": "/ca/company/contact/locations"
+      },
+      {
+       "label": "Smart Factory",
+       "href": "/ca/company/contact/smart-factory"
+      },
+      {
+       "label": "Contact Person",
+       "href": "/ca/company/contact/contact-person"
+      },
+      {
+       "label": "One-on-One Consultation with an Expert",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "Training and Training",
+       "href": "/ca/company/contact/training-and-training"
+      },
+      {
+       "label": "Newsletter",
+       "href": "/ca/company/contact/newsletter"
+      }
+     ]
+    },
+    {
+     "label": "Careers",
+     "href": "/ca/company/careers",
+     "children": [
+      {
+       "label": "Working at ZOLLER",
+       "href": "/ca/company/careers"
+      },
+      {
+       "label": "Job Openings",
+       "href": "/ca/company/careers/job-openings"
+      },
+      {
+       "label": "FAQ",
+       "href": "/ca/company/careers/faq"
+      },
+      {
+       "label": "Application",
+       "href": "/ca/company/careers/application"
+      }
+     ]
+    },
+    {
+     "label": "Reports & Stories",
+     "href": "/ca/company/reports-stories"
+    },
+    {
+     "label": "Media",
+     "href": "/ca/company/media"
+    },
+    {
+     "label": "Sustainability",
+     "href": "/ca/company/sustainability"
+    },
+    {
+     "label": "quality management",
+     "href": "/ca/company/quality-management"
+    },
+    {
+     "label": "Compliance",
+     "href": "/ca/company/compliance"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "The System",
+   "href": "/ca/the-system"
+  },
+  {
+   "label": "Your Success",
+   "href": "/ca/your-success"
+  },
+  {
+   "label": "Solutions",
+   "href": "/ca/solutions"
+  },
+  {
+   "label": "Products",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Academy",
+   "href": "/ca/academy"
+  },
+  {
+   "label": "Events",
+   "href": "/ca/events"
+  },
+  {
+   "label": "Company",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Service",
+   "href": "/ca/company/contact/contact-person"
+  },
+  {
+   "label": "Media",
+   "href": "/ca/company/media"
+  },
+  {
+   "label": "Careers",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Profitability Calculator",
+   "href": "/ca/profitability-calculator"
+  },
+  {
+   "label": "Contact Person",
+   "href": "/ca/company/contact/contact-person"
+  },
+  {
+   "label": "Send an email",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "ZOLLER Service",
+   "href": "/ca/company/contact/contact-person"
+  },
+  {
+   "label": "Software Updates",
+   "href": "/ca/software-updates"
+  },
+  {
+   "label": "Online Support",
+   "href": "/ca/online-support"
+  },
+  {
+   "label": "Business Segments",
+   "href": "/ca/business-segments-1"
+  },
+  {
+   "label": "Newsletter Sign-Up",
+   "href": "/ca/company/contact/newsletter"
+  },
+  {
+   "label": "General Terms and Conditions of Purchase",
+   "href": "/ca/general-terms-and-conditions-of-purchase"
+  },
+  {
+   "label": "Financing Options",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "contact",
+   "href": "/ca/company/contact"
+  },
+  {
+   "label": "Privacy Policy",
+   "href": "/ca/privacy-policy"
+  },
+  {
+   "label": "Disclaimer",
+   "href": "/ca/disclaimer"
+  },
+  {
+   "label": "imprint",
+   "href": "/ca/imprint"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

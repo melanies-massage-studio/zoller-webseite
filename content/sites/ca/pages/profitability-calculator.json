@@ -1,0 +1,424 @@
+{
+ "path": "/profitability-calculator",
+ "url": "/ca/profitability-calculator",
+ "title": "Profitability Calculator",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Profitability Calculator",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Profitability Calculator",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/wirtschaftlichkeitsrechner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/profitability-calculator",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/calculadora-de-rentabilidad",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/calculateur-de-rentabilite",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/calculadora-de-rentabilidade",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/calcolatore-di-redditivita",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loensamhetskalkylator",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/wirtschaftlichkeitsrechner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/profitability-calculator",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/calculateur-de-rentabilite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%8E%A1%E7%AE%97%E8%A8%88%E7%AE%97%E3%83%84%E3%83%BC%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%88%98%EC%9D%B5%EC%84%B1-%EA%B3%84%EC%82%B0%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/profitability-calculator",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/calculadora-de-rentabilidad",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/calculadora-de-rentabilidade",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/7/csm_calculator_header_3fbc882939.webp",
+     "video": null,
+     "title": "Your savings potential is measurable",
+     "kicker": "",
+     "text": "<p>Our cost-effectiveness calculator shows you exactly<br/>how much you can save with preset tools<br/>and tool management.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4277",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Calculate Your Savings Now </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4264",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Even with just one presetting and measuring machine, you’ll save time and money with every tool change. Combined with TMS Tool Management Solutions, you’ll unlock additional options for reducing costs. </p> <p class=\"extra-large-text\">Measured and set tools reduce machine downtime by at least 15%. You’ll save at least 15,000 euros per CNC machine, per year, and per shift. That’s why ZOLLER’s presetting and measuring machines pay for themselves in a short period of time. </p> <p class=\"extra-large-text\">Use the ZOLLER profitability calculator now to calculate the potential savings for your production.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4265",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4263",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "form",
+   "kind": "zoller_economy",
+   "html": "<div class=\"content-inner\"> <a id=\"c162426\"></a> <div id=\"calculator\"> <div class=\"intro\"> <p>Stellen Sie die passenden Werte für Ihr Unternehmen ein und erfahren Sie, wie viel Geld Sie mit ZOLLER-Geräten in Kombination mit TMS Tool Management Solutions einsparen können. Am Ende zeigen wir Ihnen die Amortisationszeit für die Investition in Ihr Einstell- und Messgerät. </p> </div> <form> <input id=\"economy-hidden-field\" name=\"\" type=\"hidden\" value=\"All fields must be filled in\"/> <div class=\"row row-wrapper\"> <div class=\"col-xs-12 col-md-6\"> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_machine_count\">CNC machine tools</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <select id=\"calculator_machine_count\" name=\"machine_count\"> <option value=\"\"></option> <option value=\"1\">1</option> <option value=\"2\">2</option> <option selected=\"selected\" value=\"3\">3</option> <option value=\"4\">4</option> <option value=\"5\">5</option> <option value=\"6\">6</option> <option value=\"7\">7</option> <option value=\"8\">8</option> <option value=\"9\">9</option> <option value=\"10\">10</option> <option value=\"11\">11</option> <option value=\"12\">12</option> <option value=\"13\">13</option> <option value=\"14\">14</option> <option value=\"15\">15</option> <option value=\"16\">16</option> <option value=\"17\">17</option> <option value=\"18\">18</option> <option value=\"19\">19</option> <option value=\"20\">20</option> <option value=\"21\">21</option> <option value=\"22\">22</option> <option value=\"23\">23</option> <option value=\"24\">24</option> <option value=\"25\">25</option> <option value=\"26\">26</option> <option value=\"27\">27</option> <option value=\"28\">28</option> <option value=\"29\">29</option> <option value=\"30\">30</option> </select> </div> </div> <div class=\"col-xs-2\"></div> </div> </div> </div> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_tool_changes\">Tool change per shift and machine</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <select id=\"calculator_tool_changes\" name=\"tool_changes\"> <option value=\"\"></option> <option value=\"1\">1</option> <option value=\"2\">2</option> <option value=\"3\">3</option> <option value=\"4\">4</option> <option value=\"5\">5</option> <option value=\"6\">6</option> <option value=\"7\">7</option> <option value=\"8\">8</option> <option value=\"9\">9</option> <option value=\"10\">10</option> <option value=\"11\">11</option> <option value=\"12\">12</option> <option value=\"13\">13</option> <option value=\"14\">14</option> <option value=\"15\">15</option> <option value=\"16\">16</option> <option value=\"17\">17</option> <option value=\"18\">18</option> <option value=\"19\">19</option> <option selected=\"selected\" value=\"20\">20</option> <option value=\"21\">21</option> <option value=\"22\">22</option> <option value=\"23\">23</option> <option value=\"24\">24</option> <option value=\"25\">25</option> <option value=\"26\">26</option> <option value=\"27\">27</option> <option value=\"28\">28</option> <option value=\"29\">29</option> <option value=\"30\">30</option> </select> </div> </div> <div class=\"col-xs-2\"></div> </div> </div> </div> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_saving_toolchange_minutes\">Tool change time (minutes)</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <select id=\"calculator_saving_toolchange_minutes\" name=\"saving_toolchange_minutes\"> <option value=\"\"></option> <option value=\"1\">1</option> <option value=\"2\">2</option> <option selected=\"selected\" value=\"3\">3</option> <option value=\"4\">4</option> <option value=\"5\">5</option> </select> </div> </div> <div class=\"col-xs-2\"> <div class=\"info\"> <img src=\"https://www.zoller.info/_assets/0d43b51864417824fcf5ebd7b561b543/Images/Info-Icon.svg\"/> <span>Untersuchungen in der Automobilindustrie haben ergeben, dass durchschnittlich für einen Werkzeugwechsel 4,52 Minuten benötigt werden.</span> </div> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_days_work_year\">Working days per year</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <select id=\"calculator_days_work_year\" name=\"days_work_year\"> <option value=\"\"></option> <option selected=\"selected\" value=\"200\">200</option> <option value=\"210\">210</option> <option value=\"220\">220</option> <option value=\"230\">230</option> <option value=\"240\">240</option> <option value=\"250\">250</option> <option value=\"260\">260</option> </select> </div> </div> <div class=\"col-xs-2\"></div> </div> </div> </div> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_shifts\">Shifts per day</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <select id=\"calculator_shifts\" name=\"shifts\"> <option value=\"\"></option> <option selected=\"selected\" value=\"1\">1</option> <option value=\"2\">2</option> <option value=\"3\">3</option> </select> </div> </div> <div class=\"col-xs-2\"></div> </div> </div> </div> </div> <div class=\"col-xs-12 col-md-6\"> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_currency\">Currency</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <select id=\"calculator_currency\" name=\"currency\"> <option data-iso-currency=\"EUR\" data-position=\"after\" data-symbol=\"€\" selected=\"selected\" value=\"€\">€ (EUR)</option> <option data-iso-currency=\"USD\" data-position=\"before\" data-symbol=\"$\" value=\"$\">$ (USD)</option> <option data-iso-currency=\"CAD\" data-position=\"before\" data-symbol=\"$\" value=\"$\">$ (CAD)</option> <option data-iso-currency=\"MXN\" data-position=\"before\" data-symbol=\"$\" value=\"$\">$ (MXN)</option> <option data-iso-currency=\"GBP\" data-position=\"before\" data-symbol=\"£\" value=\"£\">£ (GBP)</option> <option data-iso-currency=\"RUB\" data-position=\"after\" data-symbol=\"₽\" value=\"₽\">₽ (RUB)</option> <option data-iso-currency=\"TRY\" data-position=\"after\" data-symbol=\"₺\" value=\"₺\">₺ (TRY)</option> <option data-iso-currency=\"INR\" data-position=\"before\" data-symbol=\"₹\" value=\"₹\">₹ (INR)</option> <option data-iso-currency=\"BRL\" data-position=\"before\" data-symbol=\"R$\" value=\"R$\">R$ (BRL)</option> <option data-iso-currency=\"JPY\" data-position=\"before\" data-symbol=\"¥\" value=\"¥\">¥ (JPY)</option> <option data-iso-currency=\"CNY\" data-position=\"before\" data-symbol=\"¥\" value=\"¥\">¥ (CNY)</option> </select> </div> </div> <div class=\"col-xs-2\"></div> </div> </div> </div> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_hour_day\">Hours per shift</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <div class=\"field\"> <input class=\"number-only\" id=\"calculator_hour_day\" min=\"1\" name=\"hour_day\" type=\"text\" value=\"8\"/> </div> </div> </div> <div class=\"col-xs-2\"></div> </div> </div> </div> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_machine_costs\">Machine hourly rate (<span class=\"currency\"></span>)</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <input class=\"number-only\" id=\"calculator_machine_costs\" min=\"1\" name=\"machine_costs\" type=\"text\" value=\"75\"/> </div> </div> <div class=\"col-xs-2\"></div> </div> </div> </div> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_invest_costs\">Investment in a ZOLLER tool presetting device(<span class=\"currency\"></span>)</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <input class=\"number-only\" id=\"calculator_invest_costs\" min=\"1\" name=\"invest_costs\" type=\"text\" value=\"20000\"/> </div> </div> <div class=\"col-xs-2\"></div> </div> </div> </div> <div class=\"row\"> <div class=\"col-xs-12 col-sm-7\"> <label for=\"calculator_productivity\">Additional savings through tool management software (%)</label> </div> <div class=\"col-xs-12 col-sm-5\"> <div class=\"row-input\"> <div class=\"col-xs-10\"> <div class=\"field\"> <input class=\"number-only\" id=\"calculator_productivity\" min=\"1\" name=\"productivity\" type=\"text\" value=\"5\"/> </div> </div> <div class=\"col-xs-2\"> <div class=\"info\"> <img src=\"https://www.zoller.info/_assets/0d43b51864417824fcf5ebd7b561b543/Images/Info-Icon.svg\"/> <span>Mit einer Werkzeugverwaltungs-Software können Sie Ihre Produktivität um mindestens 5% steigern – dies haben die Untersuchungen der RWTH Aachen (Rheinisch-Westfälische Technische Hochschule Aachen) ergeben.</span> </div> </div> </div> </div> </div> </div> </div> <div class=\"field-wrapper\"> <div class=\"field submit\"> <button class=\"block-button\" id=\"calc-submit\">Determine your potential savings now </button> </div> </div> </form> <hr/> <div class=\"results\"> <div class=\"result\"> <div class=\"row\"> <div class=\"col-xs-8 col-sm-8 col-md-9\"> <p>Ihre Einsparung/Jahr mit einem ZOLLER Einstell- und Messgerät</p> <span class=\"sub sub_money_lost\">test</span> </div> <div class=\"col-xs-4 col-sm-4 col-md-3\"> <div class=\"field\"> <span class=\"currency\"></span><span class=\"calc_result3\"></span> </div> </div> </div> </div> <div class=\"result\"> <div class=\"row\"> <div class=\"col-xs-8 col-sm-8 col-md-9\"> <p>Zusätzliche Einsparung durch ZOLLER TMS Tool Management Solutions</p> <span class=\"sub sub_savings\"></span> </div> <div class=\"col-xs-4 col-sm-4 col-md-3\"> <div class=\"field\"> <span class=\"currency\"></span><span class=\"calc_result5\"></span> </div> </div> </div> </div> <div class=\"result total\"> <div class=\"row\"> <div class=\"col-xs-8 col-sm-8 col-md-9\"> <h3 class=\"h3\">Total savings with ZOLLER</h3> </div> <div class=\"col-xs-4 col-sm-4 col-md-3\"> <div class=\"field\"> <b><span class=\"currency large\"></span><span class=\"large calc_result_total\"></span></b> </div> </div> </div> </div> <div class=\"result\"> <div class=\"row\"> <div class=\"col-xs-8 col-sm-8 col-md-9\"> <p>Amortisationszeitraum für das Einstell-und Messgerät</p> <span class=\"sub sub_roi\"></span> </div> <div class=\"col-xs-4 col-sm-4 col-md-3\"> <div class=\"field\"> <span class=\"calc_result4\"></span> Jahre </div> </div> </div> </div> </div> </div> </div>",
+   "header": "<h2> Profitability Calculator </h2>",
+   "ftype": "zoller_economy",
+   "id": "c4215",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> The Simple Way to More Profit </h2>",
+   "body": "<p><strong>The following parameters lie at the basis of the cost-effectiveness analysis:</strong></p><ul><li><p>ZOLLER guarantees savings of at least 15,000 euros per machine, per year, and per shift when preset tools are used</p></li><li><p>According to a study by RWTH Aachen (<strong>R</strong>heinisch-Westfälische <strong>T</strong>echnische<strong> H</strong>ochschule Aachen), annual tooling costs amount to 10% of the machine’s value</p></li><li><p>With ZOLLER TMS Tool Management Solutions, you can increase your productivity by at least 5%</p></li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_kosteneffizienz_einzel_b86afc398c.webp",
+     "alt": "",
+     "w": 1097,
+     "h": 1097
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4269",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> How ZOLLER presetting and measuring machines optimize machine utilization </h2>",
+   "body": "<p>Tools that are inadequately set, measured, or prepared—or not at all—cause 4.52 minutes of machine downtime per hour per machine. This was revealed by measurements taken in the automotive industry. </p> <p>A ZOLLER presetting and measuring machine makes a decisive difference. Every measurement is fast and precise. All tools arrive at the machine perfectly prepared. Machine downtime decreases, while productive time increases—the time savings add up over the course of the year to a measurable increase in productivity. </p> <p>For the sample calculations, we have reduced the time loss determined in the automotive industry to 3 minutes per hour and are assuming 15 to 25 tool changes per day.</p> <p><strong>Calculation formula per machine:</strong> Time<br/>savings in min. × tool changes × shifts × hourly rate</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_smile_header_c846e8a6b4.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4270",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> TMS Tool Management Solutions Boost Productivity by 5% </h2>",
+   "body": "<p>With tool management software such as ZOLLER TMS Tool Management Solutions, you can increase your productivity by at least 5%—a finding also confirmed by research conducted by RWTH Aachen (<strong>R</strong>heinisch-Westfälische <strong>T</strong>echnische<strong> H</strong>ochschule Aachen). Using your machine’s hourly rate, you can calculate what this productivity increase means for your company—in hard cash and per machine!</p> <p><strong>Calculation formula:</strong><br/><strong>8 </strong>hours/day × shifts/year × hourly rate × 5%</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_03_56a9f7c10c.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4271",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A 2% reduction in tool costs per year </h2>",
+   "body": "<p>Research conducted by RWTH Aachen (<strong>R</strong>heinisch-Westfälische <strong>T</strong>echnische<strong> H</strong>ochschule Aachen) shows that, over a ten-year period, the tooling costs for a machine tool amount to as much as the machine itself cost. </p> <p>With ZOLLER TMS Tool Management Solutions, you can save 20% of these tooling costs—that’s a savings of 2% of the machine’s purchase price per year! A look at the tooling costs in your company’s annual financial statements will show you the extent of your savings potential.</p> <p><strong>Calculation formula:</strong><br/>Machine costs × 2%</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_3ac60ed7ab.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 858
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4272",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> ZOLLER Solutions in Action </h3>",
+   "articles": [
+    {
+     "href": "/ca/your-success/details/mit-smile-420-zu-1-mio-usd-umsatzplus",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Témoignage d'utilisateur",
+      "Réglage et mesure"
+     ],
+     "title": "Avec »smile 420,« une hausse du chiffre d'affaires de 1 million de dollars",
+     "teaser": "ProCam Services LLC : un appareil de réglage et de mesure qui optimise les processus de travail et permet de gagner beaucoup de temps.",
+     "date": ""
+    },
+    {
+     "href": "/ca/your-success/details/so-effizient-kann-genius-kosten-senken",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Témoignage d'utilisateur",
+      "Contrôle et mesure"
+     ],
+     "title": "Voici à quel point »genius« permet de réduire les coûts efficacement",
+     "teaser": "La mesure précise des meules permet de réduire le temps de préparation de plus de 60 %.",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c4266",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/ca/company/reports-stories?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&amp;cHash=a66df74004d8f7d852aedf42cdc02852\">Display All Success Stories</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4267",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Expert Meeting</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">Make an appointment now</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ca/profitability-calculator",
+ "de_path": "/wirtschaftlichkeitsrechner"
+}

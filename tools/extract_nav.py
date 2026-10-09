@@ -40,7 +40,7 @@ def item(li):
         seen = set()
         for c in sub.find_all("li", recursive=False):
             it = item(c)
-            if not it or not it["label"] or it["label"] in ("zurück",) or (it["href"], it["label"]) in seen:
+            if not it or not it["label"] or it["label"] in SKIP_LABELS or (it["href"], it["label"]) in seen:
                 continue
             seen.add((it["href"], it["label"]))
             kids.append(it)
@@ -49,8 +49,12 @@ def item(li):
     return node
 
 
-def main():
-    raw = sys.argv[1]
+SKIP_LABELS = ("zurück", "back", "retour", "regresar", "volver", "atrás")
+CLOSE_LABELS = ("Suche schließen", "Close Menu", "Fermer le menu", "Cerrar menú")
+OVERVIEW_LABELS = ("Übersicht", "overview", "Overview", "aperçu", "Aperçu", "vue d'ensemble", "Vue d'ensemble", "resumen", "Resumen", "visión general", "Visión general")
+
+
+def extract_nav(raw):
     soup = BeautifulSoup(open(raw, encoding="utf-8").read(), "lxml")
     header = soup.find("header")
     uls = [u for u in header.find_all("ul") if not u.find_parent("ul")]
@@ -62,17 +66,22 @@ def main():
     nav = []
     for li in uls[1].find_all("li", recursive=False):
         it = item(li)
-        if it and it["label"] and it["label"] not in ("Suche schließen",):
+        if it and it["label"] and it["href"] and it["label"] not in CLOSE_LABELS:
             # "Übersicht"-Duplikate entfernen
             if "children" in it:
-                it["children"] = [c for c in it["children"] if c["label"] != "Übersicht"]
+                it["children"] = [c for c in it["children"] if c["label"] not in OVERVIEW_LABELS]
             nav.append(it)
     footer = soup.find("footer")
     groups = []
     for col in footer.select(".footer__column, .footer-column, nav, .footer__links"):
         pass
     flinks = [{"label": t(a), "href": extract.norm_href(a.get("href"))} for a in footer.find_all("a", href=True) if t(a)]
-    data = {"meta": meta, "main": nav, "footer_links": flinks}
+    return {"meta": meta, "main": nav, "footer_links": flinks}
+
+
+def main():
+    data = extract_nav(sys.argv[1])
+    nav = data["main"]
     os.makedirs(os.path.join(ROOT, "content"), exist_ok=True)
     json.dump(data, open(os.path.join(ROOT, "content", "nav.json"), "w"), ensure_ascii=False, indent=1)
     for n in nav:

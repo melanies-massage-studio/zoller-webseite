@@ -1,0 +1,335 @@
+{
+ "path": "/produits/automatisation/mise-a-disposition-des-outils/loadbox",
+ "url": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox",
+ "title": "»loadBox«",
+ "description": "»loadBox« - Prépare les outils en fonction des commandes et les met à disposition du service logistique - La centrale d'outils intelligente",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Automatisation /",
+   "href": "/ca-fr/produits/automatisation"
+  },
+  {
+   "label": "Mise à disposition des outils /",
+   "href": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils"
+  },
+  {
+   "label": "»loadBox«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Automatisation /",
+   "href": "/ca-fr/produits/automatisation"
+  },
+  {
+   "label": "Mise à disposition des outils /",
+   "href": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils"
+  },
+  {
+   "label": "»loadBox«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeugbereitstellung/loadbox",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-provisioning/loadbox",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/suministro-de-herramientas/loadbox",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/fourniture-doutils/loadbox",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/fornecimento-de-ferramentas/loadbox",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/fornitura-degli-utensili/loadbox",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/verktygsfoersoerjning/loadbox",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeugbereitstellung/loadbox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-provisioning/loadbox",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%8F%90%E4%BE%9B/loadbox",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A0%9C%EA%B3%B5/loadbox",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-provisioning/loadbox",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/suministro-de-herramientas/loadbox",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/fornecimento-de-ferramentas/loadbox",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»loadBox«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Logiciels et intégration",
+     "href": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox/logiciels-et-integration",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2597",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "»loadBox«",
+   "text": "<p>Pour une gestion efficace des outils</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demander dès maintenant</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/6/csm_loadBox_header_da227b1c17.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 930
+   },
+   "ftype": "zoller_product_header",
+   "id": "c2595",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_loadBox_info_basismodul_dabf504af0.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Module de base robotique intelligent",
+     "caption": "<figcaption> <h3>Module de base robotique intelligent</h3> <p>Module de base robotisé – dans lequel le robot articulé à 6 axes FANUC saisit les outils et les transporte de manière fiable entre le module d'entrée/sortie et le système de levage.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/0/csm_loadBox_info_liftsystem_cb27c37c80.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Système de levage efficace",
+     "caption": "<figcaption> <h3>Système de levage efficace</h3> <p>Système de levage Kardex Shuttle – met à disposition les outils provenant du magasin d'outils. Les outils sont prélevés du système de levage à l'aide de plateaux équipés de supports ZOLLER, puis préparés par le système d'automatisation »loadBox«. </p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/c/csm_loadBox_info_eingabeeinheit_5f5cd28541.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Module d'entrée/sortie ultramoderne",
+     "caption": "<figcaption> <h3>Module d'entrée/sortie ultramoderne</h3> <p>Module d'entrée/sortie pour le »système« »smartPallet« – permet de réceptionner vos palettes d'outils en toute sécurité. Les palettes d'outils peuvent être acheminées soit à l'aide du chariot à palettes manuel, soit via le système de transport sans conducteur »coraExpress«.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/e/csm_loadBox_info_cokcpit_b07f5a49e4.webp",
+     "alt": "",
+     "w": 616,
+     "h": 334,
+     "title": "Logiciel de contrôle basé sur un serveur",
+     "caption": "<figcaption> <h3>Logiciel de contrôle basé sur un serveur</h3> <p>Logiciel de commande – destiné à la gestion du système d'automatisation. Le logiciel de commande peut s'afficher sur différents supports (écran, tablette ou smartphone). </p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2620",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automatisation : vos avantages",
+     "href": "/ca-fr/solutions/automatisation",
+     "caption": "<figcaption> <h3>Automatisation : vos avantages</h3> <p>Découvrez comment automatiser la préparation, la préparation des outils, la logistique et le contrôle des outils avec ZOLLER. Réalisez votre usine intelligente hautement efficace en fonction de vos besoins. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/automatisation/mise-a-disposition-des-outils/loadbox",
+ "de_path": "/produkte/automation/werkzeugbereitstellung/loadbox"
+}

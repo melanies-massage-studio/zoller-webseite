@@ -1,0 +1,398 @@
+{
+ "path": "/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/configuracion",
+ "url": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/configuracion",
+ "title": "»autoLock«: configuración",
+ "description": "configuración - »autoLock«: configuración",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "almacén de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas"
+  },
+  {
+   "label": "»autoLock« /",
+   "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock"
+  },
+  {
+   "label": "configuración",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "almacén de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas"
+  },
+  {
+   "label": "»autoLock« /",
+   "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock"
+  },
+  {
+   "label": "configuración",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/werkzeuglager/autolock/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-storage/autolock/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/almacen-de-herramientas/bloqueo-automatico/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/magasin-doutils/autolock/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/armazem-de-ferramentas/autolock/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/magazzino-utensili/autolock/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygslager/autolock/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeuglager/autolock/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-storage/autolock/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/magasin-doutillage/autolock/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/autolock/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-storage/autolock/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/autolock/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»autoLock«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "configuración",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/configuracion",
+     "current": false
+    },
+    {
+     "label": "Software e integración",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/software-e-integracion",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2736",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Todo a simple vista </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2734",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Con los Smart Cabinets, usted tiene la última palabra: haga su selección previa y póngase en contacto con nuestro equipo de ventas de ZOLLER; estaremos encantados de asesorarle y configurar el modelo que desee.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2733",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2735",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Capacidad del gabinete inteligente </h2>",
+   "table": "<table> <tbody> <tr> <td> Alto x ancho x profundidad: 2000 x 1000 x 1050 mm </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c2732",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Tamaño del compartimento </h2>",
+   "table": "<table> <tbody> <tr> <td> Peso máximo de 80 kg por cajón. </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c2731",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Capacidad de carga </h2>",
+   "table": "<table> <tbody> <tr> <td> Peso máximo de 80 kg por plano. </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c2730",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Ejecución </h2>",
+   "table": "<table> <tbody> <tr> <td> Versión mecánica </td> </tr> <tr> <td> Versión electrónica </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c2729",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Control </h2>",
+   "table": "<table> <tbody> <tr> <td> Panel PC instalado lateralmente </td> </tr> <tr> <td> Unidad de control independiente »cockpit« con software de control »quickPick« </td> </tr> <tr> <td> TMS Tool Management Solutions: estación de trabajo </td> </tr> <tr> <td> Aparatos de ajuste y medición ZOLLER: con módulo de software Smart Cabinets </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c2728",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Distribución </h2>",
+   "table": "<table> <tbody> <tr> <td> 4-9 cajones </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c2727",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestión de herramientas: sus ventajas",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "caption": "<figcaption> <h3>Gestión de herramientas: sus ventajas</h3> <p>Descubra cómo la gestión de herramientas de ZOLLER aumenta su productividad inmediatamente. Con los datos de herramientas, los procesos se ejecutan de forma más rápida y segura, incluyendo protección contra colisiones para sus máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/configuracion",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/autolock/konfiguration"
+}

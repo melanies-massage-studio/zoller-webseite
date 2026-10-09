@@ -1,0 +1,370 @@
+{
+ "path": "/empresa/perfil/referencias",
+ "url": "/mx/empresa/perfil/referencias",
+ "title": "Referencias",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Perfil /",
+   "href": "/mx/empresa/perfil"
+  },
+  {
+   "label": "Referencias",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Perfil /",
+   "href": "/mx/empresa/perfil"
+  },
+  {
+   "label": "Referencias",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/referenzen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/references",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/perfil/referencias",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/profil/references",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/perfil/referencias",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/profilo/riferimenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/referenser",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/referenzen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/profile/references",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/references",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%AE%9F%E7%B8%BE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%B0%B8%EA%B3%A0-%EC%9E%90%EB%A3%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/references",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/referencias",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/referencias",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Nuestra prioridad es el éxito de nuestros clientes. </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2172",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Los clientes que mostramos aquí demuestran la considerable variedad de empresas para las que trabajamos. No nos importa el tamaño o el prestigio de un cliente, sino que hayamos podido convencer a cada uno de ellos con nuestro sistema. Nos encantaría ganarnos también su confianza.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2173",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2171",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/5/csm_logo_audi_20ae302433.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/1/6/csm_logo_bmw_d11a782b1e.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/7/2/csm_logo_bosch_871f135174.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/c/4/csm_logo_continental_c8288a4e04.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/5/f/csm_logo_daimler_2e6356ce7f.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/6/e/csm_logo_eads_d757978812.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/9/d/csm_logo_ford_8352b103c9.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_logo_guehring_701bdab507.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_logo_index_f7c423cca2.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/7/d/csm_logo_kennametal_d0e2de3c75.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/d/f/csm_logo_ceratizit_43091a3fc1.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_logo_liebherr_fba71041d3.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/8/8/csm_logo_mahle_deb2b3d02b.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/7/1/csm_logo_mapal_0914786b3d.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/0/3/csm_logo_mtu_828b2d0c2f.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/9/8/csm_logo_porsche_d3b4370c82.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/2/b/csm_logo_sandvik_4eafe4f648.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/a/d/csm_logo_vw_7c394811fb.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    },
+    {
+     "src": "/fileadmin/_processed_/3/9/csm_logo_zf_3ead71b48c.webp",
+     "alt": "",
+     "w": 376,
+     "h": 203
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 5,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2848",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  }
+ ],
+ "src_path": "/mx/empresa/perfil/referencias",
+ "de_path": "/unternehmen/profil/referenzen"
+}

@@ -1,0 +1,483 @@
+{
+ "path": "/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2/software-e-integracion",
+ "url": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2/software-e-integracion",
+ "title": "»roboSet 2«: software e integración",
+ "description": "Software e integración - »roboSet 2«: software e integración",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Automatización /",
+   "href": "/mx/productos/automatizacion"
+  },
+  {
+   "label": "inspección de la herramienta /",
+   "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta"
+  },
+  {
+   "label": "»roboSet 2« /",
+   "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2"
+  },
+  {
+   "label": "Software e integración",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Automatización /",
+   "href": "/mx/productos/automatizacion"
+  },
+  {
+   "label": "inspección de la herramienta /",
+   "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta"
+  },
+  {
+   "label": "»roboSet 2« /",
+   "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2"
+  },
+  {
+   "label": "Software e integración",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeuginspektion/roboset-2/software-integration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-inspection/roboset-2/software-integration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2/software-e-integracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/controle-doutil/roboset-2/logiciels-et-integration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/ferramenta-de-inspecao/roboset-2/software-e-integracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/ispezione-utensile/roboset-2/software-e-integrazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/verktygskontroll/roboset-2/programvara-och-integration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeuginspektion/roboset-2/software-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-inspection/roboset-2/software-integration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/inspection-des-outils/roboset-2/logiciels-et-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%82%B9%E6%A4%9C/roboset-2/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A8%E7%B5%B1%E5%90%88",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC/roboset-2/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%B0%8F-%ED%86%B5%ED%95%A9",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-inspection/roboset-2/software-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2/software-e-integracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/ferramenta-de-inspecao/roboset-2/software-e-integracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»roboSet 2«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Aplicaciones",
+     "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2/aplicaciones",
+     "current": false
+    },
+    {
+     "label": "Software e integración",
+     "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2/software-e-integracion",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2547",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> »pilot 4.0«: domina todo lo necesario para automatizar la inspección </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2548",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"large-text\">Con »pilot 4.0«, usted define todos los pasos que »roboSet 2« debe ejecutar en los próximos pedidos. El software también destaca en la automatización por su manejo intuitivo, sus menús con vista general, sus botones grandes y su interfaz personalizable. Podrá planificar y iniciar rápidamente las inspecciones de la herramienta y documentar los datos de manera sencilla.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3029",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3028",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Indicación de estado y<br/>gestión de palets</h4>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2550",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "hotspots",
+      "header": "",
+      "intro": "",
+      "img": {
+       "src": "/fileadmin/_processed_/9/3/csm_roboset_software_infodots_de-1_3a9946ffe7.webp",
+       "alt": "",
+       "w": 1190,
+       "h": 669
+      },
+      "spots": [
+       {
+        "x": 14.779,
+        "y": 23.286,
+        "label": "indicación de estado",
+        "text": "<h3>indicación de estado</h3> <p>La indicación de estado en porcentaje muestra el grado de avance del procesamiento de la paleta actual. De este modo, también se puede calcular cuándo estarán listas las herramientas de la paleta y podrán ser retiradas por el operador.</p>"
+       },
+       {
+        "x": 74.618,
+        "y": 35.286,
+        "label": "Gestión de palets",
+        "text": "<h3>Gestión de palets</h3> <p>La gestión de palets de ZOLLER determina la configuración y los parámetros. De este modo, todas las herramientas se pueden medir sin necesidad de que el usuario introduzca más datos y se pueden definir palets específicos según el cliente. Además, en el área de gestión de palets, las herramientas se diferencian y se marcan con diferentes colores si, por ejemplo, una herramienta yace fuera de la tolerancia.</p>"
+       }
+      ],
+      "ftype": "zoller_image-hotspots",
+      "id": "c2551",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2549",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Información sobre el corte</h4>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2553",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "hotspots",
+      "header": "",
+      "intro": "",
+      "img": {
+       "src": "/fileadmin/_processed_/7/8/csm_roboset_software_infodots_de-2_4705ae0232.webp",
+       "alt": "",
+       "w": 1190,
+       "h": 671
+      },
+      "spots": [
+       {
+        "x": 30.602,
+        "y": 68.234,
+        "label": "forma del filo",
+        "text": "<h3>forma del filo</h3> <p>En el campo «Forma del filo» se muestra una Figura de la forma actual del filo que se utiliza para la medición. Esta Figura sirve únicamente para que el operador pueda visualizar e identificar la forma del filo. Un auténtico asistente que facilita el trabajo al usuario.</p>"
+       },
+       {
+        "x": 6.586,
+        "y": 63.96,
+        "label": "Posiciones de los ejes",
+        "text": "<h3>Posiciones de los ejes</h3> <p>Las posiciones de los ejes en »pilot 4.0« de los aparatos de ajuste y medición ZOLLER son puntos de referencia importantes que permiten verificar y ajustar el posicionamiento exacto de la herramienta o del filo. Cada posición del eje representa una alineación o posición específica de la herramienta. Al utilizar las posiciones de los ejes, los usuarios pueden asegurarse de que la herramienta esté correctamente posicionada y no presente desviaciones, lo que se traduce en una mayor precisión y eficiencia en el mecanizado.</p>"
+       },
+       {
+        "x": 68.675,
+        "y": 88.462,
+        "label": "teclas de funcionamiento",
+        "text": "<h3>teclas de funcionamiento</h3> <p>Las teclas de funcionamiento de »pilot 4.0« de ZOLLER sirven para que el usuario pueda realizar el manejo del software de manera eficiente y para facilitar la navegación y la ejecución de tareas dentro del software. Las teclas de funcionamiento permiten, por ejemplo, iniciar la medición de herramientas, cargar datos de herramientas y cambiar de vista.</p>"
+       }
+      ],
+      "ftype": "zoller_image-hotspots",
+      "id": "c2554",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2552",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Listos para la nueva era </h2>",
+   "body": "<p><strong>La automatización es más que un simple paso. Es un gran salto hacia nuevas prioridades. Decida cómo desea emplear a su personal especializado en el futuro. »roboSet 2« es una automatización eficiente para Fabricantes de herramientas y empresas de modos de arrastre. </strong></p> <p><a class=\"btn\" href=\"/mx/empresa/contacto\">Solicite ahora</a> <a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">una consulta con un experto 1:1</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_8b281c6989.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 858
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c3030",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automatización: sus ventajas",
+     "href": "/mx/solutions/automatizacion",
+     "caption": "<figcaption> <h3>Automatización: sus ventajas</h3> <p>Descubra cómo automatizar la preparación, la puesta a disposición, la logística y la inspección de herramientas con ZOLLER. Cree una fábrica inteligente altamente eficiente que se adapte a sus necesidades. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/automatizacion/inspeccion-de-la-herramienta/roboset-2/software-e-integracion",
+ "de_path": "/produkte/automation/werkzeuginspektion/roboset-2/software-integration"
+}

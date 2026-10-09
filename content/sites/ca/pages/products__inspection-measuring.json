@@ -1,0 +1,412 @@
+{
+ "path": "/products/inspection-measuring",
+ "url": "/ca/products/inspection-measuring",
+ "title": "Inspection & Measuring",
+ "description": "Inspection & Measuring - Document quality and create digital twins.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Inspection & Measuring",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Inspection & Measuring",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Product Overview </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions are key to your future—we help you achieve greater success. After all, manufacturing faster and more efficiently means operating more profitably, which in turn allows you to invest in the future. If economic progress is your goal, then ZOLLER is your partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Presetting & Measuring",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Tool Management",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Inspection & Measuring",
+      "selected": true
+     },
+     {
+      "value": "253",
+      "label": "Automation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Tool Heat Shrink Technology",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Tool Holders",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Tool Balancing Technology",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "258",
+      "label": "Universal measuring machine",
+      "selected": false
+     },
+     {
+      "value": "257",
+      "label": "Process-Oriented Measurement",
+      "selected": false
+     },
+     {
+      "value": "419",
+      "label": "Automation Solutions",
+      "selected": false
+     },
+     {
+      "value": "3924",
+      "label": "CNC Stone Machining",
+      "selected": false
+     },
+     {
+      "value": "420",
+      "label": "Custom Solutions",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "Universal measuring machine",
+     "items": [
+      {
+       "href": "/ca/products/inspection-measuring/universal-measuring-machine/genius",
+       "title": "»»genius««",
+       "text": "It enters over 100 parameters with ultra-high precision and has proven itself more than 1,000 times over worldwide",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ca/products/inspection-measuring/universal-measuring-machine/titanium",
+       "title": "»titanium«",
+       "text": "For experts who want to know everything—including cutting edge preparation",
+       "img": {
+        "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ca/products/inspection-measuring/universal-measuring-machine/smartcheck",
+       "title": "»»smartCheck««",
+       "text": "Presetting and measuring machine with additional incident light and advanced image analysis",
+       "img": {
+        "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Process-Oriented Measurement",
+     "items": [
+      {
+       "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic",
+       "title": "»»pomBasic««",
+       "text": "Monitor over 70 parameters on the tool in real time",
+       "img": {
+        "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ca/products/inspection-measuring/process-oriented-measurement/mmfocus",
+       "title": "»mμFocus«",
+       "text": "Analyzes topographies and generates 3D images of tool cutting edges",
+       "img": {
+        "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Automation Solutions",
+     "items": [
+      {
+       "href": "/ca/products/automation/tool-inspection/roboset-2",
+       "title": "»»roboSet 2««",
+       "text": "Tool Handling for »genius«, »3dCheck«, »»threadCheck««, »titan,« and »edgeControl«",
+       "img": {
+        "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "CNC Stone Machining",
+     "items": [
+      {
+       "href": "/ca/products/inspection-measuring/cnc-stone-machining/condiaz",
+       "title": "»»conDiaZ««",
+       "text": "Inspection unit specialized for measuring and testing diamond-coated stoneworking tools",
+       "img": {
+        "src": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_66ae2d253b.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ca/products/inspection-measuring/cnc-stone-machining/condress",
+       "title": "»conDress«",
+       "text": "Cleaning and Restoring the Cutting Performance of Stone-Cutting Tools",
+       "img": {
+        "src": "/fileadmin/_processed_/8/5/csm_conDress_preview_e519dedb34.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Custom Solutions",
+     "items": [
+      {
+       "href": "/ca/products/inspection-measuring/custom-solutions/custom-solutions",
+       "title": "Custom Solutions",
+       "text": "Find a selection of specialized solutions tailored to your requirements here",
+       "img": null,
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ca/products/inspection-measuring",
+ "de_path": "/produkte/pruefen-messen"
+}

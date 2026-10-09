@@ -1,0 +1,310 @@
+{
+ "path": "/plc-programmer-m/f/d",
+ "url": "/ca/plc-programmer-m/f/d",
+ "title": "PLC Programmer (m/f/d)",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Job Openings",
+   "href": "/ca/company/careers/job-openings"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Job Openings",
+   "href": "/ca/company/careers/job-openings"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/sps-programmierer-m/w/d",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/controller-m/f/d-2",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/controleur-h/f/d-2",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/controlador-m/f/d-2",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/controllore-m/f/d-2",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/controller-m/k/d-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/controller-m/w/d-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/programmeur-dautomates-programmables-h/f/d",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E6%80%A7%E5%88%A5%E4%B8%8D%E5%95%8F-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%84%B1%EB%B3%84-%EB%AC%B4%EA%B4%80-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/controller-m/w/d-2",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/controlador-m/f/d-2",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/controlador-m/f/d-2",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "PLC Programmer (m/f/d)",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Your Benefit",
+     "href": "/ca/plc-programmer-m/f/d/your-benefit",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c97512",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Electrical Design Area </h3> <h1> PLC Programmer (m/f/d) </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/SPS_Programmierer_2026_06_02_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Job Posting (PDF)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97472",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Your Profile</h4><ul><li>Completed vocational training or a degree in the area of electrical engineering, automation technology, mechatronics, or comparable fields</li><li>Extensive experience with CODESYS and object-oriented PLC programming</li><li>Knowledge of C# and the .NET Framework, as well as the development of ASP.NET applications</li><li>Knowledge in the area of machine connection to IT systems (e.g., OPC UA, MQTT, REST)</li><li>Experience with industrial and transport robots</li><li>Knowledge of fieldbus systems (e.g., EtherCAT, Profinet)</li><li>A structured, solution-oriented approach to work</li><li>Willingness to travel occasionally</li><li>Good written<br/> and spoken German and English</li></ul><h4>Your Responsibilities</h4><ul><li>Development and implementation of PLC programs in CODESYS (IEC 61131-3)</li><li>Analysis, optimization, and extension of existing control systems</li><li>Taking responsibility for and overseeing products from the prototype stage through to series production</li><li>Conducting software tests</li><li>Application of object-oriented programming methods in automation technology</li><li>Commissioning of machines and systems both in-house and at customer sites</li><li>Preparing technical documentation</li><li>Working closely with the IT, electrical engineering, and project management<br/> teams</li></ul><h4>Location</h4> <p>Pleidelsheim, Germany.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97452",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c97492",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Apply Online </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97412",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Would you like to use your skills to contribute to our company’s success? If so, we look forward to receiving your application.</p> <p>Apply now!</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97392",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c97432",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/plc-programmer-m/f/d",
+ "de_path": "/sps-programmierer-m/w/d"
+}

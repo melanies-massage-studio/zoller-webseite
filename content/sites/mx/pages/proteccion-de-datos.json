@@ -1,0 +1,204 @@
+{
+ "path": "/proteccion-de-datos",
+ "url": "/mx/proteccion-de-datos",
+ "title": "Protección de Datos",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Protección de Datos",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Protección de Datos",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/datenschutz",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/privacy-policy",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/proteccion-de-datos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/protection-des-donnees",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/protecao-de-dados",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/protezione-dei-dati",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/dataskydd",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/datenschutz",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/data-protection",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/protection-des-donnees",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/data-protection",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/proteccion-de-datos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/protecao-de-dados",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Política de privacidad </h1>",
+      "body": "<p>Muchas gracias por su interés en nuestro sitio web y en nuestra empresa.</p> <p>Damos gran importancia a la protección de sus datos y al respeto de su privacidad. Para garantizar que esté plenamente informado sobre la recopilación, el tratamiento y el uso de datos personales en nuestros sitios web, le rogamos que lea la siguiente información.</p> <p><strong>1. Responsable del tratamiento de los datos personales</strong></p> <p>Sus datos serán tratados en nombre y por cuenta de<br/><br/>E. ZOLLER GmbH &amp; Co. KG<br/>Gottlieb-Daimler-Str. 19<br/>74385 Pleidelsheim<br/>(en lo sucesivo, «ZOLLER»), responsables y directores generales: Christoph Zoller, Alexander Zoller, Eberhard Zoller. Puede ponerse en contacto con nuestro delegado de protección de datos a través de la dirección postal indicada arriba o por correo electrónico en la dirección <a class=\"link-arrow\" href=\"mailto:datenschutz@zoller.info\" title=\"Mail an Datenschutzbeauftragten\">datenschutz@zoller.info</a>.</p> <p><strong>2. Recopilación anónima de datos</strong></p> <p>En principio, puede visitar nuestros sitios web sin revelarnos su identidad. No almacenamos el nombre de su proveedor de servicios de Internet, ni el sitio web desde el que nos visita, ni el nombre del archivo solicitado.</p> <p><strong>3. Recopilación y tratamiento de datos personales</strong></p> <p>Los datos personales se recopilan y procesan cuando usted nos los proporciona voluntariamente en nuestro sitio web. Esto es posible de la siguiente manera:</p><ul><li><p>Al ponerse en contacto con nosotros a través de nuestros formularios de contacto</p></li><li><p>Al realizar consultas sobre nuestros productos</p></li><li><p>Al iniciar sesión en un evento o una feria</p></li><li><p>Al registrarse para recibir el boletín informativo</p></li><li><p>Al darse de alta en nuestra lista de distribución de prensa</p></li><li><p>Al utilizar nuestra aplicación Bistro</p></li><li><p>Al enviar una solicitud en línea para nuestras ofertas de empleo o al enviar una solicitud espontánea</p></li></ul><p>Los datos personales que se nos transmiten resultan de la máscara de entrada correspondiente que se utiliza para ponerse en contacto con nosotros. Los datos personales que usted introduce se recopilan y almacenan para los usos que se indican a continuación:</p><ul><li><p>Para tramitar las solicitudes que nos envíe a través de los formularios de contacto</p></li><li><p>Para la elaboración de ofertas</p></li><li><p>Para enviarle información sobre nuestros productos y servicios</p></li><li><p>Para gestionar las tareas organizativas relacionadas con su visita prevista a nuestras instalaciones, un evento organizado por nuestros asesores o una feria</p></li><li><p>Para el envío de boletines informativos y comunicados de prensa</p></li><li><p>Para consultas telefónicas/electrónicas</p></li><li><p>Para la gestión de solicitudes de empleo</p></li><li><p>Para el mantenimiento remoto de sus máquinas (al utilizar el software Teamviewer o Fastviewer que ponemos a su disposición)</p></li></ul><p><strong>3.1 Información sobre el envío del boletín informativo y de comunicados de prensa</strong></p> <p>Al registrarse en nuestro boletín informativo, debe proporcionarnos su dirección de correo electrónico. La utilizaremos exclusivamente para enviarle el boletín informativo. El boletín informativo incluye información sobre nuestra empresa y nuestros productos.</p> <p>Para suscribirse a nuestro boletín informativo utilizamos el denominado procedimiento de doble confirmación. Esto significa que, tras su suscripción, le enviaremos un correo electrónico a la dirección que nos haya facilitado, en el que le pediremos que realice la confirmación de que desea recibir el boletín informativo.</p> <p>Al enviar el boletín informativo, utilizamos enlaces personalizados para evaluar si ha abierto el boletín y en qué enlaces ha hecho clic, con el fin de determinar nuestra tasa de éxito y la frecuencia con la que se accede al contenido del boletín informativo. Para ello, creamos estadísticas anónimas que no permiten identificar a ninguna persona individual.</p> <p>Su dirección de correo electrónico permanecerá almacenada en nuestros sistemas hasta que realice el cierre de sesión en nuestro boletín informativo. El cierre de sesión es posible en cualquier momento a través del enlace previsto para ello en el boletín informativo o enviándonos un mensaje correspondiente. Al realizar el cierre de sesión, usted se opone al uso de su dirección de correo electrónico. Su dirección de correo electrónico ya no se utilizará para el envío del boletín informativo.</p> <p>Los datos del boletín informativo que usted ha almacenado no se utilizarán para ningún otro fin ni se procesarán de ninguna otra manera, ni se transmitirán a terceros, salvo para el envío del boletín informativo (en el marco de un procesamiento de pedidos que nos es atribuible).</p> <p>Para ser incluido en nuestra lista de distribución de prensa, regístrese por correo electrónico. También almacenamos estos datos para enviarle información sobre nuestra empresa y nuestros productos. También es posible cerrar sesión enviándonos un mensaje correspondiente y sus datos serán eliminados inmediatamente.</p> <p><strong>3.2 Tratamiento de sus datos para la toma de decisiones automatizada o la elaboración de perfiles</strong></p> <p>No hacemos uso de sus datos para la toma de decisiones automatizada ni para la elaboración de perfiles.</p> <p><strong>4. Base jurídica para el tratamiento de sus datos</strong></p> <p>La legalidad (base jurídica) para el tratamiento de sus datos se deriva de su consentimiento (de conformidad con el artículo 4, apartado 1, en relación con el artículo 4a de la Ley federal alemana de protección de datos [BDSG] o el artículo 6, apartado 1, letra a) del RGPD) o del cumplimiento de un contrato o de la ejecución de medidas precontractuales (de conformidad con el artículo 6, apartado 1, letra b) del RGPD).</p> <p>Si el tratamiento de datos personales debe realizarse para el cumplimiento de una obligación legal a la que está sujeta ZOLLER, trataremos estos datos de conformidad con el art. 6, párr. 1, letra c del RGPD.</p> <p>En caso de salvaguardar los intereses legítimos de ZOLLER, el tratamiento se realiza de conformidad con el art. 6, apartado 1, letra f) del RGPD.</p> <p><strong>5. Duración del almacenamiento de datos</strong></p> <p>Almacenaremos sus datos durante el periodo válido de su consentimiento o hasta que se cumpla su finalidad. A continuación, estos datos se eliminarán, siempre que no existan otras obligaciones legales que exijan su conservación. En el caso de una relación comercial duradera, sus datos de contacto se almacenarán durante la vigencia de la misma y se eliminarán tras su finalización, su revocación o su requerimiento/requisitos para la eliminación.</p> <p><strong>6. Transmisión de datos</strong></p> <p>La transmisión de los datos introducidos en los formularios se realiza en todos los casos de forma cifrada.</p> <p>Podemos transferir los datos a uno o varios encargados del tratamiento (por ejemplo, proveedores de servicios de Internet, proveedores de servicios web, remitentes de boletines informativos), sucursales de ventas competentes, representantes comerciales o empresas asociadas, que también utilizarán los datos personales exclusivamente para los fines especificados.</p> <p>La transmisión de sus datos personales a terceros solo se realizará con su consentimiento, salvo que exista una obligación legal al respecto o para proteger los derechos, la propiedad y la seguridad de la empresa E. ZOLLER GmbH &amp; Co. KG.</p> <p>En la medida en que los proveedores de servicios externos toquen datos personales, exigimos medidas legales, técnicas y organizativas para el cumplimiento de las normas de protección de datos.</p> <p><strong>7. Tratamiento de sus datos mediante cookies</strong></p> <p>Entre otras cosas, nuestro sitio web utiliza las denominadas «cookies», que sirven para que nuestra presencia en Internet sea más fácil de usar, más efectiva y más segura. Además, las cookies nos permiten medir, por ejemplo, la frecuencia de las visitas a las páginas y la navegación general. Las cookies son pequeños archivos de texto que se colocan en su computadora. Le informamos de que algunas de estas cookies son transferidas desde nuestro servidor a su computadora, algunas de las cuales son las denominadas «cookies de sesión». Las «cookies de sesión» se caracterizan por el hecho de que se borran de forma automática de su disco duro al finalizar la sesión del navegador. Otras cookies permanecen en su sistema informático y nos permiten reconocer su sistema informático en su próxima visita (las denominadas cookies permanentes). Por supuesto, puede rechazar las cookies en general en cualquier momento, siempre que su navegador lo permita.</p> <p>Cuando visita nuestro sitio web, puede aceptar individualmente el uso de cookies y recibir indicaciones sobre las respectivas categorías de cookies utilizadas. El uso de cookies, con excepción de las cookies funcionalmente necesarias, solo se lleva a cabo después de su consentimiento.</p> <p>Además, en el pie de página de nuestros sitios web ponemos a su disposición un enlace con el nombre «Configuración de cookies», en el que puede informarse en cualquier momento sobre las categorías de cookies que ha aceptado. Aquí también puede revocar los consentimientos ya otorgados y, por lo tanto, poner fin al uso futuro de las cookies.</p> <p><strong>7.1 Uso de Google Analytics</strong></p> <p>Nuestro sitio web utiliza Google Analytics, un servicio de análisis web de Google Inc. («Google»).</p> <p>Google Analytics utiliza cookies que permiten analizar el uso del sitio web. La información generada por la cookie sobre su uso de este sitio web (incluida su dirección IP) se transfiere a un servidor de Google en los Estados Unidos y se almacena allí. Google utilizará esta información para evaluar su uso del sitio web, para recopilar informes sobre las actividades del sitio web para las empresas explotadoras del mismo y para prestar otros servicios relacionados con el uso del sitio web y de Internet. Google también puede transferir esta información a terceros en caso dado cuando así lo exija la ley o cuando dichos terceros procesen la información por cuenta de Google. Google no establecerá ninguna conexión entre su dirección IP y otros datos de Google.</p> <p>Puede impedir la instalación de cookies mediante el ajuste correspondiente de su navegador. Solo con su consentimiento en este sitio web, usted acepta el procesamiento de los datos recopilados sobre usted por parte de Google del tipo y para los fines anteriormente descritos. La recopilación y el almacenamiento de datos pueden rechazarse en cualquier momento con efecto futuro (a través del enlace «Configuración de cookies» en el pie de página de nuestros sitios web). Alternativamente, puede utilizar el complemento de desactivación de Google Analytics (<a class=\"link-arrow\" href=\"http://tools.google.com/dlpage/gaoptout?hl=de\" rel=\"noopener\" target=\"_blank\" title=\"Zur google Webseite\">http://tools.google.com/dlpage/gaoptout?hl=de</a>), siempre que esté disponible para su navegador.</p> <p>O bien, puede , una cookie de exclusión que impida la recopilación futura de sus datos de usuario cuando visite este sitio web.</p> <p>Le informamos de que este sitio web utiliza Google Analytics con la ampliación de anonimización de IP y, por lo tanto, las direcciones IP solo se procesan de forma corta para excluir la posibilidad de establecer una relación directa con la persona. Puede obtener una visión general del uso que hace Google de los datos en la página web <a class=\"link-arrow\" href=\"https://www.google.de/policies/privacy/partners\" rel=\"noopener\" target=\"_blank\" title=\"Zur google Webseite\">www.google.de/policies/privacy/partners</a>/.</p> <p><strong>7.2 Uso del píxel de Facebook</strong></p> <p>Tras su consentimiento para la medición de conversiones, nuestro sitio web utiliza el píxel de acción de los visitantes de Facebook, Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, EE. UU. («Facebook»).</p> <p>De este modo, se puede rastrear el comportamiento de los visitantes del sitio web después de que estos hayan sido redirigidos al sitio web del proveedor al pulsar un anuncio de Facebook. Esto permite evaluar la eficacia de los anuncios de Facebook con fines estadísticos y de investigación de mercado, así como optimizar futuras medidas publicitarias. Los datos recopilados son anónimos para nosotros, la empresa explotadora de este sitio web, no podemos sacar conclusiones sobre la identidad de los usuarios. Sin embargo, Facebook almacena y procesa los datos, de modo que es posible establecer una conexión con el perfil de usuario correspondiente y Facebook puede utilizar los datos para sus propios fines publicitarios, de acuerdo con la política de uso de datos de Facebook. Esto permite a Facebook mostrar anuncios en páginas de Facebook y fuera de Facebook. Como operadores del sitio web, no podemos influir en este uso de los datos.</p> <p>El uso de Facebook Pixel se basa en su consentimiento de conformidad con el artículo 6, apartado 1, letra a) del RGPD y solo se lleva a cabo durante el periodo para el que hemos recibido su consentimiento válido.</p> <p>En la política de privacidad de Facebook encontrará más información sobre la protección de su privacidad: <a class=\"link-arrow\" href=\"https://de-de.facebook.com/about/privacy/\" rel=\"noopener\" target=\"_blank\">https://de-de.facebook.com/about/privacy/.</a> También puede desactivar la función de remarketing «Custom Audiences» en el área de ajustes de anuncios en <a class=\"link-arrow\" href=\"https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen\" rel=\"noopener\" target=\"_blank\">https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen</a>. Para ello, debe iniciar sesión en Facebook. Si no tiene una cuenta de Facebook, puede desactivar la publicidad basada en el uso de Facebook en el sitio web de la Alianza Europea de Publicidad Digital Interactiva: <a class=\"link-arrow\" href=\"http://www.youronlinechoices.com/de/praferenzmanagement/\" rel=\"noopener\" target=\"_blank\">http://www.youronlinechoices.com/de/praferenzmanagement/.</a></p> <p><strong>7.3 Uso del complemento de LinkedIn</strong></p> <p>Nuestro sitio web también utiliza, con su consentimiento, funciones de la red LinkedIn. El proveedor es LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, EE. UU. Cada vez que se accede a una de nuestras páginas que contiene funciones de LinkedIn, se establece una conexión con los servidores de LinkedIn. LinkedIn es informado de que ha visitado nuestras páginas web con su dirección IP. Si hace clic en el botón «Recomendar» de LinkedIn y ha registrado su cuenta de usuario en LinkedIn, LinkedIn puede asignar su visita a nuestro sitio web a usted y a su cuenta de usuario. Le informamos de que, como proveedores de las páginas, no tenemos conocimiento del contenido de los datos transmitidos ni del uso que LinkedIn hace de ellos. Para más información al respecto, consulte la política de privacidad de LinkedIn en: <a class=\"link-arrow\" href=\"https://www.linkedin.com/legal/privacy-policy.\" rel=\"noopener\" target=\"_blank\">https://www.linkedin.com/legal/privacy-policy.</a></p> <p>El uso del complemento de LinkedIn se basa en su consentimiento de conformidad con el art. 6, apartado 1, letra a) del RGPD y solo se lleva a cabo durante el periodo para el que hemos recibido su consentimiento válido.</p> <p><strong>8. Enlaces a otros sitios web</strong></p> <p>En nuestro sitio web están incluidos enlaces a otros sitios web. </p> <p>Entre otros, también hacemos referencia a la página web voreinstellgeraete-usado.de, que también gestionamos y a la que también se aplica la declaración de protección de datos válida.</p> <p>Además, también hacemos referencias a nuestros canales de redes sociales, como Facebook, LinkedIn y YouTube. No se lleva a cabo ningún tratamiento a través de estas referencias en nuestro sitio web.</p> <p>No tenemos ninguna influencia sobre el cumplimiento de las disposiciones de protección de datos por parte de las empresas<br/>explotadoras de otros sitios web. Como proveedores, somos responsables de nuestros propios contenidos de acuerdo con las leyes generales. Hay que distinguir entre estos contenidos propios y los enlaces a contenidos proporcionados por otras empresas explotadoras. No asumimos ninguna responsabilidad por los contenidos ajenos que se ponen a disposición a través de enlaces y no nos hacemos responsables de su contenido. El proveedor de la página a la que se hace referencia es el único<br/>responsable de los contenidos ilegales, erróneos o incompletos y, en particular, de los daños que se deriven del uso o no uso de la información presentada de este tipo.</p> <p><strong>9. Sus derechos sobre sus datos personales</strong></p> <p><strong>9.1 Derecho de acceso, rectificación, limitación, supresión y portabilidad</strong></p> <p>De conformidad con el Reglamento General de Protección de Datos, usted tiene derecho a obtener en cualquier momento información gratuita sobre sus datos personales almacenados y, en su caso, a rectificarlos, limitarlos o suprimirlos.<br/>Si estamos obligados a cumplir con las obligaciones legales de conservación, limitaremos sus datos para su posterior uso en lugar de suprimirlos, de modo que ya no puedan utilizarse para los fines mencionados anteriormente.</p> <p>Además, tiene derecho a recibir los datos personales que tenemos almacenados sobre usted en formato electrónico.</p> <p><strong>9.2 Derecho de oposición en casos concretos</strong></p> <p>Tiene derecho a oponerse en cualquier momento, por motivos que resultan de su situación en particular, al tratamiento de los datos personales que le conciernen, que se realiza sobre la base del artículo 6, apartado 1, letra f) del RGPD (tratamiento de datos basado en una ponderación de intereses); esto también se considera para considerar la elaboración de perfiles basada en esta disposición en el sentido del artículo 4, apartado 4 del RGPD.</p> <p>Si el tratamiento se basa en el consentimiento de conformidad con el artículo 6, apartado 1, letra a) del RGPD, tiene derecho a retirar su consentimiento en cualquier momento. La retirada del consentimiento no tocará la licitud del tratamiento basado en el consentimiento hasta el momento de la retirada.</p> <p>Si se opone, dejaremos de tratar sus datos personales, salvo que podamos demostrar motivos legítimos imperiosos para el tratamiento que prevalezcan sobre sus intereses, derechos y libertades, o que el tratamiento sirva para la formulación, el ejercicio o la defensa de reclamaciones legales.</p> <p><strong>9.3 Derecho de oposición al tratamiento de datos con fines publicitarios</strong></p> <p>En casos concretos, tratamos sus datos personales con fines de publicidad directa. Tiene derecho a oponerse en cualquier momento al tratamiento de los datos personales que le conciernen con fines de publicidad directa; esto también se considera para la elaboración de perfiles, en la medida en que exista una conexión/unión con dicha publicidad directa. Si se opone al tratamiento con fines de publicidad directa, dejaremos de tratar sus datos personales para estos fines.</p> <p><strong>9.4 Derecho de reclamación</strong></p> <p>Si considera que ZOLLER no trata sus datos de conformidad con las leyes de protección de datos vigentes, debe presentar una queja ante la autoridad de control de protección de datos que elija.</p> <p>Para cualquier consulta relacionada con sus derechos, póngase en contacto con nosotros a través de los datos de contacto que figuran a continuación.</p> <p><strong>10. Seguridad de los datos</strong></p> <p>Protegemos nuestro sitio web y otros sistemas mediante medidas técnicas y organizativas contra la pérdida, destrucción, acceso, modificación o difusión de sus datos por parte de personas no autorizadas. Las medidas de seguridad se mejoran continuamente de acuerdo con los avances tecnológicos. Las medidas de seguridad corresponden a los avances tecnológicos.</p> <p><strong>11. Más información y contactos</strong></p> <p>Si tiene más preguntas sobre la protección de datos, póngase en contacto con nosotros. Si tiene preguntas sobre la recopilación, el procesamiento o el uso de sus datos personales, si desea obtener información, rectificar, bloquear/limitar o eliminar datos, así como revocar los consentimientos otorgados, póngase en contacto con:</p> <p>E. ZOLLER GmbH &amp; Co. KG<br/>Gottlieb-Daimler-Str. 19<br/>D-74385 Pleidelsheim <br/>+49 7144 8970-0<br/><a class=\"link-arrow\" href=\"mailto:post@zoller.info?subject=Fragen%20zum%20Datenschutz%20auf%20der%20Webseite%20www.zoller.info\">post@zoller.info</a></p> <p><strong>Responsable de protección de datos</strong><br/><a class=\"link-arrow\" href=\"mailto:datenschutz@zoller.info\" title=\"Mail an den Datenschutzbeauftragten\">datenschutz@zoller.info</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4161",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c4160",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/proteccion-de-datos",
+ "de_path": "/datenschutz"
+}

@@ -1,0 +1,390 @@
+{
+ "path": "/produits/automatisation/preparation-des-outils/micbox/centre-dinformations",
+ "url": "/ca-fr/produits/automatisation/preparation-des-outils/micbox/centre-dinformations",
+ "title": "»micBox« – Centre d'informations",
+ "description": "Centre d'informations - »micBox« – Centre d'informations",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Automatisation /",
+   "href": "/ca-fr/produits/automatisation"
+  },
+  {
+   "label": "Préparation des outils /",
+   "href": "/ca-fr/produits/automatisation/preparation-des-outils"
+  },
+  {
+   "label": "»micBox« /",
+   "href": "/ca-fr/produits/automatisation/preparation-des-outils/micbox"
+  },
+  {
+   "label": "Centre d'informations",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Automatisation /",
+   "href": "/ca-fr/produits/automatisation"
+  },
+  {
+   "label": "Préparation des outils /",
+   "href": "/ca-fr/produits/automatisation/preparation-des-outils"
+  },
+  {
+   "label": "»micBox« /",
+   "href": "/ca-fr/produits/automatisation/preparation-des-outils/micbox"
+  },
+  {
+   "label": "Centre d'informations",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation/werkzeugvorbereitung/micbox/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation/tool-preparation/micbox/info-hub",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion/preparacion-de-herramientas/micbox/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation/preparation-des-outils/micbox/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao/preparacao-de-ferramentas/micbox/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione/preparazione-degli-utensili/micbox/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering/foerberedelse-av-verktyg/micbox/informationsbank",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation/werkzeugvorbereitung/micbox/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation/tool-preparation/micbox/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation/preparation-des-outils/micbox/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/micbox/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/micbox/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation/tool-preparation/micbox/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion/preparacion-de-herramientas/micbox/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao/preparacao-de-ferramentas/micbox/painel-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»micBox«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/automatisation/preparation-des-outils/micbox",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Logiciels et intégration",
+     "href": "/ca-fr/produits/automatisation/preparation-des-outils/micbox/logiciels-et-integration",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/automatisation/preparation-des-outils/micbox/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/automatisation/preparation-des-outils/micbox/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/automatisation/preparation-des-outils/micbox/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2522",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Centre d'informations </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c2521",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Broschuere_automation_BRAUTOM-00_EN.pdf",
+     "name": "Automation",
+     "size": "5 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/2/csm_ZOLLER_Broschuere_automation_BRAUTOM-00_EN_c20039430a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Automation"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Brochure_micBox_BRMICBOX_00_EN.pdf",
+     "name": "»micBox«",
+     "size": "3 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/3/7/csm_ZOLLER_Brochure_micBox_BRMICBOX_00_EN_04dfce0f5a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»micBox«"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_Automation_cora_FLAUTOCORA_00_EN.pdf",
+     "name": "Automation cora – Presetting & Measuring",
+     "size": "736 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/c/csm_ZOLLER_Flyer_Automation_cora_FLAUTOCORA_00_EN_89e7776464.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Automation cora – Presetting & Measuring"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_EN_07.pdf",
+     "name": "»wearCheck«",
+     "size": "366 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/8/csm_ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_EN_07_51d276b255.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»wearCheck«"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c240539",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Vidéos </h3>",
+   "body": "",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/Dlj-SmiJrY8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER »coraVarion/micBox« - Automation for Indexable Insert Change, Tool Setting and Measurement"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/8fJHOJgAAHA?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER »micBox« – Vollautomatischer Wendeschneidplatten-Wechsler"
+    },
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/7wWcTSATFjo?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Automation Solutions for Your Success"
+    }
+   ],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7566",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_teaser_automation_small_cfb965dda2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Automatisation : vos avantages",
+     "href": "/ca-fr/solutions/automatisation",
+     "caption": "<figcaption> <h3>Automatisation : vos avantages</h3> <p>Découvrez comment automatiser la préparation, la préparation des outils, la logistique et le contrôle des outils avec ZOLLER. Réalisez votre usine intelligente hautement efficace en fonction de vos besoins. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3887",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/automatisation/preparation-des-outils/micbox/centre-dinformations",
+ "de_path": "/produkte/automation/werkzeugvorbereitung/micbox/info-pool"
+}

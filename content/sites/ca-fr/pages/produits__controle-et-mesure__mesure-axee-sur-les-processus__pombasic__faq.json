@@ -1,0 +1,552 @@
+{
+ "path": "/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/faq",
+ "url": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/faq",
+ "title": "»pomBasic« – FAQ",
+ "description": "FAQ - »pomBasic« – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Contrôle et mesure /",
+   "href": "/ca-fr/produits/controle-et-mesure"
+  },
+  {
+   "label": "Mesure axée sur les processus /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus"
+  },
+  {
+   "label": "»pomBasic« /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Contrôle et mesure /",
+   "href": "/ca-fr/produits/controle-et-mesure"
+  },
+  {
+   "label": "Mesure axée sur les processus /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus"
+  },
+  {
+   "label": "»pomBasic« /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic"
+  },
+  {
+   "label": "FAQ",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen/prozessorientertes-messen/pombasic/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring/process-oriented-measurement/pombasic/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/pombasic/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer/mesure-orientee-processus/pombasic/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/pombasic/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione/misurazione-orientata-al-processo/pombasic/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta/processorienterad-maetning/pombasic/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen/prozessorientiertes-messen/pombasic/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring/process-oriented-measurement/pombasic/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E9%87%8D%E8%A6%96%E3%81%AE%E6%B8%AC%E5%AE%9A/pombasic/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95/pombasic/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring/process-oriented-measurement/pombasic/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/pombasic/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/pombasic/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»pomBasic«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Modèles",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/modeles",
+     "current": false
+    },
+    {
+     "label": "Logiciels et intégration",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/logiciels-et-integration",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1801",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Foire aux questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1799",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Pourquoi existe-t-il différents modèles d'appareils photo ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>En fonction des dimensions et des types d'outils à contrôler, ZOLLER propose trois technologies de caméras différentes pour »pomBasic«. Chaque client bénéficie ainsi d'une solution parfaitement adaptée à ses besoins.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1796",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ces appareils sont-ils faciles à utiliser ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Oui, outre ses nombreux autres avantages, »pomBasic« se distingue par sa grande facilité d'utilisation. Les fonctions les plus importantes et les plus fréquemment utilisées peuvent ainsi être classées dans des groupes de favoris. Chaque opérateur dispose ainsi rapidement et facilement des fonctions de mesure souhaitées.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1794",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Est-il possible, dans »pomBasic«, d'agrandir les images de coupe à l'aide d'un zoom numérique ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Le logiciel de commande propose un zoom numérique pour tous les modèles de caméras. De plus, les caméras des séries »pomColorCam« et »pomMicroCam« sont équipées d'un zoom optique.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1792",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "La comparaison de fichiers DXF est-elle prise en charge sur tous les appareils de la gamme »pomBasic« ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La fonction DXF permet d'aligner rapidement et de manière fiable les outils par rapport à leur contour théorique au format DXF.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1790",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Existe-t-il des possibilités de réglages rapides de l'éclairage pour la lumière incidente et la lumière transmise ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Pour l'éclairage incident, une fonction permettant de régler automatiquement l'éclairage d'une simple pression sur un bouton est disponible. De plus, la fonction d'accès rapide permet de régler rapidement et facilement tous les éclairages disponibles de manière optimale.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1788",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Dans quels cas dois-je utiliser une caméra standard (»pomBasic«) ou une microcaméra (»pomBasic MTI«) ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Idéalement, la plage de diamètres du »pomBasic« commence à 3 mm et augmente progressivement. Pour le »pomBasic MTI,« la plage de diamètres commence dès 0,2 mm et augmente également progressivement.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1786",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Est-il possible de mesurer des diamètres d'outils plus importants avec »pomBasic MTI« ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Les courses des axes X et Y sont identiques sur les deux versions de l'appareil. Cela permet de mesurer de manière fiable même des outils de grand diamètre avec le »pomBasic MTI«.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1784",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER propose-t-il des porte-outils pour »les modèles pomBasic« et »pomBasic MTI« ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Une grande variété de porte-outils est disponible pour les domaines d'application les plus divers.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1782",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "À quoi sert une commande CNC pour l'axe de la caméra ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Permet d'obtenir des images nettes de l'outil dans son ensemble, un positionnement automatique de la caméra par rapport à la surface de l'outil, ainsi que le déplacement de l'axe de la caméra commandé par CNC à l'aide d'un joystick.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1803",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Pourquoi la caméra du »pomBasic MTI« est-elle équipée d'un éclairage coaxial et en quoi cela consiste-t-il ?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>L'éclairage coaxial est directement intégré au système de caméra et garantit un éclairage optimal et sans ombre de la surface de l'outil, en particulier dans le cas des micro-outils.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1811",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1798",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1800",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Contrôler et mesurer : vos avantages",
+     "href": "/ca-fr/solutions/controle-et-mesure",
+     "caption": "<figcaption> <h3>Contrôler et mesurer : vos avantages</h3> <p>Découvrez tout ce qui est possible avec ZOLLER en matière de contrôle d'outil. Contrôles proches du processus ou analyses haut de gamme, jusqu'au SKP, à la rugosité et à la création de jumeaux numériques.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/faq",
+ "de_path": "/produkte/pruefen-messen/prozessorientertes-messen/pombasic/faq"
+}

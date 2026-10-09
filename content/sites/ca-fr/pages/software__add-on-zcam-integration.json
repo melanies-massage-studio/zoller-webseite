@@ -1,0 +1,610 @@
+{
+ "path": "/software/add-on-zcam-integration",
+ "url": "/ca-fr/software/add-on-zcam-integration",
+ "title": "Add-on »z.CAM Integration«",
+ "description": "Add-on »z.CAM Integration« - Ajoute au système des interfaces performantes et intègre directement les données d'outils dans le flux de travail - Un flux de...",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/ca-fr/produits/gestion-des-outils"
+  },
+  {
+   "label": "Software /",
+   "href": "/ca-fr/software"
+  },
+  {
+   "label": "Add-on »z.CAM Integration«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/ca-fr/produits/gestion-des-outils"
+  },
+  {
+   "label": "Software /",
+   "href": "/ca-fr/software"
+  },
+  {
+   "label": "Add-on »z.CAM Integration«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zcam-integration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-zcam-integration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zcam-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/zcam-integration-add-on",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zcam-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-zcam-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zcam-integration",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/ca-fr/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/ca-fr/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/ca-fr/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/ca-fr/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/ca-fr/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/ca-fr/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/ca-fr/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164325",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Un flux de travail efficace </h3> <h1> Add-on »z.CAM Integration« </h1>",
+   "body": "<p>Le TMS de ZOLLER, grâce au <strong>module</strong> <strong>complémentaire »«z.CAM Integration »,«</strong> étend le système d'interfaces performantes et intègre directement les données d'outils dans le flux de travail. Les caractéristiques techniques DIN/ISO, l’éditeur 2D et 3D intégré ainsi que les données technologiques garantissent des définitions d’outils claires et complètes. La gestion des programmes NC et plus de 25 interfaces FAO permet une intégration transparente des processus. Des structures d’outils claires réduisent la durée de la programmation FAO et les temps d'équipement, tout en renforçant la sécurité des processus.</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Demandez dès maintenant</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">un entretien individuel avec un expert</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_067b00c254.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164374",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Création standardisée des données selon les normes DIN/ISO ",
+    "Savoir-faire numérique en matière de fabrication grâce aux données technologiques ",
+    "Moins d'efforts de coordination entre la FAO et la production"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164379",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.CAM Integration« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Navigateur Web </td> <td class=\"text-center\"> Bureau </td> </tr> <tr> <td> Caractéristiques techniques DIN/ISO </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Éditeur 2D et 3D </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Données technologiques </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Interpréteur CN </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Gestion des programmes CN </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Interfaces FAO (25+) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164384",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● De base ⦿ en option ― non disponible </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164423",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/1/csm_TMS_Sachmerkmalleiste_a61a88c016.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Barre de caractéristiques techniques conforme aux normes DIN 4000 et ISO 13399</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/6/csm_TMS_Komplettdaten_9c30b59c48.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Données complètes pour chaque outil sous forme de graphiques en 2D/3D</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/1/csm_TMS_Werkzeugzusammenbau_84446bd1b9.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Assemblage graphique de tous les composants de l'outil</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_TMS_NC-Programmverwaltung_6190c9d218.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Gestion du programme CN, y compris le contrôle des versions et le transfert bidirectionnel de données vers et depuis la machine</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164389",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.CAM Integration« </h3> <h2> Processus Plus </h2>",
+   "body": "<p class=\"large-text\">Ce module complémentaire garantit un retour sur investissement mesurable grâce à une durée de cycle plus courte.</p> <p class=\"large-text\">Ce module complémentaire prépare des données d'outils centralisées et cohérentes pour la FAO, la commande numérique et la fabrication, sans conflits de versions.</p> <p class=\"large-text\">Ce module complémentaire s'intègre parfaitement aux systèmes existants et évolue en fonction de vos exigences.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_zCAM_Integration_benefit_FR_c6b95f7cbb.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164394",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zCAM_Integration_Feature_01_0e2954f648.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Interfaces FAO",
+     "caption": "<figcaption> <h3>Interfaces FAO</h3> <p>Interfaces FAO dotées d'interfaces utilisateur conviviales</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/3/csm_zCAM_Integration_Feature_02_ac22df714b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "DIN 4000/ISO 13399",
+     "caption": "<figcaption> <h3>DIN 4000/ISO 13399</h3> <p>Pour une description claire des outils</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164399",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Sélection de systèmes CAM compatibles </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/e/csm_ZOLLER-CAM-System_autodesk_powermill_c2fdcfa1b7.webp",
+     "alt": "L'interface PowerMill relie directement ZOLLER TMS au logiciel de programmation FAO. Les données d'outils et les géométries 3D sont gérées de manière centralisée et préparées automatiquement dans PowerMill.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.autodesk.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ZOLLER-CAM-System_topsolid_58be78cf00.webp",
+     "alt": "La connexion à TopSolid relie la base de données d'outils et la programmation FAO. Les utilisateurs peuvent accéder à tout moment aux outils validés et aux données technologiques actualisées issues de ZOLLER TMS.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.topsolid.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/8/csm_ZOLLER-CAM-System_peps_e69ab640c5.webp",
+     "alt": "La connexion PEPS relie le TMS de ZOLLER à la programmation FAO pour les procédés d’usinage les plus différents. Les données d’outils sont gérées de manière centralisée et préparées de manière automatique.",
+     "w": 376,
+     "h": 167,
+     "href": "https://apic.de/"
+    },
+    {
+     "src": "/fileadmin/_processed_/8/b/csm_ZOLLER-CAM-System_siemens_ee72b3958f.webp",
+     "alt": "L'interface TMS de ZOLLER avec Siemens NX permet de centraliser la préparation des données d'outils, des géométries 3D et des paramètres technologiques. Ainsi, les services de conception, de programmation FAO et de fabrication travaillent toujours avec les mêmes données d'outils.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.siemens.com/de-de/products/cad-cam-software/"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_ZOLLER-CAM-System_virtual_gibbs_648f71fb1d.webp",
+     "alt": "L'interfaçage avec Virtual Gibbs permet d'accéder directement aux données d'outils centralisées issues de ZOLLER TMS. Les configurations d'outils et les données technologiques sont intégrées de manière homogène dans le processus de programmation.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.gibbscam.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/f/csm_ZOLLER-CAM-System_camworks_e762945d8a.webp",
+     "alt": "Grâce à l'intégration de CAMWorks, les données d'outils à jour sont directement disponibles dans l'environnement FAO. ZOLLER TMS assure la gestion centralisée de la base de données et réduit les tâches de mise à jour manuelles.",
+     "w": 376,
+     "h": 167,
+     "href": "https://camworks.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/a/csm_ZOLLER-CAM-System_hexagon_0b224a447b.webp",
+     "alt": "ZOLLER TMS intègre les données d'outils aux systèmes de FAO EDGECAM, WORKNC et ALPHACAM. La standardisation des informations sur les outils facilite la programmation, la simulation et la fabrication sur l'ensemble des systèmes.",
+     "w": 376,
+     "h": 167,
+     "href": "https://hexagon.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/0/csm_ZOLLER-CAM-System_solidcam_90a00592f2.webp",
+     "alt": "L'interface directe entre ZOLLER TMS et SolidCAM transfère automatiquement les données d'outils, les géométries 3D et les paramètres technologiques. Les processus de fraisage, de tournage et de tournage-fraisage bénéficient ainsi d'informations cohérentes sur les outils.",
+     "w": 376,
+     "h": 167,
+     "href": "https://solidcam.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/8/csm_ZOLLER-CAM-System_cgtech_vericut_c95699a054.webp",
+     "alt": "",
+     "w": 376,
+     "h": 167,
+     "href": "https://vericut.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/a/csm_ZOLLER-CAM-System_autodesk_featurecam_b0f04a2941.webp",
+     "alt": "ZOLLER TMS fournit à FeatureCAM des données d'outils et des modèles d'outils cohérents. La programmation et la gestion des outils sont ainsi efficacement associées.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.autodesk.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_ZOLLER-CAM-System_cimatron_ad4747e7b9.webp",
+     "alt": "ZOLLER TMS associe la gestion des outils et la programmation FAO dans Cimatron. Les données d'outils sont gérées de manière centralisée et sont disponibles pour une programmation CN sécurisée.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.cimatron.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_ZOLLER-CAM-System_esprit_2aeeb378ff.webp",
+     "alt": "Grâce à l'intégration avec ESPRIT, ZOLLER TMS prépare des données d'outils centralisées pour le fraisage, le tournage et l'usinage multicanaux. L'uniformisation des données d'outils renforce la sécurité des processus dans la programmation CN.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.espritcam.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/2/csm_ZOLLER-CAM-System_hypermill_b46e28c353.webp",
+     "alt": "ZOLLER TMS synchronise les données d'outils avec hyperMILL et prépare des modèles d'outils identiques pour la programmation, la simulation et la fabrication.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.openmind-tech.com"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/3/csm_ZOLLER-CAM-System_tebis_c502d5fafb.webp",
+     "alt": "ZOLLER TMS fournit à Tebis l'ensemble des données d'outils, y compris les géométries 3D et les configurations d'outils. Cela permet d'harmoniser de manière optimale la programmation, la simulation et la fabrication.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.tebis.com"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/6/csm_ZOLLER-CAM-System_ptccreo_a21f494310.webp",
+     "alt": "ZOLLER TMS effectue la connexion des données d'outils à l'environnement DAO/FAO de PTC Creo. Des modèles d'outils uniformes facilitent une planification et une programmation efficaces.",
+     "w": 376,
+     "h": 167,
+     "href": "https://ptc-solutions.de"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/e/csm_ZOLLER-CAM-System_ncgcam_7289d6d989.webp",
+     "alt": "Grâce à l'interface NCG CAM, ZOLLER TMS prépare des données d'outils et des géométries de l'outil cohérentes pour la programmation. Cela permet de réduire les erreurs et de standardiser les processus.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.ncgcam.com"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/9/csm_ZOLLER-CAM-System_bscatia_e77d082089.webp",
+     "alt": "",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.3ds.com/products/catia"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/3/csm_ZOLLER-CAM-System_opus_4c21c05760.webp",
+     "alt": "Grâce à l'intégration avec OPUS CAM, les données d'outils issues de ZOLLER TMS sont directement disponibles pour la programmation CN. La centralisation des données réduit les efforts de maintenance et améliore la qualité des données.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.opus-cam.de"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/1/csm_ZOLLER-CAM-System_mastercam_57acba4b57.webp",
+     "alt": "Grâce à l'intégration de Mastercam, ZOLLER TMS prépare les données d'outils essentielles à la programmation CN. Les géométries d'outils et les données technologiques sont préparées de manière automatique et mises à jour.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.mastercam.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/4/csm_ZOLLER-CAM-System_eureka_0edf08affb.webp",
+     "alt": "",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.eureka-sim.com/"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 5,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164414",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement : vos avantages",
+     "href": "/ca-fr/solutions/gestion-des-outils",
+     "caption": "<figcaption> <h3>Toolmanagement : vos avantages</h3> <p>Découvrez comment le Toolmanagement de ZOLLER augmente immédiatement votre productivité. Grâce aux données d'outils, les processus sont plus rapides et plus sûrs – avec notamment une protection anti-collision pour vos machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/software/add-on-zcam-integration",
+ "de_path": "/produkte/toolmanagement/software/add-on-zcam-integration"
+}

@@ -1,0 +1,356 @@
+{
+ "path": "/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus/centre-dinformations",
+ "url": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus/centre-dinformations",
+ "title": "»mμFocus« – Centre d'informations",
+ "description": "Centre d'informations - »mμFocus« – Centre d'informations",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Contrôle et mesure /",
+   "href": "/ca-fr/produits/controle-et-mesure"
+  },
+  {
+   "label": "Mesure axée sur les processus /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus"
+  },
+  {
+   "label": "»mμFocus« /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus"
+  },
+  {
+   "label": "Centre d'informations",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Contrôle et mesure /",
+   "href": "/ca-fr/produits/controle-et-mesure"
+  },
+  {
+   "label": "Mesure axée sur les processus /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus"
+  },
+  {
+   "label": "»mμFocus« /",
+   "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus"
+  },
+  {
+   "label": "Centre d'informations",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen/prozessorientertes-messen/mmfocus/info-pool",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring/process-oriented-measurement/mmfocus/info-hub",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/mmfocus/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer/mesure-orientee-processus/mmfocus/pool-dinformations",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/mmfocus/painel-informativo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione/misurazione-orientata-al-processo/mmfocus/pool-informativo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta/processorienterad-maetning/mmfocus/informationspool",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen/prozessorientiertes-messen/mmfocus/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring/process-oriented-measurement/mmfocus/info-pool",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus/centre-dinformations",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E9%87%8D%E8%A6%96%E3%81%AE%E6%B8%AC%E5%AE%9A/mmfocus/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95/mmfocus/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring/process-oriented-measurement/mmfocus/info-pool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/mmfocus/centro-de-informacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/mmfocus/painel-informativo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»mμFocus«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Applications",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus/applications",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2062",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Centre d'informations </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c2061",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/m%CE%BCFocus/Info-Pool/mueFocus_ZOLLER-EN.pdf",
+     "name": "»mμFocus«",
+     "size": "3 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/0/2/csm_mueFocus_ZOLLER-EN_06f415a45a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "»mμFocus«"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Messtechnik/ZOLLER_Flyer_Messtechnik_4_0_FLMETE4_00_EN_03.pdf",
+     "name": "Measuring Technology 4.0",
+     "size": "4 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/c/csm_cover_measuring_technology_9f9cdcff05.webp",
+      "alt": "",
+      "w": 310,
+      "h": 437
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/User_Reports/ZOLLER_Anwenderbericht_WEMA_Werkzeuge_myFocus_EN_01.pdf",
+     "name": "User Report – WEMA Zerspanungs­werkzeuge GmbH",
+     "size": "2 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/0/9/csm_ZOLLER_Anwenderbericht_WEMA_Werkzeuge_myFocus_EN_01_9f568db88c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "User Report – WEMA Zerspanungs­werkzeuge GmbH"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/User_Reports/ZOLLER_Anwenderbericht_Schumacher_myFocus_EN.pdf",
+     "name": "User Report – Schumacher Precision Tools GmbH",
+     "size": "3 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/e/e/csm_ZOLLER_Anwenderbericht_Schumacher_myFocus_EN_833a42eb80.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "User Report – Schumacher Precision Tools GmbH"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c2060",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Contrôler et mesurer : vos avantages",
+     "href": "/ca-fr/solutions/controle-et-mesure",
+     "caption": "<figcaption> <h3>Contrôler et mesurer : vos avantages</h3> <p>Découvrez tout ce qui est possible avec ZOLLER en matière de contrôle d'outil. Contrôles proches du processus ou analyses haut de gamme, jusqu'au SKP, à la rugosité et à la création de jumeaux numériques.</p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus/centre-dinformations",
+ "de_path": "/produkte/pruefen-messen/prozessorientertes-messen/mmfocus/info-pool"
+}

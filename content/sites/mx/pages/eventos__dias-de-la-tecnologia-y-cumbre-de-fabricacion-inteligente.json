@@ -1,0 +1,295 @@
+{
+ "path": "/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente",
+ "url": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente",
+ "title": "Días de la Tecnología y Fabricación Inteligente",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Eventos /",
+   "href": "/mx/eventos"
+  },
+  {
+   "label": "Días de la Tecnología y Fabricación Inteligente",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Eventos /",
+   "href": "/mx/eventos"
+  },
+  {
+   "label": "Días de la Tecnología y Fabricación Inteligente",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/technology-days-and-smart-manufacturing-summit",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/teknikdagar-och-smart-manufacturing-summit",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/technology-days-and-smart-manufacturing-summit",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/technology-days-and-smart-manufacturing-summit",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA%E3%81%8A%E3%82%88%E3%81%B3%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80-%EB%8D%B0%EC%9D%B4-%EB%B0%8F-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A0%9C%EC%A1%B0-%EC%84%9C%EB%B0%8B",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/technology-days-and-smart-manufacturing-summit",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Días de la Tecnología y Fabricación Inteligente",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Soluciones",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/soluciones",
+     "current": false
+    },
+    {
+     "label": "Presentadores",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/presentadores",
+     "current": false
+    },
+    {
+     "label": "agenda",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/agenda",
+     "current": false
+    },
+    {
+     "label": "Hotel y viajes",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/hotel-y-viajes",
+     "current": false
+    },
+    {
+     "label": "¡Regístrese ahora!",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4801",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Jornada de puertas abiertas y cumbre sobre automatización",
+     "kicker": "",
+     "text": "<p>Ann Arbor, Míchigan, 13 y<br/>14 de mayo de 2026</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4802",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Experimente la próxima era de la fabricación inteligente y de precisión en la Jornada de Puertas Abiertas y Cumbre de Automatización 2026 de ZOLLER. </h2>",
+   "body": "<p class=\"extra-large-text\">Acompáñenos en la sede norteamericana de ZOLLER en Ann Arbor, Míchigan, para nuestra reunión anual de fabricantes, innovadores y líderes del sector, un evento diseñado para mostrar las tecnologías, estrategias y soluciones de automatización que dan forma a los procesos modernos de fabricación y herramientas.</p> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/live/detail/1391\" rel=\"noopener\" target=\"_blank\">¡Regístrese ahora!</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c4803",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Celebración de los 80 años de ZOLLER: resumen de Ann Arbor </h2>",
+   "body": "<p>Este evento de tres días recibió a clientes, socios y líderes del sector para ofrecerles una visión entre bastidores de nuestra tecnología, nuestro equipo y nuestro compromiso continuo con la configuración del futuro de la fabricación a través de la innovación y la precisión.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/4esLi8qbdp4?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER 80th Anniversary Open House – Ann Arbor, MI"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4804",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Regístrese ahora </h2>",
+   "body": "<p>¡Ya está abierta la inscripción para la Jornada de Puertas Abiertas y la Cumbre de Automatización de ZOLLER!</p> <p><a href=\"https://myzoller.com/us/en/live/detail/1391\" rel=\"noopener\" target=\"_blank\">¡Regístrese ahora!</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c4809",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente",
+ "de_path": ""
+}

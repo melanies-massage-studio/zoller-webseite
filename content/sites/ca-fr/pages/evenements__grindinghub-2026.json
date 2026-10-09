@@ -1,0 +1,346 @@
+{
+ "path": "/evenements/grindinghub-2026",
+ "url": "/ca-fr/evenements/grindinghub-2026",
+ "title": "GrindingHub 2026",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "GrindingHub 2026",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "GrindingHub 2026",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events/grindinghub-2026",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/grindinghub-2026",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/grindinghub-2026",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/grindinghub-2026",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/grindinghub-2026",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/grindinghub-2026",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/grindinghub-2026",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "GrindingHub 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Techniques de mesure",
+     "href": "/ca-fr/evenements/grindinghub-2026/techniques-de-mesure",
+     "current": false
+    },
+    {
+     "label": "Demander un code de billet",
+     "href": "/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c25891",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/2/csm_header_grindinghub2026_b900fb7dd9.webp",
+     "video": null,
+     "title": "Découvrez ZOLLER",
+     "kicker": "",
+     "text": "<p>Parc des expositions de Stuttgart, hall 10, stand 10B60<br/>, du 5 au 8 mai 2026</p> <p><a class=\"btn\" href=\"/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet\">Demander un code d'accès</a></p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c25883",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Les solutions ZOLLER, un facteur d'efficacité dans le processus de rectification </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c25867",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Dans l'espace « Toolroom » du salon, ZOLLER montre comment les fabricants d'outils et les ateliers de rectification peuvent exploiter durablement leur potentiel d'efficacité. </strong></p> <p>Sur le stand <strong>ZOLLER 10B60, dans le hall 10,</strong> vous découvrirez des technologies de pointe pour la préparation des meules, l’inspection des outils, la mesure orientée processus, la gestion des outils et l’automatisation des processus. Nos solutions basées sur l’IA pour l’analyse de l’usure des outils y sont également présentées. </p> <p>Avec les solutions ZOLLER, concevez pas à pas votre processus de rectification connecté et pérenne. Pour chaque outil, pour chaque défi, quelle que soit la taille de votre entreprise. Vous réduisez les temps de réglage, travaillez avec des transferts de données automatisés sans erreur et automatisez la manipulation des outils lors de leur inspection. </p> <p><strong>Commencez par une solution. Adoptez un système. </strong></p> <p><a class=\"btn\" href=\"/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet\">Réservez dès maintenant votre billet pour le salon !</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c25859",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c25875",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Les points forts de l'atelier d'exposition ZOLLER </h2>",
+   "body": "<p>Découvrez dès maintenant neuf de nos produits phares : des solutions de pointe pour un gain de productivité décisif, des machines de mesure universelles de haute précision à l'automatisation des contrôles d'outils. </p> <p><a class=\"btn\" href=\"/ca-fr/evenements/grindinghub-2026/techniques-de-mesure\">Découvrez les points forts</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/9/csm_genius_detail_01_b7031e041c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c30042",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> GrindingSale : les solutions ZOLLER à prix avantageux au salon GrindingHub </h2>",
+   "body": "<p>Pendant les quatre jours du salon GrindingHub, du 5 au 8 mai, vous bénéficierez d'avantages tarifaires exclusifs sur les équipements, les dispositifs de serrage, les logiciels et les services. Particulièrement intéressantes : les offres portant sur six machines de mesure ZOLLER, précises au micromètre près, destinées au contrôle et à l'inspection des outils.</p> <p>Et le meilleur dans tout ça : même si vous ne pouvez pas vous rendre en personne au salon, vous bénéficierez tout de même de tous les avantages de la GrindingSale du 5 au 8 mai. Vous pourrez contacter directement votre interlocuteur ZOLLER tout au long de la semaine du salon ou effectuer votre achat en ligne en toute simplicité.</p> <p><strong>Inscrivez-vous dès maintenant, faites votre choix et profitez de votre remise.</strong></p> <p><a href=\"/ca-fr/evenements/grindingsale\" rel=\"noopener\" target=\"_blank\">Vers le GrindingSale</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/e/csm_grindingsale_teaser2_9f303399ab.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c46690",
+   "bg": "yellow",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Découvrez les solutions ZOLLER sur place </h2>",
+   "body": "<p>Si vous ne pouvez pas vous rendre au GrindingHub, n'hésitez pas à visiter notre ZOLLER Smart Factory à Pleidelsheim – nous serons ravis de vous accueillir !</p> <p><a class=\"btn\" href=\"/ca-fr/entreprises/contact\">Prenez rendez-vous dès maintenant</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c25804",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/grindinghub-2026",
+ "de_path": "/events/grindinghub-2026"
+}

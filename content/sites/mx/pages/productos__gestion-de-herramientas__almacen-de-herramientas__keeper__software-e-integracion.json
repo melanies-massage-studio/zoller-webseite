@@ -1,0 +1,461 @@
+{
+ "path": "/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/software-e-integracion",
+ "url": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/software-e-integracion",
+ "title": "»keeper« – Software e integración",
+ "description": "Software e integración - »keeper« – Software e integración",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "almacén de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas"
+  },
+  {
+   "label": "»keeper« /",
+   "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper"
+  },
+  {
+   "label": "Software e integración",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "almacén de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas"
+  },
+  {
+   "label": "»keeper« /",
+   "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper"
+  },
+  {
+   "label": "Software e integración",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/werkzeuglager/keeper/software-integration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-storage/keeper/software-integration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/almacen-de-herramientas/portero/software-e-integracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/magasin-doutils/keeper/logiciels-et-integration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper/software-e-integracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/magazzino-utensili/keeper/software-e-integrazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygslager/maalvakt/programvara-och-integration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeuglager/keeper/software-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-storage/keeper/software-integration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/magasin-doutillage/gardien/logiciels-et-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/keeper/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A8%E7%B5%B1%E5%90%88",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%B0%8F-%ED%86%B5%ED%95%A9",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-storage/keeper/software-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/software-e-integracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper/software-e-integracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»keeper«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "configuración",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/configuracion",
+     "current": false
+    },
+    {
+     "label": "Software e integración",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/software-e-integracion",
+     "current": false
+    },
+    {
+     "label": "Preguntas frecuentes",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/preguntas-frecuentes",
+     "current": false
+    },
+    {
+     "label": "Centro de información",
+     "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/centro-de-informacion",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3709",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Software </h1>",
+      "body": "<p class=\"large-text\">Armarios inteligentes</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3707",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Módulo de almacenamiento »quickPick«",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>El módulo de almacén »quickPick« es una interfaz de almacén sencilla para manipular componentes individuales, herramientas completas, dispositivos, pedidos y accesorios. Con solo unos pulsos, podrá realizar registros del almacén. </p> <p>El kit 3D integrado reproduce su almacén en el software de forma realista, lo que le permite obtener una visión general rápida de la ubicación de los artículos que busca. Con la indicación de circulación, puede supervisar el uso de sus herramientas.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/5/csm_software_quickPick_en_dc4f68a89e.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 542
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c3704",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "estadística de artículos",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La estadística de artículos de ZOLLER le permite analizar cómodamente su consumo de herramientas basándose en las contabilizaciones de almacén o las entradas de mercancías. Con la ayuda de las «listas de éxitos y fracasos», podrá identificar sus «productos estrella», que presentan un alto potencial de optimización, y evitar, por otro lado, los «productos fracasados», que yacen en sus almacenes como capital muerto.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/f/csm_software_artikelstatistik_en_2144c04cfa.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 542
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c3702",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Administración de equipos de inspección",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Las empresas modernas que cuentan con la certificación ISO 9001 y otras normas de calidad tienen la obligación de disponer de un sistema de gestión para la calibración de sus medios de comprobación y calibradores. En este sentido, ZOLLER ofrece un cómodo sistema de gestión de medios de comprobación con el que se pueden administrar y supervisar cualquier medio de comprobación y calibrador. El usuario puede integrar planes de comprobación e incorporar documentos. Además de la supervisión de los intervalos de calibración, en dependencia del tiempo o del Uso, se pueden diseñar y asignar planes de comprobación para cada medio de comprobación.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/e/csm_software_pruefmittel_en_18b0641458.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 542
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c3700",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Administración de dispositivos",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>¿Desea organizar la gestión de sus dispositivos de forma precisa y controlar su estado? ¿Desea registrar y administrar todos los datos de forma rápida, cómoda y transparente? Entonces, con la gestión de dispositivos de ZOLLER estará perfectamente equipado. El intervalo de supervisión definible para cada dispositivo le ayuda además a mantener sus dispositivos actualizados.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/6/csm_software_vorrichtung_en_5dda553b0f.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 542
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c3698",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c3706",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3708",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Soluciones inteligentes para su producción en red </h2>",
+   "body": "<p>Todos los puestos de almacenamiento se representan de forma clara y transparente en el software TMS Tool Management Solutions. Esto hace que la retirada controlada y el registro de las herramientas sean más sencillos que nunca.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iaV2Il_Gqn8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c3697",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestión de herramientas: sus ventajas",
+     "href": "/mx/solutions/gestion-de-herramientas",
+     "caption": "<figcaption> <h3>Gestión de herramientas: sus ventajas</h3> <p>Descubra cómo la gestión de herramientas de ZOLLER aumenta su productividad inmediatamente. Con los datos de herramientas, los procesos se ejecutan de forma más rápida y segura, incluyendo protección contra colisiones para sus máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/software-e-integracion",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/keeper/software-integration"
+}

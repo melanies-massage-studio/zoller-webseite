@@ -1,0 +1,436 @@
+{
+ "path": "/equilibrar-la-herramienta",
+ "url": "/mx/equilibrar-la-herramienta",
+ "title": "Equilibrar la herramienta",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Equilibrar la herramienta",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Equilibrar la herramienta",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "Equilibrar herramientas de manera sencilla",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Los desbalanceos en sus herramientas se convierten rápidamente en un problema en varios aspectos: funcionan de manera irregular, sobrecargan el husillo y la máquina, perjudican el funcionamiento del mecanizado y, en última instancia, hacen que el proceso sea menos seguro.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Qué consecuencias tiene el desbalanceo en la herramienta? </h2>",
+   "body": "<p>Las herramientas que funcionan de manera irregular no pueden insertarse de forma permanente con la precisión que usted necesita para su trabajo. Las oscilaciones que se producen no solo reducen el rendimiento total del mecanizado, sino que también provocan defectos en las piezas de trabajo, como marcas de oscilación, que pueden requerir un repaso posterior. Por lo tanto, los desbalanceos en la herramienta provocan pérdidas de calidad muy concretas y representan un riesgo para la seguridad del proceso.</p> <p>Además, los desbalanceos también reducen la vida útil del husillo y, posiblemente, de la máquina, cuyos costos superan rápidamente los gastos que supone el balanceo más frecuente de las herramientas.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Qué significa desbalanceo? </h2>",
+   "body": "<p>El término «desbalanceo» describe el fenómeno omnipresente en los cuerpos en rotación donde su masa no está distribuida de manera simétrica en todo el cuerpo. Básicamente, se distingue entre tres tipos de desbalanceo:</p><ul><li>Desbalanceo estático: en este caso, el centro de gravedad del cuerpo en rotación yace fuera del eje de giro. Esto ya se puede medir en reposo.</li><li>Desbalanceo de momento: el centro de gravedad yace en el eje de giro, pero el desbalance solo se puede medir durante el movimiento giratorio.</li><li>Desbalanceo dinámico: el término «desequilibrio dinámico» combina las otras dos formas de desequilibrio, en cualquier combinación de desequilibrio estático y desequilibrio de momento. Este es el caso habitual en los rotores técnicos.</li></ul><p>Cada tipo específico de desbalanceo puede compensarse al adaptar el cuerpo de rotación en movimiento.</p> <p>Durante la rotación, el desbalanceo se nota más cuanto mayor es el desbalanceo (crecimiento lineal) y cuanto más rápido es el movimiento de rotación (crecimiento cuadrático). Cuanto más rápido es el movimiento de rotación, más importante es el desbalanceo y más importante es reducir el desbalanceo residual tanto como sea posible. Por lo tanto, el balanceo debe integrarse sistemáticamente en el proceso de trabajo.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Qué causa los desbalanceos en el funcionamiento de las herramientas? </h2>",
+   "body": "<p>En los sistemas de herramientas en rotación/movimiento, los desbalanceos son un fenómeno conocido y regular. Existen varias posibilidades posibles para su aparición, por ejemplo:</p><ul><li>Una herramienta compuesta por varias piezas individuales no se ha montado de manera correcta, por ejemplo, cuando el portaherramientas y la herramienta no están exactamente alineados y hay una desviación/diferencia con respecto al eje de giro.</li><li>La distribución de la masa de la herramienta ya era asimétrica durante la fabricación; en este caso, se deben tener en cuenta las tolerancias de fabricación del fabricante y, si es necesario, verificarlas.</li><li>El rotor en sí o el portaherramientas tienen un diseño asimétrico (por ejemplo, tornillo de sujeción en un adaptador de fresado (portaherramientas Weldon)).</li></ul><p>Incluso con portaherramientas finamente equilibrados, la combinación de los portaherramientas con la herramienta concreta puede volver a provocar un desequilibrio. Es muy importante medirlo y, si es necesario, corregirlo.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Por qué es tan importante equilibrar las herramientas? </h2>",
+   "body": "<p>En el mecanizado a alta velocidad de piezas de trabajo con sistemas de herramientas en rotación, cualquier pequeña imprecisión o defecto de precisión puede hacerse notar muy rápidamente y de forma muy evidente. Un desequilibrio en la herramienta puede provocar vibraciones y, sin duda, un funcionamiento irregular.</p> <p>Ambos factores perjudican la precisión con la que funciona la herramienta y aumentan el riesgo de que se produzcan artefactos y daños en la pieza de trabajo: la calidad de la superficie se reduce y pueden producirse desechos. Sin embargo, dado que sus procesos dependen en gran medida de que los resultados finales se mecanicen de manera correcta, las herramientas que no están equilibradas con precisión requieren controles de calidad más exhaustivos. Es posible que también sea necesario realizar retoques y, en cualquier caso, no se garantiza la seguridad del proceso.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> La falta de equilibrado cuesta dinero </h2>",
+   "body": "<p>Esto puede provocar retrasos en el proceso de producción, lo que a su vez tiene un efecto directo sobre su capacidad para entregar a tiempo la cantidad solicitada con la calidad necesaria.</p> <p>A esto se suma la situación de que las herramientas que funcionan de forma irregular pueden reducir la vida útil del husillo giratorio, especialmente debido a las vibraciones, lo que también supone un factor de costo que no debe subestimarse.</p> <p>Por lo tanto, las herramientas equilibradas son buenas tanto para las piezas|piezas de trabajo como para las máquinas.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Regla general: ¡Equilibra a menudo, rara vez te arrepentirás! </h2>",
+   "body": "<p><strong>Por lo tanto, se considera la regla general:</strong> es mejor equilibrar a tiempo y con mayor frecuencia que acabar pagando los costos. En general, una herramienta debe volver a equilibrarse cuando se inserta con una velocidad de rotación diferente, ya que este cambio también puede provocar diferencias significativas en la suavidad de funcionamiento.</p> <p>El equilibrado regular aumenta la productividad y la calidad de su trabajo.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Equilibrar herramientas: ¿cómo se hace? </h2>",
+   "body": "<p>En general, hay tres posibilidades para subsanar o combatir un desequilibrio:</p><ul><li>Agregar masa de forma selectiva (por ejemplo, mediante contrapesos).</li><li>Quitar masa (por ejemplo, mediante orificio o rectificado).</li><li>Reajustar la masa (por ejemplo, mediante anillos giratorios adecuados).</li></ul><p>Para facilitar el proceso, especialmente en el caso de las herramientas, y poder llevarlo a cabo con precisión, se recomienda utilizar una máquina equilibradora con el software adecuado. En primer lugar, se inserta la herramienta en un husillo de equilibrado y se pone en rotación para medir las fuerzas centrífugas que se producen.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Compensación automática del desequilibrio </h2>",
+   "body": "<p>A partir de estos datos de medición, el sistema de equilibrado calcula la compensación del desequilibrio. En una máquina de equilibrado avanzada, las medidas se pueden aplicar de inmediato y el equilibrado fino continúa hasta que ya no se detecta ningún desequilibrio residual o todos los valores se encuentran dentro de un rango de tolerancia aceptable.</p> <p>De esta manera, el equilibrado no lleva en particular mucho tiempo y la masa distribuida de forma desigual se puede compensar rápidamente.</p> <p>Un sistema de equilibrado de alta precisión y en gran medida automático también es útil porque ofrece la posibilidad de equilibrar de nuevo las herramientas cada vez que se realizan cambios. De este modo, se evita que se produzcan pérdidas de calidad debido a cambios en los requerimientos, las velocidades de giro o los materiales, sin que la velocidad del trabajo se vea afectada.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Equilibrado eficiente con el ZOLLER »toolBalancer« </h3>",
+      "body": "<p>Herramientas equilibradas con precisión, incluso para trabajar con altas velocidades de rotación: para ello, el ZOLLER »toolBalancer« es el sistema de equilibrado perfecto. Gracias a su diseño modular, no solo se adapta de forma individual a sus requerimientos especiales, sino que también ofrece un amplio margen para futuros desarrollos.</p> <p>El sistema de equilibrado de alta precisión es adecuado para portaherramientas, muelas|discos abrasivos y rotores, y garantiza una reducción cuantificable de los índices de rechazo, los tiempos de inactividad de las máquinas, los costos de producción y los plazos de entrega.</p> <h3><br/>Resumen de las ventajas:</h3><ul><li><strong>Menor desgaste</strong> y mayor rendimiento de mecanizado gracias a herramientas equilibradas con alta precisión</li><li>El <strong>diseño modular</strong> permite adaptar individualmente</li><li>El <strong>manejo intuitivo</strong> del sistema evita errores innecesarios y costosos</li><li><strong>Cómodo manejo</strong> con pantalla táctil, teclado y ratón</li></ul><p><a class=\"btn\" href=\"/mx/productos/tecnologia-de-balanceo/toolbalancer\">Descubra todas las posibilidades que ofrece el ZOLLER »toolBalancer«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Técnica de impacto: sus ventajas",
+     "href": "/mx/solutions/tecnologia-de-equilibrado",
+     "caption": "<figcaption> <h3>Técnica de impacto: sus ventajas</h3> <p>El equilibrado se subestima. Sin embargo, el equilibrado aumenta la rentabilidad, ya que reduce el desgaste de herramienta, que genera costos, y alivia la carga de los husillos de las máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/equilibrar-la-herramienta",
+ "de_path": "/werkzeug-auswuchten"
+}

@@ -1,0 +1,298 @@
+{
+ "path": "/empresa/contacto/fabrica-inteligente",
+ "url": "/mx/empresa/contacto/fabrica-inteligente",
+ "title": "Fábrica inteligente",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Contacto /",
+   "href": "/mx/empresa/contacto"
+  },
+  {
+   "label": "Fábrica inteligente",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Empresa /",
+   "href": "/mx/empresa"
+  },
+  {
+   "label": "Contacto /",
+   "href": "/mx/empresa/contacto"
+  },
+  {
+   "label": "Fábrica inteligente",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt/smart-factory",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact/smart-factory",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto/fabrica-inteligente",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact/usine-intelligente",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto/fabrica-inteligente",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto/fabbrica-intelligente",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt/smart-factory",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt/smart-factory",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us/smart-factory",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact/usine-intelligente",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%8C%A9%ED%86%A0%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us/visit-the-zoller-smart-factory",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto/fabrica-inteligente",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto/fabrica-inteligente",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/f/d/csm_smart_factory_header_a998788300.webp",
+     "video": null,
+     "title": "En medio del proceso: eso es servicio",
+     "kicker": "",
+     "text": "<p>El servicio de asistencia técnica de KUKA se encarga de que todo funcione a la perfección.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2840",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Nuestro lugar para su experiencia </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2842",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"large-text\">En la Smart Factory de ZOLLER, nuestros clientes son el punto medio: con la exclusiva consulta individual con expertos, tendrá la oportunidad de concertar una cita en línea personalizada con nuestros especialistas. Durante la consulta, le explicaremos todo lo relacionado con el fresado, el torneado y el rectificado CAM to Part. Acompáñenos mientras le presentamos nuestros magníficos procesos de fabricación interconectados in situ, desde la planificación hasta la pieza terminada. ¡Le esperamos!</p> <p class=\"large-text\">Nuestra ZOLLER Smart Factory ofrece aulas de formación técnicamente muy modernas y generosamente equipadas, y organiza regularmente eventos relacionados con el mundo de los productos ZOLLER. Con las presentaciones en vivo desde la Smart Factory, nos ponemos en contacto con nuestros clientes de todo el mundo. </p> <p class=\"large-text\">Típico de ZOLLER: todo de un solo proveedor.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2843",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2841",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/d/csm_smart_factory_anwendungen_eb1f529f17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Demostrar de manera práctica",
+     "caption": "<figcaption> <h3>Demostrar de manera práctica</h3> <p>Fresado, torneado y rectificado</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_smart_factory_schulungen_c32f7a9cef.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Transmitir conocimientos especializados",
+     "caption": "<figcaption> <h3>Transmitir conocimientos especializados</h3> <p>Conocimientos tecnológicos de los expertos de ZOLLER.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_smart_factory_events_11f3b5ca26.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Eventos locales",
+     "caption": "<figcaption> <h3>Eventos locales</h3> <p>Descubra las soluciones de ZOLLER directamente en nuestros eventos.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c2844",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/empresa/contacto/fabrica-inteligente",
+ "de_path": "/unternehmen/kontakt/smart-factory"
+}

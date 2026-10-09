@@ -1,0 +1,300 @@
+{
+ "path": "/surveillance-des-outils",
+ "url": "/ca-fr/surveillance-des-outils",
+ "title": "Surveillance des outils",
+ "description": "En contrôlant et en surveillant régulièrement vos outils, vous garantissez le bon déroulement des processus de fabrication et la haute qualité de vos produits.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Surveillance des outils",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Surveillance des outils",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugueberwachung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-monitoring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/supervision-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/surveillance-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/monitorizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/monitoraggio-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsoevervakning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugueberwachung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/surveillance-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E7%9B%A3%E8%A6%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-monitoring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/monitoreo-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/monitorizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/1/csm_tool_monitoring_header_355bada07e.webp",
+     "video": null,
+     "title": "Contrôle des outils pour l'assurance qualité",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7957",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\"><strong>L'état de vos outils détermine la qualité des pièces usinées. C'est pourquoi le contrôle des outils, sous différentes formes, fait depuis longtemps partie des principes fondamentaux de l'assurance qualité.</strong></p> <p class=\"extra-large-text\">Des outils défectueux ou mal préparés posent problème pour de nombreuses raisons. Cela peut entraîner la production de lots entiers de produits défectueux ; ce rebut passe souvent inaperçu et s'accumule insidieusement – un phénomène que vous souhaitez certainement éviter.</p> <p class=\"extra-large-text\">Sans une surveillance adéquate, un outil défectueux peut également entraîner sa rupture, voire endommager les machines. Cela perturbe alors les processus de production en cours, réduit le nombre de pièces fabriquées et diminue la durée de vie de vos moyens de production – autant de coûts supplémentaires qu’une entreprise efficace ne souhaite pas supporter.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7959",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Contrôle qualité et analyse de l'usure </h2>",
+   "body": "<p>C'est pourquoi vous devriez intégrer systématiquement le contrôle qualité et l'analyse de l'usure dans les processus de travail de votre entreprise. Vérifier les outils et évaluer leur qualité devrait faire partie de votre travail quotidien.</p> <p>Il est important que les résultats des mesures soient clairement documentés et associés à chaque outil ainsi qu’à son emplacement de stockage. Vous pouvez ainsi vous assurer qu’un outil devant être réaffûté sera bel et bien remis en état avant sa prochaine utilisation. Cela garantit que vos machines fonctionnent toujours avec des outils parfaitement préparés.</p> <p>Le contrôle et la surveillance de l’état des outils présentent de nombreux avantages. Vos forets et outils d’usinage continuent de fonctionner à pleine puissance et avec précision, les processus de production de votre entreprise restent sous contrôle et vous gardez toujours un œil sur la durée de vie de vos outils – ce qui vous permet, le cas échéant, de veiller en temps utile à ce que des réapprovisionnements et des pièces de rechange soient commandés.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_csm_Werkzeug-3d-Optik-User-Hand-ZOLLER_3c28f0800c_254258e0fc.webp",
+     "alt": "",
+     "w": 1116,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7960",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mesure et contrôle grâce à la technologie ZOLLER </h2>",
+   "body": "<p>Les appareils de mesure et de contrôle ZOLLER garantissent des processus sûrs et fluides dans tous les domaines d'application. Ils fonctionnent avec précision, une répétabilité élevée et indépendamment de l'opérateur. Grâce à la solution adaptée, nous vous proposons, pour la surveillance des outils, une mesure économique et entièrement automatisée de tous les paramètres des outils. Vous pouvez ainsi être sûr à 100 % que votre production fonctionne avec des outils en parfait état.</p> <p>Nos appareils de mesure et de contrôle transmettent les données théoriques et réelles des outils par voie électronique, voire sans fil selon la configuration. Grâce à des interfaces adaptées, une connexion à pratiquement tous les systèmes impliqués dans le processus de rectification est possible. Les appareils ZOLLER offrent des connexions aux systèmes ERP ou FAO, à la gestion des stocks et aux systèmes de fabricants de machines tels que NUMROTO, Anca, MTS ou l’interface GDX 2.0.</p> <p><a class=\"btn\" href=\"/ca-fr/produits\">Découvrez ici tout ce qu'il faut savoir sur les appareils de réglage, de contrôle et de mesure ZOLLER</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7961",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Contrôle systématique </h2>",
+   "body": "<p>La surveillance des outils vous fournit, au moment même de la mesure, des informations en temps réel sur l'état de l'outil. La géométrie de la lame est-elle correcte ? Y a-t-il un émoussement ? Un risque de rupture de la lame est-il à craindre ? Les mesures effectuées sur vos outils de précision permettent d’éviter d’endommager les pièces et d’interrompre les processus de fabrication ou les cycles de production.</p> <p>Bien entendu, les différents aspects de la gestion et du contrôle des outils peuvent également être davantage interconnectés. ZOLLER propose à cet effet des solutions interconnectées via une base de données centrale pour l’usine <strong>intelligente</strong> (<strong>Smart Factory</strong>) et la métrologie 4.0.</p> <p>Chez nous, vous trouverez la solution parfaite pour le contrôle et la mesure des outils à chaque étape de la fabrication – du contrôle à la réception à la production, jusqu’au contrôle final. Les systèmes de stockage et les concepts d’automatisation en font bien sûr également partie.</p> <p><a class=\"btn\" href=\"/ca-fr/solutions/controle-et-mesure\">En savoir plus sur la métrologie 4.0</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7962",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestion des outils : vos avantages",
+     "href": "/ca-fr/solutions/gestion-des-outils",
+     "caption": "<figcaption> <h3>Gestion des outils : vos avantages</h3> <p>Découvrez comment la gestion des outils de ZOLLER augmente immédiatement votre productivité. Grâce aux données d'outils, les processus sont plus rapides et plus sûrs, avec une protection anti-collision pour vos machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/surveillance-des-outils",
+ "de_path": "/werkzeugueberwachung"
+}

@@ -1,0 +1,362 @@
+{
+ "path": "/equilibrar-el-disco-abrasivo",
+ "url": "/mx/equilibrar-el-disco-abrasivo",
+ "title": "Equilibrar el disco abrasivo",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Equilibrar el disco abrasivo",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Equilibrar el disco abrasivo",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/schleifscheibe-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balancing-a-grinding-wheel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-la-meule",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-o-rebolo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciare-la-mola",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-slipskivan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/schleifscheibe-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/balancing-the-grinding-wheel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-disque-abrasif",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%A0%94%E7%A3%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%97%B0%EB%A7%88-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%A7%9E%EC%B6%94%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-grinding-wheels",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-o-rebolo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/9/c/csm_grinding_wheel_header_82a94c5c43.webp",
+     "video": null,
+     "title": "¿Equilibrar el disco abrasivo?",
+     "kicker": "",
+     "text": "<p>Con nuestro sistema de equilibrado »toolBalancer,« es muy sencillo.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8000",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nuestro sistema de balanceo aumenta la vida útil de las herramientas. </h2>",
+   "body": "<p class=\"extra-large-text\">Las herramientas balanceadas con precisión son extremadamente importantes para las máquinas de mecanizado modernas. Los desbalanceos en los discos abrasivos, los sistemas de herramientas y los rotores provocan desgaste o incluso daños; el balanceo regular evita las paradas y reduce sus costos.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8001",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Equilibrado eficiente con el ZOLLER »toolBalancer« </h2>",
+   "body": "<p>Largos tiempos de balanceo provocan paradas y pérdidas de calidad. Con nuestro »toolBalancer« no solo se pueden balancear con gran precisión portaherramientas, discos abrasivos y rotores, sino que, gracias a su proceso de medición automatizado, el proceso también se acelera considerablemente.</p> <p>Se pueden tener en cuenta tanto sus requerimientos actuales como aquellos desarrollos que aún no puede evaluar: gracias a su diseño modular, el »toolBalancer« se puede adaptar de forma totalmente individualizada.</p> <p>El aparato se opera de forma intuitiva y sencilla mediante una pantalla táctil, un teclado o un mouse, según lo que mejor se adapte a su forma de trabajar. De este modo, podrá concentrarse en trabajar y producir de forma efectiva y con la máxima calidad. ¡Así reducirá de forma considerable sus índices de rechazo, los tiempos de inactividad de las máquinas y los costos de producción!</p> <p><a class=\"btn\" href=\"/mx/productos/tecnologia-de-balanceo/toolbalancer\">Más información sobre »toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/mx/productos/tecnologia-de-balanceo/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8002",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Mayor rendimiento de mecanizado",
+    "Mayor vida útil de la herramienta",
+    "Mejor calidad de los componentes"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c8003",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Qué es el equilibrado? </h2>",
+   "body": "<p>El equilibrado reduce o, en el mejor de los casos, combate los desequilibrios que presentan todos los cuerpos rígidos que se encuentran en rotación|en movimiento alrededor de un eje fijo. Los desequilibrios se producen por una distribución desigual de la masa en el disco abrasivo; el punto de referencia es el eje de giro del husillo de rectificado. El objetivo principal del equilibrado es compensar todos los efectos de la fuerza centrífuga en el husillo en movimiento, de modo que el cojinete del husillo no esté sometido a fuerzas adicionales.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8007",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Cómo se producen los desequilibrios en los discos abrasivos? </h2>",
+   "body": "<p>Los desequilibrios en una muela/disco abrasivo pueden aparecer ya durante la fabricación, por ejemplo:</p><ul><li>ligeras diferencias en la forma geométrica ideal o en una forma perfectamente simétrica debido a errores de producción,</li><li>otros errores de fabricación o</li><li>densidad irregular de la estructura del disco abrasivo (consecuencia: distribución del peso desequilibrada).</li></ul><p>Sin embargo, los desequilibrios se producen principalmente por el desgaste durante el proceso de rectificado. Algunos ejemplos son:</p><ul><li>abrasión irregular en el proceso de rectificado,</li><li>suciedad por virutas o refrigerantes o lubricantes y</li><li>solicitaciones y deformaciones por fuerzas de tensión, fuerzas de corte y fuerzas centrífugas.</li></ul><p>Pueden surgir problemas adicionales debido a un almacenamiento inadecuado o un manejo incorrecto de los discos abrasivos.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_schleifscheiben_314b691a95.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8004",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Por qué equilibrar los discos abrasivos? </h2>",
+   "body": "<p>Las consecuencias de un disco abrasivo desequilibrado pueden ser muy diversas: es posible que el husillo abrasivo no gire de forma silenciosa y homogénea (suavidad de marcha); a su vez, un desequilibrio provoca un desgaste irregular, lo que puede agravar aún más el efecto. Además, es posible que aumente el desgaste o la capacidad de eliminación del disco abrasivo.</p> <p>En general, se considera que si la herramienta y el portaherramientas como unidad no tienen una alta precisión de concentricidad, la fuerza centrífuga puede tener un efecto negativo en el cojinete del husillo y reducir considerablemente su vida útil como consecuencia de un desequilibrio. La vida útil de la herramienta también puede verse significativamente reducida si las oscilaciones generadas por la fuerza centrífuga se transfieren a la máquina y a la herramienta. Por lo tanto, las herramientas equilibradas contribuyen a reducir los costos de las herramientas y aumentan la productividad.</p> <p>Para lograr un mayor rendimiento de mecanizado y una mayor vida útil de la herramienta, es importante comprobar el estado de equilibrado de la muela|disco abrasivo antes de cada cambio de velocidad, ya que cada combinación de velocidad del husillo y herramienta conlleva un desequilibrio específico.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_scan_1dacd77291.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8005",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Qué sistemas de equilibrado existen? </h2>",
+   "body": "<p><strong>En esencia, en la tecnología de equilibrado se distingue entre tres sistemas de equilibrado diferentes.</strong></p><ul><li><p>Equilibrado electrónico: en este caso, el desequilibrio de la muela|disco abrasivo se equilibra directamente en el husillo de rectificado; la tecnología correspondiente puede estar integrada en el husillo de rectificado o conseguirse desplazando manualmente los contrapesos.</p></li><li><p>Soportes de rodadura: dos soportes de rodadura individuales (el soporte de rodadura también se denomina soporte de equilibrado) están equipados con dos discos de rodadura estrechos montados en rodamientos de bolas. Por lo general, los soportes de rodadura se fijan a rieles o se posicionan sobre placas de granito de máquinas de medición.</p></li><li><p>Balanza de equilibrado: Las balanzas de equilibrado determinan el desequilibrio estático de las muelas|discos abrasivos. De hecho, solo se mide un plano; la muela|disco abrasivo se considera estáticamente equilibrado cuando su centro de gravedad se encuentra en el centro, es decir, en el eje de giro.</p></li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8006",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Técnica de impacto: sus ventajas",
+     "href": "/mx/solutions/tecnologia-de-equilibrado",
+     "caption": "<figcaption> <h3>Técnica de impacto: sus ventajas</h3> <p>El equilibrado se subestima. Sin embargo, el equilibrado aumenta la rentabilidad, ya que reduce el desgaste de herramienta, que genera costos, y alivia la carga de los husillos de las máquinas. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/equilibrar-el-disco-abrasivo",
+ "de_path": "/schleifscheibe-auswuchten"
+}

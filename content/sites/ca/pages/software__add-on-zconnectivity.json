@@ -1,0 +1,509 @@
+{
+ "path": "/software/add-on-zconnectivity",
+ "url": "/ca/software/add-on-zconnectivity",
+ "title": "Add-on »z.Connectivity«",
+ "description": "Add-on »z.Connectivity« - Seamless, digital connection between tool measurement, tool management and the machine - Sicherer Datentransfer",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Software /",
+   "href": "/ca/software"
+  },
+  {
+   "label": "Add-on »z.Connectivity«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Tool Management /",
+   "href": "/ca/products/tool-management"
+  },
+  {
+   "label": "Software /",
+   "href": "/ca/software"
+  },
+  {
+   "label": "Add-on »z.Connectivity«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zconnectivity",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-zconnectivity",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zconnectivity",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zconnectivity",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-zconnectivity",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zconnectivity",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/ca/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/ca/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/ca/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/ca/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/ca/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/ca/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/ca/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164328",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Secure data transfer </h3> <h1> Add-on »z.Connectivity« </h1>",
+   "body": "<p>ZOLLER TMS, with the <strong>add-on »z.Connectivity«</strong>, uses »zidCode 4.0« to create a seamless, digital connection between tool measurement, tool management and the machine. Tool data is uniquely assigned, is always up to date, and is transferred error-free to the CNC‑control. The data is managed digitally via apps and interfaces, while functions such as »z.Stats« and »flash« ensure transparency from the machine all the way to the store. This avoids manual inputs, stabilizes processes and sustainably safeguards production.</p> <p><a class=\"btn\" href=\"/ca/company/contact\">Request now</a> <a href=\"https://myzoller.com/us/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 expert meeting</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_09db9e0e66.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164377",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Real-time data availability with consistently up-to-date tool data ",
+    "Unique tool identification prevents mix-ups ",
+    "Automated data transfer for consistently error-free inputs"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164382",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.Connectivity« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Web browser </td> <td class=\"text-center\"> Desktop </td> </tr> <tr> <td> »zidCode»* </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> »zidCode» software* </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> »zidCode 4.0«* </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> »z.Stats«* </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> Tool life management (RFID technology/»z.DMI« technology) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Tool life monitoring »flash« (»z.DMI« technology) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Post processors </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Magazine inquiry </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Data entry/Data output/ DNC, including format generator </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164387",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>* Can only be used with additional hardware ● Basic <strong>―</strong> has no availability</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164426",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/5/csm_EN_TMS_standzeitverwaltung_68a988c713.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Tool life management with integrated statistics feature</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_EN_TMS_Standzeit%C3%BCberwachung_0e824f1a75.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>»flash« tool life monitoring with management and organization of cutting tools</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_TMS_RFID-basierte_Werkzeugidentifikation_5da07d7b72.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>RFID-based tool identification with direct machine integration – e. g., in leading system solutions</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/4/csm_TMS_zDMI_62622bed1c.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>»z.DMI« technology automatically transfers tool data directly to the machine control system – e.g., in leadling CNC control systems</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164392",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.Connectivity« </h3> <h2> Data flow </h2>",
+   "body": "<p class=\"large-text\">The add-on provides complete transparency across the entire tool lifecycle from the machine to the store. </p> <p class=\"large-text\">The add-on makes it easy to get started with digitalization. </p> <p class=\"large-text\">The add-on enables seamless integration with existing machines.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/5/csm_zConnectivity_benefit_EN_f4b13a2a74.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164397",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_EN_zConnectivity_Feature_01_1d916a249b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "»zidCode«",
+     "caption": "<figcaption> <h3>»zidCode«</h3> <p>Transfer tool data safely and quickly</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/8/d/csm_EN_zConnectivity_Feature_02_4eb6f26162.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Setup sheet process",
+     "caption": "<figcaption> <h3>Setup sheet process</h3> <p>Optimized setup sheet process for seamless data flow</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164402",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Overview of optional ZOLLER hardware for the add-on »z.Connectivity« </h2>",
+   "items": [
+    {
+     "href": "",
+     "title": "»zidCode«",
+     "text": "<p>For greater safety and efficiency through simple tool data management</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_Teaser_zidcode_preview_472b8e8590.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»zidCode 4.0«",
+     "text": "<p>Make tool data available directly during the process via scan with »zidCode 4.0«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_Teaser_zidcode40_preview_b71747bf93.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»idChip«",
+     "text": "<p>The »idChip« technology enables digital tool identification for greater efficiency and safety</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_Teaser_idchip_preview_4ae28eb174.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "RFID",
+     "text": "<p>Use RFID to transfer tool data to the machine quickly, contactlessly, and reliably</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/4/csm_Teaser_rfid_preview_268906513c.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164406",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Benefits",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Benefits</h3> <p>Find out how ZOLLER's tool management can immediately boost your productivity. With tool data, processes run faster and more safely—including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/software/add-on-zconnectivity",
+ "de_path": "/produkte/toolmanagement/software/add-on-zconnectivity"
+}

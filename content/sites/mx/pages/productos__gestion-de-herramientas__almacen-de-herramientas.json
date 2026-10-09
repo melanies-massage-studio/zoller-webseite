@@ -1,0 +1,353 @@
+{
+ "path": "/productos/gestion-de-herramientas/almacen-de-herramientas",
+ "url": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas",
+ "title": "almacén de herramientas",
+ "description": "almacén de herramientas",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "almacén de herramientas",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Productos /",
+   "href": "/mx/productos"
+  },
+  {
+   "label": "Gestión de herramientas /",
+   "href": "/mx/productos/gestion-de-herramientas"
+  },
+  {
+   "label": "almacén de herramientas",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/werkzeuglager",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-storage",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/almacen-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/magasin-doutils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/armazem-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/magazzino-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygslager",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeuglager",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-storage",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/magasin-doutillage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-storage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/almacen-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Resumen de productos </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>Las soluciones de ZOLLER son sinónimo de futuro: le ayudamos a alcanzar el éxito. Porque quien fabrica de forma más rápida y eficiente, trabaja de manera más rentable y puede invertir en el futuro. Si su objetivo es el progreso económico, ZOLLER es su socio ideal.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Ajuste y medición",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Gestión de herramientas",
+      "selected": true
+     },
+     {
+      "value": "254",
+      "label": "Comprobación y medición",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatización",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Técnica de contracción de herramientas",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Porta Herramientas",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Tecnología De Balanceo",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "13361",
+      "label": "Software",
+      "selected": false
+     },
+     {
+      "value": "430",
+      "label": "almacén de herramientas",
+      "selected": true
+     },
+     {
+      "value": "431",
+      "label": "Montaje de herramienta",
+      "selected": false
+     },
+     {
+      "value": "432",
+      "label": "Transporte de herramientas",
+      "selected": false
+     },
+     {
+      "value": "343",
+      "label": "transferencia de datos",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/twister",
+       "title": "»twister«",
+       "text": "Para componentes de herramientas y accesorios",
+       "img": {
+        "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock",
+       "title": "»autoLock«",
+       "text": "Para medios de comprobación, consumibles y componentes de mayor tamaño.",
+       "img": {
+        "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/toolorganizer",
+       "title": "»toolOrganizer«",
+       "text": "Para herramientas de corte y piezas pequeñas",
+       "img": {
+        "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper",
+       "title": "»keeper«",
+       "text": "Para herramientas completas y portaherramientas",
+       "img": {
+        "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas/zstorage",
+       "title": "»z.Storage«",
+       "text": "Sus artículos se entregan según el principio de una máquina expendedora.",
+       "img": {
+        "src": "/fileadmin/_processed_/f/5/csm_zStorage_preview_48ded3c1b4.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/mx/productos/gestion-de-herramientas/almacen-de-herramientas",
+ "de_path": "/produkte/toolmanagement/werkzeuglager"
+}

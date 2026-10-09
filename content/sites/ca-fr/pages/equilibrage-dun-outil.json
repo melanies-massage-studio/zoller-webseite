@@ -1,0 +1,436 @@
+{
+ "path": "/equilibrage-dun-outil",
+ "url": "/ca-fr/equilibrage-dun-outil",
+ "title": "Équilibrage d'un outil",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Équilibrage d'un outil",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Équilibrage d'un outil",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "L'équilibrage des outils en toute simplicité",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Les déséquilibres de vos outils posent rapidement problème à plusieurs égards : ils entraînent un fonctionnement irrégulier, sollicitent excessivement la broche et la machine, nuisent aux performances d'usinage et, au final, compromettent la sécurité globale de votre processus.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Quelles sont les conséquences d'un déséquilibre de l'outil ? </h2>",
+   "body": "<p>Les outils qui fonctionnent de manière irrégulière ne peuvent pas être utilisés durablement avec la précision dont vous avez besoin pour vos travaux. Non seulement les vibrations qui en résultent réduisent le rendement global d'usinage, mais elles provoquent également l'apparition d'imperfections sur les pièces, telles que des marques de vibration, qui peuvent nécessiter une retouche. Les déséquilibres dans l’outil entraînent donc des pertes de qualité bien concrètes et compromettent la fiabilité de vos processus.</p> <p>De plus, ces déséquilibres réduisent également la durée de vie de la broche et, éventuellement, de la machine – les coûts qui en découlent dépassent rapidement les dépenses liées à un équilibrage plus fréquent des outils.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Que signifie « déséquilibre » ? </h2>",
+   "body": "<p>Le terme « déséquilibre » désigne, dans le cas des corps en rotation, le phénomène omniprésent selon lequel leur masse n'est pas répartie de manière symétrique par rapport à l'axe de rotation. On distingue essentiellement trois types de déséquilibre :</p><ul><li>Déséquilibre statique : le centre de gravité du corps en rotation se trouve en dehors de l'axe de rotation. Ce phénomène est mesurable dès l'arrêt.</li><li>Déséquilibre par moments : le centre de gravité se trouve sur l'axe de rotation ; le déséquilibre n'est mesurable qu'une fois que le corps est en rotation.</li><li>Déséquilibre dynamique : la notion de déséquilibre dynamique regroupe les deux autres formes de déséquilibre, dans une combinaison quelconque de déséquilibre statique et de déséquilibre de couple. C'est généralement le cas pour les rotors techniques.</li></ul><p>Chaque forme spécifique de déséquilibre peut être compensée par des ajustements appropriés apportés au corps en rotation.</p> <p>Pendant la rotation, un déséquilibre se fait d’autant plus sentir que son amplitude est grande (croissance linéaire) et que la vitesse de rotation est élevée (croissance quadratique). Plus la vitesse de rotation est élevée, plus l’équilibrage devient important, et plus il est essentiel de réduire autant que possible le déséquilibre résiduel. L'équilibrage doit donc être systématiquement intégré au processus de travail.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Quelles sont les causes des déséquilibres dans l'utilisation des outils ? </h2>",
+   "body": "<p>Dans les systèmes d'outils rotatifs, les déséquilibres constituent un phénomène bien connu et récurrent. Plusieurs causes peuvent être à l'origine de leur apparition, par exemple :</p><ul><li>Un outil composé de plusieurs pièces n'a pas été monté correctement – par exemple lorsque le porte-outil et l'outil ne sont pas parfaitement alignés et s'écartent de l'axe de rotation.</li><li>La répartition des masses de l’outil était déjà asymétrique lors de la fabrication – il convient ici de respecter les tolérances de fabrication indiquées par les fabricants et, le cas échéant, de les vérifier.</li><li>Le rotor lui-même ou le porte-outil présente une conception asymétrique (par exemple, vis de serrage dans un adaptateur de fraisage (porte-outil Weldon)).</li></ul><p>Même avec des porte-outils équilibrés avec précision, la combinaison des porte-outils avec l’outil concret peut à nouveau entraîner un déséquilibre. Il est essentiel de mesurer ce déséquilibre et, le cas échéant, de le corriger.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Pourquoi l'équilibrage des outils est-il si important ? </h2>",
+   "body": "<p>Lors de l'usinage à grande vitesse de pièces à l'aide de systèmes d'outils rotatifs, la moindre imprécision, le moindre manque de précision, peut, dans certaines circonstances, se faire sentir très rapidement et très nettement. Un déséquilibre de l'outil peut provoquer des vibrations, mais entraîne à coup sûr un fonctionnement irrégulier.</p> <p>Ces deux phénomènes nuisent à la précision de fonctionnement de l’outil et augmentent toujours le risque d’artefacts et de dommages sur la pièce : la qualité de surface s’en trouve réduite, ce qui peut entraîner des rebuts. Or, comme vos processus dépendent fortement de l’obtention de résultats finaux correctement usinés, des outils qui ne sont pas finement équilibrés nécessitent des contrôles qualité plus approfondis. Des retouches peuvent également s’avérer nécessaires ; dans tous les cas, la fiabilité du processus n’est pas garantie.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Ne pas faire équilibrer ses pneus coûte cher </h2>",
+   "body": "<p>Il peut en résulter des retards dans le processus de production, qui ont à leur tour un impact direct sur votre capacité à livrer dans les délais la quantité commandée avec la qualité requise.</p> <p>À cela s'ajoute le fait que des outils fonctionnant de manière irrégulière peuvent réduire la durée de vie de la broche de tournage, notamment en raison des vibrations – ce qui constitue également un facteur de coût non négligeable.</p> <p>Un outil équilibré est donc bénéfique tant pour les pièces à usiner que pour les machines.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Règle d'or : on le fait souvent, on le regrette rarement ! </h2>",
+   "body": "<p><strong>La règle d'or est donc la suivante :</strong> mieux vaut procéder à un équilibrage à temps et plus souvent que de devoir en supporter les coûts au final. De manière générale, un outil doit être rééquilibré dès qu'il est utilisé à une vitesse de rotation différente, car ce changement peut lui aussi entraîner des différences notables en termes de régularité de fonctionnement.</p> <p>Un équilibrage régulier augmente la productivité et la qualité de votre travail.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Équilibrage d'un outil : comment faire ? </h2>",
+   "body": "<p>De manière générale, il existe trois façons de corriger ou d'éliminer un déséquilibre :</p><ul><li>ajouter de la masse de manière ciblée (par exemple à l'aide de contrepoids)</li><li>Retirer de la masse (par exemple par perçage ou meulage)</li><li>Répartir la masse (par exemple à l'aide de bagues rotatives adaptées)</li></ul><p>Afin de faciliter ce processus, en particulier pour les outils, et de le réaliser avec précision, il est recommandé d’utiliser une machine d’équilibrage équipée d’un logiciel adapté. Dans un premier temps, l’outil est placé dans une broche d’équilibrage et mis en rotation afin de mesurer les forces centrifuges générées.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Compensation du déséquilibre calculée automatiquement </h2>",
+   "body": "<p>À partir de ces données de mesure, le système d'équilibrage calcule ensuite la correction à apporter. Sur une machine d'équilibrage de pointe, les mesures peuvent alors être mises en œuvre immédiatement ; l'équilibrage de précision se poursuit ainsi jusqu'à ce qu'aucun déséquilibre résiduel ne soit plus mesurable ou que toutes les valeurs se situent dans une plage de tolérance acceptable.</p> <p>De cette manière, l’équilibrage ne prend donc pas particulièrement longtemps, et la masse mal répartie peut être rapidement compensée.</p> <p>Un système d’équilibrage de haute précision et largement automatisé est également utile car il permet de rééquilibrer les outils à chaque changement de configuration, et ce rapidement. On évite ainsi toute perte de qualité due à des exigences, des vitesses de rotation ou des matériaux modifiés, sans que la cadence de travail n’en pâtisse.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Un équilibrage efficace avec le »toolBalancer« de ZOLLER </h3>",
+      "body": "<p>Des outils équilibrés avec précision, même pour un fonctionnement à haute vitesse de rotation : le ZOLLER »toolBalancer« est le système d'équilibrage idéal pour cela. Grâce à sa conception modulaire, il peut non seulement être adapté individuellement à vos exigences spécifiques, mais offre également une grande marge de manœuvre pour les développements futurs.</p> <p>Ce système d’équilibrage de haute précision convient aux porte-outils, aux meules et aux rotors, et vous garantit une réduction mesurable des taux de rebut, des temps d’arrêt des machines, des coûts de production et des délais de livraison.</p> <h3>Aperçu<br/>des avantages :</h3><ul><li><strong>Moins d’usure</strong> et un meilleur rendement d’usinage grâce à des outils équilibrés avec une grande précision</li><li><strong>La conception modulaire</strong> permet des adaptations personnalisées</li><li><strong>L'utilisation</strong> <strong>intuitive</strong> du système évite les erreurs inutiles et coûteuses</li><li><strong>Utilisation conviviale</strong> grâce à l'écran tactile, au clavier et à la souris</li></ul><p><a class=\"btn\" href=\"/ca-fr/produits/technique-dequilibrage/toolbalancer\">Découvrez toutes les possibilités du ZOLLER »toolBalancer«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technique d'impact : vos avantages",
+     "href": "/ca-fr/solutions/technique-dequilibrage",
+     "caption": "<figcaption> <h3>Technique d'impact : vos avantages</h3> <p>L'équilibrage est sous-estimé. Pourtant, l'équilibrage permet d'améliorer la rentabilité, car il réduit l'usure d'outil coûteuse et soulage les broches des machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/equilibrage-dun-outil",
+ "de_path": "/werkzeug-auswuchten"
+}

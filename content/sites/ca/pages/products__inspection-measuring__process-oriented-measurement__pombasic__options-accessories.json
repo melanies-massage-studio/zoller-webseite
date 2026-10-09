@@ -1,0 +1,795 @@
+{
+ "path": "/products/inspection-measuring/process-oriented-measurement/pombasic/options-accessories",
+ "url": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic/options-accessories",
+ "title": "»»pomBasic«« – Options & Accessories",
+ "description": "Options & Accessories - »»pomBasic«« – Options & Accessories",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Inspection & Measuring /",
+   "href": "/ca/products/inspection-measuring"
+  },
+  {
+   "label": "Process-Oriented Measurement /",
+   "href": "/ca/products/inspection-measuring/process-oriented-measurement"
+  },
+  {
+   "label": "»»pomBasic«« /",
+   "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic"
+  },
+  {
+   "label": "Options & Accessories",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Products /",
+   "href": "/ca/products"
+  },
+  {
+   "label": "Inspection & Measuring /",
+   "href": "/ca/products/inspection-measuring"
+  },
+  {
+   "label": "Process-Oriented Measurement /",
+   "href": "/ca/products/inspection-measuring/process-oriented-measurement"
+  },
+  {
+   "label": "»»pomBasic«« /",
+   "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic"
+  },
+  {
+   "label": "Options & Accessories",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen/prozessorientertes-messen/pombasic/optionen-zubehoer",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring/process-oriented-measurement/pombasic/options-accessories",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/pombasic/opciones-y-accesorios",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer/mesure-orientee-processus/pombasic/options-et-accessoires",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/pombasic/opcoes-e-acessorios",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione/misurazione-orientata-al-processo/pombasic/opzioni-e-accessori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta/processorienterad-maetning/pombasic/tillval-tillbehoer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen/prozessorientiertes-messen/pombasic/optionen-zubehoer",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring/process-oriented-measurement/pombasic/options-accessories",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic/options-et-accessoires",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E9%87%8D%E8%A6%96%E3%81%AE%E6%B8%AC%E5%AE%9A/pombasic/%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95/pombasic/%EC%98%B5%EC%85%98-%EB%B0%8F-%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring/process-oriented-measurement/pombasic/options-accessories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion/medicion-orientada-a-procesos/pombasic/opciones-y-accesorios",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/pombasic/opcoes-e-acessorios",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»»pomBasic««",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Models",
+     "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic/models",
+     "current": false
+    },
+    {
+     "label": "Software & Integration",
+     "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic/software-integration",
+     "current": false
+    },
+    {
+     "label": "Options & Accessories",
+     "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic/options-accessories",
+     "current": false
+    },
+    {
+     "label": "Technical Specifications",
+     "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic/technical-specifications",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1975",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Options &amp; Accessories </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1994",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Equipment Table for Standing Workstation",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Stable and secure positioning of the »pomBasic« inspection unit as a standing workstation. Includes an extendable tray for a mouse and keyboard.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/e/csm_option_tisch_59_536b12161b.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1993",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Equipment Table, Seated Workstation",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The »pomBasic« inspection unit features a stable, secure design that provides optimal comfort while positioning it as a seated workstation even during time-consuming inspection tasks. It includes an extendable tray for the mouse and keyboard.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/f/csm_option_sitzplatz_b2fbd33b41.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1991",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "additional lighting",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Enables transmitted light measurement of peripheral areas using a flat LED light. The illumination is positioned exactly opposite the video microscope system. This allows for the measurement of outer contours, step lengths, point angles, and much more. <br/><br/>White additional lighting for »pomBasic« with »pomColorCam« optics; red additional<br/>lighting for »pomBasic« MTI«</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/5/csm_option_diffusor_1a0262860e.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1989",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "»pomLightTube« (white/red)",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Height-adjustable additional lighting for optimal, high-contrast lighting of even the smallest surfaces along the tool cutting edge—for both radial and axial incident light measurements.</p> <p>»pomLightTube« white/red for »pomBasic«,<br/>»pomMicroLightTube« blue for »pomBasic MTI«</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/e/csm_option_pomlighttube_5dc57c1907.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1987",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Single LED spot light (white/red)",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The dimmable LED spotlights can be flexibly positioned relative to the tool to optimally illuminate even undercut tool geometries. </p> <p>White LED spot for »pomBasic« with »pomColorCam« optics, red<br/>LED spot for »pomBasic« with »pomCam« optics, and »pomBasic« MTI«</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/a/csm_option_led-spotbeleuchtung_2176f457a4.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1985",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Drawing holder",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>It is ideal for mounting drawings right next to the measuring area. The magnetic spherical joint allows for flexible alignment that is optimal for the operator. Magnets make it simple to fix the drawings and exchange them quickly.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/6/csm_option_zeichnungshalterung_dce3bb4436.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 682
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1983",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Tool and Accessory Tray",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The shelf attached to the left side of the inspection unit allows for the safe storage of tools with a shaft diameter of up to 50 mm. In addition, the shelf offers sufficient space for small parts and indexable inserts.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/4/c/csm_option_werkzeugablage_a942acc1be.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 646
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1981",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Extended Swivel table",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>For very long tools, such as drills or reamers, the extended swivel table ensures that the tool is securely held in place.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/7/csm_option_schwenktisch_5be30c1285.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1979",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Extended shank for deep hole drills",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Support for extra-long tools ranging from D 3 mm to D 20 mm and up to 1000 mm in length. The prism is adjustable in height. It is mechanically connected to the extended Swivel table.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/9/csm_option_aufnahme_tischlochbohrer_28f38c0faf.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1996",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Styling Package",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Depending on the application, there are three camera selections to make: the »pomColorCam« color camera with optical zoom, the »pomCam« monochrome camera with a fixed aperture and digital zoom, and the »pomMicroCam« monochrome camera with optical zoom, specialized for microtools.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/4/csm_option_optikpaket_25b546fc15.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 789
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1998",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "CN control of the Camera Axis",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Enables the generation of images of the tool that have combined focus throughout for a complete inspection, the automatic positioning of the camera relative to the tool surface, and CNC-controlled movement of the camera axis via the joystick operation in the software. Additional manual continuous fine adjustment is also available.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/9/csm_option_cnc-steuerung_c7a908346f.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 789
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2000",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Color laser printer",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>For printing reports directly from the inspection unit.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/2/csm_option_farblaserdrucker_8ced4bdfd3.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2002",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "UPS unit",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The UPS unit ensures that your computer shuts down properly in the event of power grid faults, thereby avoiding data loss. Mains voltages of 230 V~ (Europe) or 120 V~ (U.S.) are available.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/a/csm_option_USV-Anlage_423fc9705e.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 563
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2004",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1977",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1976",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> configuration </h2>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c2009",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "table",
+      "header": "<h2> »pomBasic« with »pomColorCam« </h2>",
+      "table": "<table> <tbody> <tr> <td> Axes </td> <td> </td> </tr> <tr> <td> Standard Swivel Table </td> <td> Base </td> </tr> <tr> <td> Extended Swivel Table </td> <td> Optional </td> </tr> <tr> <td> Indexing -90°/0°/+90° </td> <td> Base </td> </tr> <tr> <td> Manual Clamping </td> <td> Base </td> </tr> <tr> <td> Vernier Angle Display for Swivel Table </td> <td> Standard </td> </tr> <tr> <td> ROD encoder angle display for Swivel Table </td> <td> Optional </td> </tr> <tr> <td> Manual continuous fine adjustment X/Y </td> <td> Standard </td> </tr> <tr> <td> Manual Camera Axis </td> <td> Standard </td> </tr> <tr> <td> CN control for Camera Axis </td> <td> Optional </td> </tr> <tr> <td> Electronics </td> <td> </td> </tr> <tr> <td> »pilot 4.0« 32\" TFT color monitor </td> <td> Base model </td> </tr> <tr> <td> Equipment </td> <td> </td> </tr> <tr> <td> Workbench configuration </td> <td> Base model </td> </tr> <tr> <td> Equipment table for standing workstation </td> <td> optional </td> </tr> <tr> <td> Equipment table for seated workstation </td> <td> optional </td> </tr> <tr> <td> Camera/Sensors </td> <td> </td> </tr> <tr> <td> »pomColorCam«, field of view approx. 1.8 x 1.2 mm² to approx. 38.1 x 25.6 mm² </td> <td> Standard </td> </tr> <tr> <td> 8-channel white LED incident light </td> <td> Standard </td> </tr> <tr> <td> Additional white lighting </td> <td> optional </td> </tr> <tr> <td> »pomLightTube« white </td> <td> optional </td> </tr> <tr> <td> Single white LED spot lighting </td> <td> optional </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c1974",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "table",
+      "header": "<h2> »pomBasic« with »pomCam« </h2>",
+      "table": "<table> <tbody> <tr> <td> Axes </td> <td> </td> </tr> <tr> <td> Standard Swivel table </td> <td> Base </td> </tr> <tr> <td> Extended Swivel table </td> <td> optional </td> </tr> <tr> <td> Indexing -90°/0°/+90° </td> <td> Base </td> </tr> <tr> <td> Manual clamping </td> <td> Base </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td> Axes </td> <td> </td> </tr> <tr> <td> Standard Swivel table </td> <td> Base </td> </tr> <tr> <td> Extended Swivel table </td> <td> optional </td> </tr> <tr> <td> Indexing -90°/0°/+90° </td> <td> Base </td> </tr> <tr> <td> Manual clamping </td> <td> Base </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td> Axes </td> <td> </td> </tr> <tr> <td> Standard Sw </td> <td> </td> </tr> <tr> <td> Vernier Angle Display for Swivel Table </td> <td> Standard </td> </tr> <tr> <td> ROD encoder angle display for Swivel Table </td> <td> Optional </td> </tr> <tr> <td> Manual continuous fine adjustment X/Y </td> <td> Standard </td> </tr> <tr> <td> Manual Camera Axis </td> <td> Standard </td> </tr> <tr> <td> CN control for Camera Axis </td> <td> Optional </td> </tr> <tr> <td> Electronics </td> <td> </td> </tr> <tr> <td> »pilot 4.0« 32\" TFT color monitor </td> <td> Base </td> </tr> <tr> <td> Equipment </td> <td> </td> </tr> <tr> <td> Workbench configuration </td> <td> Base </td> </tr> <tr> <td> Equipment table for standing workstation </td> <td> optional </td> </tr> <tr> <td> Equipment table for seated workstation </td> <td> optional </td> </tr> <tr> <td> Camera/Sensors </td> <td> </td> </tr> <tr> <td> »pomCam«, effective field of view approx. 19.4 x 17.6 mm² </td> <td> Standard </td> </tr> <tr> <td> 8x red LED incident light </td> <td> Standard </td> </tr> <tr> <td> »pomLightTube« red </td> <td> Optional </td> </tr> <tr> <td> 1x red LED spot lighting </td> <td> Optional </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c90497",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2005",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "table",
+      "header": "<h2> »pomBasic MTI« </h2>",
+      "table": "<table> <tbody> <tr> <td> Axes </td> <td> </td> </tr> <tr> <td> Standard Swivel Table </td> <td> Base </td> </tr> <tr> <td> Extended Swivel Table </td> <td> optional </td> </tr> <tr> <td> Indexing -90°/0°/+90° </td> <td> Base </td> </tr> <tr> <td> Manual Clamping </td> <td> Base </td> </tr> <tr> <td> Vernier Angle Display for Swivel Table </td> <td> Base </td> </tr> <tr> <td> ROD encoder Angle Display for Swivel Table </td> <td> optional </td> </tr> <tr> <td> Manual continuous fine adjustment X/Y </td> <td> Base </td> </tr> <tr> <td> Manual Camera Axis </td> <td> Base </td> </tr> <tr> <td> CN control for Camera Axis </td> <td> Base </td> </tr> <tr> <td> Electronics </td> <td> </td> </tr> <tr> <td> »pilot 4.0« 32\" TFT color monitor </td> <td> Base </td> </tr> <tr> <td> Equipment </td> <td> </td> </tr> <tr> <td> Workbench configuration </td> <td> Base </td> </tr> <tr> <td> Equipment table for standing workstation </td> <td> optional </td> </tr> <tr> <td> Equipment table for seated workstation </td> <td> optional </td> </tr> <tr> <td> Camera/Sensors </td> <td> </td> </tr> <tr> <td> »pomMicroCam«, field of view approx. 0.3 x 0.3 mm² to approx. 3.3 x 3.3 mm² </td> <td> Basic </td> </tr> <tr> <td> 8x blue LED incident light </td> <td> Basic </td> </tr> <tr> <td> Blue coaxial illumination </td> <td> Basic </td> </tr> <tr> <td> Additional red lighting </td> <td> optional </td> </tr> <tr> <td> »pomMicroLightTube« blue </td> <td> Basic </td> </tr> <tr> <td> Single-head red LED spot lighting </td> <td> optional </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c90478",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c90440",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Inspection & Measuring: Your Advantages",
+     "href": "/ca/solutions/inspection-measuring",
+     "caption": "<figcaption> <h3>Inspection &amp; Measuring: Your Advantages</h3> <p>Find out what is possible with ZOLLER for tool inspections. Process-related inspections or high-end analyses through to SKP, roughness and the creation of digital twins.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/products/inspection-measuring/process-oriented-measurement/pombasic/options-accessories",
+ "de_path": "/produkte/pruefen-messen/prozessorientertes-messen/pombasic/optionen-zubehoer"
+}

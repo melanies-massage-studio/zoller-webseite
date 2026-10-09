@@ -1,0 +1,385 @@
+{
+ "path": "/contraer-la-herramienta",
+ "url": "/mx/contraer-la-herramienta",
+ "title": "Contraer la herramienta",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Contraer la herramienta",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Contraer la herramienta",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-schrumpfen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-shrinkage",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/contraer-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fretter-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/retrair-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/calettare-lutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/krympning-av-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-schrumpfen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/retrecissement-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%8E%E7%B8%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EC%B6%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/shrink-tool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/contraer-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/retrair-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/1/b/csm_shrinking_header_4f2b52f126.webp",
+     "video": null,
+     "title": "Cambio rápido de herramientas con dispositivo de contracción",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4381",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>Con un buen dispositivo de contracción, el cambio de herramientas con diferentes soportes de sujeción se puede realizar de forma rápida, sencilla y fiable. A continuación, describimos con más detalle cómo funciona y qué ventajas ofrece.</strong></h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4035",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>¿Qué sucede cuando se contrae una herramienta?</h4> <p>Contraer la herramienta no significa reducir el tamaño de la herramienta en sí. En su lugar, el portaherramientas en el que se inserta, por ejemplo, una broca o una herramienta de corte, se calienta de forma breve, específica y homogénea para que se dilate.</p> <p>Esto crea suficiente espacio en el portaherramientas para insertar la herramienta. Al enfriarse, el material del portaherramientas se contrae de manera homogénea por todos los lados. De este modo, la herramienta se sujeta con una alta rigidez, la máxima fuerza de sujeción y centrada.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4388",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>¿Para qué se necesitan portaherramientas térmicos especiales?</h4> <p>En su mayoría se utilizan portaherramientas especiales, los portaherramientas térmicos. Están especialmente diseñados para mantener su forma a pesar del calentamiento y enfriamiento repetidos. Por ejemplo, no incluyen piezas móviles, por lo que conservan su calidad de equilibrado; también es importante que la precisión de concentricidad del portaherramientas térmico sea muy alta, ya que, de lo contrario, ni siquiera una herramienta centrada con gran precisión servirá de nada.</p> <p>En comparación con los mandriles de sujeción convencionales, los portaherramientas térmicos tienen la pequeña desventaja de que se necesita un portaherramientas propio con el diámetro adecuado para cada diámetro de vástago. Sin embargo, esto se compensa con una precisión de concentricidad mucho mayor, lo que es muy importante para piezas de trabajo mecanizadas de alta calidad.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4387",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>¿Qué es un dispositivo de contracción y cómo funciona?</h4> <p>Una máquina de contracción calienta el portaherramientas térmico, el portaherramientas, de manera homogénea en un tiempo corto mediante corriente inductiva (es decir, a través de un campo magnético). Con los medios auxiliares y los dispositivos de medición adecuados, no solo se garantiza que la nueva herramienta se inserte con precisión, sino que también se puede asegurar la precisión de la longitud y medirla antes del enfriamiento controlado del portaherramientas térmico y corregirla si es necesario. Los sensores correspondientes también evitan el sobrecalentamiento del portaherramientas térmico o de la herramienta.</p> <p>La tecnología de contracción automatizada garantiza, por ejemplo, que la longitud de saliente y todos los demás parámetros importantes para el mecanizado de las piezas de trabajo se midan y ajusten de forma correcta y automatizada, y que la herramienta vuelva a estar disponible en muy poco tiempo. Esto garantiza tiempos de preparación cortos y, en general, menores costos.</p> <p>Los buenos aparatos de contracción también cuentan con su propia unidad de refrigeración, en la que el portaherramientas térmico se enfría de manera homogénea. Para ello se utiliza, por ejemplo, la refrigeración por contacto, aunque algunos aparatos también funcionan con refrigeración por agua. La refrigeración adecuada también elimina el peligro de quemaduras, que, por supuesto, serían posibles si se tocara accidentalmente el portaherramientas calentado.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4382",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Ajustar, contraer y medir: la solución combinada completamente automática. </h2>",
+   "body": "<p>Con ZOLLER »redomatic«, el contraimiento de sus herramientas se realiza de forma sencilla y completamente automática. Nuestro versátil equipo para el ajuste, contraimiento y medición de herramientas, que realiza todos los procesos de forma automatizada en una sola secuencia, cuenta con control CNC de 4 ejes, autoenfoque, revólver portaherramientas, bobina de inducción, Contrapunto y sistema de refrigeración.</p> <h4><br/>Seguro, económico y preciso</h4> <p>Con el tope longitudinal automático patentado »asza«, ofrece la posibilidad de encajar herramientas de forma sencilla, rápida y exacta con una precisión mínima de +/- 10 µm a la longitud deseada.</p> <p>ZOLLER »redomatic« solo suministra la energía estrictamente necesaria para el calentamiento de los mandriles de herramientas, lo que protege sus mandriles; el sistema de control de contracción diseñado por nosotros y el sistema de aspiración de gas de combustión patentado garantizan una mayor seguridad para sus empleados/operarios.</p> <p><a class=\"btn\" href=\"/mx/solutions/tecnica-de-contraccion\">Descubra aquí todo lo que necesita saber sobre nuestra exitosa solución de contracción.</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4040",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ¿Qué ventajas tiene el contraer y el expandir|descomprimir? </h2>",
+   "body": "<p>El contraer y expandir las herramientas tiene una serie de ventajas:</p><ul><li>Es posible centrar la herramienta antes de que se contraiga, lo que evita que se incline y garantiza una alta precisión de concentricidad.</li><li>La herramienta se mantiene homogénea en el portaherramientas térmico gracias a las elevadas fuerzas de sujeción.</li><li>Los mandriles especializados aportan una alta calidad de equilibrado y no se deforman incluso después de numerosos procesos de amarre térmico.</li><li>Con un dispositivo de contracción de alta calidad y un soporte de contracción adecuado, el proceso de calentamiento y enfriamiento dura menos de un minuto.</li><li>Para altas velocidades y herramientas con una gran longitud de voladizo, ningún otro método de sujeción permite un uso tan preciso de la herramienta.</li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4039",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Todo en un solo lugar</h3> <p>Con nuestra Estación de amarre térmico ZOLLER »powerShrink«, tendrá todo lo que necesita para un proceso de amarre térmico rápido en un solo lugar. Gracias a su montaje|estructura modular, puede adaptar fácilmente el puesto de trabajo a sus necesidades y requerimientos.</p> <p>La estación se puede utilizar de forma universal para todas las herramientas HSS y de metal duro de 3 a 32 mm de diámetro y también es adecuada para herramientas extremadamente largas.</p> <p><a class=\"btn\" href=\"/mx/productos/ammare-termico-de-herramientas/powershrink\">Más información sobre la Estación de amarre térmico ZOLLER »powerShrink«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c4038",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4036",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Técnica de contracción: sus ventajas",
+     "href": "/mx/solutions/tecnica-de-contraccion",
+     "caption": "<figcaption> <h3>Técnica de contracción: sus ventajas</h3> <p>Descubra cómo hemos logrado grandes avances en eficiencia energética, velocidad de proceso y ergonomía. Utilice la perfección para su producción. </p> <br/> Más información </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Charla con expertos",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Charla con expertos</h3> <p>Intercambio personalizado sobre sus objetivos y nuestras ideas al respecto. El asesoramiento en línea de ZOLLER directamente desde la Smart Factory. Concierte ahora su cita. </p> <br/> Más información </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/contraer-la-herramienta",
+ "de_path": "/werkzeug-schrumpfen"
+}

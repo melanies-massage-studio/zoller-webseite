@@ -1,0 +1,537 @@
+{
+ "path": "/produits/technique-dequilibrage/toolbalancer/applications",
+ "url": "/ca-fr/produits/technique-dequilibrage/toolbalancer/applications",
+ "title": "»toolBalancer« – Applications",
+ "description": "Applications - »toolBalancer« – Applications",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Technique d'équilibrage /",
+   "href": "/ca-fr/produits/technique-dequilibrage"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer"
+  },
+  {
+   "label": "Applications",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/ca-fr/produits"
+  },
+  {
+   "label": "Technique d'équilibrage /",
+   "href": "/ca-fr/produits/technique-dequilibrage"
+  },
+  {
+   "label": "»toolBalancer« /",
+   "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer"
+  },
+  {
+   "label": "Applications",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/balancing-technology/toolbalancer/applications",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/equilibrado/toolbalancer/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/technique-dimpact/toolbalancer/applications",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/tecnologia-de-equilibragem/toolbalancer/aplicacoes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer/applicazioni",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/balanseringsteknik/toolbalancer/anvaendningsomraaden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/wuchttechnik/toolbalancer/anwendungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/balancing-technology/toolbalancer/features",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/technique-dequilibrage/toolbalancer/applications",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer/%E7%94%A8%E9%80%94",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer/%EC%9A%A9%EB%8F%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/balancing-technology/toolbalancer/features",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/tecnologia-de-balanceo/toolbalancer/aplicaciones",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/tecnologia-de-equilibragem/toolbalancer/aplicacoes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolBalancer«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Applications",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/applications",
+     "current": false
+    },
+    {
+     "label": "Options et accessoires",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/options-et-accessoires",
+     "current": false
+    },
+    {
+     "label": "Caractéristiques techniques",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/caracteristiques-techniques",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/faq",
+     "current": false
+    },
+    {
+     "label": "Centre d'informations",
+     "href": "/ca-fr/produits/technique-dequilibrage/toolbalancer/centre-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1052",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Applications </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1089",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Logiciel d'utilisation »toolBalancer disponible« en 25 langues",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Logiciel intuitif doté d'une interface utilisateur graphique permettant un équilibrage rapide et simple sur un ou deux plans, comprenant de nombreuses fonctions standard.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/7/csm_Bediensoftware_toolBalancer_DE_7deb604e59.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1094",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "écran tactile",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Utilisation conviviale du logiciel via l'écran tactile.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/8/csm_Touchscreen_DE_de8f698266.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1092",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Aide visuelle au vissage",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Affichage graphique de la position angulaire de la broche sur l'écran.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/2/csm_Optische_Eindrehhilfe_DE_74944f939a.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1098",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Compensation de croissance",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p><strong>Correction du déséquilibre « poids variés » </strong>:<br/>compensation du déséquilibre par l'ajout ou le retrait de poids (par exemple, des vis d'équilibrage). Possibilité incluse de définir des jeux de poids existants.</p> <p><strong>Correction du déséquilibre « Déplacement des poids »</strong><br/><strong>:</strong> compensation du déséquilibre par la rotation d’anneaux d’équilibrage ou de coulisseaux.</p> <p><strong>Correction d'équilibrage « Perçage radial »</strong><br/><strong>:</strong> compensation du déséquilibre par perçage radial. Calcul automatique du nombre, de la position angulaire et de la profondeur des perçages.</p> <p><strong>Correction du déséquilibre « Fraisage</strong><br/><strong>» :</strong> compensation du déséquilibre par fraisage radial, tangentiel ou axial.</p> <p><strong>Correction d’équilibrage « Perçage axial »</strong><br/><strong>:</strong> compensation du déséquilibre par perçage axial. Calcul automatique du nombre, de la position angulaire et de la profondeur des perçages.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1097",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Marquage au laser",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Affichage de la position du déséquilibre et de la correction sur le mandrin à l'aide d'un faisceau laser.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/4/e/csm_Lasermarkierung_DE_89b2795da8.webp",
+            "alt": "",
+            "w": 1012,
+            "h": 703
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1101",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Équilibrage dans un plan",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Pour mesurer et compenser le déséquilibre dans un plan (statique).</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/6/csm_Wuchten_in_1_Ebene_DE_23e1e800e4.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1102",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Équilibrage sur deux plans",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Pour mesurer et compenser le déséquilibre dans deux plans (de manière dynamique).</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/6/1/csm_Wuchten_in_2_Ebenen_DE_b11238d497.webp",
+            "alt": "",
+            "w": 1000,
+            "h": 693
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c1105",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Résultat : sortie des données",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p><strong>Impression</strong><br/><strong>d'étiquettes :</strong> édition des résultats de mesure sur un ou deux niveaux via l'imprimante d'étiquettes ZOLLER.</p> <p><strong>Impression</strong><br/>du rapport de mesure : impression du rapport de mesure sur une imprimante laser ou sous forme de fichier PDF avec fonction d'édition.</p> <p><strong>Exportation</strong><br/><strong>des</strong> données de mesure : exportation automatique des données de mesure au format CSV.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1106",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1090",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1088",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technique d'impact : vos avantages",
+     "href": "/ca-fr/solutions/technique-dequilibrage",
+     "caption": "<figcaption> <h3>Technique d'impact : vos avantages</h3> <p>L'équilibrage est sous-estimé. Pourtant, l'équilibrage permet d'améliorer la rentabilité, car il réduit l'usure d'outil coûteuse et soulage les broches des machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/technique-dequilibrage/toolbalancer/applications",
+ "de_path": "/produkte/wuchttechnik/toolbalancer/anwendungen"
+}

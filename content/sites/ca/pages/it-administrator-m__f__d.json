@@ -1,0 +1,310 @@
+{
+ "path": "/it-administrator-m/f/d",
+ "url": "/ca/it-administrator-m/f/d",
+ "title": "IT Administrator (m/f/d)",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Job Openings",
+   "href": "/ca/company/careers/job-openings"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca/accueil"
+  },
+  {
+   "label": "Company /",
+   "href": "/ca/company"
+  },
+  {
+   "label": "Careers /",
+   "href": "/ca/company/careers"
+  },
+  {
+   "label": "Job Openings",
+   "href": "/ca/company/careers/job-openings"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/it-administrator-m/w/d",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/controller-m/f/d-2-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/controleur-h/f/d-2-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/controlador-m/f/d-2-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/controllore-m/f/d-2-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/controller-m/k/d-1-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/controller-m/w/d-1-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/administrateur-informatique-h/f/d",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E6%80%A7%E5%88%A5%E4%B8%8D%E5%95%8F-1-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC-%EC%84%B1%EB%B3%84-%EB%AC%B4%EA%B4%80-1-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/controller-m/w/d-2-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/controlador-m/f/d-2-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/controlador-m/f/d-2-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IT Administrator (m/f/d)",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Your Benefit",
+     "href": "/ca/it-administrator-m/f/d/your-benefit",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c98039",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> IT Systems Area </h3> <h1> IT Administrator (m/f/d) – IT Infrastructure &amp; Support </h1>",
+      "body": "<p><a href=\"/fileadmin/01_Pages/Company/Career/DE/IT_Administrator_2026_06_18_ZOLLER.pdf\" rel=\"noopener\" target=\"_blank\">Job Posting (PDF)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97999",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Your Profile</h4><ul><li>Completed training as an IT specialist for system integration or a comparable qualification in the IT area</li><li>Professional experience in IT support and in the administration of Windows client and server environments</li><li>Strong knowledge of the Microsoft ecosystem (Windows Server, Active Directory, Microsoft 365)</li><li>Experience with handling software deployment solutions and client management is a plus</li><li>Basic knowledge in the areas of virtualization (VMware vSphere), backup solutions, and networking</li><li>A service- and solution-oriented approach to work, as well as a passion for handling applications</li><li>A structured, independent, and responsible work style</li><li>Ability to work well in a team, strong communication skills, and a high level of commitment</li><li>Very good command of German and good written<br/> and spoken English</li></ul><h4>Your Responsibilities</h4><ul><li>Point of contact for employees regarding IT questions and technical faults (1st and 2nd level support), as well as analyzing, editing, and documenting support requests</li><li>Setup, support, and maintenance of PCs, laptops, printers, and mobile devices, including Mobile Device Management (iPhone/iPad)</li><li>User and access rights management, as well as providing support to our national and international locations regarding </li><li>IT-related relevant issues</li><li>Administration and support of the Windows server environment, Active Directory, Exchange, and other central infrastructure services</li><li>Software distribution and packaging via the central software distribution system (Microsoft Intune)</li><li>Support for the operation and further development of the virtualization environment (VMware vSphere) and the backup infrastructure</li><li>Installation, configuration, and maintenance of servers, clients, and other IT hardware</li><li>Maintenance and update of technical documentation</li><li>Support for infrastructure projects, rollouts, and system implementations, as well as collaboration on the further development of the IT environment<br/> </li></ul><h4>Location</h4> <p>Pleidelsheim, Germany.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97979",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c98019",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Apply Online </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97939",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Would you like to use your skills to contribute to our company’s success? If so, we look forward to receiving your application.</p> <p>Apply now!</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c97919",
+      "bg": "lightgray",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c97959",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca/it-administrator-m/f/d",
+ "de_path": "/it-administrator-m/w/d"
+}

@@ -1,0 +1,417 @@
+{
+ "path": "/evenements/grindinghub-2026/techniques-de-mesure",
+ "url": "/ca-fr/evenements/grindinghub-2026/techniques-de-mesure",
+ "title": "Techniques de mesure",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "GrindingHub 2026 /",
+   "href": "/ca-fr/evenements/grindinghub-2026"
+  },
+  {
+   "label": "Techniques de mesure",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "GrindingHub 2026 /",
+   "href": "/ca-fr/evenements/grindinghub-2026"
+  },
+  {
+   "label": "Techniques de mesure",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events/grindinghub-2026/messtechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/grindinghub-2026/measurement-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/grindinghub-2026/maetteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/grindinghub-2026/messtechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/grindinghub-2026/techniques-de-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/grindinghub-2026/%E8%A8%88%E6%B8%AC%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/grindinghub-2026/%EA%B3%84%EC%B8%A1-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "GrindingHub 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/evenements/grindinghub-2026",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Techniques de mesure",
+     "href": "/ca-fr/evenements/grindinghub-2026/techniques-de-mesure",
+     "current": false
+    },
+    {
+     "label": "Demander un code de billet",
+     "href": "/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c30038",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/4/e/csm_grindinghub_messtechnik_header_47906707e2.webp",
+     "video": null,
+     "title": "Techniques de mesure",
+     "kicker": "",
+     "text": "<p>Découvrez les points forts<br/>de l'atelier d'exposition ZOLLER.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c46264",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> La perfection dans le processus de meulage </h2>",
+      "body": "<p class=\"large-text\">Contrôles qualité en temps réel en quelques secondes, inspection sans contact des outils à commande numérique, processus automatisés et documentation : les solutions de métrologie de ZOLLER améliorent la qualité et la productivité.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c30153",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c30152",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "products",
+   "header": "",
+   "items": [
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/genie",
+     "title": "»génie«",
+     "text": "<p>Il mesure plus de 100 paramètres avec une extrême précision et a fait ses preuves plus de 1 000 fois à travers le monde</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/titane",
+     "title": "»titane«",
+     "text": "<p>Pour les experts qui veulent tout savoir – y compris sur la préparation des bords de coupe</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/automatisation/inspection-des-outils/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>Gestion des outils pour »genius«, »3dCheck«, »threadCheck«, »titan« et »edgeControl«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/solutions-sur-mesure/solutions-sur-mesure/hobcheck",
+     "title": "»hobCheck«",
+     "text": "<p>Plus de 200 valeurs mesurées par des caméras à lumière transmise et à lumière incidente, ainsi que par des palpeurs de mesure</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/solutions-sur-mesure/solutions-sur-mesure/threadcheckcc",
+     "title": "»﻿﻿﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+     "text": "<p>Système haut de gamme à six axes CNC et support optique multisenseur pivotant</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+      "alt": "",
+      "w": 1563,
+      "h": 1291
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/machines-de-mesure-universelles/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Appareil de réglage et de mesure avec éclairage incident supplémentaire et analyse d'image avancée</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/pombasic",
+     "title": "»pomBasic«",
+     "text": "<p>Contrôler plus de 70 paramètres sur l'outil en temps réel</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/mesure-axee-sur-les-processus/mmfocus",
+     "title": "»mμFocus«",
+     "text": "<p>Analyse les topographies et génère des images 3D des arêtes de coupe des outils</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ca-fr/produits/controle-et-mesure/solutions-sur-mesure/solutions-sur-mesure/edgecontrol-600",
+     "title": "»edgeControl 600«",
+     "text": "<p>Évalue le degré d'usure et permet de réaliser des économies grâce à une planification plus précise de l'outillage</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_edgeControl600_preview_df5ae743bb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c30039",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Gestion des outils matériels et logiciels </h2>",
+   "body": "<p>Grâce aux Smart Cabinets de ZOLLER, vous disposez à tout moment et rapidement de meules et de lots de meules. Chaque meule est stockée en toute sécurité et facile à localiser. </p> <p>Grâce au logiciel ZOLLER Toolmanagement Solutions, vous bénéficiez d’une transparence totale sur votre stock. Vous savez à tout moment quelles meules sont actuellement utilisées sur quelle machine et vous identifiez d’un seul coup d’œil l’emplacement de stockage d’un lot ainsi que les données relatives à l’outil. </p> <p>En savoir plus sur la gestion des outils ZOLLER</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_teaser_toolmanagement_ea7c951cbc.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c46685",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Rencontrez nos experts </h2>",
+   "body": "<p>Quels sont les défis auxquels vous êtes actuellement confrontés ? Venons-en discuter ensemble – au salon GrindingHub 2026 !<br/>Nous nous réjouissons de vous accueillir sur <strong>le</strong> <strong>stand 10B60, dans le hall 10.</strong></p> <p><a href=\"/ca-fr/evenements/grindinghub-2026/demander-un-code-de-billet\">Demander un code d'accès</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c30041",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/grindinghub-2026/techniques-de-mesure",
+ "de_path": "/events/grindinghub-2026/messtechnik"
+}

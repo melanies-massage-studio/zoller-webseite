@@ -1,0 +1,319 @@
+{
+ "path": "/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/agenda",
+ "url": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/agenda",
+ "title": "agenda",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Eventos /",
+   "href": "/mx/eventos"
+  },
+  {
+   "label": "Días de la Tecnología y Fabricación Inteligente /",
+   "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente"
+  },
+  {
+   "label": "agenda",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/mx/pagina-de-inicio"
+  },
+  {
+   "label": "Eventos /",
+   "href": "/mx/eventos"
+  },
+  {
+   "label": "Días de la Tecnología y Fabricación Inteligente /",
+   "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente"
+  },
+  {
+   "label": "agenda",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/technology-days-and-smart-manufacturing-summit/agenda",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/dias-de-la-tecnologia-y-cumbre-sobre-fabricacion-inteligente/agenda",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/journees-technologiques-et-sommet-sur-la-fabrication-intelligente/ordre-du-jour",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/dias-da-tecnologia-e-cimeira-sobre-fabrico-inteligente/agenda",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/giornate-della-tecnologia-e-vertice-sulla-produzione-intelligente/agenda",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/teknikdagar-och-smart-manufacturing-summit/dagordning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/technology-days-and-smart-manufacturing-summit/agenda",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/technology-days-and-smart-manufacturing-summit/agenda",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/journees-de-la-technologie-et-sommet-sur-la-fabrication-intelligente/ordre-du-jour",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA%E3%81%8A%E3%82%88%E3%81%B3%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9E%E3%83%8B%E3%83%A5%E3%83%95%E3%82%A1%E3%82%AF%E3%83%81%E3%83%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88/%E8%AD%B0%E9%A1%8C",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80-%EB%8D%B0%EC%9D%B4-%EB%B0%8F-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A0%9C%EC%A1%B0-%EC%84%9C%EB%B0%8B/%EC%9D%BC%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/technology-days-and-smart-manufacturing-summit/agenda",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/agenda",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/dias-da-tecnologia-e-cimeira-sobre-fabrico-inteligente/agenda",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Días de la Tecnología y Fabricación Inteligente",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Soluciones",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/soluciones",
+     "current": false
+    },
+    {
+     "label": "Presentadores",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/presentadores",
+     "current": false
+    },
+    {
+     "label": "agenda",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/agenda",
+     "current": false
+    },
+    {
+     "label": "Hotel y viajes",
+     "href": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/hotel-y-viajes",
+     "current": false
+    },
+    {
+     "label": "¡Regístrese ahora!",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4807",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Agenda </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7384",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Día 1 - 13 de mayo de 2026 - Prensa, Día de los socios",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p><strong>09:00 a. m. - 09:30 a. m.</strong><br/><strong>Bienvenida y desayuno para establecer contactos</strong><br/><br/>Desayuno ligero y café con el equipo de ZOLLER. Oportunidad para establecer<br/>contactos de manera informal. </p> <hr/> <p><strong>09:30 - 10:15 Reunión</strong><br/><strong>informativa para la prensa y socios ejecutivos: «Novedades en ZOLLER» — Sr. Alexander Zoller — Presidente de ZOLLER Inc.</strong> Temas<br/><br/>principales:</p><ul><li>80.º aniversario de ZOLLER: nuestro legado de innovación</li><li>Tendencias del sector y fabricación inteligente: cómo ZOLLER impulsa la eficiencia, la precisión y la automatización para empresas de todos los tamaños</li><li>Anuncios de productos y tecnología: avance exclusivo de nuevas soluciones, actualizaciones y hojas de ruta</li><li>Crecimiento de la empresa y perspectivas de futuro: cómo ZOLLER cambiará el futuro de la fabricación</li><li>Lanzamiento del concurso «Taller de herramientas del año 2026»</li></ul><hr/> <p><strong>10:15-10:30 h.</strong><br/><strong>Del CAM a la pieza: experimente EN VIVO cómo toda la gama de soluciones de ZOLLER trabaja conjuntamente para garantizar procesos de fabricación inteligentes y eficientes</strong></p><ul><li>Demostración integrada en vivo de las soluciones de preajuste de herramientas, transferencia de datos, equilibrado, contracción y automatización de ZOLLER</li></ul><hr/> <p><strong>10:45 a. m. - 12:00 p. m. Preguntas y</strong><br/><strong>respuestas en vivo, entrevistas con los medios y demostraciones tecnológicas</strong></p><ul><li>Turno abierto para preguntas de la prensa y los socios</li><li>Demostraciones tecnológicas para la prensa y los socios</li><li>Entrevistas programadas con el Sr. Alexander Zoller, presidente de ZOLLER Inc.</li></ul><hr/> <p><strong>12:00-13:30 Almuerzo</strong><br/><strong>VIP para establecer contactos para la prensa y los socios</strong></p><ul><li>Almuerzo solo por invitación con prensa, fabricantes de máquinas herramienta OEM, socios de software/distribuidores/revendedores y socios comerciales.</li><li>Oportunidad para mantener conversaciones estratégicas en un ambiente relajado.<br/> </li></ul><hr/> <p><strong>13:30-15:30</strong><br/><strong>Presentaciones y sesiones</strong></p><ul><li><strong>Sesión 1:</strong> Impulsar la eficiencia en la producción con ZOLLER (casos de éxito de clientes y mejores prácticas)</li><li><strong>Sesión 2:</strong>El futuro de la fabricación inteligente </li><li><strong>Sesión 3: </strong>Automatización de la sala de herramientas</li></ul><hr/> <p><strong>16:30-18:00</strong><br/><strong>Recepción con cóctel y visitas a las</strong><br/><br/><strong>instalaciones</strong> Networking informal con la prensa, socios y clientes</p> <hr/> <p><strong>18:00 h -</strong><br/><strong>Fin de la jornada para la prensa y los socios</strong></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c7388",
+          "bg": "lightgray",
+          "space": {
+           "before": "small",
+           "after": "small"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Día 2 - 14 de mayo de 2026 - Enfoque - Maximizar la eficiencia desde el CAM hasta la pieza",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p><strong>08:30 a. m. - 09:00 a. m.</strong><br/><strong>Registro y networking</strong></p> <hr/> <p><strong>09:00 - 09:30 Bienvenida</strong><br/><strong>y discurso de apertura</strong><br/>Alexander Zoller, presidente de ZOLLER Inc., en su discurso «Innovación desde hace 80 años» destacará la historia y la visión de cómo ZOLLER permite a empresas de todos los tamaños prosperar y triunfar en el competitivo entorno empresarial actual.</p> <hr/> <p><strong>09:30 - 10:15</strong><br/><strong>Últimas soluciones de ZOLLER y estrenos de tecnología de automatización y demostración en vivo</strong><br/>¿Qué hay de nuevo en ZOLLER? ¡Presentamos las últimas tecnologías y soluciones de automatización de ZOLLER para maximizar la eficiencia en su taller!</p> <hr/> <p><strong>10:15 a. m. - 10:30 a. m. Pausa</strong><br/><strong>para</strong><br/><strong>café</strong> </p> <hr/> <p><strong>10:30 a. m. - 11:00 a. m.</strong><br/><strong>Del CAM a la pieza: experimente EN VIVO cómo funciona toda la gama de soluciones ZOLLER para garantizar procesos de fabricación inteligentes y eficientes</strong><br/>. Demostración integrada en vivo de las soluciones ZOLLER <strong>para</strong> el preajuste de herramientas, la transferencia de<br/>datos, el equilibrado, la contracción y la automatización. </p> <hr/> <p><strong>11:00 a. m. - 11:30 a. m.</strong><br/><strong>Colaboración con ZOLLER para mejorar la eficiencia de la producción: una historia de éxito de</strong><br/><strong>un cliente</strong> Jonathan Meeker, ingeniero de herramientas y programador CNC en Milacron, presentará su trayectoria hacia una mayor eficiencia y precisión con ZOLLER.</p> <hr/> <p><strong>11:30 a. m. - 12:00 p. m.</strong><br/><strong>Lanzamiento del concurso «Taller de</strong><br/><strong>herramientas del año 2026».</strong> </p> <hr/> <p><strong>12:00-13:00 ¡Almuerzo de</strong><br/><strong>celebración del 80.º aniversario de ZOLLER! </strong></p> <p>¡Disfrute de la auténtica cocina y bebidas alemanas!</p> <hr/> <p><strong>13:00-13:30</strong><br/><strong>Colaboración con ZOLLER para mejorar la eficiencia de la producción: historias de éxito</strong><br/><strong>de clientes</strong> El éxito de los clientes es el motor de todo lo que hacemos en ZOLLER: analizamos varias hojas de ruta de clientes para aumentar la eficiencia en una amplia gama de industrias y empresas. Preguntas y respuestas<br/>interactivas. </p> <hr/> <p><strong>13:30 - 14:00</strong> Demostración interactiva de <strong>la</strong><br/><strong>automatización de</strong><br/><strong>ZOLLER</strong> con »roboBox« y el revolucionario sistema para extraer componentes, montar, termorretractilar y medir herramientas de forma autónoma<strong>.</strong></p> <hr/> <p><strong>14:00-14:15 Pausa para</strong><br/><br/><strong>café</strong> </p> <hr/> <p><strong>14:15-14:45 Gestión</strong><br/><strong>eficaz de herramientas para la eficiencia y la productividad en su taller</strong><br/>Cedric Hasenfratz, gerente de ZOLLER TMS y asociaciones</p> <p>¿Cómo pueden las empresas aprovechar ZOLLER TMS para obtener un control total sobre sus procesos de herramientas y producción?</p> <hr/> <p><strong>14:45 - 15:15 Equilibrado de</strong><br/><strong>herramientas: cuándo y por qué. Demostración en vivo y debate.</strong><br/>Nelu Bilba, experto en productividad de fabricación, ZOLLER Inc.</p> <hr/> <p><strong>16:00 - 19:00 Hora</strong><br/><strong>feliz, barbacoa y música en vivo</strong></p> <hr/> <p><strong>08:30 a. m. - 04:00 p. m.</strong><br/><strong>Todo el día: «Conozca a los expertos»</strong> Reuniones<br/>individuales con nuestros expertos técnicos para ayudarle a diseñar su hoja de ruta hacia la eficiencia en su taller con las soluciones ZOLLER</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c7390",
+          "bg": "",
+          "space": {
+           "before": "small",
+           "after": "small"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c7392",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c7391",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/mx/eventos/dias-de-la-tecnologia-y-cumbre-de-fabricacion-inteligente/agenda",
+ "de_path": ""
+}

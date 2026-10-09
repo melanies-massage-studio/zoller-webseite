@@ -1,0 +1,299 @@
+{
+ "path": "/evenements/atelier-de-lannee-2026/jury",
+ "url": "/ca-fr/evenements/atelier-de-lannee-2026/jury",
+ "title": "Atelier de l'année | Jury",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "Atelier de l'année 2026 /",
+   "href": "/ca-fr/evenements/atelier-de-lannee-2026"
+  },
+  {
+   "label": "Jury",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ca-fr/page-daccueil"
+  },
+  {
+   "label": "Événements /",
+   "href": "/ca-fr/evenements"
+  },
+  {
+   "label": "Atelier de l'année 2026 /",
+   "href": "/ca-fr/evenements/atelier-de-lannee-2026"
+  },
+  {
+   "label": "Jury",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events/toolroom-of-the-year-2026/judging-panel",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/toolroom-of-the-year-2026/judging-panel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/taller-de-herramientas-del-ano-2026/jurado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/atelier-de-lannee-2026/jury",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/ferramentaria-do-ano-2026/painel-de-julgamento",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/toolroom-dellanno-2026/giuria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/aarets-verktygsverkstad-2026/juryn",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/toolroom-of-the-year-2026/judging-panel",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/toolroom-of-the-year-2026/judging-panel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/atelier-de-lannee-2026/jury",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/2026%E5%B9%B4-%E3%83%84%E3%83%BC%E3%83%AB%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC/%E5%AF%A9%E6%9F%BB%E5%93%A1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/2026%EB%85%84-%EC%98%AC%ED%95%B4%EC%9D%98-%ED%88%B4%EB%A3%B8/%EC%8B%AC%EC%82%AC%EC%9C%84%EC%9B%90%EB%8B%A8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/toolroom-of-the-year-2026/judging-panel",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/taller-de-herramientas-del-ano-2026/jurado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/ferramentaria-do-ano-2026/painel-de-julgamento",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Atelier de l'année 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ca-fr/evenements/atelier-de-lannee-2026",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Jury",
+     "href": "/ca-fr/evenements/atelier-de-lannee-2026/jury",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4814",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h1> Jury </h1>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/9/csm_jeremy_st_pierre_08_6cd1a47843.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1020
+     },
+     "label": "Jérémy St. Pierre Directeur des opérations chez Deco Manufacturing",
+     "img": null,
+     "text": "<h4>Jeremy St. Pierre</h4> <p>Directeur des opérations chez Deco Manufacturing </p> <p>Plus de 15 ans d’expérience dans le secteur de la fabrication, notamment dans les domaines de l’industrie, de l’aérospatiale et de l’automobile. J’ai commencé à fabriquer des outils à l’âge de 13 ans et j’ai créé ma propre entreprise en 2021 dans le but d’aider les entreprises en matière de production en petites séries, de services d’ingénierie et de solutions Industrie 4.0. Je suis titulaire de deux brevets dans le domaine du développement d’outillage et j’ai récemment mis en place, pour GKN Aerospace, une division d’outillage et de R&amp;D d’une valeur de 4 millions de dollars US, qui a permis à l’entreprise d’internaliser la fabrication d’outils de coupe pour l’ensemble de ses sites en Amérique du Nord. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/7/csm_Joseph_Grant_Forsyth_03_cb7f5b4739.webp",
+      "alt": "",
+      "w": 1184,
+      "h": 1186
+     },
+     "label": "Joseph Forsyth Directeur de la fabrication de pointe chez Turner Medical, opérant sous le nom commercial Intech Medical",
+     "img": null,
+     "text": "<h4>Joseph Forsyth</h4> <p>Joseph est directeur de la fabrication de pointe chez Intech, à Athens, en Alabama, où il travaille depuis plus de 23 ans. Il travaille en étroite collaboration avec les équipes de programmation, de préparation et de prototypage, et a eu l'occasion d'effectuer des tâches pratiques et d'apprendre pratiquement toutes les tâches que l'on peut trouver dans un atelier d'usinage à la fois traditionnel et moderne. Il a une épouse formidable qui le soutient dans tout ce qu'il entreprend, et ensemble, ils élèvent quatre enfants.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/6/2/csm_rick_melvin02_02_e809dad73d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "Rick Melvin Président et copropriétaire de Powell Tool Supply, Inc.",
+     "img": null,
+     "text": "<h4>Rick Melvin</h4> <p>Rick Melvin est actuellement président et copropriétaire de Powell Tool Supply, Inc., un distributeur industriel d’outils de coupe haut de gamme destinés à l’usinage CNC, en activité depuis 1948. Powell est depuis toujours une entreprise familiale située à South Bend, dans l’Indiana, qui dessert l’Indiana, le Michigan, l’Illinois et l’Ohio, et qui étendra prochainement son champ d’action à d’autres régions.</p> <p>Rick est titulaire d’un diplôme de Certified Business Analysis Professional (CBAP) délivré par l’école de commerce de l’université de l’Illinois à Chicago et compte 38 ans d’expérience dans le secteur de la distribution industrielle, dont 36 à des postes de direction et de cadre supérieur.<br/>Powell s’est dotée de son premier système informatique au début des années 1960 et a commencé à développer des programmes VMI au début des années 1980 afin de mettre à profit son expertise en gestion professionnelle des stocks et en usinage des métaux pour élaborer, en collaboration avec ses clients, la meilleure solution adaptée à chaque projet et répondant à leurs besoins.</p> <p>Powell s’est associé à ZOLLER pour promouvoir son logiciel de gestion d’outils (TMS) dans le cadre de solutions VMI destinées à nos clients. Nous disposons d’une équipe parfaitement maîtrisant l’analyse et la mise en place de solutions VMI et TMS afin de fournir les meilleures pratiques et les technologies les plus récentes à nos clients partenaires. La création d’une base de données TMS ZOLLER centralisée est au cœur de ce processus.</p> <p>Les clients de Powell, qu’il s’agisse d’usines de fabrication ou d’ateliers de sous-traitance, sont présents dans un large éventail de secteurs (automobile, médical, aérospatial, équipement lourd, agriculture, etc.) et bénéficient depuis de nombreuses années de l’expertise, des connaissances et de la compréhension de Powell en matière d’usinage des métaux pour assurer leur réussite mutuelle.</p> <p>Rick est très impliqué dans les programmes de logiciels de gestion d’outils VMI et TMS en cours de développement et apprécie de travailler avec des clients potentiels pour mettre en place un processus qui les aide non seulement à atteindre leurs objectifs, mais aussi à dépasser ce qu’ils pensaient possible.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cédric Hasenfratz Responsable des ventes et des partenariats pour l'Amérique du Nord (TMS) – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cédric Hasenfratz</h4> <p>Cédric Hasenfratz est responsable des ventes et des partenariats pour l'Amérique du Nord au sein de la gamme ZOLLER TMS Tool Management Solutions. Il se consacre avec passion à la mise en œuvre de solutions d'efficacité dans le secteur de la fabrication.</p> <p>Avant de rejoindre ZOLLER, il occupait le poste de responsable de compte pour les États-Unis au sein de la division Manufacturing Intelligence d'Hexagon, dans le secteur de la vente de logiciels.</p> <p>Il possède une connaissance approfondie et une grande expérience de la gestion numérique des outils et de l'optimisation des processus pour l'industrie manufacturière moderne. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/8/csm_Felix_Kanbach_30_91a33e82e2.webp",
+      "alt": "",
+      "w": 1929,
+      "h": 1987
+     },
+     "label": "Felix Kanbach Responsable du service national – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Felix Kanbach</h4> <p>Felix Kanbach est responsable national du service après-vente chez ZOLLER Inc. Il est titulaire d'un master en génie mécanique de l'Université des sciences appliquées de Heilbronn, en Allemagne.</p> <p>Dans le cadre de ses fonctions actuelles, M. Kanbach dirige les équipes du service après-vente, du service technique et des ingénieurs d'application, veillant ainsi à la prestation constante d'un service et d'un soutien après-vente de premier ordre.</p> <p>Auparavant, en tant que responsable des solutions de gestion d'outils (TMS) chez ZOLLER, il gérait l'ensemble des activités de mise en œuvre, de déploiement et de formation pour la clientèle utilisant les solutions logicielles et matérielles de gestion d'outils de ZOLLER.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Moll Directeur des ventes – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Dietmar Moll</h4> <p>Dietmar Moll est directeur commercial chez ZOLLER Inc. et titulaire d'un master en ingénierie de l'Université coopérative d'État de Stuttgart.</p> <p>M. Moll mène une longue carrière chez ZOLLER, au cours de laquelle il a occupé de nombreux postes à l'international dans le domaine commercial, ainsi que des fonctions de direction générale en Inde, en Thaïlande et aux États-Unis.</p> <p>Au total, il possède plus de 18 ans d’expérience dans le domaine de la fabrication efficace, avec une spécialisation dans les applications de machines-outils et dans l’accompagnement des entreprises pour leur permettre de mieux comprendre leurs capacités de processus grâce à des solutions de préréglage d’outils, de mesure et d’inspection, de gestion des outils et d’automatisation.</p> <p>Son expérience de collaboration avec des entreprises et des partenaires issus de divers secteurs industriels, notamment l’aérospatiale, le pétrole et le gaz, l’automobile et l’exploitation minière, garantit que ZOLLER est en phase avec les défis concrets liés à la production de pièces, alors que la fabrication intelligente, l’analyse de données et l’Industrie 4.0 ouvrent la voie à une nouvelle génération de possibilités en matière de technologies intégrées et de pratiques de fabrication avancées.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "Rita Conroy-Martin Directeur du marketing et de l'expérience client – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Rita Conroy-Martin</h4> <p>Rita Conroy-Martin est directrice du marketing et de l'expérience client chez ZOLLER Inc. Polyglotte, elle possède plus de 25 ans d'expérience professionnelle internationale dans les domaines de la vente et du développement commercial, du marketing et des achats, principalement dans le secteur industriel.</p> <p>Elle se passionne pour l'alignement des ventes et du marketing dans le contexte d'une transformation radicale qui redéfinit les règles régissant la manière dont les entreprises, grandes ou petites, interagissent avec leurs prospects et leurs clients.</p> <p>Dans le cadre de ses fonctions actuelles chez ZOLLER Inc., elle combine des stratégies traditionnelles et émergentes de marketing et de développement commercial afin d’informer, d’impliquer, d’accompagner et de faire progresser les clients et prospects vers de nouveaux niveaux d’efficacité grâce aux solutions ZOLLER.</p> <p>Elle est diplômée de l'université de Limerick, en Irlande, où elle a obtenu une licence en commerce et en allemand, ainsi que d'un master en sciences politiques de l'Université Libre de Bruxelles, en Belgique. </p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7457",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/evenements/atelier-de-lannee-2026/jury",
+ "de_path": "/events/toolroom-of-the-year-2026/judging-panel"
+}
