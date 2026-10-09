@@ -1,0 +1,495 @@
+{
+ "path": "/eventos/automation-week-torrance-2026",
+ "url": "/eventos/automation-week-torrance-2026",
+ "title": "ZOLLER Automation Week Torrance 2026",
+ "description": "12–16 de octubre de 2026 en ZOLLER Inc. Pacific, Torrance, California: demostraciones en vivo de »coraLogistic«, »coraVarion« y »loadBox«, ponencias y reuniones 1:1 con expertos.",
+ "og_image": "/assets/video/automation-week-poster.jpg",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "Evento · ZOLLER Inc. Pacific",
+   "title": "ZOLLER Automation Week",
+   "subtitle": "Cinco días de automatización en vivo: »coraLogistic«, »coraVarion« y »loadBox« en acción.",
+   "dates": "12–16 de octubre de 2026",
+   "place": "Torrance, California",
+   "hours": "Todos los días de 9:00 a 17:00 (PT)",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/coralogistic.webp",
+     "alt": "»coraLogistic«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/loadbox.webp",
+     "alt": "»loadBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "Elegir una sesión",
+     "href": "#programa"
+    },
+    {
+     "label": "Ver el video de invitación",
+     "href": "#video",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "datos",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "Días",
+     "text": "De lunes a viernes, cada día con su propio enfoque"
+    },
+    {
+     "value": "3",
+     "label": "Soluciones en vivo",
+     "text": "»coraLogistic«, »coraVarion« y »loadBox« en funcionamiento"
+    },
+    {
+     "value": "25+",
+     "label": "Actividades",
+     "text": "Demos en vivo, ponencias, talleres y reuniones 1:1 con expertos"
+    },
+    {
+     "value": "0 $",
+     "label": "Participación",
+     "text": "Gratuita: plazas limitadas por demo"
+    }
+   ]
+  },
+  {
+   "type": "event_video",
+   "id": "video",
+   "bg": "black",
+   "kicker": "Invitación",
+   "title": "Su invitación a Torrance",
+   "text": "<p>Lo que le espera en Torrance y por qué merece la pena la visita. El video está en inglés.</p>",
+   "src": "/assets/video/zoller-automation-week-torrance.mp4",
+   "poster": "/assets/video/automation-week-poster.jpg"
+  },
+  {
+   "type": "event_products",
+   "id": "soluciones",
+   "bg": "lightgray",
+   "title": "Tres soluciones. Un ciclo de herramientas automatizado.",
+   "text": "<p>Del almacén de herramientas a la máquina CNC, pasando por la preparación: vea cómo la automatización de ZOLLER trabaja en conjunto y lo que significa para su producción.</p>",
+   "items": [
+    {
+     "name": "»coraLogistic«",
+     "claim": "La logística de planta automatizada",
+     "img": "/assets/showroom/img/hd/coralogistic.webp",
+     "href": "/produkte/automation/werkzeuglogistik/coralogistic",
+     "tag": "coralogistic",
+     "benefits": [
+      "Las herramientas se mueven solas: el robot autónomo »coraExpress« las transporta entre almacén, preparación y máquina",
+      "El sistema »smartPallet« sujeta las herramientas con seguridad, para transporte manual o automatizado",
+      "Cree órdenes de transporte con pocos clics en la gestión de órdenes de webTMS",
+      "Menos desplazamientos y búsquedas: la herramienta llega a tiempo a la máquina"
+     ]
+    },
+    {
+     "name": "»coraVarion«",
+     "claim": "Montaje, inspección y medición automatizados de plaquitas intercambiables",
+     "img": "/assets/showroom/img/hd/micbox.webp",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox",
+     "tag": "coravarion",
+     "benefits": [
+      "Con »micBox«: las plaquitas se giran, voltean y cambian de forma totalmente automática",
+      "Montaje, inspección y medición en un proceso continuo",
+      "Calidad constante con documentación completa de cada herramienta",
+      "Funciona sin personal: sus especialistas se centran en tareas de valor añadido"
+     ]
+    },
+    {
+     "name": "»loadBox«",
+     "claim": "La central de herramientas inteligente",
+     "img": "/assets/showroom/img/hd/loadbox.webp",
+     "href": "/produkte/automation/werkzeugbereitstellung/loadbox",
+     "tag": "loadbox",
+     "benefits": [
+      "Prepara las herramientas por pedido y las pone a disposición de la logística",
+      "Un robot FANUC de 6 ejes manipula las herramientas con fiabilidad entre entrada/salida y almacén",
+      "Almacén compacto de herramientas en el sistema de elevación Kardex Shuttle",
+      "Control basado en servidor: desde monitor, tableta o smartphone"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "agenda",
+   "id": "programa",
+   "bg": "white",
+   "title": "Programa",
+   "text": "<p>Elija su día y su demo. Con un clic puede solicitar su plaza o añadir la sesión a su calendario. Todos los horarios en hora del Pacífico (PT); ponencias y demos en inglés.</p>",
+   "email": "sales@zoller-usa.com",
+   "event": "ZOLLER Automation Week Torrance 2026",
+   "location": "ZOLLER Inc. Pacific, 3882 Del Amo Blvd., Suite #603, Torrance, CA 90503, USA",
+   "tz": "America/Los_Angeles",
+   "tzoffset": "-07:00",
+   "days": [
+    {
+     "date": "2026-10-12",
+     "label": "Día de apertura",
+     "focus": "Las tres soluciones de un vistazo",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registro y desayuno",
+       "text": "Llegada, café y primeras conversaciones con el equipo de ZOLLER."
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "all",
+       "title": "Ponencia principal: el ciclo de herramientas automatizado",
+       "text": "Cómo la preparación, el suministro y la logística de herramientas se integran en la fábrica inteligente."
+      },
+      {
+       "start": "10:30",
+       "end": "11:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« live",
+       "text": "»coraExpress« recoge las herramientas y las lleva a la máquina en la »smartPallet«.",
+       "seats": 12
+      },
+      {
+       "start": "11:30",
+       "end": "12:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« live",
+       "text": "Cambiar, inspeccionar y medir plaquitas intercambiables de forma automática.",
+       "seats": 12
+      },
+      {
+       "start": "12:15",
+       "end": "13:15",
+       "kind": "Networking",
+       "title": "Almuerzo y networking"
+      },
+      {
+       "start": "13:15",
+       "end": "14:00",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« live",
+       "text": "Preparación de herramientas por pedido con robot y sistema de elevación.",
+       "seats": 12
+      },
+      {
+       "start": "14:15",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Reuniones 1:1 con expertos",
+       "text": "45 minutos con nuestros expertos en automatización: sobre su producción, sus herramientas y sus objetivos.",
+       "seats": 3
+      },
+      {
+       "start": "16:30",
+       "end": "17:30",
+       "kind": "Networking",
+       "title": "Recepción de bienvenida",
+       "text": "Un encuentro para inaugurar la semana."
+      }
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "label": "Día de la logística",
+     "focus": "Enfoque: »coraLogistic«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registro y desayuno"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coralogistic",
+       "title": "Logística de planta sin desplazamientos",
+       "text": "Dónde se pierde tiempo en la logística de herramientas y cómo recuperarlo."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« Deep Dive",
+       "text": "Una orden de transporte completa: del almacén al preajuste y hasta la máquina CNC.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "coralogistic",
+       "title": "Práctica: gestión de órdenes en webTMS",
+       "text": "Cree usted mismo órdenes de transporte: elija el carro, elija la máquina de destino y en marcha.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Almuerzo y networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« se une a »coraLogistic«",
+       "text": "Las herramientas preparadas pasan directamente al transporte automatizado.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Reuniones 1:1 con expertos",
+       "text": "Sus preguntas de logística, nuestros expertos.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "label": "Día de preparación",
+     "focus": "Enfoque: »coraVarion«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registro y desayuno"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coravarion",
+       "title": "Cambio automático de plaquitas intercambiables",
+       "text": "Por qué la manipulación de plaquitas intercambiables se presta tan bien a la automatización."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« Deep Dive",
+       "text": "Montaje, inspección y medición en un solo proceso, en vivo en la celda.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»micBox« en detalle",
+       "text": "Girar, voltear, cambiar: la automatización del cambio de plaquitas de cerca.",
+       "seats": 12
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Almuerzo y networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« live",
+       "text": "El transporte de herramientas de un vistazo.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Reuniones 1:1 con expertos",
+       "text": "Traiga sus herramientas y sus preguntas.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "label": "Día de suministro",
+     "focus": "Enfoque: »loadBox«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registro y desayuno"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "loadbox",
+       "title": "La central de herramientas de la fábrica inteligente",
+       "text": "Preparar por pedido en lugar de buscar y reunir."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« Deep Dive",
+       "text": "Módulo base del robot, sistema de elevación y módulo de entrada/salida trabajando juntos.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "loadbox",
+       "title": "Control por tableta y smartphone",
+       "text": "Utilice usted mismo el software de control basado en servidor.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Almuerzo y networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« live",
+       "text": "Cambiar, inspeccionar y medir plaquitas intercambiables de forma automática.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Reuniones 1:1 con expertos",
+       "text": "Calculamos juntos su proyecto de automatización.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "label": "Puertas abiertas",
+     "focus": "El ciclo completo de herramientas",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registro y desayuno"
+      },
+      {
+       "start": "09:30",
+       "end": "10:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Del almacén al husillo",
+       "text": "Las tres soluciones en un proceso continuo: »loadBox« prepara los pedidos, »coraVarion« prepara las herramientas y »coraLogistic« las entrega.",
+       "seats": 20
+      },
+      {
+       "start": "10:45",
+       "end": "11:30",
+       "kind": "Workshop",
+       "tag": "all",
+       "title": "¿Es rentable para mí?",
+       "text": "La rentabilidad de la automatización en la preparación de herramientas, con cálculos de ejemplo.",
+       "seats": 15
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Demo abierta: la solución que usted elija",
+       "text": "Usted decide lo que mostramos.",
+       "seats": 20
+      },
+      {
+       "start": "12:30",
+       "end": "14:00",
+       "kind": "Networking",
+       "title": "Barbacoa californiana y clausura",
+       "text": "Para cerrar la semana, le invitamos a una barbacoa."
+      },
+      {
+       "start": "14:00",
+       "end": "16:00",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Reuniones 1:1 con expertos",
+       "text": "Última oportunidad para su reunión personal.",
+       "seats": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "event_venue",
+   "id": "como-llegar",
+   "bg": "black",
+   "title": "Cómo llegar",
+   "name": "ZOLLER Inc. Pacific",
+   "lines": [
+    "3882 Del Amo Blvd., Suite #603",
+    "Torrance, CA 90503, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=3882+Del+Amo+Blvd+Suite+603+Torrance+CA+90503",
+   "notes": [
+    "En la South Bay de Los Ángeles, cerca del aeropuerto LAX",
+    "Participación gratuita, inscripción obligatoria",
+    "Ponencias y demos en inglés"
+   ],
+   "contact": {
+    "label": "Inscripción y preguntas",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>¿No puede en octubre?</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Reservar una reunión 1:1 en línea</a></p>",
+   "id": "experte",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "de_path": "/events/automation-week-torrance-2026"
+}

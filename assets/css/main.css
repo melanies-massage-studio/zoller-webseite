@@ -1550,6 +1550,49 @@ img.is-broken { display: none; }
 .ev-venue__contact h3 { font-size: var(--fs-h4); }
 .ev-venue__contact a { color: var(--yellow); }
 
+/* Eventseiten aus content/events.json (build.py: r_event_detail) */
+.ev-hero--compact { min-height: min(78svh, 760px); }
+.ev-hero--compact .ev-hero__title { font-size: clamp(2.5rem, 1.6rem + 4vw, 5rem); }
+.ev-hero--compact .ev-hero__stage { aspect-ratio: 1.4; display: grid; place-items: center; }
+.ev-hero__logo { width: min(100%, 380px); aspect-ratio: 16 / 10; display: grid; place-items: center; padding: 2.25rem; border-radius: var(--radius); background: var(--white);
+  box-shadow: 0 40px 80px -30px rgba(0, 0, 0, .8), 0 0 0 1px rgba(255, 255, 255, .1); transform: rotate(-3deg); animation: ev-float 7s var(--ease-in-out) infinite alternate; }
+.ev-hero__logo img { max-width: 100%; max-height: 100%; object-fit: contain; }
+.reduced-motion .ev-hero__logo { animation: none; }
+.ev-detail { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: clamp(2rem, 1rem + 4vw, 6rem); align-items: start; }
+.ev-detail__main h2 { font-size: var(--fs-h2); margin-bottom: 1rem; }
+.ev-detail__main .rte p { font-size: var(--fs-lead); line-height: 1.45; }
+.ev-detail__main h3 { font-size: var(--fs-h4); margin: 2.5rem 0 .5rem; }
+.ev-plan { list-style: none; margin: .75rem 0 0; padding: 0; }
+.ev-plan li { display: grid; grid-template-columns: 4.5rem 1fr; gap: 1rem; padding: .75rem 0; border-top: 1px solid rgba(0, 0, 0, .1); font-size: .9375rem; line-height: 1.45; }
+.ev-plan b { font-weight: 500; font-variant-numeric: tabular-nums; box-shadow: inset 0 -.35em 0 var(--yellow); justify-self: start; height: max-content; }
+.ev-detail__facts { position: sticky; top: calc(var(--header-h) + 1.5rem); padding: clamp(1.5rem, 1rem + 1.5vw, 2.25rem); border-radius: var(--radius); background: var(--gray-50); }
+.ev-detail__facts h3 { font-size: .75rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--gray-600); margin-bottom: .75rem; }
+.ev-detail__facts dl { margin: 0 0 1.5rem; display: grid; gap: .8rem; }
+.ev-detail__facts dl div { display: grid; grid-template-columns: 8.5rem 1fr; gap: .75rem; padding-top: .8rem; border-top: 1px solid rgba(0, 0, 0, .1); font-size: .9375rem; }
+.ev-detail__facts dt { color: var(--gray-600); font-size: .8125rem; padding-top: .1rem; }
+.ev-detail__facts dd { margin: 0; }
+.ev-detail__contact { padding-top: 1.25rem; border-top: 2px solid var(--yellow); font-size: .9375rem; }
+.ev-detail__contact a { border-bottom: 1px solid var(--yellow); }
+.ev-detail__links { display: flex; flex-direction: column; align-items: flex-start; gap: .6rem; margin: 1.25rem 0 0; }
+.ev-next__head { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 1rem; margin-bottom: 1.75rem; }
+.ev-next__head h2 { font-size: var(--fs-h3); margin: 0; }
+.ev-next__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.ev-next { display: flex; flex-direction: column; gap: .35rem; padding: 1.5rem; border-radius: var(--radius-sm); background: var(--white); transition: box-shadow .25s, transform .35s var(--ease-out); }
+.ev-next:hover { box-shadow: inset 0 0 0 1.5px var(--black); transform: translateY(-3px); }
+.ev-next span { font-size: .8125rem; font-weight: 700; letter-spacing: .06em; color: var(--gray-600); }
+.ev-next b { font-size: 1.25rem; font-weight: 500; line-height: 1.2; }
+.ev-next small { font-size: .875rem; color: var(--gray-600); }
+@media (max-width: 899px) {
+  .ev-detail { grid-template-columns: minmax(0, 1fr); }
+  .ev-detail__facts { position: static; }
+  .ev-next__grid { grid-template-columns: minmax(0, 1fr); }
+  .ev-hero--compact .ev-hero__stage { aspect-ratio: 2; }
+  .ev-hero__logo { width: min(80%, 320px); padding: 1.5rem; }
+}
+@media (max-width: 520px) {
+  .ev-detail__facts dl div { grid-template-columns: minmax(0, 1fr); gap: .2rem; }
+}
+
 @media (max-width: 1080px) {
   .ev-products { grid-template-columns: 1fr; max-width: 640px; }
   .ev-facts { grid-template-columns: repeat(2, 1fr); }

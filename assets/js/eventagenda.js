@@ -56,19 +56,23 @@
     if (window.__lenis) window.__lenis.scrollTo(sec, { offset: -70 }); else sec.scrollIntoView({ behavior: 'smooth' });
   }));
 
-  // Direktlink auf einen Tag: #tag-2026-10-14
+  // Direktlink auf einen Tag: #tag-2026-10-14 (englisch #day-…, französisch #jour-…, spanisch #dia-…)
   const fromHash = () => { const i = days.findIndex((d) => '#' + d.id === location.hash); if (i >= 0) selectDay(i); };
   window.addEventListener('hashchange', fromHash); fromHash();
 
   // ---------------------------------------------------------------- Platz anfragen
-  const fmtDate = (iso) => { const [y, m, d] = iso.split('-'); return `${d}.${m}.${y}`; };
+  // Texte in der Sprache der Seite (build.py: data-agenda.t, deutscher Text als Schlüssel)
+  const T = (k) => (cfg.t && cfg.t[k]) || k;
+  const lang = document.documentElement.lang || 'de';
+  const fmtDate = (iso) => new Intl.DateTimeFormat(lang, { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(iso + 'T12:00:00Z'));
   root.addEventListener('click', (e) => {
     const book = e.target.closest('[data-book]'), ics = e.target.closest('[data-ics]');
     const slot = (book || ics) && (book || ics).closest('.agenda__slot');
     if (book && slot) {
-      const s = slot.dataset;
-      const subject = `Anmeldung ${cfg.event}: ${s.title} (${fmtDate(s.date)}, ${s.start} PT)`;
-      const body = `Hallo ZOLLER-Team,\n\nich möchte gerne an folgendem Programmpunkt teilnehmen:\n\n${s.title}\n${fmtDate(s.date)}, ${s.start}–${s.end} Uhr (PT)\n${cfg.location}\n\nName:\nFirma:\nTelefon:\nAnzahl Personen:\n\nViele Grüße`;
+      const s = slot.dataset, uhr = lang.startsWith('de') ? ' Uhr' : '';
+      const subject = `${T('Anmeldung')} ${cfg.event}: ${s.title} (${fmtDate(s.date)}, ${s.start} PT)`;
+      const body = `${T('Hallo ZOLLER-Team,')}\n\n${T('ich möchte gerne an folgendem Programmpunkt teilnehmen:')}\n\n${s.title}\n${fmtDate(s.date)}, ${s.start}–${s.end}${uhr} (PT)\n${cfg.location}\n\n`
+        + `${T('Name:')}\n${T('Firma:')}\n${T('Telefon:')}\n${T('Anzahl Personen:')}\n\n${T('Viele Grüße')}`;
       location.href = `mailto:${cfg.email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     }
     if (ics && slot) download([slot], slugify(slot.dataset.title));
@@ -77,7 +81,7 @@
   if (all) all.addEventListener('click', () => download([...root.querySelectorAll('.agenda__slot')].filter((s) => s.dataset.tag !== 'none'), 'zoller-automation-week'));
 
   // ---------------------------------------------------------------- iCalendar
-  const slugify = (t) => t.toLowerCase().replace(/[»«]/g, '').replace(/[^a-z0-9äöüß]+/g, '-').replace(/^-|-$/g, '');
+  const slugify = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f»«]/g, '').replace(/[^a-z0-9ß]+/g, '-').replace(/^-|-$/g, '');
   const utc = (d, t) => new Date(`${d}T${t}:00${cfg.tzoffset}`).toISOString().replace(/[-:]/g, '').replace(/\.\d{3}/, '');
   const icsText = (t) => t.replace(/\\/g, '\\\\').replace(/;/g, '\\;').replace(/,/g, '\\,').replace(/\n/g, '\\n');
   function download(slots, name) {
@@ -87,7 +91,7 @@
       return ['BEGIN:VEVENT', `UID:${d.date}-${d.start.replace(':', '')}-${slugify(d.title)}@zoller-automation-week`, `DTSTAMP:${now}`,
         `DTSTART:${utc(d.date, d.start)}`, `DTEND:${utc(d.date, d.end)}`,
         `SUMMARY:${icsText(d.title.replace(/[»«]/g, '') + ' · ' + cfg.event)}`, `LOCATION:${icsText(cfg.location)}`,
-        `DESCRIPTION:${icsText((p ? p.textContent + '\n\n' : '') + 'Anmeldung: ' + cfg.email)}`, 'END:VEVENT'].join('\r\n');
+        `DESCRIPTION:${icsText((p ? p.textContent + '\n\n' : '') + T('Anmeldung') + ': ' + cfg.email)}`, 'END:VEVENT'].join('\r\n');
     });
     const cal = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//ZOLLER//Automation Week//DE', 'CALSCALE:GREGORIAN', ...ev, 'END:VCALENDAR'].join('\r\n');
     const a = document.createElement('a');

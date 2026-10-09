@@ -1,0 +1,163 @@
+{
+ "path": "/eventos/zoller-automation-days-2026",
+ "url": "/eventos/zoller-automation-days-2026",
+ "title": "ZOLLER Automation Days 2026",
+ "description": "2–6 de noviembre de 2026 en la sede norteamericana de ZOLLER en Ann Arbor, Michigan: una experiencia de automatización personalizada 1:1 con demostraciones en vivo de »micBox«, »roboBox«, »coraMeasure LG« y »coraVarion«.",
+ "og_image": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "de_path": "/events/zoller-automation-days-2026",
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "Evento · Sede norteamericana de ZOLLER Inc.",
+   "title": "ZOLLER Automation Days",
+   "subtitle": "Fabricación inteligente. Automatizada. Su experiencia tecnológica personalizada 1:1 en Ann Arbor.",
+   "dates": "2–6 de noviembre de 2026",
+   "place": "Ann Arbor, Michigan, Estados Unidos",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/robobox.webp",
+     "alt": "»roboBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/corameasure-lg.webp",
+     "alt": "»coraMeasure LG«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "Inscribirse ahora",
+     "href": "mailto:sales@zoller-usa.com?subject=Inscripci%C3%B3n%3A%20ZOLLER%20Automation%20Days%202026&body=Empresa%3A%0D%0ANombre%3A%0D%0AD%C3%ADa%20preferido%20%282%E2%80%936%20de%20noviembre%29%3A%0D%0AAplicaci%C3%B3n%20/%20tema%3A%0D%0A"
+    },
+    {
+     "label": "Cómo llegar",
+     "href": "#como-llegar",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "Días",
+     "text": "Del lunes 2 al viernes 6 de noviembre de 2026"
+    },
+    {
+     "value": "1:1",
+     "label": "Personal",
+     "text": "Una cita exclusiva con los expertos en tecnología de ZOLLER"
+    },
+    {
+     "value": "4+",
+     "label": "Demos en vivo",
+     "text": "»micBox«, »roboBox«, »coraMeasure LG«, »coraVarion« y más"
+    },
+    {
+     "value": "HQ",
+     "label": "Ann Arbor",
+     "text": "En la sede norteamericana de ZOLLER en Michigan"
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "id": "about",
+   "bg": "white",
+   "space": {
+    "before": "large",
+    "after": "large"
+   },
+   "header": "<h2>La fabricación inteligente en acción</h2>",
+   "body": "<p class=\"large-text\">Visítenos en la sede norteamericana de ZOLLER en Ann Arbor, Michigan, para vivir una experiencia tecnológica personalizada centrada en la nueva generación de preparación, medición, manipulación y gestión automatizadas de herramientas.</p><p>Los ZOLLER Automation Days se diseñan en torno a su entorno de producción, sus retos y sus objetivos. En una reunión 1:1 con los expertos en tecnología de ZOLLER, podrá analizar dónde la automatización aporta más valor a su operación: desde reducir la gestión manual de herramientas y mejorar la fiabilidad de los procesos hasta aumentar la productividad, la calidad de las piezas y la eficiencia, y responder a la falta de personal cualificado.</p><p>Traiga una aplicación actual, un cuello de botella o un objetivo de automatización futuro. Juntos evaluaremos oportunidades concretas, mostraremos las tecnologías adecuadas y desarrollaremos una propuesta de valor clara y una hoja de ruta según sus prioridades.</p><p><strong>Su proceso. Sus prioridades. Su hoja de ruta de automatización.</strong></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp",
+     "alt": "Vista aérea de la sede de ZOLLER Inc. en Ann Arbor, Michigan",
+     "w": 1200,
+     "h": 587
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "middle",
+   "ftype": "textmedia"
+  },
+  {
+   "type": "event_facts",
+   "id": "value",
+   "bg": "lightgray",
+   "items": [
+    {
+     "value": "A medida",
+     "label": "En torno a su proceso",
+     "text": "Soluciones adaptadas a sus aplicaciones, objetivos de producción y retos actuales."
+    },
+    {
+     "value": "Medible",
+     "label": "Valor operativo real",
+     "text": "Identifique oportunidades para reducir intervenciones manuales, mejorar la fiabilidad de los procesos y aumentar la productividad."
+    },
+    {
+     "value": "Escalable",
+     "label": "Empezar donde más importa",
+     "text": "Una hoja de ruta de automatización conectada que evoluciona con sus requisitos y objetivos."
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "id": "coravarion",
+   "bg": "white",
+   "space": {
+    "before": "large",
+    "after": "large"
+   },
+   "header": "<h2>»coraVarion/micBox«</h2>",
+   "body": "<p class=\"large-text\">Automatización para el cambio de plaquitas intercambiables, el preajuste y la medición de herramientas.</p><p>Gracias a su diseño modular, la ZOLLER »coraVarion/micBox« se adapta a sus requisitos de fabricación. Ayuda a estandarizar procesos, mejorar la calidad y aprovechar mejor al personal.</p><p>La »micBox« integrada se encarga de forma totalmente automática del montaje, el giro, el volteo y el cambio de plaquitas intercambiables. Junto con la medición de alta precisión en el ZOLLER »venturion« y el cambio automático de herramientas y pinzas, el resultado es un proceso de fabricación continuo, fiable y muy flexible.</p>",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "ZOLLER »micBox«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "middle",
+   "ftype": "textmedia"
+  },
+  {
+   "type": "event_venue",
+   "id": "como-llegar",
+   "bg": "black",
+   "title": "Cómo llegar",
+   "name": "ZOLLER Inc.",
+   "lines": [
+    "3900 Research Park Drive",
+    "Ann Arbor, MI 48108, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=ZOLLER+Inc+3900+Research+Park+Drive+Ann+Arbor+MI+48108",
+   "notes": [
+    "Sede norteamericana de ZOLLER, a unos 60 km al oeste de Detroit",
+    "Reuniones personales 1:1: inscripción obligatoria",
+    "La inscripción para los ZOLLER Automation Days 2026 ya está abierta"
+   ],
+   "contact": {
+    "label": "Inscripción y preguntas",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  }
+ ]
+}

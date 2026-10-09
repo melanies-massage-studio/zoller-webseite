@@ -16,7 +16,7 @@ import re
 import shutil
 import sys
 import urllib.parse
-from datetime import date
+from datetime import date, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import flags  # noqa: E402
@@ -1095,15 +1095,15 @@ def r_events(ctx, b):
 
 # ============================================ Events weltweit (Filter) ====
 EVENTS = {}      # content/events.json: {"events": [...], "texts": {...}}
-MYZOLLER_LIVE = {"de": "de/de", "en": "us/en", "fr": "int/en", "es": "int/en"}
 
 
-def ev_text(v):
+def ev_text(v, lang=None):
     """Text eines Events in der Sprache der Seite (Zeichenkette, gemeinsamer Text aus »texts« oder {de, en, fr, es})."""
+    lang = lang or LANG
     if isinstance(v, str):
         v = EVENTS.get("texts", {}).get(v, v)
     if isinstance(v, dict):
-        return v.get(LANG) or v.get("en") or v.get("de") or ""
+        return v.get(lang) or v.get("en") or v.get("de") or ""
     return v or ""
 
 
@@ -1122,26 +1122,23 @@ def ev_dates(e):
     return f"{a.day}–{b.day} {mon(b)} {b.year}" if a.month == b.month else f"{a.day} {mon(a)} – {b.day} {mon(b)} {b.year}"
 
 
+EV_MISSING = set()   # Events ohne Seite in der Sprache der Länderseite (Hinweis am Ende des Laufs)
+
+
+def ev_page_path(e):
+    """Lokaler Pfad der Eventseite in der aktuellen Sprachfassung (eigene Seite oder aus events.json erzeugt)."""
+    if e.get("page"):
+        return L(e["page"]) if LANG != "de" else e["page"]
+    return L("/events/" + e["id"]) if LANG != "de" else "/events/" + e["id"]
+
+
 def ev_link(ctx, e):
-    """(href, extern) für »Mehr erfahren« – eigene Seite, wenn es sie auf dieser Länderseite gibt, sonst die passende andere."""
-    lk = e.get("link") or {}
-    if "myzoller" in lk:
-        return f"https://myzoller.com/{MYZOLLER_LIVE.get(LANG, 'int/en')}/live/detail/{lk['myzoller']}", True
-    if "url" in lk:
-        return lk["url"], True
-    path, _h, anchor = (lk.get("path") or lk.get("page") or "").partition("#")
-    anchor = "#" + anchor if anchor else ""
-    sid = lk.get("site", "de")
-    if sid != "de":                      # Seite gibt es nur auf einer Länderseite
-        if SITE_ID == sid and path in PAGES:
-            return ctx.url(path) + anchor, False
-        return SITES[sid]["url"] + path.strip("/") + "/" + anchor, True
-    if L(path) and L(path) in PAGES:
-        return ctx.url(L(path)) + anchor, False
-    alts = sorted(ALT.get(path, {}).items(), key=lambda kv: (kv[0][1].split("-")[0] != LANG, kv[0][0] != "us", kv[0][0] != "de"))
-    if alts:
-        (s2, _code), rel = alts[0]
-        return SITES[s2]["url"] + rel + anchor, True
+    """»Mehr erfahren« führt immer auf die Eventseite in der Sprache der Länderseite – nie auf eine andere Länderseite."""
+    path = ev_page_path(e)
+    if path and path in PAGES:
+        anchor = (e.get("anchor") or {}).get(LANG, "")
+        return ctx.url(path) + ("#" + anchor if anchor else ""), False
+    EV_MISSING.add(f'{e["id"]} ({LOC["code"]})')
     return "", False
 
 
@@ -1165,8 +1162,7 @@ def r_events_world(ctx, b):
         title = ev_text(e["title"])
         place = f'{ev_text(e.get("city", ""))}, {country_name(e["country"])}'
         href, ext = ev_link(ctx, e)
-        lk = e.get("link") or {}
-        more = _(lk.get("label", "Mehr erfahren"))
+        more = _(e.get("label", "Mehr erfahren"))
         tgt = ' target="_blank" rel="noopener"' if ext else ""
         share_url = SITE["url"] + (ALT.get("/events", {}).get((SITE_ID, LOC["code"])) or "")
         body = f"{title} – {ev_dates(e)}, {place}\n{share_url}"
@@ -1197,6 +1193,120 @@ def r_events_world(ctx, b):
     empty = (f'<div class="ev-empty" data-ev-empty hidden><p>{_("Derzeit sind in diesem Land keine Events geplant.")}</p>'
              f'<button type="button" class="btn" data-ev-country="">{_("Alle Events weltweit anzeigen")}</button></div>')
     return section(ctx, b, f'<div class="events" data-events data-home="{esc(home, quote=True)}">{bar}{empty}{months}</div>')
+
+
+EVENT_KIND = {"fair": "Messe", "workshop": "Workshop", "training": "Fortbildung", "openhouse": "Hausausstellung",
+              "networking": "Networking-Event", "zoller": "ZOLLER-Event"}
+LANG_NAME = {"de": "Deutsch", "en": "Englisch", "fr": "Französisch", "es": "Spanisch"}
+
+
+def ev_mail(e, intro):
+    """Vorausgefüllte E-Mail an die Firma der Länderseite (Anfrage oder Anmeldung zu einem Event)."""
+    title, place = ev_text(e["title"]), f'{ev_text(e.get("city", ""))}, {country_name(e["country"])}'
+    subject = f'{_(intro)}: {title} ({ev_dates(e)})'
+    body = (f'{_("Guten Tag,")}\n\n{_("ich interessiere mich für folgendes Event:")}\n{title}\n{ev_dates(e)}, {place}\n\n'
+            f'{_("Name:")}\n{_("Firma:")}\n{_("Telefon:")}\n\n{_("Viele Grüße")}')
+    return f'mailto:{SITE["company"]["email"]}?subject={urllib.parse.quote(subject)}&body={urllib.parse.quote(body)}'
+
+
+def ev_ics(e):
+    """Kalendereintrag als data:-Link (ganztägig oder mit Uhrzeit in Ortszeit)."""
+    title, place = ev_text(e["title"]), f'{ev_text(e.get("venue") or e.get("city", ""))}, {country_name(e["country"])}'
+    a, z = e["start"].replace("-", ""), (e.get("end") or e["start"]).replace("-", "")
+    if e.get("hours"):
+        t0, t1 = (x.replace(":", "") + "00" for x in e["hours"].split("–"))
+        when = [f"DTSTART:{a}T{t0}", f"DTEND:{z}T{t1}"]
+    else:
+        nxt = (date.fromisoformat(e.get("end") or e["start"]) + timedelta(days=1)).isoformat().replace("-", "")
+        when = [f"DTSTART;VALUE=DATE:{a}", f"DTEND;VALUE=DATE:{nxt}"]
+    clean = lambda t: t.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+    cal = "\r\n".join(["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//ZOLLER//Events//" + LANG.upper(), "BEGIN:VEVENT",
+                        f'UID:{e["id"]}@zoller-events', f"DTSTAMP:{date.today():%Y%m%d}T000000Z", *when,
+                        "SUMMARY:" + clean(title), "LOCATION:" + clean(place), "DESCRIPTION:" + clean(ev_text(e.get("text", ""))),
+                        "END:VEVENT", "END:VCALENDAR"])
+    return "data:text/calendar;charset=utf-8," + urllib.parse.quote(cal)
+
+
+def r_event_detail(ctx, b):
+    """Eventseite aus content/events.json in der Sprache der Länderseite: Kopf mit Logo, Beschreibung, Ablauf, Fakten, Kontakt."""
+    e = next(x for x in EVENTS["events"] if x["id"] == b["event"])
+    if ctx.first_block:
+        ctx.main_cls = "has-hero"
+    title = ev_text(e["title"])
+    place = f'{ev_text(e.get("city", ""))}, {country_name(e["country"])}'
+    hours = f'{e["hours"]} {_("Uhr (Ortszeit)")}' if e.get("hours") else ""
+    meta = "".join(f'<li>{ic}<span>{esc(v)}</span></li>' for v, ic in ((ev_dates(e), ICON_CAL), (place, ICON_PIN), (hours, ICON_CLOCK)) if v)
+    reg = (e.get("register") or {}).get(LANG)
+    if reg:
+        first = f'<a class="btn" href="{esc(reg, quote=True)}" target="_blank" rel="noopener">{_("Anmelden")}</a>'
+    elif e.get("kind") in ("workshop", "training"):
+        first = f'<a class="btn" href="{esc(ev_mail(e, "Anmeldung"), quote=True)}">{_("Anmelden")}</a>'
+    else:
+        first = f'<a class="btn" href="{esc(ev_mail(e, "Anfrage zum Event"), quote=True)}">{_("ZOLLER kontaktieren")}</a>'
+    web = (f'<a class="btn btn--ghost" href="{esc(e["website"], quote=True)}" target="_blank" rel="noopener">{_("Offizielle Website")}</a>'
+           if e.get("website") else "")
+    logo = f'<div class="ev-hero__logo"><img src="{esc(ctx.url(e["img"]), quote=True)}" alt="{esc(title, quote=True)}"></div>' if e.get("img") else ""
+    hero = (f'<section class="ev-hero ev-hero--compact bg-black" id="event"><div class="ev-hero__glow" aria-hidden="true"></div>'
+            f'<div class="ev-hero__symbol" aria-hidden="true">{SYMBOL_SVG}</div>'
+            f'<div class="wrap ev-hero__inner"><div class="ev-hero__copy" data-hero-copy>'
+            f'<p class="ev-hero__kicker">{_("Event")} · {_(EVENT_KIND.get(e.get("kind", "fair"), "Messe"))}</p><h1 class="ev-hero__title">{esc(title)}</h1>'
+            f'<p class="ev-hero__sub">{esc(ev_text(e.get("text", "")))}</p><ul class="ev-hero__meta">{meta}</ul>'
+            f'<div class="hero__btns">{first}{web}</div></div><div class="ev-hero__stage">{logo}</div></div></section>')
+    # Beschreibung, Schwerpunkte, Ablauf
+    main = [f'<h2>{_("Über das Event")}</h2><div class="rte"><p>{esc(ev_text(e.get("about") or e.get("text", "")))}</p></div>']
+    if e.get("topics"):
+        main.append(f'<h3>{_("Schwerpunkte")}</h3><ul class="ev-benefits">' + "".join(f"<li>{esc(ev_text(t))}</li>" for t in e["topics"]) + "</ul>")
+    if e.get("agenda"):
+        rows = "".join(f'<li><b>{esc(a["time"])}</b><span>{esc(ev_text(a["title"]))}</span></li>' for a in e["agenda"])
+        main.append(f'<h3>{_("Ablauf")}</h3><ol class="ev-plan">{rows}</ol>')
+    # Fakten und Kontakt
+    facts = [(_("Datum"), ev_dates(e)), (_("Uhrzeit"), hours), (_("Ort"), place), (_("Adresse"), e.get("venue", "")),
+             (_("Veranstaltungssprache"), _(LANG_NAME[e["lang"]]) if e.get("lang") and e["lang"] != LANG else "")]
+    dl = "".join(f"<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>" for k, v in facts if v)
+    co = SITE["company"]
+    tel = re.sub(r"[^\d+]", "", co["phone"])
+    extra = []
+    if e.get("website"):
+        extra.append(f'<a class="link-arrow" href="{esc(e["website"], quote=True)}" target="_blank" rel="noopener">{_("Offizielle Website")}</a>')
+    extra.append(f'<a class="link-arrow" href="{ev_ics(e)}" download="{e["id"]}.ics">{_("In den Kalender")}</a>')
+    if LANG == "de" and e.get("myzoller"):
+        extra.append(f'<a class="link-arrow" href="https://myzoller.com/de/de/live/detail/{e["myzoller"]}" target="_blank" rel="noopener">Auf MYZOLLER ansehen</a>')
+    aside = (f'<aside class="ev-detail__facts" data-reveal><h3>{_("Auf einen Blick")}</h3><dl>{dl}</dl>'
+             f'<div class="ev-detail__contact"><h3>{_("Ihr Kontakt bei ZOLLER")}</h3><p><strong>{esc(co["name"])}</strong><br>'
+             f'<a href="tel:{tel}">{esc(co["phone"])}</a><br><a href="mailto:{esc(co["email"], quote=True)}">{esc(co["email"])}</a></p></div>'
+             f'<p class="ev-detail__links">{"".join(extra)}</p></aside>')
+    body = (f'<section class="section bg-white"><div class="wrap ev-detail"><div class="ev-detail__main" data-reveal>{"".join(main)}</div>{aside}</div></section>')
+    # Weitere Events
+    today = date.today().isoformat()
+    nxt = [x for x in sorted(EVENTS["events"], key=lambda x: x["start"]) if x is not e and (x.get("end") or x["start"]) >= today][:3]
+    cards = []
+    for x in nxt:
+        href, _ext = ev_link(ctx, x)
+        if href:
+            cards.append(f'<a class="ev-next" href="{esc(href, quote=True)}"><span>{esc(ev_dates(x))}</span><b>{esc(ev_text(x["title"]))}</b>'
+                         f'<small>{esc(ev_text(x.get("city", "")))}, {esc(country_name(x["country"]))}</small></a>')
+    events_page = L("/events") if LANG != "de" else "/events"
+    more = (f'<section class="section bg-lightgray"><div class="wrap"><div class="ev-next__head"><h2>{_("Weitere Events")}</h2>'
+            f'<a class="btn btn--ghost" href="{esc(ctx.url(events_page), quote=True)}">{_("Alle Events")}</a></div>'
+            f'<div class="ev-next__grid">{"".join(cards)}</div></div></section>')
+    return hero + body + more
+
+
+def event_pages(pages, lang):
+    """Eigene Seite für jedes Event aus content/events.json ohne handgebaute Seite (»page«), unterhalb der Eventseite
+    der Sprachfassung: /events/siane-2026, /evenements/siane-2026, /eventos/siane-2026 …"""
+    base = next((path for path, p in pages.items() if (p.get("de_path") or path) == "/events"), None)
+    if not base:
+        return
+    for e in EVENTS.get("events", []):
+        if e.get("page"):
+            continue
+        path = f'{base}/{e["id"]}'
+        pages.setdefault(path, {
+            "path": path, "de_path": "/events/" + e["id"], "title": ev_text(e["title"], lang),
+            "description": ev_text(e.get("text", ""), lang), "og_image": e.get("img") if (e.get("img") or "").startswith("/fileadmin/") else "",
+            "breadcrumb": [], "languages": [],
+            "blocks": [{"type": "event_detail", "id": "event", "event": e["id"], "search": ev_text(e.get("about", ""), lang)}]})
 
 
 # ===================================================== Event-Seiten ====
@@ -1238,7 +1348,7 @@ def r_event_video(ctx, b):
     head = (f'<div class="section-head section-head--center" data-reveal><p class="ev-kicker">{esc(b.get("kicker", ""))}</p>'
             f'<h2>{esc(b.get("title", ""))}</h2>{rte(ctx, b.get("text", ""))}</div>')
     player = (f'<div class="ev-video reveal-mask" data-ev-video><video src="{esc(ctx.url(b["src"]), quote=True)}" poster="{esc(ctx.url(b["poster"]), quote=True)}" '
-              f'preload="none" playsinline controls></video><button class="ev-video__play" type="button" aria-label="Video abspielen">{ICON_PLAY}</button></div>')
+              f'preload="none" playsinline controls></video><button class="ev-video__play" type="button" aria-label="{_("Video abspielen")}">{ICON_PLAY}</button></div>')
     return section(ctx, b, head + player)
 
 
@@ -1249,9 +1359,16 @@ def r_event_products(ctx, b):
         lis = "".join(f"<li>{esc(x)}</li>" for x in it.get("benefits", []))
         cards.append(f'<article class="ev-product" data-reveal><div class="ev-product__media"><img src="{esc(ctx.url(it["img"]), quote=True)}" alt="" loading="lazy"></div>'
                      f'<div class="ev-product__body"><h3>{esc(it["name"])}</h3><p class="ev-product__claim">{esc(it.get("claim", ""))}</p><ul class="ev-benefits">{lis}</ul>'
-                     f'<div class="ev-product__links"><a class="link-arrow" href="{esc(ctx.url(it["href"]), quote=True)}">Zum Produkt</a>'
-                     f'<button class="link-arrow" type="button" data-agenda-jump="{esc(it["tag"], quote=True)}">Demos im Terminkalender</button></div></div></article>')
+                     f'<div class="ev-product__links"><a class="link-arrow" href="{esc(ctx.url(it["href"]), quote=True)}">{_("Zum Produkt")}</a>'
+                     f'<button class="link-arrow" type="button" data-agenda-jump="{esc(it["tag"], quote=True)}">{_("Demos im Terminkalender")}</button></div></div></article>')
     return section(ctx, b, head + f'<div class="ev-products">{"".join(cards)}</div>')
+
+
+def long_date(dt):
+    """Wochentag und Datum ausgeschrieben: Montag, 12. Oktober 2026 · Monday, October 12, 2026 · lundi 12 octobre 2026 · lunes, 12 de octubre de 2026."""
+    wd, mon = i18n.WEEKDAYS[LANG][dt.weekday()], i18n.MONTHS_LONG[LANG][dt.month - 1]
+    return {"de": f"{wd}, {dt.day}. {mon} {dt.year}", "en": f"{wd}, {mon} {dt.day}, {dt.year}",
+            "fr": f"{wd} {dt.day} {mon} {dt.year}", "es": f"{wd}, {dt.day} de {mon} de {dt.year}"}[LANG]
 
 
 def r_agenda(ctx, b):
@@ -1261,38 +1378,41 @@ def r_agenda(ctx, b):
     for i, d in enumerate(b.get("days", [])):
         y, m, dd = (int(x) for x in d["date"].split("-"))
         dt = date(y, m, dd)
-        wd = WEEKDAYS[dt.weekday()]
-        did = f"tag-{dt.isoformat()}"
+        wd = i18n.WEEKDAYS[LANG][dt.weekday()]
+        did = f"{_('tag')}-{dt.isoformat()}"
         tabs.append(f'<button class="agenda__tab" type="button" role="tab" id="{did}-tab" aria-controls="{did}" aria-selected="{"true" if i == 0 else "false"}"'
-                    f'{"" if i == 0 else " tabindex=-1"}><span class="agenda__wd">{wd[:2]}</span><b>{dd}</b><span class="agenda__lab">{esc(d.get("label", ""))}</span></button>')
+                    f'{"" if i == 0 else " tabindex=-1"}><span class="agenda__wd">{wd[:2].capitalize()}</span><b>{dd}</b><span class="agenda__lab">{esc(d.get("label", ""))}</span></button>')
         rows = []
         for s in d.get("slots", []):
             tag = s.get("tag", "")
             kind = s.get("kind", "")
             bookable = bool(s.get("seats"))
             chip = f'<span class="agenda__chip agenda__chip--{esc(tag)}">{esc(tags[tag])}</span>' if tag in tags else ""
-            seats = f'<span class="agenda__seats">max. {s["seats"]} {"Teilnehmer" if s["seats"] > 3 else "Termine"}</span>' if bookable else ""
-            acts = (f'<button class="btn agenda__book" type="button" data-book>Platz anfragen</button>' if bookable else "") + \
-                   f'<button class="agenda__ics" type="button" data-ics aria-label="In Kalender eintragen: {esc(s["title"], quote=True)}">{ICON_CAL}<span>Kalender</span></button>'
+            seats = f'<span class="agenda__seats">max. {s["seats"]} {_("Teilnehmer") if s["seats"] > 3 else _("Termine")}</span>' if bookable else ""
+            acts = (f'<button class="btn agenda__book" type="button" data-book>{_("Platz anfragen")}</button>' if bookable else "") + \
+                   f'<button class="agenda__ics" type="button" data-ics aria-label="{_("In Kalender eintragen")}: {esc(s["title"], quote=True)}">{ICON_CAL}<span>{_("Kalender")}</span></button>'
             text = f'<p>{esc(s["text"])}</p>' if s.get("text") else ""
             slug = {"1:1": "meeting"}.get(kind, re.sub(r"\W+", "-", kind.lower()))
             rows.append(f'<li class="agenda__slot agenda__slot--{slug}" data-tag="{esc(tag or "none")}" '
                         f'data-date="{d["date"]}" data-start="{s["start"]}" data-end="{s["end"]}" data-title="{esc(s["title"], quote=True)}">'
                         f'<div class="agenda__time"><b>{s["start"]}</b><span>{s["end"]}</span></div>'
-                        f'<div class="agenda__body"><div class="agenda__tags"><span class="agenda__kind">{esc(kind)}</span>{chip}{seats}</div>'
+                        f'<div class="agenda__body"><div class="agenda__tags"><span class="agenda__kind">{esc(_(kind))}</span>{chip}{seats}</div>'
                         f'<h4>{esc(s["title"])}</h4>{text}</div>'
                         f'<div class="agenda__acts">{acts}</div></li>')
         panels.append(f'<div class="agenda__day" role="tabpanel" id="{did}" aria-labelledby="{did}-tab"{"" if i == 0 else " hidden"}>'
-                      f'<div class="agenda__dayhead"><h3>{wd}, {dd}. {MONTHS[m - 1]} {y}</h3><p>{esc(d.get("focus", ""))}</p></div>'
-                      f'<ol class="agenda__list">{"".join(rows)}</ol><p class="agenda__empty" hidden>An diesem Tag gibt es keinen Programmpunkt zu dieser Lösung – wählen Sie einen anderen Tag.</p></div>')
-    filters = '<button type="button" class="agenda__filter is-active" data-filter="all" aria-pressed="true">Alle</button>' + "".join(
+                      f'<div class="agenda__dayhead"><h3>{long_date(dt)}</h3><p>{esc(d.get("focus", ""))}</p></div>'
+                      f'<ol class="agenda__list">{"".join(rows)}</ol><p class="agenda__empty" hidden>{_("An diesem Tag gibt es keinen Programmpunkt zu dieser Lösung – wählen Sie einen anderen Tag.")}</p></div>')
+    filters = f'<button type="button" class="agenda__filter is-active" data-filter="all" aria-pressed="true">{_("Alle")}</button>' + "".join(
         f'<button type="button" class="agenda__filter agenda__filter--{k}" data-filter="{k}" aria-pressed="false">{esc(v)}</button>' for k, v in tags.items())
     head = (f'<div class="agenda__head"><div class="section-head" data-reveal><h2>{esc(b.get("title", ""))}</h2>{rte(ctx, b.get("text", ""))}</div>'
-            f'<button class="btn btn--ghost agenda__all" type="button" data-ics-all>{ICON_CAL}Ganze Woche in den Kalender</button></div>')
+            f'<button class="btn btn--ghost agenda__all" type="button" data-ics-all>{ICON_CAL}{_("Ganze Woche in den Kalender")}</button></div>')
     cfg = {k: b.get(k, "") for k in ("email", "event", "location", "tz", "tzoffset")}
+    # Texte für E-Mail und Kalenderdatei (assets/js/eventagenda.js)
+    cfg["t"] = {k: _(k) for k in ("Anmeldung", "Hallo ZOLLER-Team,", "ich möchte gerne an folgendem Programmpunkt teilnehmen:",
+                                  "Name:", "Firma:", "Telefon:", "Anzahl Personen:", "Viele Grüße")}
     return section(ctx, b, head + f'<div class="agenda" data-agenda=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=False)}\'>'
-                   f'<div class="agenda__bar"><div class="agenda__tabs" role="tablist" aria-label="Veranstaltungstage">{"".join(tabs)}</div>'
-                   f'<div class="agenda__filters" role="group" aria-label="Nach Lösung filtern">{filters}</div></div>{"".join(panels)}</div>')
+                   f'<div class="agenda__bar"><div class="agenda__tabs" role="tablist" aria-label="{_("Veranstaltungstage")}">{"".join(tabs)}</div>'
+                   f'<div class="agenda__filters" role="group" aria-label="{_("Nach Lösung filtern")}">{filters}</div></div>{"".join(panels)}</div>')
 
 
 def r_event_venue(ctx, b):
@@ -1308,11 +1428,11 @@ def r_event_venue(ctx, b):
 
 def r_event_teaser(ctx, b):
     href = esc(ctx.url(b["href"]), quote=True)
-    return section(ctx, b, f'<div class="feature ev-teaser"><div class="feature__media reveal-mask"><a class="media-frame ev-teaser__frame" href="{href}#video" aria-label="Einladungsvideo ansehen">'
+    return section(ctx, b, f'<div class="feature ev-teaser"><div class="feature__media reveal-mask"><a class="media-frame ev-teaser__frame" href="{href}#video" aria-label="{_("Einladungsvideo ansehen")}">'
                    f'<img src="{esc(ctx.url(b["poster"]), quote=True)}" alt="" loading="lazy"><span class="ev-video__play">{ICON_PLAY}</span></a></div>'
                    f'<div class="feature__text"><p class="ev-kicker" data-reveal>{esc(b.get("kicker", ""))}</p><h2 data-reveal>{esc(b.get("title", ""))}</h2>'
-                   f'<div data-reveal>{rte(ctx, b.get("text", ""))}</div><p class="hero__btns" data-reveal><a class="btn" href="{href}#terminkalender">Zum Terminkalender</a>'
-                   f'<a class="btn btn--ghost" href="{href}#video">Video ansehen</a></p></div></div>')
+                   f'<div data-reveal>{rte(ctx, b.get("text", ""))}</div><p class="hero__btns" data-reveal><a class="btn" href="{href}#{b.get("schedule", "terminkalender")}">{_("Zum Terminkalender")}</a>'
+                   f'<a class="btn btn--ghost" href="{href}#video">{_("Video ansehen")}</a></p></div></div>')
 
 
 def r_academy(ctx, b):
@@ -1392,7 +1512,7 @@ RENDER = {
     "icon_list": r_icon_list, "goals": r_goals, "timeline": r_timeline, "form": r_form,
     "locations": r_locations, "events": r_events, "academy": r_academy, "search": r_search,
     "event_hero": r_event_hero, "event_facts": r_event_facts, "event_video": r_event_video, "event_products": r_event_products,
-    "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser, "events_world": r_events_world,
+    "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser, "events_world": r_events_world, "event_detail": r_event_detail,
     "article": r_article, "raw": r_raw,
 }
 
@@ -2171,6 +2291,7 @@ def load_pages(src, overlay=""):
         if path in SKIP or (src and p.get("de_path") in SKIP) or re.search(r"/(details?|detalle)$", path):
             continue
         pages[path] = p
+    event_pages(pages, next((l["lang"] for s_ in SITES.values() for l in s_["locales"] if l["src"] == src), "de"))
     return pages
 
 
@@ -2424,6 +2545,9 @@ def main():
               " | ".join(targets[:12]))
     if MISSING:
         print(f"Hinweis: {len(MISSING)} feste Texte ohne Übersetzung:", " | ".join(sorted(MISSING)[:20]))
+    if EV_MISSING:
+        print(f"ACHTUNG: {len(EV_MISSING)} Events ohne Seite in der Sprache der Länderseite (content/events.json, Regel: jede Sprache):",
+              " | ".join(sorted(EV_MISSING)))
 
 
 if __name__ == "__main__":

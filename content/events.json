@@ -1,11 +1,17 @@
 {
- "_info": "Alle ZOLLER-Events weltweit. Jede Länderseite zeigt zuerst die Events ihres Landes, der Filter zeigt alle. country = englischer Ländername wie in locations.json. Texte als Zeichenkette (alle Sprachen) oder {de, en, fr, es}. link: myzoller (ID der Eventseite auf myzoller.com), url (extern), page (deutscher Seitenpfad, #Anker erlaubt) oder site + path (Seite nur auf einer Länderseite). Vergangene Events blendet build.py aus, im Browser zusätzlich main.js. Quellen Stand 09.10.2026: zoller.info/events, zoller-usa.com/events, eigene Seite Automation Week Torrance.",
+ "_info": "Alle ZOLLER-Events weltweit. REGEL: Jedes Event muss in allen Sprachen (de, en, fr, es) vorhanden sein – Titel, Ort, Kurztext (text) und Beschreibung (about) –, damit jede Länderseite es in ihrer Sprache zeigt; nie auf die deutsche Seite verlinken. build.py erzeugt daraus auf jeder Länderseite eine eigene Eventseite (Pfad: Eventseite der Sprache + /<id>). Events mit eigener, handgebauter Seite haben »page« (deutscher Pfad); diese Seite muss es in jeder Sprachfassung geben (content/pages, content/sites/ca|ca-fr|mx/pages mit de_path). Felder: kind (fair, workshop, training, openhouse, networking, zoller), country (englischer Name wie in locations.json), city, venue, hours (Ortszeit), lang (Veranstaltungssprache, wenn nicht für alle verständlich), website (offizielle Seite), myzoller (ID, nur auf der deutschen Seite verlinkt, MYZOLLER zeigt diese Events nur auf Deutsch), register (Anmeldelink je Sprache), agenda, topics. Vergangene Events blendet build.py aus, im Browser zusätzlich main.js. Quellen Stand 09.10.2026: zoller.info/events, myzoller.com/de/de/live, zoller-usa.com/events, eigene Seiten.",
  "events": [
   {
    "id": "automation-week-torrance-2026",
-   "start": "2026-10-12", "end": "2026-10-16",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
    "country": "United States",
-   "city": {"de": "Torrance, Kalifornien", "en": "Torrance, California", "fr": "Torrance, Californie", "es": "Torrance, California"},
+   "city": {
+    "de": "Torrance, Kalifornien",
+    "en": "Torrance, California",
+    "fr": "Torrance, Californie",
+    "es": "Torrance, California"
+   },
    "title": "ZOLLER Automation Week",
    "text": {
     "de": "Fünf Tage Automation live bei ZOLLER Inc. Pacific: »coraLogistic«, »coraVarion« und »loadBox« in Live-Demos, Vorträgen und 1:1-Expertengesprächen.",
@@ -14,12 +20,22 @@
     "es": "Cinco días de automatización en vivo en ZOLLER Inc. Pacific: »coraLogistic«, »coraVarion« y »loadBox« en demostraciones, ponencias y reuniones 1:1 con expertos."
    },
    "img": "/assets/img/automation-week.svg",
-   "link": {"page": "/events/automation-week-torrance-2026#terminkalender", "label": "Zum Terminkalender"}
+   "kind": "zoller",
+   "page": "/events/automation-week-torrance-2026",
+   "anchor": {
+    "de": "terminkalender",
+    "en": "schedule",
+    "fr": "programme",
+    "es": "programa"
+   },
+   "label": "Zum Terminkalender"
   },
   {
    "id": "siane-2026",
-   "start": "2026-10-13", "end": "2026-10-13",
-   "country": "France", "city": "Toulouse",
+   "start": "2026-10-13",
+   "end": "2026-10-15",
+   "country": "France",
+   "city": "Toulouse",
    "title": "SIANE",
    "text": {
     "de": "Besuchen Sie ZOLLER auf der SIANE Industries und erleben Sie die Solutions vor Ort in Toulouse.",
@@ -28,12 +44,27 @@
     "es": "Visite a ZOLLER en SIANE Industries y descubra nuestras soluciones en vivo en Toulouse."
    },
    "img": "/fileadmin/_processed_/9/f/csm_6a483879fe4b9bf651bba96cd54632c0-1767874536_4651e4b28b.webp",
-   "link": {"myzoller": 1426}
+   "kind": "fair",
+   "myzoller": 1426,
+   "website": "https://www.salonsiane.com/",
+   "about": {
+    "de": "Die SIANE Industries ist eine zentrale französische Fachmesse für Industrie und Maschinenbau im Raum Toulouse. Sie bringt Hersteller, Zulieferer, Dienstleister und Technologiepartner zusammen – von der Metallverarbeitung über Automatisierung und Robotik bis zu Digitalisierung und Industrie 4.0. Maschinenvorführungen, Fachkonferenzen und Networking geben einen umfassenden Überblick über aktuelle industrielle Innovationen.",
+    "en": "SIANE Industries is a key French trade show for industry and mechanical engineering in the Toulouse area. It brings together manufacturers, suppliers, service providers and technology partners – from metalworking to automation and robotics, digitalization and Industry 4.0. Machine demonstrations, conferences and networking formats give a comprehensive overview of current industrial innovations.",
+    "fr": "SIANE Industries est un salon professionnel majeur de l’industrie et de la mécanique dans la région de Toulouse. Il réunit fabricants, sous-traitants, prestataires de services et partenaires technologiques – de la transformation des métaux à l’automatisation et la robotique, jusqu’au numérique et à l’Industrie 4.0. Démonstrations de machines, conférences et rencontres d’affaires offrent un large panorama des innovations industrielles actuelles.",
+    "es": "SIANE Industries es una feria francesa clave para la industria y la ingeniería mecánica en la región de Toulouse. Reúne a fabricantes, proveedores, empresas de servicios y socios tecnológicos: desde el procesamiento de metales hasta la automatización y la robótica, la digitalización y la Industria 4.0. Demostraciones de máquinas, conferencias y encuentros de networking ofrecen una amplia visión de las innovaciones industriales actuales."
+   }
   },
   {
    "id": "bi-mu-2026",
-   "start": "2026-10-13", "end": "2026-10-16",
-   "country": "Italy", "city": {"de": "Mailand", "en": "Milan", "fr": "Milan", "es": "Milán"},
+   "start": "2026-10-13",
+   "end": "2026-10-16",
+   "country": "Italy",
+   "city": {
+    "de": "Mailand",
+    "en": "Milan",
+    "fr": "Milan",
+    "es": "Milán"
+   },
    "title": "BI-MU",
    "text": {
     "de": "Die ZOLLER-Lösungen auf der internationalen Messe für die Fertigungsindustrie von Werkzeugmaschinen in Mailand – besuchen Sie uns.",
@@ -42,12 +73,27 @@
     "es": "Las soluciones ZOLLER en la feria internacional de máquinas-herramienta de Milán: visítenos."
    },
    "img": "/fileadmin/_processed_/9/0/csm_bc0586ff44b214890e59f7f6743d4541-1767775425_d589ff6297.webp",
-   "link": {"myzoller": 1423}
+   "kind": "fair",
+   "myzoller": 1423,
+   "website": "https://www.bimu.it/en/",
+   "about": {
+    "de": "Die BI-MU ist die alle zwei Jahre stattfindende, wichtigste italienische Messe für Werkzeugmaschinen zur Metallzerspanung und -umformung, für Roboter, Automatisierungssysteme sowie digitale und additive Fertigung.",
+    "en": "BI-MU is Italy’s most important biennial exhibition for metal-cutting and metal-forming machine tools, robots, automation systems, and digital and additive manufacturing.",
+    "fr": "La BI-MU est le principal salon biennal italien des machines-outils pour l’enlèvement et la déformation des métaux, des robots, des systèmes d’automatisation ainsi que de la fabrication numérique et additive.",
+    "es": "BI-MU es la feria bienal más importante de Italia para máquinas-herramienta de arranque y conformado de metales, robots, sistemas de automatización y fabricación digital y aditiva."
+   }
   },
   {
    "id": "florida-oktoberfest-2026",
-   "start": "2026-10-14", "end": "2026-10-14",
-   "country": "United States", "city": {"de": "Tampa, Florida", "en": "Tampa, Florida", "fr": "Tampa, Floride", "es": "Tampa, Florida"},
+   "start": "2026-10-14",
+   "end": "2026-10-14",
+   "country": "United States",
+   "city": {
+    "de": "Tampa, Florida",
+    "en": "Tampa, Florida",
+    "fr": "Tampa, Floride",
+    "es": "Tampa, Florida"
+   },
    "title": "Florida Manufacturing Technology Oktoberfest 2026",
    "text": {
     "de": "Oktoberfest mit den neuesten Produkten der Fertigungstechnik – im traditionellen Biergartenzelt mit Brezeln, Bratwurst und deutscher Küche.",
@@ -56,12 +102,22 @@
     "es": "Un Oktoberfest con lo último en tecnología de fabricación, bajo una carpa tradicional de cervecería con pretzels, salchichas y auténtica cocina alemana."
    },
    "img": "/assets/events/oktoberfest-florida-2026.webp",
-   "link": {"url": "https://www.eventbrite.com/e/florida-manufacturing-technology-oktoberfest-2026-tickets-1993016256273"}
+   "kind": "networking",
+   "lang": "en",
+   "website": "https://www.eventbrite.com/e/florida-manufacturing-technology-oktoberfest-2026-tickets-1993016256273",
+   "about": {
+    "de": "Ein Oktoberfest rund um die neuesten Produkte der Fertigungstechnik: Unter einem traditionellen Biergartenzelt mit deutscher Küche verbindet das Event Geschäftliches mit Festtagsstimmung – entdecken Sie aktuelle Fertigungstechnologie bei Bratwurst, Brezeln und Maßkrügen.",
+    "en": "Join a fun-filled Oktoberfest celebration showcasing the latest manufacturing technology products. Held under a traditional beer garden tent with authentic German fare, the event combines business with a festive atmosphere – explore the latest in manufacturing technology while enjoying bratwurst, pretzels and steins of cheer.",
+    "fr": "Une Oktoberfest festive consacrée aux dernières technologies de fabrication : sous une tente de Biergarten traditionnelle, avec des spécialités allemandes, l’événement associe affaires et ambiance conviviale – découvrez les nouveautés de la fabrication autour de saucisses, bretzels et chopes de bière.",
+    "es": "Un Oktoberfest festivo con lo último en tecnología de fabricación: bajo una carpa tradicional de cervecería y con auténtica gastronomía alemana, el evento combina negocios y ambiente de fiesta; descubra las novedades de la fabricación entre salchichas, pretzels y jarras de cerveza."
+   }
   },
   {
    "id": "zoller-automation-days-2026",
-   "start": "2026-11-02", "end": "2026-11-06",
-   "country": "United States", "city": "Ann Arbor, Michigan",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "country": "United States",
+   "city": "Ann Arbor, Michigan",
    "venue": "ZOLLER Inc., 3900 Research Park Drive, Ann Arbor, MI 48108",
    "title": "ZOLLER Automation Days",
    "text": {
@@ -71,13 +127,21 @@
     "es": "Su experiencia tecnológica personalizada 1:1 en la sede norteamericana de ZOLLER: demostraciones en vivo de »micBox«, »roboBox«, »coraMeasure LG«, »coraVarion« y otras soluciones conectadas, adaptadas a sus aplicaciones y objetivos de producción."
    },
    "img": "/assets/events/zoller-automation-days.webp",
-   "link": {"site": "us", "path": "/events/zoller-automation-days-2026"}
+   "kind": "zoller",
+   "page": "/events/zoller-automation-days-2026"
   },
   {
    "id": "bimatec-soraluce-2026",
-   "start": "2026-11-03", "end": "2026-11-03",
-   "country": "Germany", "city": "Limburg",
-   "title": {"de": "Hausausstellung BIMATEC SORALUCE", "en": "BIMATEC SORALUCE in-house exhibition", "fr": "Portes ouvertes BIMATEC SORALUCE", "es": "Jornada de puertas abiertas BIMATEC SORALUCE"},
+   "start": "2026-11-03",
+   "end": "2026-11-06",
+   "country": "Germany",
+   "city": "Limburg",
+   "title": {
+    "de": "Hausausstellung BIMATEC SORALUCE",
+    "en": "BIMATEC SORALUCE in-house exhibition",
+    "fr": "Portes ouvertes BIMATEC SORALUCE",
+    "es": "Jornada de puertas abiertas BIMATEC SORALUCE"
+   },
    "text": {
     "de": "Erleben Sie die ZOLLER Solutions auf der Hausausstellung von BIMATEC SORALUCE in Limburg.",
     "en": "Experience ZOLLER solutions at the BIMATEC SORALUCE in-house exhibition in Limburg.",
@@ -85,32 +149,194 @@
     "es": "Descubra las soluciones ZOLLER en la jornada de puertas abiertas de BIMATEC SORALUCE en Limburg."
    },
    "img": "/fileadmin/_processed_/2/1/csm_5ce112823e9a5ccad9b0701b52c7cba7-1704261151_79f1c429c6.webp",
-   "link": {"myzoller": 1428}
+   "kind": "openhouse",
+   "myzoller": 1428,
+   "lang": "de",
+   "website": "https://www.bimatec-soraluce.de/messeteilnahmen/",
+   "about": {
+    "de": "Auf der Hausausstellung von BIMATEC SORALUCE in Limburg zeigt ZOLLER, wie einfach sich Einstell- und Messgeräte in den Fertigungsprozess integrieren lassen. Die sichere Übertragung von Werkzeugdaten bis zur CNC-Maschine und eine einheitliche, transparente Datenbasis sind die Grundlage der vernetzten Fertigung von morgen.",
+    "en": "At the BIMATEC SORALUCE in-house exhibition in Limburg, ZOLLER shows how easily presetting and measuring machines integrate into your production process. Reliable transfer of tool data to the CNC machine and a consistent, transparent data basis are the foundation of tomorrow’s connected manufacturing.",
+    "fr": "Lors des portes ouvertes de BIMATEC SORALUCE à Limburg, ZOLLER montre avec quelle facilité les bancs de préréglage et de mesure s’intègrent dans votre production. Le transfert fiable des données d’outils jusqu’à la machine CNC et une base de données homogène et transparente sont les fondements de la fabrication connectée de demain.",
+    "es": "En la jornada de puertas abiertas de BIMATEC SORALUCE en Limburg, ZOLLER muestra lo fácil que es integrar los equipos de preajuste y medición en su proceso de fabricación. La transferencia fiable de datos de herramientas hasta la máquina CNC y una base de datos uniforme y transparente son la base de la fabricación conectada del futuro."
+   }
   },
   {
    "id": "zconnect-langenfeld-2026",
-   "start": "2026-11-05", "end": "2026-11-05",
-   "country": "Germany", "city": "Langenfeld",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "country": "Germany",
+   "city": "Langenfeld",
    "venue": "Friedrich-Krupp-Straße 7, D-40764 Langenfeld",
    "title": "Z.connect (Langenfeld)",
    "text": "zconnect",
    "img": "/fileadmin/_processed_/3/0/csm_87eacb37a2d2e8265e2e89b24a6a1d44-1678866894_02a686d77c.webp",
-   "link": {"myzoller": 1444}
+   "kind": "workshop",
+   "myzoller": 1444,
+   "lang": "de",
+   "hours": "10:30–15:00",
+   "about": "zconnect_about",
+   "agenda": [
+    {
+     "time": "10:30",
+     "title": {
+      "de": "Begrüßung",
+      "en": "Welcome",
+      "fr": "Accueil",
+      "es": "Bienvenida"
+     }
+    },
+    {
+     "time": "11:15",
+     "title": {
+      "de": "Toolmanagement-Prozessablauf vom Auftragseingang bis zur Auslieferung",
+      "en": "Tool management process from order entry to delivery",
+      "fr": "Processus de gestion des outils, de la commande à la livraison",
+      "es": "Proceso de gestión de herramientas desde el pedido hasta la entrega"
+     }
+    },
+    {
+     "time": "12:00",
+     "title": {
+      "de": "Gemeinsames Mittagessen",
+      "en": "Lunch",
+      "fr": "Déjeuner",
+      "es": "Almuerzo"
+     }
+    },
+    {
+     "time": "12:30",
+     "title": {
+      "de": "Live-Demo: TMS Tool Management Solutions praxisnah erleben – Stationen einer vernetzten Fertigung von heute",
+      "en": "Live demo: TMS Tool Management Solutions in practice – the stations of today’s connected production",
+      "fr": "Démo en direct : les TMS Tool Management Solutions en pratique – les étapes d’une production connectée",
+      "es": "Demo en vivo: TMS Tool Management Solutions en la práctica, las estaciones de la producción conectada actual"
+     }
+    },
+    {
+     "time": "14:30",
+     "title": {
+      "de": "Fragen und Antworten",
+      "en": "Questions and answers",
+      "fr": "Questions et réponses",
+      "es": "Preguntas y respuestas"
+     }
+    },
+    {
+     "time": "15:00",
+     "title": {
+      "de": "Voraussichtliches Ende",
+      "en": "Expected end",
+      "fr": "Fin prévue",
+      "es": "Fin prevista"
+     }
+    }
+   ]
   },
   {
    "id": "zconnect-leipzig-2026",
-   "start": "2026-11-12", "end": "2026-11-12",
-   "country": "Germany", "city": "Leipzig",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "country": "Germany",
+   "city": "Leipzig",
    "venue": "Fugger Business Park, Fuggerstraße 1 B, D-04158 Leipzig",
    "title": "Z.connect (Leipzig)",
    "text": "zconnect",
    "img": "/fileadmin/_processed_/7/3/csm_3b7574addb5221d0537e69b04e15fd44-1678866876_a9e9944a51.webp",
-   "link": {"myzoller": 1432}
+   "kind": "workshop",
+   "myzoller": 1432,
+   "lang": "de",
+   "hours": "10:00–14:30",
+   "about": "zconnect_about",
+   "agenda": [
+    {
+     "time": "10:00",
+     "title": {
+      "de": "Begrüßung und Präsentationsstart",
+      "en": "Welcome and introduction",
+      "fr": "Accueil et début de la présentation",
+      "es": "Bienvenida e inicio de la presentación"
+     }
+    },
+    {
+     "time": "10:20",
+     "title": {
+      "de": "Ihre Erwartungen und Ziele",
+      "en": "Your expectations and goals",
+      "fr": "Vos attentes et objectifs",
+      "es": "Sus expectativas y objetivos"
+     }
+    },
+    {
+     "time": "10:40",
+     "title": {
+      "de": "Rundgang im Vorführraum",
+      "en": "Tour of the demo room",
+      "fr": "Visite de la salle de démonstration",
+      "es": "Recorrido por la sala de demostraciones"
+     }
+    },
+    {
+     "time": "11:00",
+     "title": {
+      "de": "ZOLLER TMS Tool Management Solutions",
+      "en": "ZOLLER TMS Tool Management Solutions",
+      "fr": "ZOLLER TMS Tool Management Solutions",
+      "es": "ZOLLER TMS Tool Management Solutions"
+     }
+    },
+    {
+     "time": "12:00",
+     "title": {
+      "de": "Mittagessen",
+      "en": "Lunch",
+      "fr": "Déjeuner",
+      "es": "Almuerzo"
+     }
+    },
+    {
+     "time": "13:00",
+     "title": {
+      "de": "Live-Demo: Prozessablauf auf der TMS-Erlebnisfläche",
+      "en": "Live demo: the process on the TMS experience floor",
+      "fr": "Démo en direct : le processus sur l’espace TMS",
+      "es": "Demo en vivo: el proceso en el área de experiencia TMS"
+     }
+    },
+    {
+     "time": "14:00",
+     "title": {
+      "de": "Zusatzmodul für den optimalen Fertigungsablauf",
+      "en": "Add-on module for an optimized production flow",
+      "fr": "Module complémentaire pour un flux de production optimal",
+      "es": "Módulo adicional para un flujo de fabricación óptimo"
+     }
+    },
+    {
+     "time": "14:15",
+     "title": {
+      "de": "Ausblick auf Z.connect Tag 2 und Zeit für Feedback",
+      "en": "Outlook on Z.connect day 2 and time for feedback",
+      "fr": "Aperçu de la 2e journée Z.connect et échanges",
+      "es": "Avance del día 2 de Z.connect y tiempo para comentarios"
+     }
+    },
+    {
+     "time": "14:30",
+     "title": {
+      "de": "Ende der Veranstaltung",
+      "en": "End of the event",
+      "fr": "Fin de l’événement",
+      "es": "Fin del evento"
+     }
+    }
+   ]
   },
   {
    "id": "metalex-2026",
-   "start": "2026-11-18", "end": "2026-11-21",
-   "country": "Thailand", "city": "Bangkok",
+   "start": "2026-11-18",
+   "end": "2026-11-21",
+   "country": "Thailand",
+   "city": "Bangkok",
    "title": "METALEX",
    "text": {
     "de": "Erleben Sie die Solutions von ZOLLER auf der METALEX in Bangkok: Nr. 1 Ausstellung für Werkzeugmaschinen und Metallbearbeitung im gesamten ASEAN-Raum.",
@@ -119,22 +345,135 @@
     "es": "Descubra las soluciones ZOLLER en METALEX, Bangkok: la feria n.º 1 de máquinas-herramienta y metalmecánica de la región ASEAN."
    },
    "img": "/fileadmin/_processed_/e/e/csm_2981abac3195874866e4ae1be582b277-1767775633_3812215e06.webp",
-   "link": {"myzoller": 1424}
+   "kind": "fair",
+   "myzoller": 1424,
+   "website": "https://www.metalex.co.th/",
+   "about": {
+    "de": "Auf der METALEX treffen sich über 95.000 Fachleute der Metallbearbeitung aus dem gesamten ASEAN-Raum. Mehr als 2.500 Marken zeigen innovative Maschinen und Technologien – von der Metallbearbeitung über intelligente Werkstoffe und additive Fertigung bis zu KI – für mehr Effizienz und Produktivität.",
+    "en": "METALEX brings together more than 95,000 metalworking professionals from across the ASEAN region. Over 2,500 brands present innovative machines and technologies – from metalworking to smart materials, additive manufacturing and AI – for the next level of efficiency and productivity.",
+    "fr": "METALEX réunit plus de 95 000 professionnels du travail des métaux de toute la zone ASEAN. Plus de 2 500 marques y présentent des machines et technologies innovantes – du travail des métaux aux matériaux intelligents, à la fabrication additive et à l’IA – pour davantage d’efficacité et de productivité.",
+    "es": "METALEX reúne a más de 95 000 profesionales de la metalmecánica de toda la región ASEAN. Más de 2500 marcas presentan máquinas y tecnologías innovadoras, desde el procesamiento de metales hasta los materiales inteligentes, la fabricación aditiva y la IA, para lograr más eficiencia y productividad."
+   }
   },
   {
    "id": "zconnect-pleidelsheim-2026",
-   "start": "2026-11-19", "end": "2026-11-19",
-   "country": "Germany", "city": "Pleidelsheim",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "country": "Germany",
+   "city": "Pleidelsheim",
    "title": "Z.connect (Pleidelsheim)",
    "text": "zconnect",
    "img": "/fileadmin/_processed_/3/0/csm_87eacb37a2d2e8265e2e89b24a6a1d44-1678866894_02a686d77c.webp",
-   "link": {"myzoller": 1489}
+   "kind": "workshop",
+   "myzoller": 1489,
+   "lang": "de",
+   "hours": "09:30–15:00",
+   "about": "zconnect_about",
+   "agenda": [
+    {
+     "time": "09:30",
+     "title": {
+      "de": "Come together",
+      "en": "Get-together",
+      "fr": "Accueil café",
+      "es": "Café de bienvenida"
+     }
+    },
+    {
+     "time": "10:00",
+     "title": {
+      "de": "Begrüßung und Einführung",
+      "en": "Welcome and introduction",
+      "fr": "Accueil et introduction",
+      "es": "Bienvenida e introducción"
+     }
+    },
+    {
+     "time": "10:40",
+     "title": {
+      "de": "Prozessschritt 1: Arbeitsvorbereitung, CAD/CAM und Werkzeugverwaltung",
+      "en": "Process step 1: work preparation, CAD/CAM and tool management",
+      "fr": "Étape 1 : préparation du travail, CFAO et gestion des outils",
+      "es": "Paso 1: preparación del trabajo, CAD/CAM y gestión de herramientas"
+     }
+    },
+    {
+     "time": "11:30",
+     "title": {
+      "de": "Gemeinsames Mittagessen",
+      "en": "Lunch",
+      "fr": "Déjeuner",
+      "es": "Almuerzo"
+     }
+    },
+    {
+     "time": "12:15",
+     "title": {
+      "de": "Unternehmensrundgang",
+      "en": "Company tour",
+      "fr": "Visite de l’entreprise",
+      "es": "Visita a la empresa"
+     }
+    },
+    {
+     "time": "13:00",
+     "title": {
+      "de": "Prozessschritt 2: Lager, Werkzeugzusammenbau und -vermessung",
+      "en": "Process step 2: storage, tool assembly and measurement",
+      "fr": "Étape 2 : stockage, assemblage et mesure des outils",
+      "es": "Paso 2: almacén, montaje y medición de herramientas"
+     }
+    },
+    {
+     "time": "13:55",
+     "title": {
+      "de": "Prozessschritt 3: Datenübertragung, Rückbuchung, Analyse und Artikelstatistik",
+      "en": "Process step 3: data transfer, return booking, analysis and item statistics",
+      "fr": "Étape 3 : transfert de données, retour en stock, analyse et statistiques d’articles",
+      "es": "Paso 3: transferencia de datos, devolución, análisis y estadística de artículos"
+     }
+    },
+    {
+     "time": "14:35",
+     "title": {
+      "de": "Zusammenfassung: Neue Funktionen und Weiterentwicklungen in TMS und »pilot«",
+      "en": "Summary: new features and developments in TMS and »pilot«",
+      "fr": "Synthèse : nouvelles fonctions et évolutions de TMS et »pilot«",
+      "es": "Resumen: nuevas funciones y desarrollos en TMS y »pilot«"
+     }
+    },
+    {
+     "time": "14:50",
+     "title": {
+      "de": "Fragen, Austausch und Ausblick",
+      "en": "Questions, discussion and outlook",
+      "fr": "Questions, échanges et perspectives",
+      "es": "Preguntas, intercambio y perspectivas"
+     }
+    },
+    {
+     "time": "15:00",
+     "title": {
+      "de": "Voraussichtliches Ende",
+      "en": "Expected end",
+      "fr": "Fin prévue",
+      "es": "Fin prevista"
+     }
+    }
+   ]
   },
   {
    "id": "tms-fortbildung-lehrkraefte-2026",
-   "start": "2026-11-23", "end": "2026-11-24",
-   "country": "Germany", "city": "Pleidelsheim",
-   "title": {"de": "Erweiterte Anwendung in digitalen Werkzeugverwaltungssystemen", "en": "Advanced use of digital tool management systems", "fr": "Utilisation avancée des systèmes numériques de gestion des outils", "es": "Uso avanzado de sistemas digitales de gestión de herramientas"},
+   "start": "2026-11-23",
+   "end": "2026-11-24",
+   "country": "Germany",
+   "city": "Pleidelsheim",
+   "title": {
+    "de": "Erweiterte Anwendung in digitalen Werkzeugverwaltungssystemen",
+    "en": "Advanced use of digital tool management systems",
+    "fr": "Utilisation avancée des systèmes numériques de gestion des outils",
+    "es": "Uso avanzado de sistemas digitales de gestión de herramientas"
+   },
    "text": {
     "de": "Seien Sie als Lehrkraft dabei, wenn es um die Fortbildung zum Thema digitale Werkzeugmanagementsysteme geht.",
     "en": "Further training for teachers on digital tool management systems (in German).",
@@ -142,12 +481,63 @@
     "es": "Formación continua para docentes sobre sistemas digitales de gestión de herramientas (en alemán)."
    },
    "img": "/fileadmin/_processed_/c/c/csm_0717c90d0bcca26dec8cd281647d5584-1756793553_a05b12691d.webp",
-   "link": {"myzoller": 1488}
+   "kind": "training",
+   "myzoller": 1488,
+   "lang": "de",
+   "register": {
+    "de": "https://www.nachwuchsstiftung-maschinenbau.de/fortbildungen.html"
+   },
+   "about": {
+    "de": "Die Fortbildung für Lehrkräfte zeigt, wie sich ein durchgängiger Werkzeugmanagement-Workflow mit einem Tool-Management-System praxisnah abbilden lässt – vom Lager bis zur Maschine. Im Fokus stehen reale Lager- und Vorbereitungsprozesse und ihre Übertragbarkeit in Unterricht und Werkstatt. Danach können die Teilnehmenden den Workflow Lager → Werkzeug → Maschine erklären, vorführen und als Lernstation selbst aufbauen.",
+    "en": "This training for teachers shows how to map a complete tool management workflow in a tool management system – from storage to the machine. It focuses on real storage and preparation processes and how to transfer them to the classroom and workshop. Afterwards, participants can explain and demonstrate the storage → tool → machine workflow and set it up themselves as a learning station.",
+    "fr": "Cette formation destinée aux enseignants montre comment représenter un flux complet de gestion des outils dans un système de gestion des outils – du stockage jusqu’à la machine. Elle se concentre sur des processus réels de stockage et de préparation et sur leur transposition en cours et en atelier. À l’issue, les participants savent expliquer et démontrer le flux stockage → outil → machine et le mettre en place eux-mêmes comme poste d’apprentissage.",
+    "es": "Esta formación para docentes muestra cómo representar un flujo completo de gestión de herramientas en un sistema de gestión de herramientas, desde el almacén hasta la máquina. Se centra en procesos reales de almacén y preparación y en cómo trasladarlos al aula y al taller. Al terminar, los participantes saben explicar y demostrar el flujo almacén → herramienta → máquina y montarlo ellos mismos como estación de aprendizaje."
+   },
+   "topics": [
+    {
+     "de": "Aufbau einer Lagerstruktur im Tool-Management-System",
+     "en": "Setting up a storage structure in the tool management system",
+     "fr": "Mise en place d’une structure de stockage dans le système de gestion des outils",
+     "es": "Creación de una estructura de almacén en el sistema de gestión de herramientas"
+    },
+    {
+     "de": "Definition und Abbildung von Lagerprozessen",
+     "en": "Defining and mapping storage processes",
+     "fr": "Définition et représentation des processus de stockage",
+     "es": "Definición y representación de los procesos de almacén"
+    },
+    {
+     "de": "Werkzeugvorbereitung und Werkzeugfluss",
+     "en": "Tool preparation and tool flow",
+     "fr": "Préparation et flux des outils",
+     "es": "Preparación y flujo de herramientas"
+    },
+    {
+     "de": "Grundlagen zu Schrumpfen, Wuchten und Vermessung",
+     "en": "Basics of shrink fitting, balancing and measuring",
+     "fr": "Bases du frettage, de l’équilibrage et de la mesure",
+     "es": "Fundamentos de contracción térmica, equilibrado y medición"
+    },
+    {
+     "de": "Erstellung einfacher Messprogramme",
+     "en": "Creating simple measuring programs",
+     "fr": "Création de programmes de mesure simples",
+     "es": "Creación de programas de medición sencillos"
+    },
+    {
+     "de": "Praxisnaher Aufbau einer kompletten Präsentationsecke im ZERO-Zustand",
+     "en": "Hands-on setup of a complete presentation station from scratch",
+     "fr": "Mise en place pratique d’un poste de présentation complet à partir de zéro",
+     "es": "Montaje práctico de un puesto de presentación completo desde cero"
+    }
+   ]
   },
   {
    "id": "imtex-2027",
-   "start": "2027-01-21", "end": "2027-01-21",
-   "country": "India", "city": "Bengaluru",
+   "start": "2027-01-21",
+   "end": "2027-01-27",
+   "country": "India",
+   "city": "Bengaluru",
    "title": "IMTEX",
    "text": {
     "de": "Besuchen Sie ZOLLER auf der IMTEX 2027 in Bengaluru und erleben Sie unsere Solutions live vor Ort.",
@@ -156,12 +546,22 @@
     "es": "Visite a ZOLLER en IMTEX 2027 en Bengaluru y descubra nuestras soluciones en vivo."
    },
    "img": "/fileadmin/_processed_/4/6/csm_1333d07493d6b7b2c04a6eb0ab76d9ad-1787560075_b760f6c131.webp",
-   "link": {"myzoller": 1514}
+   "kind": "fair",
+   "myzoller": 1514,
+   "website": "https://www.imtex.in/",
+   "about": {
+    "de": "Die IMTEX blickt auf über 50 Jahre Geschichte zurück und ist die größte Messe für Werkzeugmaschinen und Fertigungstechnologien in Süd- und Südostasien. Die IMTEX 2027 zeigt neueste Maschinen und Technologien mit Live-Vorführungen; die Tooltech rückt Maschinenzubehör, Messtechnik, CAD/CAM und Schneidwerkzeuge in den Mittelpunkt, Digital Manufacturing Robotik, Automatisierung, additive Fertigung und IoT.",
+    "en": "With a history of more than 50 years, IMTEX is the largest exhibition for machine tools and manufacturing technologies in South and Southeast Asia. IMTEX 2027 presents the latest machines and technologies with live demonstrations; Tooltech focuses on machine accessories, metrology, CAD/CAM and cutting tools, and Digital Manufacturing on robotics, automation, additive manufacturing and IoT.",
+    "fr": "Forte de plus de 50 ans d’histoire, l’IMTEX est le plus grand salon des machines-outils et des technologies de fabrication d’Asie du Sud et du Sud-Est. L’IMTEX 2027 présente les dernières machines et technologies avec des démonstrations en direct ; Tooltech met l’accent sur les accessoires de machines, la métrologie, la CFAO et les outils coupants, Digital Manufacturing sur la robotique, l’automatisation, la fabrication additive et l’IoT.",
+    "es": "Con más de 50 años de historia, IMTEX es la mayor feria de máquinas-herramienta y tecnologías de fabricación del sur y sudeste de Asia. IMTEX 2027 presenta las máquinas y tecnologías más recientes con demostraciones en vivo; Tooltech se centra en accesorios de máquinas, metrología, CAD/CAM y herramientas de corte, y Digital Manufacturing en robótica, automatización, fabricación aditiva e IoT."
+   }
   },
   {
    "id": "intec-2027",
-   "start": "2027-03-02", "end": "2027-03-02",
-   "country": "Germany", "city": "Leipzig",
+   "start": "2027-03-02",
+   "end": "2027-03-05",
+   "country": "Germany",
+   "city": "Leipzig",
    "title": "Intec",
    "text": {
     "de": "Besuchen Sie ZOLLER auf der Intec in Leipzig und überzeugen Sie sich von unseren Effizienzlösungen.",
@@ -170,26 +570,46 @@
     "es": "Visite a ZOLLER en Intec, en Leipzig, y conozca de primera mano nuestras soluciones de eficiencia."
    },
    "img": "/fileadmin/_processed_/6/2/csm_51b541aecfb3d18a039c9f1eab232e8e-1706605132_5eb56844ae.webp",
-   "link": {"myzoller": 1449}
+   "kind": "fair",
+   "myzoller": 1449,
+   "website": "https://www.messe-intec.de/",
+   "about": {
+    "de": "Die Intec ist eine der führenden europäischen Fachmessen für Werkzeugmaschinen, Fertigungs- und Automatisierungstechnik und ein wichtiger Branchentreff der Metallbearbeitung. Zusammen mit der parallel stattfindenden Zuliefermesse Z deckt sie die gesamte industrielle Wertschöpfungskette ab – von Bauteilen und Komponenten bis zu kompletten Fertigungssystemen.",
+    "en": "Intec is one of Europe’s leading trade shows for machine tools, production and automation technology, and a key meeting point for the metalworking industry. Together with the Z supplier fair held at the same time, it covers the entire industrial value chain – from parts and components to complete production systems.",
+    "fr": "Intec est l’un des principaux salons européens des machines-outils, des technologies de production et d’automatisation, et un rendez-vous majeur du travail des métaux. Avec le salon de la sous-traitance Z qui se tient en parallèle, il couvre toute la chaîne de valeur industrielle – des pièces et composants aux systèmes de production complets.",
+    "es": "Intec es una de las principales ferias europeas de máquinas-herramienta, tecnología de producción y automatización, y un punto de encuentro clave del sector metalmecánico. Junto con la feria de proveedores Z, que se celebra en paralelo, abarca toda la cadena de valor industrial: desde piezas y componentes hasta sistemas de producción completos."
+   }
   },
   {
    "id": "global-industrie-2027",
-   "start": "2027-03-15", "end": "2027-03-15",
-   "country": "France", "city": "Lyon",
+   "start": "2027-03-15",
+   "end": "2027-03-18",
+   "country": "France",
+   "city": "Lyon",
    "title": "Global Industrie",
    "text": {
-    "de": "Besuchen Sie ZOLLER auf der Global Industrie und erleben Sie unsere Solutions live vor Ort.",
-    "en": "Visit ZOLLER at Global Industrie and experience our solutions live.",
-    "fr": "Retrouvez ZOLLER au salon Global Industrie et découvrez nos solutions en direct.",
-    "es": "Visite a ZOLLER en Global Industrie y descubra nuestras soluciones en vivo."
+    "de": "Besuchen Sie ZOLLER auf der Global Industrie in Lyon und erleben Sie unsere Solutions live vor Ort.",
+    "en": "Visit ZOLLER at Global Industrie in Lyon and experience our solutions live.",
+    "fr": "Retrouvez ZOLLER au salon Global Industrie à Lyon et découvrez nos solutions en direct.",
+    "es": "Visite a ZOLLER en Global Industrie, en Lyon, y descubra nuestras soluciones en vivo."
    },
    "img": "/fileadmin/_processed_/6/d/csm_c1099ce3bb4810dab667ab679f237485-1787560574_7102b8c740.webp",
-   "link": {"myzoller": 1515}
+   "kind": "fair",
+   "myzoller": 1515,
+   "website": "https://www.global-industrie.com/en",
+   "about": {
+    "de": "Global Industrie ist das Schaufenster der französischen Industrie und ein Eckpfeiler ihrer Reindustrialisierung – ein Ort der Begegnung und des Geschäfts für alle, die die Industrie von heute und morgen gestalten.",
+    "en": "Global Industrie is the showcase of French industry and a cornerstone of its reindustrialization – a place for meeting and doing business for everyone shaping the industry of today and tomorrow.",
+    "fr": "Global Industrie est la vitrine de l’industrie française et un pilier de sa réindustrialisation – un lieu de rencontres et d’affaires pour tous ceux qui construisent l’industrie d’aujourd’hui et de demain.",
+    "es": "Global Industrie es el escaparate de la industria francesa y un pilar de su reindustrialización: un lugar de encuentro y de negocios para todos los que dan forma a la industria de hoy y de mañana."
+   }
   },
   {
    "id": "dst-2027",
-   "start": "2027-04-07", "end": "2027-04-07",
-   "country": "Germany", "city": "Villingen-Schwenningen",
+   "start": "2027-04-07",
+   "end": "2027-04-09",
+   "country": "Germany",
+   "city": "Villingen-Schwenningen",
    "title": "DST Dreh- und Spantage Südwest",
    "text": {
     "de": "Besuchen Sie ZOLLER auf den DST Dreh- und Spantage Südwest in Villingen-Schwenningen und erleben Sie unsere Effizienzlösungen vor Ort.",
@@ -198,12 +618,22 @@
     "es": "Visite a ZOLLER en las jornadas de torneado y mecanizado DST en Villingen-Schwenningen y descubra nuestras soluciones in situ."
    },
    "img": "/fileadmin/_processed_/5/d/csm_cd99acf84474b3d0baafa88f82277521-1712122301_0dc4c01120.webp",
-   "link": {"myzoller": 1450}
+   "kind": "fair",
+   "myzoller": 1450,
+   "website": "https://www.dstsuedwest.de/home",
+   "about": {
+    "de": "Die DST Dreh- und Spantage Südwest sind ein zentraler Branchentreffpunkt für Dreh-, Fräs- und Zerspanungstechnik in der Technologieregion Südwestdeutschland. Im Zwei-Jahres-Turnus zeigen Hersteller und Zulieferer Werkzeugmaschinen, Präzisionswerkzeuge, Automations- und Robotiklösungen, Software, Materialien und Qualitätssicherung – ein kompakter Überblick über die moderne Zerspanung.",
+    "en": "The DST turning and machining days are a key meeting point for turning, milling and machining technology in southwest Germany’s technology region. Every two years, manufacturers and suppliers present machine tools, precision tools, automation and robotics, software, materials and quality assurance – a compact overview of modern machining.",
+    "fr": "Les journées DST du tournage et de l’usinage sont un rendez-vous central pour les technologies de tournage, de fraisage et d’usinage dans la région technologique du sud-ouest de l’Allemagne. Tous les deux ans, fabricants et fournisseurs y présentent machines-outils, outils de précision, automatisation et robotique, logiciels, matériaux et assurance qualité – un aperçu compact de l’usinage moderne.",
+    "es": "Las jornadas de torneado y mecanizado DST son un punto de encuentro clave para la tecnología de torneado, fresado y mecanizado en la región tecnológica del suroeste de Alemania. Cada dos años, fabricantes y proveedores presentan máquinas-herramienta, herramientas de precisión, automatización y robótica, software, materiales y aseguramiento de la calidad: una visión compacta del mecanizado moderno."
+   }
   },
   {
    "id": "grindinghub-americas-2027",
-   "start": "2027-05-18", "end": "2027-05-20",
-   "country": "United States", "city": "Cincinnati, Ohio",
+   "start": "2027-05-18",
+   "end": "2027-05-20",
+   "country": "United States",
+   "city": "Cincinnati, Ohio",
    "title": "GrindingHub Americas 2027",
    "text": {
     "de": "Die GrindingHub Americas bringt die Zukunft der Schleif- und Finishtechnik nach Cincinnati – mit Live-Vorführungen vom Präzisionsschleifen über die Messtechnik bis zur Automation.",
@@ -212,12 +642,22 @@
     "es": "GrindingHub Americas lleva a Cincinnati el futuro del rectificado y el acabado, con demostraciones en vivo desde el rectificado de precisión hasta la metrología y la automatización."
    },
    "img": "/assets/events/grindinghub-americas.webp",
-   "link": {"url": "https://www.grindinghub-americas.com/gha27"}
+   "kind": "fair",
+   "lang": "en",
+   "website": "https://www.grindinghub-americas.com/gha27",
+   "about": {
+    "de": "Die GrindingHub Americas bringt die Zukunft der Schleif- und Finishtechnik nach Cincinnati. Gezeigt wird das gesamte Spektrum – vom Präzisionsschleifen, der Werkzeugbearbeitung und Schleifmitteln über Abrichtsysteme und Prozessüberwachung bis zu Messtechnik, Qualitätssicherungs-Software und Automation – mit Live-Vorführungen für über 5.000 Besucher aus der Automobil- und Luftfahrtindustrie und weiteren Schlüsselbranchen.",
+    "en": "GrindingHub Americas brings the future of grinding and finishing technology to Cincinnati, spotlighting the innovations that keep American manufacturing competitive and efficient. The show covers the full grinding and finishing ecosystem – from precision grinding, tool machining and abrasives to dressing systems, process monitoring, metrology, quality assurance software and automation – with live demonstrations for 5,000+ attendees from automotive, aerospace and other key industries.",
+    "fr": "GrindingHub Americas présente à Cincinnati l’avenir de la rectification et de la finition. Le salon couvre tout l’écosystème – de la rectification de précision, de l’usinage d’outils et des abrasifs aux systèmes de dressage, à la surveillance des processus, à la métrologie, aux logiciels d’assurance qualité et à l’automatisation – avec des démonstrations en direct pour plus de 5 000 visiteurs de l’automobile, de l’aéronautique et d’autres secteurs clés.",
+    "es": "GrindingHub Americas lleva a Cincinnati el futuro del rectificado y el acabado. La feria abarca todo el ecosistema, desde el rectificado de precisión, el mecanizado de herramientas y los abrasivos hasta los sistemas de reavivado, la supervisión de procesos, la metrología, el software de aseguramiento de la calidad y la automatización, con demostraciones en vivo para más de 5000 visitantes de la automoción, la aeronáutica y otros sectores clave."
+   }
   },
   {
    "id": "gifa-2027",
-   "start": "2027-06-21", "end": "2027-06-21",
-   "country": "Germany", "city": "Düsseldorf",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "country": "Germany",
+   "city": "Düsseldorf",
    "title": "GIFA",
    "text": {
     "de": "Besuchen Sie uns auf der GIFA in Düsseldorf und erleben Sie unsere Solutions live vor Ort.",
@@ -226,12 +666,22 @@
     "es": "Visítenos en GIFA, en Düsseldorf, y descubra nuestras soluciones en vivo."
    },
    "img": "/fileadmin/_processed_/2/5/csm_3d292e520abd494ae0f3ab955706b0b9-1770789403_bc1be28461.webp",
-   "link": {"myzoller": 1451}
+   "kind": "fair",
+   "myzoller": 1451,
+   "website": "https://www.gifa.com/",
+   "about": {
+    "de": "Die GIFA ist die weltweit führende Fachmesse für Gießerei- und Schmelztechnik. Sie zeigt das nahezu komplette Spektrum – von Gießereianlagen, Maschinen und Automatisierung über Form- und Kernherstellung bis zu Umwelt-, Energie- und IT-Lösungen – begleitet von Kongressen, Seminaren und Fachvorträgen.",
+    "en": "GIFA is the world’s leading trade fair for foundry and melting technology. It presents almost the entire spectrum – from foundry plants, machinery and automation to molding and core making, and environmental, energy and IT solutions – accompanied by congresses, seminars and expert talks.",
+    "fr": "La GIFA est le premier salon mondial des technologies de fonderie et de fusion. Elle présente la quasi-totalité du spectre – des installations de fonderie, machines et automatisation au moulage et à la fabrication de noyaux, jusqu’aux solutions environnementales, énergétiques et informatiques – accompagnée de congrès, séminaires et conférences.",
+    "es": "GIFA es la feria líder mundial de tecnología de fundición y fusión. Presenta prácticamente todo el espectro, desde plantas de fundición, maquinaria y automatización hasta moldeo, fabricación de machos y soluciones medioambientales, energéticas e informáticas, acompañada de congresos, seminarios y ponencias."
+   }
   },
   {
    "id": "surfex-2027",
-   "start": "2027-11-03", "end": "2027-11-05",
-   "country": "United States", "city": "Indianapolis, Indiana",
+   "start": "2027-11-03",
+   "end": "2027-11-05",
+   "country": "United States",
+   "city": "Indianapolis, Indiana",
    "title": "SURFEX SHOW 2027",
    "text": {
     "de": "Die Messe ganz für Steinbearbeiter – mit den Werkzeugen, Technologien und Partnern, auf die sie sich jeden Tag verlassen.",
@@ -240,7 +690,15 @@
     "es": "La feria creada íntegramente para los transformadores de piedra, con las herramientas, la tecnología y los socios en los que confían cada día."
    },
    "img": "/assets/events/surfex.webp",
-   "link": {"url": "https://surfexshow.com/"}
+   "kind": "fair",
+   "lang": "en",
+   "website": "https://surfexshow.com/",
+   "about": {
+    "de": "Die SURFEX ist die Messe, die ganz für Steinbearbeiter gemacht ist: keine Teppiche, keine Designer, keine fachfremden Branchen – nur die Werkzeuge, Technologien und Partner, auf die sie sich täglich verlassen, mit Fokus auf Weiterbildung, Wachstum der Betriebe und die Zukunft des Handwerks.",
+    "en": "SURFEX was built to give fabricators something they’ve never had: a trade show created entirely for them. No carpet, no designers, no mixed industries – just the tools, technology and partners fabricators rely on every day, with a focus on real education, shop growth and the future of the trade.",
+    "fr": "SURFEX est le salon entièrement conçu pour les transformateurs de pierre : ni moquette, ni designers, ni secteurs mélangés – uniquement les outils, technologies et partenaires sur lesquels ils comptent chaque jour, avec l’accent sur la formation, la croissance des ateliers et l’avenir du métier.",
+    "es": "SURFEX es la feria creada íntegramente para los transformadores de piedra: sin alfombras, sin diseñadores, sin sectores mezclados; solo las herramientas, la tecnología y los socios en los que confían cada día, con foco en la formación, el crecimiento de los talleres y el futuro del oficio."
+   }
   }
  ],
  "texts": {
@@ -249,6 +707,12 @@
    "en": "Ready for 4.0: tool management workshop for smart manufacturing. Experience practical, live solutions for efficient tool organization in today’s connected production (in German).",
    "fr": "Ready for 4.0 : atelier sur la gestion des outils pour une fabrication intelligente. Découvrez en direct des solutions concrètes pour organiser efficacement vos outils dans une production connectée (en allemand).",
    "es": "Ready for 4.0: taller de gestión de herramientas para una fabricación inteligente. Conozca en vivo soluciones prácticas para organizar eficientemente las herramientas en la producción conectada actual (en alemán)."
+  },
+  "zconnect_about": {
+   "de": "Ready for 4.0: Workshop Tool Management für eine intelligente Fertigung. Erleben Sie alle Stationen des Fertigungsprozesses – von der Arbeitsvorbereitung über CAD/CAM, das Lager sowie Einstellen und Messen bis an die Maschine. Die Werkzeugdaten sind jederzeit verfügbar, die Kommunikation mit Maschinen und CAM-Systemen läuft vollautomatisch.",
+   "en": "Ready for 4.0: a tool management workshop for smart manufacturing. Experience every stage of the production process – from work preparation and CAD/CAM to storage, presetting and measuring, all the way to the machine. Tool data is available at all times, and communication with machines and CAM systems is fully automatic.",
+   "fr": "Ready for 4.0 : atelier de gestion des outils pour une fabrication intelligente. Découvrez toutes les étapes du processus de fabrication – de la préparation du travail et la CFAO au stockage, au préréglage et à la mesure, jusqu’à la machine. Les données d’outils sont disponibles à tout moment et la communication avec les machines et les systèmes de FAO est entièrement automatique.",
+   "es": "Ready for 4.0: taller de gestión de herramientas para una fabricación inteligente. Conozca todas las etapas del proceso de fabricación: desde la preparación del trabajo y el CAD/CAM hasta el almacén, el preajuste y la medición, y hasta la máquina. Los datos de herramientas están disponibles en todo momento y la comunicación con las máquinas y los sistemas CAM es totalmente automática."
   }
  }
 }
