@@ -155,6 +155,8 @@ async function init() {
   let visible = true;
   new IntersectionObserver(([en]) => { visible = en.isIntersecting; }, { rootMargin: '80px' }).observe(hero);
 
+  // Shader im Hintergrund kompilieren, bevor die Bühne sichtbar wird – sonst stockt der erste Frame die Seite
+  try { await renderer.compileAsync(scene, camera); } catch (e) { /* kompiliert dann beim ersten Bild */ }
   const clock = new THREE.Clock();
   let t0 = -1, nextSweep = 1.0;
   holder.classList.add('is-3d');

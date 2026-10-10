@@ -1,6 +1,6 @@
 # ZOLLER Webseite – Relaunch
 
-Neugestaltung von [zoller.info](https://www.zoller.info/startseite) (deutsche Version) als schnelle, statische Webseite mit Scroll-Effekten im Apple-Stil und 3D-Rendering auf der Startseite.
+Neugestaltung von [zoller.info](https://www.zoller.info/startseite) (deutsche Version) als schnelle, statische Webseite mit Scroll-Effekten im Apple-Stil und einer gerenderten Kamerafahrt durch den Showroom auf der Startseite.
 
 - **419 Seiten**: alle deutschen Seiten aus der Sitemap plus News, Erfolgsgeschichten, Events und Stellenangebote
 - **Keine Inhalte verloren**: Jeder Text, jedes Bild, jede Tabelle, jedes FAQ und jeder Download wurde automatisch übernommen und mit `tools/verify_content.py` gegen die Originalseiten geprüft
@@ -25,7 +25,8 @@ Danach http://localhost:8765 öffnen.
 | `content/locations.json` | Alle 79 weltweiten Standorte/Vertretungen |
 | `assets/css/main.css` | Design-System |
 | `assets/js/main.js` | Navigation, Suche, Scroll-Effekte, Filter, Rechner |
-| `assets/js/stage3d.js` | 3D-Bühne der Startseite (Three.js) |
+| `assets/js/homefilm.js` | Startseiten-Video (Kamerafahrt durch den Showroom) mit mitlaufenden Geräte-Beschriftungen |
+| `assets/video/home/` | Videos, Poster und Beschriftungs-Spur der Startseite (erzeugt von `../video/home-hero/finish.py`) |
 | `assets/vendor/` | GSAP + ScrollTrigger, Lenis (Smooth Scroll), Three.js |
 | `tools/` | Extraktion, Build und Prüfskripte |
 
@@ -66,7 +67,7 @@ Aus diesem Repository werden zusätzlich eigene Webseiten für einzelne Länder 
 - **Länderwechsel mit Globus**: Knopf mit Weltkugel und Flagge des aktuellen Landes im Header (und im Footer) öffnet „Land und Sprache wählen“ – links der 3D-Globus (`assets/js/countryglobe.js`, lädt erst beim ersten Öffnen), rechts die Liste. Jede Länderseite steht mit Flagge auf ihrem Hauptsitz (Pleidelsheim, Mississauga, Querétaro, Ann Arbor), die übrigen ZOLLER-Länderseiten als weiße Punkte. Zeigen auf ein Land blendet die Route vom aktuellen Land ein; ein Klick fliegt als Lichtpunkt dorthin, zoomt auf den Hauptsitz, blendet „ZOLLER | LAND“ ein und öffnet dieselbe Seite im anderen Land, die aus dem Schwarz aufblendet. Ohne WebGL bleibt die Liste, bei reduzierter Bewegung entfällt der Flug. Lage, Blickpunkt und Seite der Beschriftung: `geo` in `content/sites.json`. Flaggen: `tools/flags.py` (auch für den 3D-Showroom). Neben dem Logo steht der Ländername; in Kanada wechselt „FR“/„EN“ direkt die Sprache. Gemeinsame Globus-Teile (Kugel, Landpunkte, Messring, Markierungen) liegen in `assets/js/globe-core.js` und werden auch vom Standorte-Globus genutzt.
 - **Events nach Land**: Alle Firmenevents weltweit stehen in `content/events.json` (Land, Ort, Kurztext, Beschreibung, Ablauf, offizielle Website – Texte in DE/EN/FR/ES). Die Eventseite jeder Länderseite zeigt zuerst nur die Events ihres Landes; „Weltweit“ zeigt alle, die Chips darunter ein anderes Land (`?events=all` öffnet direkt alle). Vergangene Events fallen beim Bauen und im Browser weg.
 - **Jedes Event in jeder Sprache**: „Mehr erfahren“ führt immer auf eine Eventseite in der Sprache der Länderseite – nie auf die deutsche Seite und nicht auf MYZOLLER (zeigt diese Events nur auf Deutsch). `build.py` erzeugt für jedes Event aus `events.json` eine eigene Seite (`/events/<id>`, `/evenements/<id>`, `/eventos/<id>`); Events mit handgebauter Seite (`page`, z. B. Automation Week Torrance, Automation Days Ann Arbor) brauchen diese Seite in jeder Sprachfassung (`content/pages`, `content/sites/ca|ca-fr|mx/pages` mit `de_path`). Fehlt eine Sprache, meldet `build.py` am Ende „ACHTUNG: … Events ohne Seite“. Neues Event: Eintrag mit allen vier Sprachen in `events.json`, alle Seiten neu bauen.
-- **USA**: Startseite mit dem nordamerikanischen Hauptsitz in Ann Arbor direkt nach der 3D-Bühne (`content/sites/us/home.json`, Bilder aus der Firmenchronik und der Reise-Seite der Technology Days) und eigene Eventseite „ZOLLER Automation Days 2026“ (`content/sites/us/pages/`).
+- **USA**: Startseite mit dem nordamerikanischen Hauptsitz in Ann Arbor direkt nach der Kamerafahrt (`content/sites/us/home.json`, Bilder aus der Firmenchronik und der Reise-Seite der Technology Days) und eigene Eventseite „ZOLLER Automation Days 2026“ (`content/sites/us/pages/`).
 - **Header passt sich an**: Passen Menü und Werkzeuge nicht nebeneinander (lange Menütexte, z. B. Französisch), blendet `assets/js/main.js` stufenweise Zusätze aus (`fit-1` … `fit-5` in `main.css`: Meta-Links, EN/FR-Umschalter, kurzer 3D-Knopf, kleinere Menüschrift, zuletzt Burger-Menü).
 
 ```bash
@@ -101,9 +102,22 @@ Alle vier Seiten (Deutschland, Kanada, Mexiko, USA) funktionieren ohne zoller.in
 
 ## Scroll-Effekte & 3D
 
-- **Startseite**: Gepinnte 3D-Bühne mit prozedural modelliertem Schrumpffutter (Steilkegel), beschichtetem 4-Schneiden-Fräser, gelbem Messring mit Messpunkten und dem ZOLLER-Symbol in 3D. Kamera, Rotation und Texte werden vom Scrollen gesteuert. Ohne WebGL oder bei „Bewegung reduzieren“ läuft stattdessen das originale Header-Video.
+- **Startseite**: Kamerafahrt durch eine Showroom-Gasse, links und rechts die Geräte aus den offiziellen CAD-Daten (»venturion«, »smile«, »keeper«, »toolOrganizer«, »toolStation«), in Blender/Cycles gerendert (`../video/home-hero`, CAD-Bibliothek `../cad`). Das Video ist eine nahtlose Schleife (20 s), quer für Desktop/Tablet und hochkant für Smartphones und Tablets im Hochformat. Darüber wechseln beim Scrollen drei Texte; kleine Beschriftungen hängen an den Geräten im Video und führen zur Produktseite (Bildpositionen pro Frame aus Blender). Pause-Knopf unten rechts; bei „Bewegung reduzieren“ oder Datensparmodus bleibt das Standbild stehen.
 - **Überall**: Smooth Scrolling, Bildmasken, die sich beim Scrollen öffnen, Parallax-Zoom, Statements, die Wort für Wort aufleuchten, hochzählende Kennzahlen, horizontal gepinnter Bereich (Fräsen/Drehen/Schleifen), klebende Produkt-Unternavigation, Produkt-Hero mit schwebendem Gerät, Zeitstrahl mit Fortschrittslinie (Historie).
+- **Vorhang-Hero**: Das große Bild am Seitenanfang (`.hero`, Eventseiten `.ev-hero`) bleibt stehen und dunkelt ab, der Inhalt gleitet als Blatt mit runden Ecken darüber (`main.css` „Scroll-Effekte“, `main.js`).
+- **Lesefortschritt**: gelbe Linie am oberen Rand auf allen längeren Seiten außer der Startseite (scroll-gebundene CSS-Animation, sonst JavaScript).
+- **Karten** (News, Produkte, Werte, Ziele, Event-Produkte) kippen beim Hereinscrollen aus der Tiefe nach oben; Seitentitel und der Footer-Claim gleiten Wort für Wort aus einer Maske; der gelbe Akzentstrich über Überschriften wächst mit.
+- **Historie**: Das Jahr in der Bildmitte wird kräftig, erreichte Punkte füllen sich gelb; die Jahresleiste scrollt mit, ohne die Seite zu verschieben. **Events**: Zeilen gleiten herein, das Datumsfeld klappt auf. **Hotspot-Bilder**: die Punkte springen nacheinander auf.
+- Das Einblenden (`data-reveal`) nutzt die Einzel-Eigenschaften `translate`/`scale`/`rotate`, damit `transform` für Hover-Anheben und 3D-Kippen der Karten frei bleibt. Komponenten mit eigenem `transition` hängen `var(--reveal-t)` an.
+- **Sicherheitsnetz**: Lädt `main.js` nicht (Netzfehler), blendet die Seite nach 5 s alles ohne Animation ein (`ZOLLER_READY` im `<head>`).
 - `prefers-reduced-motion` wird respektiert.
+
+### Flüssigkeit (Stand 10.10.2026)
+
+- **3D-Halle** (Startseite, `world.js` aus der Produktumgebung 3D): baut sich in Portionen auf (Shader parallel kompiliert, Texturen über mehrere Frames hochgeladen) statt die Seite bis zu 5 s anzuhalten; im Kino-Modus auf Retina-Displays ohne MSAA; die Auflösung passt sich der Bildrate an (nie unter 85 %/67 %); steht die Kamera, wird nur jedes zweite Bild gerendert.
+- **Produktbühne, Standort- und Länderglobus** kompilieren ihre Shader vor dem ersten Bild.
+- Messung: Startseite beim Durchscrollen 95 % der Bilder unter 17,6 ms (vorher 50–83 ms), längster Hänger 150 ms (vorher bis 5 s).
+- Lokal testen mit `zoller-docs-test` (Port 8768, `../.claude/launch.json`): der einfache `python3 -m http.server` verwirft bei vielen gleichzeitigen Anfragen Verbindungen, dann fehlen Skripte und Inhalte bleiben scheinbar leer.
 
 ## 3D & Animationen (Anbindung an die Produktumgebung 3D)
 

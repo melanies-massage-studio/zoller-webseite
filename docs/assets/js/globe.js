@@ -377,6 +377,8 @@ async function init() {
 
     renderer.render(scene, camera);
   }
+  // Shader im Hintergrund kompilieren, damit der erste Frame die Seite nicht anhält
+  try { await renderer.compileAsync(scene, camera); } catch (e) { /* kompiliert dann beim ersten Bild */ }
   const start = () => { if (!running) { running = true; last = performance.now(); raf = requestAnimationFrame(frame); } };
   const stop = () => { running = false; cancelAnimationFrame(raf); };
   new IntersectionObserver(([e]) => (e.isIntersecting ? start() : stop()), { threshold: 0.01 }).observe(root);

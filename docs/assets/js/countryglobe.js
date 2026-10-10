@@ -239,6 +239,7 @@ export function mount(dialog) {
     renderer.render(scene, camera);
   }
 
+  const warm = renderer.compileAsync ? renderer.compileAsync(scene, camera).catch(() => {}) : Promise.resolve();
   function open() {
     dialog.classList.remove('is-flying', 'is-leaving');
     Object.values(pins).forEach((p) => p.classList.remove('is-target'));
@@ -246,8 +247,12 @@ export function mount(dialog) {
     resize(); home();
     if (reduced) Object.assign(view, goal);
     else Object.assign(view, { rx: goal.rx - 0.25, ry: goal.ry + 1.1, dist: 7.5 });
-    if (!running) { running = true; last = performance.now(); raf = requestAnimationFrame(frame); }
-    requestAnimationFrame(() => box.classList.add('is-ready'));
+    // erst starten, wenn die Shader (im Hintergrund kompiliert) bereit sind – sonst stockt das Öffnen
+    warm.then(() => {
+      if (!dialog.open) return;
+      if (!running) { running = true; last = performance.now(); raf = requestAnimationFrame(frame); }
+      requestAnimationFrame(() => box.classList.add('is-ready'));
+    });
   }
   function close() { running = false; cancelAnimationFrame(raf); box.classList.remove('is-ready'); }
   dialog.addEventListener('close', close);

@@ -2,6 +2,8 @@
 (() => {
   'use strict';
 
+  // Sicherheitsnetz im <head>: ohne dieses Signal blendet die Seite nach 5 s alles ohne Animation ein
+  window.ZOLLER_READY = true;
   const doc = document.documentElement;
   const body = document.body;
   const ROOT = body.dataset.root || './';
@@ -238,6 +240,7 @@
   });
 
   /* ------------------------------------------------------------- Hotspots */
+  $$('.hotspots').forEach(hs => $$('.hotspot', hs).forEach((h, i) => h.style.setProperty('--i', i)));   // Reihenfolge beim Aufspringen
   $$('.hotspot').forEach(h => {
     const btn = h.querySelector('.hotspot__btn');
     btn.addEventListener('click', (e) => {
@@ -343,6 +346,25 @@
     el.classList.add('words-ready');
   });
 
+  /* ------------------------------------------------------ Lesefortschritt */
+  // Gelbe Linie am oberen Rand; nur auf längeren Seiten (Startseite hat ihre eigene Fortschrittsanzeige).
+  // Wo der Browser scroll-gebundene CSS-Animationen kann, läuft sie ohne JavaScript (main.css).
+  if (!body.classList.contains('page-home')) {
+    const bar = document.createElement('div'); bar.className = 'scroll-progress'; bar.setAttribute('aria-hidden', 'true');
+    bar.innerHTML = '<i></i>'; body.append(bar);
+    const fill = bar.firstChild;
+    const cssTimeline = window.CSS && CSS.supports('animation-timeline: scroll()');
+    let pt = false;
+    const upd = () => {
+      pt = false;
+      const max = doc.scrollHeight - innerHeight;
+      bar.hidden = max < innerHeight * 1.2;   // kurze Seiten brauchen keine Anzeige
+      if (!cssTimeline) fill.style.setProperty('--p', Math.min(1, Math.max(0, scrollY / Math.max(1, max))).toFixed(4));
+    };
+    if (!cssTimeline) window.addEventListener('scroll', () => { if (!pt) { pt = true; requestAnimationFrame(upd); } }, { passive: true });
+    window.addEventListener('resize', upd); window.addEventListener('load', upd); upd();
+  }
+
   /* ------------------------------------------------------- Einblenden (IO) */
   const reveals = $$('[data-reveal]');
   if ('IntersectionObserver' in window && !reduced) {
@@ -373,12 +395,22 @@
     $$('img[data-parallax]').forEach(img => {
       gsap.fromTo(img, { yPercent: -8 }, { yPercent: 8, ease: 'none', scrollTrigger: { trigger: img.parentElement, start: 'top bottom', end: 'bottom top', scrub: true } });
     });
+    // Vorhang-Hero (erstes Element der Seite, main.css): bleibt stehen, dunkelt ab, der Inhalt gleitet darüber.
+    // Feste Scroll-Werte statt trigger, weil ein klebendes Element beim Messen sonst am Bildrand »mitwandert«.
+    const curtain = $('main > :is(.hero, .ev-hero):first-child');
+    const coverST = (el) => ({ start: 0, end: () => el.offsetHeight, scrub: true, invalidateOnRefresh: true });
+    if (curtain) {
+      gsap.fromTo(curtain, { '--cover': 0 }, { '--cover': 1, ease: 'none', scrollTrigger: coverST(curtain) });
+      const inner = curtain.querySelector('.ev-hero__inner');
+      if (inner) gsap.to(inner, { yPercent: -10, scale: .96, ease: 'none', scrollTrigger: coverST(curtain) });
+    }
     // Seiten-Hero: Bild zoomt, Text wandert aus
     $$('[data-hero]').forEach(hero => {
       const media = hero.querySelector('[data-hero-parallax]');
       const copy = hero.querySelector('[data-hero-copy]');
-      const tl = gsap.timeline({ scrollTrigger: { trigger: hero, start: 'top top', end: 'bottom top', scrub: true } });
-      if (media) tl.fromTo(media, { scale: 1.08, yPercent: 0 }, { scale: 1, yPercent: 14, ease: 'none' }, 0);
+      const st = hero === curtain ? coverST(hero) : { trigger: hero, start: 'top top', end: 'bottom top', scrub: true };
+      const tl = gsap.timeline({ scrollTrigger: st });
+      if (media) tl.fromTo(media, { scale: 1.08, yPercent: 0 }, { scale: 1, yPercent: hero === curtain ? 6 : 14, ease: 'none' }, 0);
       if (copy) tl.to(copy, { yPercent: -30, opacity: 0, ease: 'none' }, 0);
       if (copy) gsap.from(copy.children, { y: 50, opacity: 0, duration: 1.4, ease: 'expo.out', stagger: .1, delay: .15 });
     });
@@ -433,9 +465,22 @@
       const bar = tl.querySelector('.timeline__line i');
       if (bar) gsap.fromTo(bar, { scaleY: 0 }, { scaleY: 1, ease: 'none', scrollTrigger: { trigger: tl.querySelector('.timeline__items'), start: 'top 60%', end: 'bottom 60%', scrub: true } });
       const links = $$('.timeline__nav a', tl);
+      const nav = $('.timeline__nav', tl);
+      // aktives Jahr in der Jahresleiste mittig halten – nur die Leiste scrollen, nie die Seite (scrollIntoView
+      // würde auf dem Handy, wo die Leiste oben steht, die ganze Seite zurückspringen lassen)
+      const center = (a) => {
+        if (!a || !nav) return;
+        const r = nav.getBoundingClientRect(), ar = a.getBoundingClientRect();
+        if (r.bottom < 0 || r.top > innerHeight) return;
+        nav.scrollTo({ top: nav.scrollTop + ar.top - r.top - (r.height - ar.height) / 2, left: nav.scrollLeft + ar.left - r.left - (r.width - ar.width) / 2, behavior: 'smooth' });
+      };
       $$('.milestone', tl).forEach((m, i) => ScrollTrigger.create({
         trigger: m, start: 'top 55%', end: 'bottom 55%',
-        onToggle: (st) => { if (st.isActive) { links.forEach(l => l.classList.remove('is-active')); links[i]?.classList.add('is-active'); links[i]?.scrollIntoView({ block: 'nearest', inline: 'center' }); } },
+        onToggle: (st) => {
+          m.classList.toggle('is-active', st.isActive);
+          m.classList.toggle('is-past', !st.isActive && st.progress >= 1);
+          if (st.isActive) { links.forEach(l => l.classList.remove('is-active')); links[i]?.classList.add('is-active'); center(links[i]); }
+        },
       }));
     });
     window.addEventListener('load', () => ScrollTrigger.refresh());
@@ -633,8 +678,8 @@
 
   /* ------------------------------------------- Überschriften: Wort für Wort aus der Maske */
   if (!reduced && 'IntersectionObserver' in window) {
-    const heads = $$('main .section h2, main .section .section-head h2, main .feature__text h2').filter(h =>
-      !h.closest('[data-words], .worldflight, .product-hero, .modal, .mega, .accordion, .slider__slide') &&
+    const heads = $$('main .section h2, main .section .section-head h2, main .feature__text h2, main .page-title h1, main .article-hero h1, main .textmedia__text h1, .footer-cta h2').filter(h =>
+      !h.closest('[data-words], .worldflight, .product-hero, .modal, .mega, .accordion, .slider__slide, .hero, .ev-hero, .globe') &&
       [...h.childNodes].every(n => n.nodeType === 3 || ['BR', 'EM', 'STRONG', 'SPAN'].includes(n.nodeName) && !n.querySelector?.('*')));
     const hio = new IntersectionObserver((entries) => entries.forEach(en => {
       if (en.isIntersecting) { en.target.classList.add('is-in'); hio.unobserve(en.target); }

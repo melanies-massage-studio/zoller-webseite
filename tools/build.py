@@ -160,7 +160,7 @@ LOCATIONS = []
 def _asset_version():
     import hashlib
     h = hashlib.md5()
-    for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/stage3d.js", "assets/js/productstage.js",
+    for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/homefilm.js", "assets/js/productstage.js",
                 "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js",
                 "assets/js/globe.js", "assets/js/globe-land.js"):
         if not os.path.exists(os.path.join(ROOT, rel)):
@@ -171,6 +171,29 @@ def _asset_version():
 
 
 ASSET_VER = _asset_version()
+
+
+def _video_version():
+    """Version der Startseiten-Videos (assets/video/home): ändert sich mit jedem neuen Rendering"""
+    import hashlib
+    h = hashlib.md5()
+    d = os.path.join(ROOT, "assets", "video", "home")
+    for f in sorted(os.listdir(d)) if os.path.isdir(d) else []:
+        st = os.stat(os.path.join(d, f)); h.update(f"{f}{st.st_size}{int(st.st_mtime)}".encode())
+    return h.hexdigest()[:10]
+
+
+VIDEO_VER = _video_version()
+# Hochkant-Fassung vorhanden? Sonst zeigen auch Smartphones das Querformat (Ausschnitt)
+HAS_PORT = os.path.exists(os.path.join(ROOT, "assets", "video", "home", "port-720.mp4"))
+# Geräte im Startseiten-Video (Reihenfolge wie im Video) – Name, Gerätetyp, deutsche Produktseite
+HOMEFILM_DEVICES = (
+    ("venturion", "»venturion«", "Einstell- und Messgerät", "/produkte/einstellen-messen/vertikale-geraete/venturion"),
+    ("smile", "»smile«", "Einstell- und Messgerät", "/produkte/einstellen-messen/vertikale-geraete/smile"),
+    ("keeper", "»keeper«", "Werkzeugschrank für Komplettwerkzeuge", "/produkte/toolmanagement/werkzeuglager/keeper"),
+    ("toolorganizer", "»toolOrganizer«", "Werkzeugschrank", "/produkte/toolmanagement/werkzeuglager/toolorganizer"),
+    ("toolstation", "»toolStation«", "Werkbank für die Werkzeugmontage", "/produkte/toolmanagement/smart-cabinets/toolstation"),
+)
 
 esc = html.escape
 
@@ -1624,6 +1647,43 @@ def hq_section(ctx):
 </section>'''
 
 
+def homefilm(ctx, hero, sub, p1, p2):
+    """Startseite oben: Kamerafahrt durch eine Showroom-Gasse mit den Geräten links und rechts
+    (Video aus video/home-hero, assets/js/homefilm.js). Drei Text-Panels wechseln beim Scrollen."""
+    v = f"{ctx.prefix}assets/video/home/"
+    tags = []
+    for dev, name, kind, de_path in HOMEFILM_DEVICES:
+        href = ctx.url(L(de_path)) if L(de_path) else ""
+        attr = f' href="{esc(href, quote=True)}"' if href else ""
+        tags.append(f'<a class="homefilm__tag" data-dev="{dev}"{attr} tabindex="-1"><span class="homefilm__pill"><b>{esc(name)}</b>'
+                    f'<small>{esc(_(kind))}</small></span><i></i></a>')
+    p2t = p2[0].upper() + p2[1:] if p2 else ""
+    return f'''
+<section class="homefilm" data-homefilm aria-label="{_("Einleitung")}">
+  <div class="homefilm__sticky">
+    <div class="homefilm__media">
+      <picture>{f'<source media="(max-aspect-ratio: 9/10)" srcset="{v}poster-port.jpg?v={VIDEO_VER}">' if HAS_PORT else ""}<img src="{v}poster-land.jpg?v={VIDEO_VER}" alt="" fetchpriority="high" decoding="async"></picture>
+      <video class="homefilm__video" muted playsinline loop preload="none" data-base="{v}" data-ver="{VIDEO_VER}"{' data-port' if HAS_PORT else ""} aria-label="{_("Kamerafahrt durch den ZOLLER Showroom")}"></video>
+    </div>
+    <div class="homefilm__shade homefilm__shade--top" aria-hidden="true"></div>
+    <div class="homefilm__shade homefilm__shade--l" aria-hidden="true"></div>
+    <div class="homefilm__shade homefilm__shade--r" aria-hidden="true"></div>
+    <div class="homefilm__tags" aria-hidden="true">{"".join(tags)}</div>
+    <div class="homefilm__copy"><div class="wrap">
+      <div class="homefilm__panel" data-panel="0"><span class="eyebrow">{_("ZOLLER · Technologieführer")}</span><h1>{esc(hero.get("title", ""))}</h1><p>{esc(sub)}</p></div>
+      <div class="homefilm__panel homefilm__panel--right" data-panel="1"><h2>{_("Präzision<br><em>auf den µm.</em>")}</h2><p>{esc(p1.rstrip(" ,;:."))}.</p></div>
+      <div class="homefilm__panel" data-panel="2"><h2>{_("Ein System.<br><em>Alle Prozesse.</em>")}</h2><p>{esc(p2t)}</p>
+        <a class="btn" href="{esc(ctx.url(L("/das-system")), quote=True)}">{_("Das System entdecken")}</a></div>
+    </div></div>
+    <div class="homefilm__progress" aria-hidden="true"><span><i></i></span><span><i></i></span><span><i></i></span></div>
+    <button class="homefilm__ctrl" type="button" data-pause="{_("Video anhalten")}" data-play="{_("Video abspielen")}" aria-label="{_("Video anhalten")}">
+      <svg class="i-pause" viewBox="0 0 14 14" aria-hidden="true"><rect x="2" y="1" width="3.5" height="12" rx="1"/><rect x="8.5" y="1" width="3.5" height="12" rx="1"/></svg>
+      <svg class="i-play" viewBox="0 0 14 14" aria-hidden="true"><path d="M3 1.2v11.6a.6.6 0 0 0 .9.5l9.2-5.8a.6.6 0 0 0 0-1L3.9.7a.6.6 0 0 0-.9.5z"/></svg>
+    </button>
+  </div>
+</section>'''
+
+
 def render_home(ctx, page):
     B = page["blocks"]
     by = {}
@@ -1652,7 +1712,7 @@ def render_home(ctx, page):
     balancer = take(lambda b: "toolBalancer" in b.get("body", ""))
     out = []
     root = ctx.prefix
-    # 1) 3D-Bühne
+    # 1) Kamerafahrt durch den Showroom (Video)
     sub = strip_tags(hero.get("text", ""))
     # Zweiteilung des Claims: am Zeilenumbruch der Originalseite, sonst nach »Werkzeugprozesse«
     br = re.split(r"<br\s*/?>", hero.get("text", ""), maxsplit=1)
@@ -1663,21 +1723,7 @@ def render_home(ctx, page):
         parts = [s.strip() for s in re.split(r"(?<=Werkzeugprozesse)\s+", sub, maxsplit=1)]
     p1 = parts[0] if parts else sub
     p2 = parts[1] if len(parts) > 1 else ""
-    out.append(f'''
-<section class="stage3d" data-stage3d aria-label="{_("Einleitung")}">
-  <div class="stage3d__sticky">
-    <div class="stage3d__fallback"><video src="{root}assets/video/header_animation.mp4" autoplay muted loop playsinline preload="metadata" poster=""></video></div>
-    <canvas class="stage3d__canvas" aria-hidden="true"></canvas>
-    <div class="stage3d__copy"><div class="wrap">
-      <div class="stage3d__panel" data-panel="0"><span class="eyebrow">{_("ZOLLER · Technologieführer")}</span><h1>{esc(hero.get("title", ""))}</h1><p>{esc(sub)}</p></div>
-      <div class="stage3d__panel stage3d__panel--right" data-panel="1"><h2>{_("Präzision<br><em>auf den µm.</em>")}</h2><p>{esc(p1.rstrip(" ,;:."))}.</p></div>
-      <div class="stage3d__panel" data-panel="2"><h2>{_("Ein System.<br><em>Alle Prozesse.</em>")}</h2><p>{esc(p2[0].upper() + p2[1:] if p2 else "")}</p>
-        <a class="btn" href="{esc(ctx.url(L("/das-system")), quote=True)}">{_("Das System entdecken")}</a></div>
-    </div></div>
-    <div class="stage3d__progress" aria-hidden="true"><span><i></i></span><span><i></i></span><span><i></i></span></div>
-    <div class="stage3d__readout" aria-hidden="true">{_("Messung live")}<b data-readout>Ø {num("20,000")} mm</b><span data-readout2>L {num("112,000")} mm</span></div>
-  </div>
-</section>''')
+    out.append(homefilm(ctx, hero, sub, p1, p2))
     # 1b) Hauptsitz der Länderseite (USA: Ann Arbor)
     out.append(hq_section(ctx))
     # 2) wearCheck
@@ -2206,6 +2252,7 @@ def render_page(page):
 <link rel="preload" href="{ctx.prefix}assets/fonts/T-Star-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{ctx.prefix}assets/css/main.css?v={ASSET_VER}">
 <script>document.documentElement.className='js';if(matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('reduced-motion');
+setTimeout(function(){{if(!window.ZOLLER_READY)document.documentElement.classList.add('reduced-motion')}},5000);
 try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionStorage.removeItem('zoller-arrive');if(za&&Date.now()-za.t<15000)document.documentElement.classList.add('arrive')}}catch(e){{}}</script>{i18n_js}
 <script type="importmap">{{"imports":{{"three":"{ctx.root}assets/vendor/three.module.min.js"}}}}</script>
 </head>'''
@@ -2218,7 +2265,7 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
 <script src="{ctx.prefix}assets/js/eventagenda.js?v={ASSET_VER}" defer></script>'''
     modules = []
     if is_home:
-        modules.append("stage3d.js")
+        modules.append("homefilm.js")
     if ctx.has_worldflight:
         modules.append("worldflight.js")
     if ctx.has_stage:

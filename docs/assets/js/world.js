@@ -19,6 +19,9 @@ const damp = (a, b, k, dt) => lerp(a, b, 1 - Math.exp(-k * dt));
 const angDiff = (a, b) => { let d = (b - a) % TAU; if (d > Math.PI) d -= TAU; if (d < -Math.PI) d += TAU; return d; };
 const polar = (th, r, y = 0) => new THREE.Vector3(Math.sin(th) * r, y, -Math.cos(th) * r);
 const thetaOf = (x, z) => { let t = Math.atan2(x, -z); if (t < 0) t += TAU; return t; };
+// Hauptthread kurz freigeben, damit Scrollen und Eingaben beim Aufbau der Halle flüssig bleiben
+const pause = () => new Promise((r) => (globalThis.scheduler?.yield ? globalThis.scheduler.yield().then(r) : setTimeout(r, 0)));
+const nextFrame = () => new Promise((r) => { const t = setTimeout(r, 100); requestAnimationFrame(() => { clearTimeout(t); r(); }); });
 
 /* ---------------------------------------------------------------- Layout */
 const ROW_GAP = 6.4;          // Abstand innere ↔ äußere Reihe
@@ -248,8 +251,12 @@ function symbolFlat(scale) {
 export async function createWorld(canvas, data, { onProgress = () => {}, mobile = false, base = '', cinematic = false } = {}) {
   // cinematic: Kamera folgt setProgress() (z. B. Scroll), keine Maus-/Tastatursteuerung
   if (cinematic) canvas.style.pointerEvents = 'none';
-  const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, powerPreference: 'high-performance' });
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio, mobile ? 1.6 : (cinematic ? 1.5 : 2)));
+  // Kino-Modus auf hochauflösenden Displays ohne MSAA: die feinere Auflösung glättet die Kanten, die Grafikkarte
+  // spart rund ein Drittel der Arbeit pro Bild (sonst ruckelt der Scroll-Kameraflug)
+  const dpr = window.devicePixelRatio || 1;
+  const renderer = new THREE.WebGLRenderer({ canvas, antialias: !cinematic || dpr < 1.5, powerPreference: 'high-performance' });
+  const prMax = Math.min(dpr, mobile ? 1.6 : (cinematic ? 1.5 : 2));
+  renderer.setPixelRatio(prMax);
   renderer.outputColorSpace = THREE.SRGBColorSpace;
   renderer.toneMapping = THREE.NeutralToneMapping ?? THREE.ACESFilmicToneMapping;
   renderer.toneMappingExposure = 1.0;
@@ -287,7 +294,7 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
     glass: new THREE.MeshStandardMaterial({ color: 0xffffff, roughness: 0.04, metalness: 0, transparent: true, opacity: 0.14, depthWrite: false, side: THREE.DoubleSide }),
     cable: new THREE.LineBasicMaterial({ color: 0x8a8d92, transparent: true, opacity: 0.55 }),
   };
-  M.floor.map.anisotropy = maxAniso;
+  M.floor.map.anisotropy = Math.min(8, maxAniso);
 
   /* ---------------- Boden & Platz ---------------- */
   const pickFloor = [];
@@ -489,6 +496,7 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
     g.add(hangingSign(sec, L.rIn + ROW_GAP * 0.5, sec.mid, 7.3));
     scene.add(g);
     sectorObjs.push(g);
+    await pause();
   }
 
   // Glasbrüstungen zwischen den Rückwänden schließen den Ausstellungsbereich
@@ -653,7 +661,7 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
     });
   }
 
-  products.forEach(makeExhibit);
+  for (let i = 0; i < products.length; i++) { makeExhibit(products[i]); if (i % 6 === 5) await pause(); }
 
   // Auswahl-Lichtkegel
   const cone = new THREE.Mesh(new THREE.CylinderGeometry(0.35, 1.0, 1, 48, 1, true), beamMaterial());
@@ -684,6 +692,17 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
   await Promise.all([...loadQueue.map((job) => texLoader.loadAsync(job.url).then((t) => { applyTex(job, t); tick(); }).catch(tick)), ...wallTexLoads]);
 
   renderer.shadowMap.needsUpdate = true;
+
+  // Vorwärmen: Shader parallel kompilieren und Texturen in kleinen Portionen hochladen. Sonst erledigt das erste
+  // Bild alles auf einmal und blockiert die Seite bis zu mehreren Sekunden.
+  try { await renderer.compileAsync(scene, camera); } catch (e) { /* älteres three.js: kompiliert beim ersten Bild */ }
+  const warmTex = new Set();
+  scene.traverse((o) => { for (const m of [].concat(o.material || [])) for (const k of ['map', 'emissiveMap']) if (m[k]) warmTex.add(m[k]); });
+  let budget = performance.now();
+  for (const t of warmTex) {
+    renderer.initTexture(t);
+    if (performance.now() - budget > 8) { await nextFrame(); budget = performance.now(); }
+  }
 
   /* ---------------- Hochauflösende Texturen bei Fokus ---------------- */
   async function loadHD(p) {
@@ -1074,6 +1093,28 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
   window.addEventListener('resize', resize);
   resize();
 
+  /* ---------------- Adaptive Auflösung ---------------- */
+  // Fällt die Bildrate dauerhaft unter ~45 fps, rendert die Halle mit weniger Pixeln (bis prMin); läuft sie lange
+  // flüssig, steigt die Auflösung schrittweise wieder – aber nie mehr auf eine Stufe, die schon zu langsam war.
+  const prMin = Math.min(prMax, Math.max(0.85, prMax * 0.67));
+  const fq = { pr: prMax, cap: prMax, t: 0, n: 0, good: 0, slow: 0, hold: 3 };
+  function adapt(raw) {
+    if (raw > 0.25 || document.hidden) { fq.t = fq.n = 0; return; }   // Pause (Tab, Bereich außer Sicht) zählt nicht
+    fq.t += raw; fq.n++;
+    if (fq.t < 0.5) return;
+    const ms = fq.t / fq.n * 1000; fq.t = fq.n = 0;
+    if (fq.hold > 0) { fq.hold--; return; }
+    let pr = fq.pr;
+    if (ms > 22) {
+      fq.good = 0;
+      if (++fq.slow >= 2 && pr > prMin) { fq.slow = 0; fq.cap = Math.min(fq.cap, pr * 0.97); pr = Math.max(prMin, pr * 0.8); }
+    } else {
+      fq.slow = 0;
+      if (ms < 18 && pr < fq.cap - 0.01 && ++fq.good >= 10) { fq.good = 0; pr = Math.min(fq.cap, pr * 1.1); }
+    }
+    if (Math.abs(pr - fq.pr) > 0.005) { fq.pr = pr; renderer.setPixelRatio(pr); renderer.setSize(W, H, false); fq.hold = 2; }
+  }
+
   /* ---------------- Auswahl & Hervorhebung ---------------- */
   let filterSet = null;
   function setSelected(id) {
@@ -1089,10 +1130,12 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
   let activeSector = null;
 
   let running = true, looping = false;
+  const rest = { pos: new THREE.Vector3(), look: new THREE.Vector3(), vo: 0, still: 0, n: 0 };
   function frame() {
     if (!running) { looping = false; return; }
     requestAnimationFrame(frame);
-    const dt = Math.min(clock.getDelta(), 0.05), t = clock.elapsedTime;
+    const raw = clock.getDelta(), dt = Math.min(raw, 0.05), t = clock.elapsedTime;
+    adapt(raw);
 
     // Kamera
     if (poseFlight) {
@@ -1233,6 +1276,13 @@ export async function createWorld(canvas, data, { onProgress = () => {}, mobile 
     const camDist = camPos.length();
     scene.fog.near = Math.max(70, camDist * 0.9); scene.fog.far = Math.max(230, camDist * 2.4);
     if (Math.abs(camera.near - near) > 0.02) { camera.near = near; camera.updateProjectionMatrix(); }
+    // Kino-Modus: steht die Kamera (Kapiteltext wird gelesen), genügt jedes zweite Bild – halbiert die Grafiklast
+    if (cinematic) {
+      const moved = rest.pos.distanceToSquared(camPos) > 1e-6 || rest.look.distanceToSquared(ctl.target) > 1e-6 || rest.vo !== ctl.vo.x + ctl.vo.y;
+      rest.pos.copy(camPos); rest.look.copy(ctl.target); rest.vo = ctl.vo.x + ctl.vo.y;
+      rest.still = moved ? 0 : rest.still + 1;
+      if (rest.still > 45 && (++rest.n & 1)) return;
+    }
     renderer.render(scene, camera);
     emit('frame');
   }
