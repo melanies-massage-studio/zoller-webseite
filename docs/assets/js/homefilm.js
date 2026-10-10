@@ -29,7 +29,22 @@ function init() {
     const r = stage.getBoundingClientRect();
     return clamp(-r.top / Math.max(1, stage.offsetHeight - innerHeight));
   };
+  // Ende der Fahrt: scrollt die Bühne aus dem Bild, schrumpft sie zur Karte mit runden Ecken und dunkelt ab
+  const dim = document.createElement('div'); dim.className = 'homefilm__dim'; dim.setAttribute('aria-hidden', 'true');
+  sticky.append(dim);
+  let exitQ = -1;
+  function updateExit() {
+    if (reduced) return;
+    const q = clamp((innerHeight - stage.getBoundingClientRect().bottom) / innerHeight);
+    if (Math.abs(q - exitQ) < 0.002) return;
+    exitQ = q;
+    const e = q * q * (3 - 2 * q);
+    sticky.style.transform = q > 0 ? `scale(${(1 - 0.12 * e).toFixed(4)})` : '';
+    sticky.style.borderRadius = q > 0 ? `${(e * 40).toFixed(1)}px` : '';
+    dim.style.opacity = (e * 0.6).toFixed(3);
+  }
   function updatePanels() {
+    updateExit();
     const p = progress();
     const seg = [0, 0.34, 0.67, 1.0001];
     const mob = mobileLayout();

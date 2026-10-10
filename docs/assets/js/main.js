@@ -291,36 +291,41 @@
   });
 
   /* ---------------------------------------------------------- Zahlen zählen */
-  // Zahlenformat der Seite: de/fr 1.000 bzw. 1 000 und 0,4 · en/es-MX 1,000 und 0.4
-  const numLocale = document.documentElement.lang || 'de-DE';
-  const dotDecimal = /^(en|es-MX)/i.test(numLocale);
+  // Zahl im Text finden, mit Tausender- und Dezimaltrennern im Format der Seite (de/fr 1.000 bzw. 1 000 und 0,4 · en/es-MX 1,000 und 0.4)
+  const dotDecimal = /^(en|es-MX)/i.test(document.documentElement.lang || 'de-DE');
   const parseCount = (txt) => {
     const m = txt.match(dotDecimal ? /(\d{1,3}(?:[,\s\u00a0\u202f]\d{3})+|\d+(?:[.,]\d+)?)/ : /(\d{1,3}(?:[.\s\u00a0\u202f]\d{3})+|\d+(?:[.,]\d+)?)/);
     if (!m) return null;
-    const raw = m[1];
-    const thousands = (dotDecimal ? /\d[,\s\u00a0\u202f]\d{3}(\D|$)/ : /\d[.\s\u00a0\u202f]\d{3}(\D|$)/).test(raw) && !raw.includes(dotDecimal ? '.' : ',');
-    const decimals = !thousands && /[.,]/.test(raw) ? raw.split(/[.,]/)[1].length : 0;
-    const value = parseFloat(thousands ? raw.replace(/[.,\s\u00a0\u202f]/g, '') : raw.replace(',', '.'));
-    return { raw, value, decimals, thousands, locale: numLocale, sep: raw.includes(',') ? ',' : '.', before: txt.slice(0, m.index), after: txt.slice(m.index + raw.length) };
-  };
-  const fmt = (v, c) => {
-    if (c.thousands) return Math.round(v).toLocaleString(c.locale);
-    return c.decimals ? v.toFixed(c.decimals).replace('.', c.sep) : String(Math.round(v));
+    return { raw: m[1], before: txt.slice(0, m.index), after: txt.slice(m.index + m[1].length) };
   };
   const counters = $$('[data-count]');
+  // Zählwerk: jede Ziffer rollt wie in einem mechanischen Zähler auf ihren Wert (rechte Stellen drehen weiter);
+  // danach steht wieder der Originaltext da. Vorleseprogramme bekommen nur den fertigen Wert.
   const runCount = (el) => {
     if (el.dataset.counted) return;
     el.dataset.counted = '1';
-    const c = parseCount(el.textContent.trim());
+    const txt = el.textContent.trim();
+    const c = parseCount(txt);
     if (!c || reduced) return;
-    const dur = 1600, t0 = performance.now();
-    const tick = (now) => {
-      const p = Math.min(1, (now - t0) / dur);
-      const e = 1 - Math.pow(1 - p, 4);
-      el.textContent = c.before + fmt(c.value * e, c) + c.after;
-      if (p < 1) requestAnimationFrame(tick); else el.textContent = c.before + c.raw + c.after;
-    };
-    requestAnimationFrame(tick);
+    const label = document.createElement('span'); label.className = 'visually-hidden'; label.textContent = txt;
+    const odo = document.createElement('span'); odo.setAttribute('aria-hidden', 'true');
+    const strip = '0123456789'.repeat(3).split('').map(d => `<span>${d}</span>`).join('');
+    const cols = [];
+    odo.append(c.before);
+    [...c.raw].forEach(ch => {
+      if (!/\d/.test(ch)) { odo.append(ch); return; }
+      const d = document.createElement('span'); d.className = 'odo-d';
+      d.innerHTML = `<i>${ch}</i><b>${strip}</b>`;
+      odo.append(d); cols.push([d, +ch]);
+    });
+    odo.append(c.after);
+    el.textContent = ''; el.append(label, odo); el.classList.add('odo');
+    const h = cols[0][0].offsetHeight;
+    cols.forEach(([d], i) => { d.style.setProperty('--odo-h', h + 'px'); d.style.setProperty('--odo-d', (i * 0.09) + 's'); });
+    requestAnimationFrame(() => requestAnimationFrame(() => cols.forEach(([d, n], i) => {
+      d.lastChild.style.transform = `translate3d(0, ${-(n + 10 * (1 + Math.min(1, i))) * h}px, 0)`;
+    })));
+    setTimeout(() => { el.textContent = c.before + c.raw + c.after; }, 2500 + cols.length * 90);
   };
   if ('IntersectionObserver' in window) {
     const io = new IntersectionObserver((entries) => entries.forEach(en => { if (en.isIntersecting) { runCount(en.target); io.unobserve(en.target); } }), { threshold: .6 });
@@ -447,11 +452,23 @@
         const track = sec.querySelector('.hscroll__track');
         const pin = sec.querySelector('.hscroll__pin');
         const dist = () => Math.max(0, track.scrollWidth - window.innerWidth);
+        // Fortschritt unter der Reihe
+        const bar = document.createElement('div'); bar.className = 'hscroll__bar'; bar.setAttribute('aria-hidden', 'true'); bar.innerHTML = '<i></i>';
+        pin.append(bar);
+        const fill = bar.firstChild;
         const tween = gsap.to(track, {
           x: () => -dist(), ease: 'none',
-          scrollTrigger: { trigger: sec, pin, start: 'top top', end: () => '+=' + dist(), scrub: .8, invalidateOnRefresh: true, anticipatePin: 1 },
+          scrollTrigger: { trigger: sec, pin, start: 'top top', end: () => '+=' + dist(), scrub: .8, invalidateOnRefresh: true, anticipatePin: 1,
+            onUpdate: (st) => { fill.style.transform = `scaleX(${st.progress.toFixed(4)})`; } },
         });
         $$('.app-card img', sec).forEach(img => gsap.fromTo(img, { xPercent: -6 }, { xPercent: 6, ease: 'none', scrollTrigger: { trigger: img.closest('.hscroll__item'), containerAnimation: tween, start: 'left right', end: 'right left', scrub: true } }));
+        // Karten drehen sich im Vorbeiziehen wie auf einer gewölbten Wand: rechts angewinkelt, in der Mitte gerade, links wieder angewinkelt
+        $$('.hscroll__item', sec).forEach(item => {
+          const card = item.querySelector('.app-card');
+          gsap.timeline({ scrollTrigger: { trigger: item, containerAnimation: tween, start: 'left right', end: 'right left', scrub: true } })
+            .fromTo(card, { rotationY: -16, scale: .88, opacity: .55 }, { rotationY: 0, scale: 1, opacity: 1, ease: 'power1.out', duration: 1 })
+            .to(card, { rotationY: 16, scale: .88, opacity: .55, ease: 'power1.in', duration: 1 });
+        });
       });
     });
     mm.add('(max-width: 860px)', () => { $$('[data-hscroll] .hscroll__track').forEach(t => { t.style.overflowX = 'auto'; t.style.scrollSnapType = 'x mandatory'; }); });

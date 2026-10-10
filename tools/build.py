@@ -161,7 +161,7 @@ LOCATIONS = []
 def _asset_version():
     import hashlib
     h = hashlib.md5()
-    for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/homefilm.js", "assets/js/productstage.js",
+    for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/scrollfx.js", "assets/js/homefilm.js", "assets/js/productstage.js",
                 "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js",
                 "assets/js/globe.js", "assets/js/globe-land.js"):
         if not os.path.exists(os.path.join(ROOT, rel)):
@@ -372,6 +372,20 @@ def rte(ctx, s, cls="rte"):
 ICON_ARROW_L = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>'
 ICON_ARROW_R = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>'
 SYMBOL_SVG = '<svg viewBox="0 0 334.883 334.883" aria-hidden="true"><path d="M1017.967,708.735,954.14,772.562a130,130,0,0,0-156.924,0L733.39,708.735l-25.153,25.153,63.827,63.827a130,130,0,0,0,0,156.924l-63.827,63.826,25.153,25.153,63.827-63.826a130,130,0,0,0,156.924,0l63.826,63.826,25.153-25.153-63.826-63.826a130,130,0,0,0,0-156.924l63.826-63.827-25.153-25.153Zm-89.292,89.292h0a94.954,94.954,0,0,1,25.153,25.153h0a94.464,94.464,0,0,1,0,105.993h0a94.953,94.953,0,0,1-25.153,25.153h0a94.465,94.465,0,0,1-105.992,0h0a94.938,94.938,0,0,1-25.153-25.153,94.467,94.467,0,0,1,0-105.993h0a94.935,94.935,0,0,1,25.153-25.153h0a94.467,94.467,0,0,1,105.992,0Z" transform="translate(-708.237 -708.735)"/></svg>'
+
+
+def _wordmark():
+    """ZOLLER-Logo als Inline-SVG für den großen Schriftzug am Seitenende (Buchstaben in currentColor, Symbol gelb)"""
+    p = os.path.join(ROOT, "assets", "img", "zoller.svg")
+    if not os.path.exists(p):
+        return ""
+    s = open(p, encoding="utf-8").read()
+    s = re.sub(r'^(<svg[^>]*?)\s+width="[^"]*"\s+height="[^"]*"', r"\1", s)
+    s = s.replace('fill="#b2b2b2"', 'fill="currentColor"').replace('id="a"', 'id="zw-clip"').replace("url(#a)", "url(#zw-clip)")
+    return s.replace("<svg ", '<svg class="footer-mark__svg" focusable="false" ', 1)
+
+
+WORDMARK_SVG = _wordmark()
 
 
 # ============================================================= Blocks ====
@@ -869,7 +883,7 @@ def r_quote(ctx, b):
     img = img_tag(ctx, b.get("img"), alt=(b.get("author") or [""])[0])
     author = "<br>".join(esc(a) for a in b.get("author", []))
     q = strip_tags(b.get("text", ""))
-    return section(ctx, b, f'<figure class="pull-quote" data-reveal><blockquote><p>{esc(q)}</p></blockquote>'
+    return section(ctx, b, f'<figure class="pull-quote" data-reveal><blockquote><p data-words>{esc(q)}</p></blockquote>'
                            f'<figcaption>{img}<span>{author}</span></figcaption></figure>', tight=True)
 
 
@@ -1662,6 +1676,28 @@ def hq_section(ctx):
 </section>'''
 
 
+def solution_band(ctx):
+    """Startseite: Laufband mit allen Solutions in großer Schrift (assets/js/scrollfx.js). Zwei Reihen laufen gegenläufig,
+    Tempo und Richtung folgen dem Scrollen. Namen und Links kommen aus dem Menü der jeweiligen Sprachfassung."""
+    sol = next((n for n in NAV["main"] if n["href"].rstrip("/").endswith("/solutions") and n.get("children")), None)
+    if not sol:
+        return ""
+    items = [c for c in sol["children"] if c.get("href") and c["href"].rstrip("/") != sol["href"].rstrip("/")]
+    if len(items) < 3:
+        return ""
+    sym = f'<span class="band__sym" aria-hidden="true">{SYMBOL_SVG}</span>'
+
+    def row(seq, dup):
+        hide = ' tabindex="-1"' if dup else ""
+        return "".join(f'<a class="band__item" href="{esc(ctx.url(c["href"]), quote=True)}"{hide}>{esc(c["label"][:1].upper() + c["label"][1:])}</a>{sym}' for c in seq)
+
+    rows = []
+    for i, seq in enumerate((items, items[::-1])):
+        rows.append(f'<div class="band__row{" band__row--outline" if i else ""}" data-band-row="{-1 if i else 1}">'
+                    f'<div class="band__track"><div class="band__set">{row(seq, False)}</div><div class="band__set" aria-hidden="true">{row(seq, True)}</div></div></div>')
+    return f'<section class="band bg-white" data-band aria-label="{esc(sol["label"], quote=True)}">{"".join(rows)}</section>'
+
+
 def homefilm(ctx, hero, sub, p1, p2):
     """Startseite oben: Kamerafahrt durch eine Showroom-Gasse mit den Geräten links und rechts
     (Video aus video/home-hero, assets/js/homefilm.js). Drei Text-Panels wechseln beim Scrollen."""
@@ -1772,6 +1808,8 @@ def render_home(ctx, page):
     # 4) Kennzahlen
     for b in by.get("kpis", []):
         out.append(r_kpis(ctx, b))
+    # 4a) Laufband mit allen Solutions
+    out.append(solution_band(ctx))
     # 4b) 3D-Produktwelt: Kameraflug durch die Halle
     out.append(worldflight(ctx) if SHOW_CATS else showroom_teaser(ctx))
     # 5) Rechner-Banner
@@ -1800,7 +1838,7 @@ def render_home(ctx, page):
         bg = "bg-white" if i == 0 else "bg-lightgray"
         out.append(f'''<section class="section {bg}" id="{q["id"]}"><div class="wrap"><div class="big-quote{" big-quote--rev" if i else ""}">
   <div class="big-quote__img reveal-mask"><div class="media-frame" style="height:100%">{img_tag(ctx, (q.get("images") or [None])[0], extra=" data-parallax")}</div></div>
-  <div data-reveal><blockquote><p>{esc(quote)}</p></blockquote><cite>{esc(cite)}</cite>{rte(ctx, rest)}</div></div></div></section>''')
+  <div data-reveal><blockquote><p data-words>{esc(quote)}</p></blockquote><cite>{esc(cite)}</cite>{rte(ctx, rest)}</div></div></div></section>''')
     # 8) Smart Factory (Vollbild)
     if smart:
         img = img_tag(ctx, (smart.get("images") or [None])[0], extra=" data-parallax")
@@ -2007,6 +2045,7 @@ def footer_html(ctx):
       <span>© {date.today().year} {esc(co["name"])}</span>
       <ul>{link(_("Kontakt"), L("/unternehmen/kontakt"))}{link(_("Datenschutz"), L("/datenschutz"))}{link(_("Haftungsausschluss"), L("/haftungsausschluss"))}{link(_("Impressum"), L("/impressum"))}<li><button class="lang-foot" type="button" data-lang-open aria-label="{_("Land und Sprache wählen")}: {esc(LOC["name"])}, {esc(LOC["label"])}">{FLAGS.get(SITE["flag"], "")}{(SITE["flag"].upper() + " · ") if SITE["country"] else ""}{LOC["lang"].upper()}</button></li></ul>
     </div>
+    <div class="footer-mark" aria-hidden="true">{WORDMARK_SVG}</div>
   </div>
 </footer>
 <button class="to-top" type="button" data-to-top aria-label="{_("Nach oben")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 15l6-6 6 6"/></svg></button>'''
@@ -2274,7 +2313,8 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     scripts = f'''<script src="{ctx.prefix}assets/vendor/gsap.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/lenis.min.js" defer></script>
-<script src="{ctx.prefix}assets/js/main.js?v={ASSET_VER}" defer></script>'''
+<script src="{ctx.prefix}assets/js/main.js?v={ASSET_VER}" defer></script>
+<script src="{ctx.prefix}assets/js/scrollfx.js?v={ASSET_VER}" defer></script>'''
     if ctx.has_agenda:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/eventagenda.js?v={ASSET_VER}" defer></script>'''

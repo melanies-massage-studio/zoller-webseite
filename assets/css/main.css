@@ -1820,3 +1820,86 @@ img.is-broken { display: none; }
 }
 /* Abstand zwischen Globus und dem folgenden Seiteninhalt */
 .globe + .section, .globe + .section.pt-0 { padding-top: clamp(5rem, 3rem + 7vw, 10rem) !important; }
+
+/* =========================================================================
+   Scroll-Choreografie (assets/js/scrollfx.js)
+   ========================================================================= */
+
+/* Farbwechsel als Karte: schwarze und gelbe Abschnitte (und der Footer) falten sich beim Hereinscrollen von einer
+   runden Karte zur vollen Breite auf und beim Verlassen wieder zusammen. scrollfx.js legt .uf-bg mit der eigenen
+   Farbe an; der Abschnitt selbst zeigt oben die Farbe davor und unten die danach. */
+.unfold { position: relative; isolation: isolate; }
+.uf-bg { position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+
+/* Laufband mit allen Solutions (Startseite): zwei Reihen gegenläufig, Tempo folgt dem Scrollen */
+.band { position: relative; overflow: hidden; padding-block: clamp(2.5rem, 1.5rem + 4vw, 6.5rem); font-size: clamp(3rem, 1.2rem + 7.2vw, 9.5rem); }
+.band__row { display: flex; }
+.band__row + .band__row { margin-top: .02em; }
+.band__track { display: flex; flex: none; will-change: transform; }
+.band__set { display: flex; align-items: center; flex: none; }
+.band__item { font-weight: 500; line-height: 1.12; letter-spacing: -0.045em; white-space: nowrap; padding-inline: .06em; color: var(--black); transition: color .3s, -webkit-text-stroke-color .3s; }
+.band__row--outline .band__item { color: transparent; -webkit-text-stroke: max(1px, .012em) var(--black); }
+.band__item:hover, .band__item:focus-visible { color: var(--yellow); -webkit-text-stroke: max(1px, .012em) var(--black); outline: none; }
+.band__sym { display: block; flex: none; width: .5em; height: .5em; margin-inline: .32em; color: var(--yellow); }
+.band__sym svg { display: block; width: 100%; height: 100%; fill: currentColor; }
+.band__row--outline .band__sym svg { fill: none; stroke: var(--black); stroke-width: 9; }
+.reduced-motion .band__row--outline .band__track { transform: translateX(-12%); }
+
+/* Kennzahlen als Zählwerk: jede Ziffer rollt wie in einem mechanischen Zähler auf ihren Wert */
+.odo-d { position: relative; display: inline-block; clip-path: polygon(-30% 0, 130% 0, 130% 100%, -30% 100%); }
+.odo-d > i { font-style: normal; visibility: hidden; }
+.odo-d > b { position: absolute; left: 0; right: 0; top: 0; display: block; font-weight: inherit; text-align: center; will-change: transform;
+  transition: transform var(--odo-t, 2.2s) cubic-bezier(.55, .06, .18, 1) var(--odo-d, 0s); }
+.odo-d > b > span { display: block; height: var(--odo-h); line-height: var(--odo-h); }
+.kpi__value.odo { background: none; color: var(--black); }
+.bg-black .kpi__value.odo { color: var(--yellow); }
+
+/* Kamerafahrt der Startseite endet als Karte: beim Verlassen schrumpft das Bild mit runden Ecken und dunkelt ab */
+.homefilm__sticky { transform-origin: 50% 100%; }
+.homefilm__dim { position: absolute; inset: 0; z-index: 4; background: #000; opacity: 0; pointer-events: none; }
+
+/* Fräsen/Drehen/Schleifen: Karten drehen sich im Vorbeiziehen, Fortschritt unter der Reihe */
+.hscroll__track { perspective: 1600px; }
+.hscroll__bar { width: min(280px, 50vw); height: 2px; margin: clamp(1.25rem, .8rem + 1.5vw, 2.25rem) auto 0; border-radius: 2px; background: rgba(0, 0, 0, .1); overflow: hidden; }
+.hscroll__bar i { display: block; height: 100%; background: var(--black); transform-origin: 0 50%; transform: scaleX(0); }
+
+/* Riesiger Schriftzug am Seitenende: steigt aus der Unterkante, wenn das Ende der Seite erreicht ist */
+.footer-mark { position: relative; margin-top: clamp(.5rem, .2rem + 1.5vw, 2rem); aspect-ratio: 382 / 52; overflow: hidden; pointer-events: none; }
+.footer-mark__svg { display: block; width: 100%; height: auto; color: #1e1e1e; will-change: transform; }
+.footer-mark + * { margin-top: 0; }
+
+/* Messskala (Desktop): Lineal am rechten Rand, läuft beim Scrollen mit; die Anzeige zeigt, wie weit die Seite gelesen ist */
+.mscale { position: fixed; right: 12px; top: 50%; z-index: 140; width: 34px; height: min(46vh, 420px); pointer-events: none;
+  opacity: 0; translate: 10px -50%; transition: opacity .6s var(--ease-out), translate .7s var(--ease-out); }
+.mscale.is-on { opacity: 1; translate: 0 -50%; }
+.mscale__body { position: absolute; inset: 0; overflow: hidden; border-radius: 999px; background: rgba(14, 14, 16, .6); box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .12), 0 10px 30px -12px rgba(0, 0, 0, .5);
+  -webkit-backdrop-filter: blur(10px) saturate(150%); backdrop-filter: blur(10px) saturate(150%); }
+.mscale__ticks { position: absolute; left: 0; right: 0; top: -40px; bottom: -40px; will-change: transform;
+  background: repeating-linear-gradient(180deg, rgba(255, 255, 255, .9) 0 1px, transparent 1px 30px) right 7px top 0 / 15px 100% no-repeat,
+              repeating-linear-gradient(180deg, rgba(255, 255, 255, .42) 0 1px, transparent 1px 6px) right 7px top 0 / 7px 100% no-repeat;
+  -webkit-mask-image: linear-gradient(180deg, transparent 8%, #000 30%, #000 70%, transparent 92%); mask-image: linear-gradient(180deg, transparent 8%, #000 30%, #000 70%, transparent 92%); }
+.mscale__fill { position: absolute; left: 8px; top: 16px; bottom: 16px; width: 2px; border-radius: 2px; background: rgba(255, 255, 255, .14); overflow: hidden; }
+.mscale__fill i { display: block; height: 100%; background: var(--yellow); transform-origin: 50% 0; transform: scaleY(0); }
+.mscale__ptr { position: absolute; left: 4px; right: 4px; top: 50%; height: 2px; margin-top: -1px; border-radius: 2px; background: var(--yellow); box-shadow: 0 0 10px rgba(240, 230, 0, .8); }
+.mscale__val { position: absolute; right: calc(100% + 8px); top: 50%; translate: 0 -50%; padding: .28rem .55rem .3rem; border-radius: 999px; white-space: nowrap;
+  font-size: .75rem; font-weight: 700; letter-spacing: .04em; font-variant-numeric: tabular-nums; color: var(--yellow); background: rgba(14, 14, 16, .78);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .12); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); }
+.mscale__val small { font-size: .625rem; font-weight: 500; color: rgba(255, 255, 255, .6); margin-left: .15em; }
+html.has-mscale .scroll-progress { display: none; }
+
+/* Bild-Kacheln (Bento, Werte, News-Karten): das Bild wandert beim Vorbeiscrollen langsamer als die Kachel.
+   Reine CSS-Scroll-Animation über die Einzel-Eigenschaften translate/scale – der Hover-Zoom (transform) bleibt frei. */
+@supports (animation-timeline: view()) {
+  .js :is(.bento__tile, .value-tile) > img { animation: tile-drift linear both; animation-timeline: view(); animation-range: cover; }
+  .js .card__media img { animation: card-drift linear both; animation-timeline: view(); animation-range: cover; }
+  @keyframes tile-drift { from { translate: 0 -7%; scale: 1.16; } to { translate: 0 7%; scale: 1.16; } }
+  @keyframes card-drift { from { translate: 0 -5%; scale: 1.12; } to { translate: 0 5%; scale: 1.12; } }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mscale, .homefilm__dim { display: none; }
+  :is(.bento__tile, .value-tile) > img, .card__media img { animation: none !important; }
+}
+@media print {
+  .mscale, .footer-mark, .homefilm__dim { display: none !important; }
+}

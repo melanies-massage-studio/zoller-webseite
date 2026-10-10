@@ -25,6 +25,7 @@ Danach http://localhost:8765 öffnen.
 | `content/locations.json` | Alle 79 weltweiten Standorte/Vertretungen |
 | `assets/css/main.css` | Design-System |
 | `assets/js/main.js` | Navigation, Suche, Scroll-Effekte, Filter, Rechner |
+| `assets/js/scrollfx.js` | Scroll-Choreografie: Farbwechsel als Karte, Tiefe beim Szenenwechsel, Laufband, Schriftzug am Seitenende, Messskala |
 | `assets/js/homefilm.js` | Startseiten-Video (Kamerafahrt durch den Showroom) mit mitlaufenden Geräte-Beschriftungen |
 | `assets/video/home/` | Videos, Poster und Beschriftungs-Spur der Startseite (erzeugt von `../video/home-hero/finish.py`) |
 | `assets/vendor/` | GSAP + ScrollTrigger, Lenis (Smooth Scroll), Three.js |
@@ -103,10 +104,22 @@ Alle vier Seiten (Deutschland, Kanada, Mexiko, USA) funktionieren ohne zoller.in
 ## Scroll-Effekte & 3D
 
 - **Startseite**: Kamerafahrt durch eine Showroom-Gasse, links und rechts die Geräte aus den offiziellen CAD-Daten (»venturion«, »smile«, »keeper«, »toolOrganizer«, »toolStation«), in Blender/Cycles gerendert (`../video/home-hero`, CAD-Bibliothek `../cad`). Das Video ist eine nahtlose Schleife (20 s), quer für Desktop/Tablet und hochkant für Smartphones und Tablets im Hochformat. Darüber wechseln beim Scrollen drei Texte; kleine Beschriftungen hängen an den Geräten im Video und führen zur Produktseite (Bildpositionen pro Frame aus Blender). Pause-Knopf unten rechts; bei „Bewegung reduzieren“ oder Datensparmodus bleibt das Standbild stehen.
-- **Überall**: Smooth Scrolling, Bildmasken, die sich beim Scrollen öffnen, Parallax-Zoom, Statements, die Wort für Wort aufleuchten, hochzählende Kennzahlen, horizontal gepinnter Bereich (Fräsen/Drehen/Schleifen), klebende Produkt-Unternavigation, Produkt-Hero mit schwebendem Gerät, Zeitstrahl mit Fortschrittslinie (Historie).
+- **Überall**: Smooth Scrolling, Bildmasken, die sich beim Scrollen öffnen, Parallax-Zoom, Statements, die Wort für Wort aufleuchten, Kennzahlen als Zählwerk, horizontal gepinnter Bereich (Fräsen/Drehen/Schleifen), klebende Produkt-Unternavigation, Produkt-Hero mit schwebendem Gerät, Zeitstrahl mit Fortschrittslinie (Historie).
 - **Vorhang-Hero**: Das große Bild am Seitenanfang (`.hero`, Eventseiten `.ev-hero`) bleibt stehen und dunkelt ab, der Inhalt gleitet als Blatt mit runden Ecken darüber (`main.css` „Scroll-Effekte“, `main.js`).
-- **Lesefortschritt**: gelbe Linie am oberen Rand auf allen längeren Seiten außer der Startseite (scroll-gebundene CSS-Animation, sonst JavaScript).
+- **Lesefortschritt**: gelbe Linie am oberen Rand auf allen längeren Seiten außer der Startseite (scroll-gebundene CSS-Animation, sonst JavaScript); auf dem Desktop mit Maus übernimmt die Messskala.
 - **Karten** (News, Produkte, Werte, Ziele, Event-Produkte) kippen beim Hereinscrollen aus der Tiefe nach oben; Seitentitel und der Footer-Claim gleiten Wort für Wort aus einer Maske; der gelbe Akzentstrich über Überschriften wächst mit.
+- **Scroll-Choreografie** (`assets/js/scrollfx.js`, Stand 10.10.2026): Effekte, die direkt am Scrollen hängen statt einmal abzulaufen.
+  - **Farbwechsel als Karte**: Schwarze und gelbe Abschnitte (rund 100 auf allen Seiten) und der Footer falten sich beim Hereinscrollen von einer runden Karte zur vollen Breite auf und beim Verlassen wieder zusammen. Die Ränder zeigen oben die Farbe des Abschnitts davor, unten die danach. Gleichfarbige Nachbarn bleiben unberührt.
+  - **Tiefe beim Szenenwechsel**: Wechselt nach einem Abschnitt die Farbe, tritt sein Inhalt beim Verlassen zurück (langsamer, kleiner, blasser), während der neue hochfährt. Nur bei Abschnitten ab 60 % Fensterhöhe und ohne klebende Teile.
+  - **Laufband** (Startseite, vor der 3D-Halle): alle Solutions in Riesenschrift, zwei Reihen gegenläufig (voll und als Kontur), getrennt vom ZOLLER-Symbol. Tempo und Richtung folgen dem Scrollen; jedes Wort verlinkt die Solution. Namen und Links kommen aus dem Menü der jeweiligen Sprachfassung (`solution_band()` in `tools/build.py`).
+  - **Zählwerk**: Kennzahlen (`data-count`) rollen wie ein mechanischer Zähler Ziffer für Ziffer auf ihren Wert; Vorleseprogramme bekommen nur den fertigen Wert.
+  - **Kamerafahrt endet als Karte**: Scrollt die Startseiten-Bühne aus dem Bild, schrumpft das Video mit runden Ecken und dunkelt ab (`homefilm.js`).
+  - **Fräsen/Drehen/Schleifen** als gewölbte Wand: Karten drehen sich im Vorbeiziehen, Fortschrittslinie darunter.
+  - **Zitate** leuchten beim Scrollen Wort für Wort auf (Startseite und Zitatblöcke).
+  - **Bild-Kacheln** (Bento, Werte, News-Karten): das Bild wandert langsamer als die Kachel (reine CSS-Scroll-Animation, wo der Browser sie kann).
+  - **Schriftzug am Seitenende**: großes ZOLLER-Logo steigt aus der Unterkante, wenn das Seitenende erreicht ist.
+  - **Messskala** (Desktop mit Maus, ab 1024 px, nicht auf der Startseite): Lineal am rechten Rand, die Teilstriche laufen beim Scrollen mit, die Anzeige zeigt den Lesefortschritt in Prozent; ersetzt dort die gelbe Linie oben. Blendet sich nach dem Scrollen aus.
+  - Messung (Startseite 1440 px und iPad 820 px Touch, Produktseite): Frame-Zeiten gleich wie vorher (p95 ≈ 18,6 ms), im Wechsel mit dem alten Stand unter gleicher Last gemessen.
 - **Historie**: Das Jahr in der Bildmitte wird kräftig, erreichte Punkte füllen sich gelb; die Jahresleiste scrollt mit, ohne die Seite zu verschieben. **Events**: Zeilen gleiten herein, das Datumsfeld klappt auf. **Hotspot-Bilder**: die Punkte springen nacheinander auf.
 - Das Einblenden (`data-reveal`) nutzt die Einzel-Eigenschaften `translate`/`scale`/`rotate`, damit `transform` für Hover-Anheben und 3D-Kippen der Karten frei bleibt. Komponenten mit eigenem `transition` hängen `var(--reveal-t)` an.
 - **Sicherheitsnetz**: Lädt `main.js` nicht (Netzfehler), blendet die Seite nach 5 s alles ohne Animation ein (`ZOLLER_READY` im `<head>`).
