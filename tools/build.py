@@ -8,6 +8,7 @@ Aufruf:  python3 tools/build.py            deutsche Seite      -> docs/
 Länderseiten: content/sites.json, Inhalte in content/sites/<sprachpfad>/, feste Texte in tools/i18n.py.
 Nur Python-Standardbibliothek nötig.
 """
+import functools
 import glob
 import html
 import json
@@ -184,6 +185,19 @@ def _video_version():
 
 
 VIDEO_VER = _video_version()
+
+
+@functools.lru_cache(maxsize=None)
+def _file_version(rel):
+    """Version einer einzelnen Datei unter assets/video (z. B. Event-Video + Poster): neuer Schnitt -> neue URL, kein alter Stand aus dem Cache"""
+    import hashlib
+    p = os.path.join(ROOT, rel)
+    if not os.path.exists(p):
+        return ""
+    st = os.stat(p)
+    return hashlib.md5(f"{st.st_size}{int(st.st_mtime)}".encode()).hexdigest()[:10]
+
+
 # Hochkant-Fassung vorhanden? Sonst zeigen auch Smartphones das Querformat (Ausschnitt)
 HAS_PORT = os.path.exists(os.path.join(ROOT, "assets", "video", "home", "port-720.mp4"))
 # Geräte im Startseiten-Video (Reihenfolge wie im Video) – Name, Gerätetyp, deutsche Produktseite
@@ -232,7 +246,8 @@ class Ctx:
         if not href.startswith("/"):
             return href
         if href.startswith("/assets/"):
-            return self.prefix + href.lstrip("/")
+            ver = _file_version(href.lstrip("/")) if href.startswith("/assets/video/") and "?" not in href else ""
+            return self.prefix + href.lstrip("/") + (f"?v={ver}" if ver else "")
         if href.startswith(FILE_PREFIXES):
             # Dateien (Bilder, PDFs, Videos …) liegen auf der eigenen Seite – siehe mirror_files()
             href = FLIPBOOKS.get(href.split("?")[0].split("#")[0], href)
