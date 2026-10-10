@@ -130,6 +130,8 @@ function init() {
     const want = { '-1': mob ? 1 : 1 - Math.max(panelVis[0], panelVis[2] || 0), '1': mob ? 1 : 1 - (panelVis[1] || 0) };
     if (!sideFade) sideFade = { ...want };          // erster Frame: sofort richtig, kein Aufblitzen
     else for (const k of ['-1', '1']) sideFade[k] += (want[k] - sideFade[k]) * 0.15;
+    // 1) Lage und Grund-Deckkraft aller Schilder
+    const list = [];
     for (const dev in tags) {
       const d = track.d[dev], el = tags[dev];
       if (!d) continue;
@@ -143,14 +145,33 @@ function init() {
       const px = ox + x * vw * s, py = oy + y * vh * s;
       o *= sideFade[String(track.side[dev])];
       if (py < 70 || px < 0 || px > W) o = 0;           // nicht unter den Header schieben
+      // Schild am Bildrand nach innen schieben, Strich und Punkt bleiben am Gerät
+      const pill = el.firstElementChild;
+      if (!el._w) { el._w = pill.offsetWidth; el._ph = pill.offsetHeight; el._h = el.offsetHeight; }
+      const hw = el._w / 2 + 12;
+      const shift = clamp(px, hw, Math.max(hw, W - hw)) - px;
+      list.push({ el, o, px, py, shift, lose: false });
+    }
+    // 2) Überdecken sich zwei Schilder (Geräte hintereinander, v. a. im Hochformat), tritt das weiter entfernte
+    //    Gerät zurück – es steht näher am Fluchtpunkt in der Bildmitte
+    for (let i = 0; i < list.length; i++) for (let j = i + 1; j < list.length; j++) {
+      const A = list[i], B = list[j];
+      if (A.o < 0.02 || B.o < 0.02) continue;
+      const dx = Math.abs(A.px + A.shift - B.px - B.shift), ax = A.py - A.el._h, bx = B.py - B.el._h;
+      if (dx < (A.el._w + B.el._w) / 2 + 8 && ax < bx + B.el._ph + 6 && bx < ax + A.el._ph + 6) {
+        (Math.abs(A.px - W / 2) < Math.abs(B.px - W / 2) ? A : B).lose = true;
+      }
+    }
+    // 3) anwenden
+    for (const T of list) {
+      const el = T.el;
+      el._y = (el._y || 0) + ((T.lose ? 1 : 0) - (el._y || 0)) * 0.18;
+      const o = T.o * (1 - el._y);
       if (o < 0.02) { if (el.style.visibility !== 'hidden') { el.style.visibility = 'hidden'; el.style.opacity = '0'; } continue; }
       el.style.visibility = 'visible';
       el.style.opacity = o.toFixed(3);
-      // Schild am Bildrand nach innen schieben, Strich und Punkt bleiben am Gerät
-      const hw = (el._w || (el._w = el.firstElementChild.offsetWidth)) / 2 + 12;
-      const shift = clamp(px, hw, Math.max(hw, W - hw)) - px;
-      if (Math.abs(shift - (el._s || 0)) > 0.5) { el._s = shift; el.style.setProperty('--shift', `${shift.toFixed(1)}px`); }
-      el.style.transform = `translate3d(${px.toFixed(1)}px, ${py.toFixed(1)}px, 0) translate(-50%, -100%)`;
+      if (Math.abs(T.shift - (el._s || 0)) > 0.5) { el._s = T.shift; el.style.setProperty('--shift', `${T.shift.toFixed(1)}px`); }
+      el.style.transform = `translate3d(${T.px.toFixed(1)}px, ${T.py.toFixed(1)}px, 0) translate(-50%, -100%)`;
     }
   }
   requestAnimationFrame(frame);
